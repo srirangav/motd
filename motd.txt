@@ -1,3 +1,15 @@
+03/10/2022    Disable recent tags in MacOSX Finder:
+
+              $ defaults write com.apple.Finder ShowRecentTags -bool false
+              $ killall Finder 
+              
+              To reenable recent tags in the MacOSX Finder:
+
+              $ defaults write com.apple.Finder ShowRecentTags -bool true
+              $ killall Finder
+
+              See: https://derflounder.wordpress.com/2021/11/29/disabling-recent-tags-in-the-finder-window-sidebar/
+
 03/10/2022    I discovered something new about macports today:
 
               $ sudo port reclaim
