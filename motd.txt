@@ -1,0 +1,22 @@
+03/10/2022    I discovered something new about macports today:
+
+              $ sudo port reclaim
+
+              which, according to port(1), "[r]eclaims disk space by 
+              uninstalling inactive ports and removing unneeded 
+              installation files."
+
+              Not sure how I had missed this despite using macports
+              for years.  From now on, I will have to remember to do
+              the following when updating macports:
+
+              $ sudo port selfupdate
+              $ sudo port -u upgrade outdated
+              $ sudo port reclaim
+
+              See: https://lists.macports.org/pipermail/macports-users/2022-March/050900.html
+
+              In other macports news, macports 2.7.2 is now available:
+
+              https://lists.macports.org/pipermail/macports-users/2022-March/050894.html
+
