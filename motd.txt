@@ -1,3 +1,12 @@
+03/10/2022    Interesting discussion about inflation:
+
+              https://backreaction.blogspot.com/2022/03/did-early-universe-inflate.html
+
+              and teleparallel gravity:
+
+              https://www.quantamagazine.org/in-mexico-cosmologist-hunts-for-cracks-in-einsteins-gravity-theory-20220223/
+              https://www.youtube.com/watch?v=tNKUW0vyzDU
+
 03/10/2022    Disable recent tags in MacOSX Finder:
 
               $ defaults write com.apple.Finder ShowRecentTags -bool false
