@@ -1,3 +1,7 @@
+03/15/2022    Instructions on running FreeBSD 13.0 ARM64 on qemu on MacOSX:
+
+              https://srirangav.github.io/notes/osx_qemu_freebsd_arm.txt
+ 
 03/15/2022    US Senate passes bill to make daylight savings time permanent:
 
               https://arstechnica.com/tech-policy/2022/03/us-congress-begins-march-toward-permanent-daylight-saving-time/
