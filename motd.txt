@@ -1,3 +1,14 @@
+03/15/2022    A new theory on ultra-light dark matter particles helping 
+              matter to collapse into supermassive black holes during 
+              the early days of the universe:
+
+              http://www.sci-news.com/astronomy/early-universe-phase-transition-supermassive-black-holes-10621.html
+              https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.081101
+
+              According to the article, this theory makes a testable 
+              prediction on a type of gravity wave that could be detected 
+              by next generation gravity wave detectors.
+
 03/15/2022    Instructions on running FreeBSD 13.0 ARM64 on qemu on MacOSX:
 
               https://srirangav.github.io/notes/osx_qemu_freebsd_arm.txt
