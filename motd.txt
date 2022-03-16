@@ -1,3 +1,15 @@
+03/16/2022    QEMU 7.0 will have 9pfs for MacOSX hosts (yay!):
+
+              https://www.phoronix.com/scan.php?page=news_item&px=QEMU-7.0-Coming
+              https://wiki.qemu.org/ChangeLog/7.0#9pfs
+
+              Hopefully someday, sound for PPC and 3D acceleration for Windows
+              will be merged in:
+
+              PPC Screamer Audio: https://github.com/mcayland/qemu/tree/screamer 
+              PPC Screamer HOWTO: https://gist.github.com/akemin-dayo/0e9bdcd74b2ad7f0bcf56e0680256103
+              3DFX Emulation for Windows Guests: https://github.com/kjliew/qemu-3dfx
+
 03/15/2022    Pulsars may be the source of some of the positrons (anti-
               matter) we detect here on earth:
 
