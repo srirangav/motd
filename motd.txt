@@ -1,3 +1,8 @@
+03/16/2022    CERN experiments with super-cooled Helium with an electron 
+              replaced with an anti-proton:
+
+              https://arstechnica.com/science/2022/03/absolutely-bonkers-experiment-measures-antiproton-orbiting-helium-ion/
+
 03/16/2022    QEMU 7.0 will have 9pfs for MacOSX hosts (yay!):
 
               https://www.phoronix.com/scan.php?page=news_item&px=QEMU-7.0-Coming
