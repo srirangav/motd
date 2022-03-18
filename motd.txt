@@ -1,3 +1,7 @@
+03/17/2022    Falsehoods programmers believe:
+
+              https://github.com/kdeldycke/awesome-falsehood
+
 03/16/2022    CERN experiments with super-cooled Helium with an electron 
               replaced with an anti-proton:
 
