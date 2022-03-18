@@ -1,3 +1,7 @@
+03/18/2022    Notes on viewing the text in PDFs in Terminal on MacOSX:
+
+              https://srirangav.github.io/notes/osx_pdf_cli.txt
+
 03/17/2022    BBEdit 14.1.1 is available:
 
               https://www.barebones.com/support/bbedit/notes-14.1.1.html
@@ -11,18 +15,19 @@
 
               https://www.interactions.org/press-release/asacusa-sees-surprising-behaviour-hybrid-matter-antimatter
 
-              "[The researchers] saw a decrease in the width of the antiproton 
-               spectral lines. Moreover, when they decreased the temperature of
-               the liquid helium to values below the temperature at which the 
-               liquid becomes a superfluid, i.e. flows without any resistance, 
-               they found an abrupt further narrowing of the spectral lines.
+              "[The researchers] saw a decrease in the width of the 
+               antiproton spectral lines. Moreover, when they decreased 
+               the temperature of the liquid helium to values below the 
+               temperature at which the liquid becomes a superfluid, i.e. 
+               flows without any resistance, they found an abrupt further
+               narrowing of the spectral lines.
 
                ...
 
-               The researchers think that the surprising behaviour observed
-               is linked to the radius of the electronic orbital, i.e. the
-               distance at which the hybrid helium atom’s electron is
-               located. In contrast to that of many normal atoms, the
+               The researchers think that the surprising behaviour 
+               observed is linked to the radius of the electronic orbital,
+               i.e. the distance at which the hybrid helium atom’s electron
+               is located. In contrast to that of many normal atoms, the
                radius of the hybrid atom’s electronic orbital changes very
                little when laser light is shone on the atom and thus does
                not affect the spectral lines even when the atom is immersed
@@ -36,8 +41,8 @@
               https://www.phoronix.com/scan.php?page=news_item&px=QEMU-7.0-Coming
               https://wiki.qemu.org/ChangeLog/7.0#9pfs
 
-              Hopefully someday, sound for PPC and 3D acceleration for Windows
-              will be merged in:
+              Hopefully someday, sound for PPC and 3D acceleration for 
+              Windows, respectively, will be merged in:
 
               PPC Screamer Audio: https://github.com/mcayland/qemu/tree/screamer 
               PPC Screamer HOWTO: https://gist.github.com/akemin-dayo/0e9bdcd74b2ad7f0bcf56e0680256103
