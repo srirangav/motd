@@ -1,3 +1,7 @@
+03/17/2022    BBEdit 14.1.1 is available:
+
+              https://www.barebones.com/support/bbedit/notes-14.1.1.html
+
 03/17/2022    Falsehoods programmers believe:
 
               https://github.com/kdeldycke/awesome-falsehood
