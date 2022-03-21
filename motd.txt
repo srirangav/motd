@@ -1,3 +1,10 @@
+03/21/2022    VLC v.3.3 for iOS 9.0+ will be available today:
+
+              https://www.videolan.org/press/ios33.html
+
+              Supports Phone 4S, iPad 2nd generation, 1st generation 
+              iPad mini and Apple TV HD
+
 03/18/2022    Shakespearean Play Essentials:
 
               https://wronghands1.com/2022/03/18/shakespearean-play-essentials/
