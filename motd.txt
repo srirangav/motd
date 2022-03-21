@@ -1,3 +1,27 @@
+03/21/2022    Recent gravity wave detector studies rule out certain 
+              scalar field dark matter models and dark photon theories:
+
+              "In December, a team led by Hartmut Grote of Cardiff 
+               University reported in Nature that they had used a 
+               gravitational wave detector to look for scalar-field 
+               dark matter ... . The team didn’t find a signal, ruling 
+               out a large class of scalar-field dark matter models. 
+               Now the stuff [dark matter] can only exist if it affects 
+               normal matter very weakly — at least a million times more 
+               weakly than was previously thought possible.
+
+               ...
+
+               Meanwhile, [Keith] Riles [at the University of Michigan] 
+               and his colleagues have been searching for signs of 'dark 
+               photons' in data from LIGO ... and its partner [] Virgo[.]
+               ... But the researchers found no such correlations in the 
+               data. Their result, reported last year, means that dark 
+               photons, if real, must be at least 100 times weaker than 
+               previously allowed."
+
+              https://www.quantamagazine.org/a-new-tool-for-finding-dark-matter-digs-up-nothing-20220321/
+
 03/21/2022    VLC v.3.3 for iOS 9.0+ will be available today:
 
               https://www.videolan.org/press/ios33.html
