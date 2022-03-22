@@ -1,3 +1,9 @@
+03/22/2022    KeePassXC 2.7.0 is available:
+
+              https://keepassxc.org/download/
+              https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.0
+              https://www.ghacks.net/2022/03/22/keepassxc-2-7-0-update-whats-new/
+
 03/22/2022    CrossOvers 21.2.0 is available:
 
               https://www.codeweavers.com/support/forums/announce/?t=24;mhl=257259;msg=257259#c1
