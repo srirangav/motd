@@ -1,3 +1,21 @@
+03/22/2022    CrossOvers 21.2.0 is available:
+
+              https://www.codeweavers.com/support/forums/announce/?t=24;mhl=257259;msg=257259#c1
+               
+              "CrossOver 21.2 includes over 300 updates to wined3d from
+               upstream Wine. We also included dozens of changes from 
+               Wine 6.0.1 and 6.0.2 and updated to Wine Mono 7.0.
+
+               Audio now works on both Mac and Linux for Halo: Master 
+               Chief Collection. We also fixed an issue with a recent 
+               Steam update that was causing some connections to take 
+               a very long time.
+
+               On macOS, we fixed a long-standing issue with mouse 
+               control in Unity games. We also included fixes for the
+               latest Rockstar Games Launcher and Quicken updates that
+               caused those applications to stop working on M1 machines."
+
 03/21/2022    Recent gravity wave detector studies rule out certain 
               scalar field dark matter models and dark photon theories:
 
