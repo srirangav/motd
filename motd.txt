@@ -1,3 +1,21 @@
+03/28/2022    Thoughts on retro-computing:
+
+              https://kevinboone.me/retrocomputing.html?i=1
+
+              I generally agree with this, with perhaps the exception of
+              the statement that "[o]ld computers are not, for the most 
+              part, things of beauty, or even evocative of a lost culture, 
+              like steam locomotives or duelling pistols."
+
+              A NeXT Cube, an Indigo, an Indigo2, an Iris, an O2, a G4
+              iMac (Lampshade), a SS2/SS10, G3 Pismo, TiBook (sans 
+              delamination), and a G4 SawTooth/Mystic/Quicksilver, a 
+              Qudra 700, a 20th Anniversary Mac, all of which are 
+              probably considered "retro" now, could definitely be 
+              considered "things of beauty" and are "evocative of a 
+              lost culture" where users could easily work on their 
+              computers.
+
 03/27/2022    Interesting thoughts on Voyager (especially the observation
               that "the crew settled down *awfully* quickly"):
 
