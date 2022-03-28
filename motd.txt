@@ -1,11 +1,22 @@
+03/28/2022    The rise of Python in scientific computing:
+
+              https://cerfacs.fr/coop/fortran-vs-python
+
+              It has been decades since I've used Fortran or had to 
+              do scientific programming, but even I was using Fortran
+              it wasn't particularly likable or easy to use.  Python 
+              and numpy, on the other hand, are fairly likable and 
+              easy to use, while not being *that* slow, which makes
+              it funto try out things that can be optimized later.
+
 03/28/2022    Thoughts on retro-computing:
 
               https://kevinboone.me/retrocomputing.html?i=1
 
-              I generally agree with this, with perhaps the exception of
-              the statement that "[o]ld computers are not, for the most 
-              part, things of beauty, or even evocative of a lost culture, 
-              like steam locomotives or duelling pistols."
+              I generally agree with this, with perhaps the exception 
+              of the statement that "[o]ld computers are not, for the 
+              most part, things of beauty, or even evocative of a lost 
+              culture, like steam locomotives or duelling pistols."
 
               A NeXT Cube, an Indigo, an Indigo2, an Iris, an O2, a G4
               iMac (Lampshade), a SS2/SS10, G3 Pismo, TiBook (sans 
