@@ -1,3 +1,7 @@
+03/21/2022    History of MacOS Releases:
+
+              https://robservatory.com/a-full-history-of-macos-os-x-release-dates-and-rates/
+
 03/28/2022    The rise of Python in scientific computing:
 
               https://cerfacs.fr/coop/fortran-vs-python
