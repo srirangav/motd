@@ -1,11 +1,22 @@
-03/21/2022    Enable /disable low power mode on Monterey (12.x) with pmset:
+03/31/2022    Useful bash / zsh aliases:
+
+              https://lobste.rs/s/qgqssl/what_are_most_useful_aliases_your_bashrc
+
+              One I like, but did not see mentioned is as follows:
+
+              alias bc="bc -l"
+
+              which loads the math library and provides non-truncated results
+              for division.
+
+03/31/2022    Enable /disable low power mode on Monterey (12.x) with pmset:
 
               $ sudo pmset -a lowpowermode 1
               $ sudo pmset -a lowpowermode 0
 
               From: https://osxdaily.com/2022/03/30/enable-low-power-mode-mac-command-line/
       
-03/21/2022    History of MacOS Releases:
+03/31/2022    History of MacOS Releases:
 
               https://robservatory.com/a-full-history-of-macos-os-x-release-dates-and-rates/
 
