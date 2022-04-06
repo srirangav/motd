@@ -1,6 +1,17 @@
 Current Entries
 ---------------
 
+04/06/2022    Neutrinos may not be their own anti-particle:
+
+              "CUORE has spent the last three years patiently waiting to
+              see evidence of a distinctive nuclear decay process, only
+              possible if neutrinos and antineutrinos are the same
+              particle. CUORE’s new data shows that this decay doesn’t
+              happen for trillions of trillions of years, if it happens at
+              all."
+
+              From: https://www.interactions.org/press-release/cuore-team-places-new-limits-bizarre-behavior-neutrinos
+              
 04/06/2022    Modify font smoothing on Big Sur (11.x) and Monterey (12.x):
 
               $ defaults -currentHost write -g AppleFontSmoothing -int [0-3]
