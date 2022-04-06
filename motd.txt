@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+04/06/2022    KeePassXC 2.7.1 is out:
+
+              https://keepassxc.org/blog/2022-04-06-2.7.1-released/
+
 04/06/2022    Neutrinos may not be their own anti-particle:
 
               "CUORE has spent the last three years patiently waiting to
