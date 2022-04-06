@@ -1,3 +1,6 @@
+Current Entries
+---------------
+
 04/06/2022    Modify font smoothing on Big Sur (11.x) and Monterey (12.x):
 
               $ defaults -currentHost write -g AppleFontSmoothing -int [0-3]
@@ -9,4 +12,9 @@
               This requires a restart to take effect.
 
               From: https://osxdaily.com/2022/04/06/change-remove-font-smoothing-macos/
+
+Earlier Entries
+---------------
+
+03/##/2022    https://raw.githubusercontent.com/srirangav/motd/main/2022/03/motd.txt
 
