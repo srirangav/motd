@@ -1,6 +1,15 @@
 Current Entries
 ---------------
 
+04/08/2022    W boson's mass may deviate from the Standard Model's
+              prediction:
+
+              https://news.fnal.gov/2022/04/cdf-collaboration-at-fermilab-announces-most-precise-ever-measurement-of-w-boson-mass/
+              https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/
+              https://profmattstrassler.com/2022/04/07/the-w-boson-isnt-behaving/
+              https://profmattstrassler.com/2022/04/08/a-few-remarks-on-the-w-boson-mass-measurement/
+              https://non-trivial-solution.blogspot.com/2022/04/do-we-have-finally-found-new-physics.html
+
 04/08/2022    Old style alerts on Big Sur (11.x) and Monterey (12.x):
 
               $ defaults write -g NSAlertMetricsGatheringEnabled -bool false
