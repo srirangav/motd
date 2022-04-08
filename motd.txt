@@ -1,6 +1,12 @@
 Current Entries
 ---------------
 
+04/08/2022    Old style alerts on Big Sur (11.x) and Monterey (12.x):
+
+              $ defaults write -g NSAlertMetricsGatheringEnabled -bool false
+
+              From: https://mjtsai.com/blog/2022/04/01/wider-big-sur-alerts/
+
 04/06/2022    KeePassXC 2.7.1 is out:
 
               https://keepassxc.org/blog/2022-04-06-2.7.1-released/
