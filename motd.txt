@@ -1,6 +1,14 @@
 Current Entries
 ---------------
 
+04/19/2022    Thoughts on the CDF's measurment of the W boson's mass by
+              Tommaso Doringo, who worked on the CDF:
+
+              https://www.science20.com/tommaso_dorigo/is_the_cdf_w_mass_measurement_a_nail_in_the_sm_coffin-256017
+
+              As an aside, I still need to read Doringo's book "Anomaly!
+              Collider Physics and the Quest for New Phenomena at Fermilab"
+
 04/16/2022    ST:TNG:TAS:
 
               https://www.youtube.com/watch?v=Jyz2pVqrEkI
@@ -33,7 +41,7 @@ Current Entries
               "CUORE has spent the last three years patiently waiting to
               see evidence of a distinctive nuclear decay process, only
               possible if neutrinos and antineutrinos are the same
-              particle. CUORE’s new data shows that this decay doesn’t
+              particle. CUORE's new data shows that this decay doesn't
               happen for trillions of trillions of years, if it happens at
               all."
 
