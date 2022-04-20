@@ -1,6 +1,12 @@
 Current Entries
 ---------------
 
+04/20/2022    CMS' new measurement of the Top Quark's mass of "171.77
+              [+/-]0.38 GeV, is consistent with [] previous measurements
+              and the prediction from the Standard Model":
+
+              http://www.sci-news.com/physics/top-quark-mass-10730.html
+
 04/19/2022    Thoughts on the CDF's measurment of the W boson's mass by
               Tommaso Doringo, who worked on the CDF:
 
