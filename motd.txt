@@ -1,6 +1,19 @@
 Current Entries
 ---------------
 
+04/21/2022    LHC is back online today:
+
+              https://www.science20.com/news_staff/after_3_years_of_maintenance_the_large_hadron_collider_is_getting_back_into_collision_shape-256027
+
+              Things to look forward to include "two new experiments,
+              FASER and SND@LHC, designed to look for physics beyond the
+              Standard Model; special proton-helium collisions to measure
+              how often the antimatter counterparts of protons are produced
+              in these collisions; and collisions involving oxygen ions
+              that will improve physicists' knowledge of cosmic-ray
+              physics and the quark-gluon plasma, a state of matter that
+              existed shortly after the Big Bang."
+
 04/20/2022    CMS' new measurement of the Top Quark's mass of "171.77
               [+/-]0.38 GeV, is consistent with [] previous measurements
               and the prediction from the Standard Model":
