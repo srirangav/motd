@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+04/21/2022    A brief history of source code control systems:
+
+              https://lemire.me/blog/2022/04/21/an-overview-of-version-control-in-programming/
+
 04/21/2022    LHC is back online today:
 
               https://www.science20.com/news_staff/after_3_years_of_maintenance_the_large_hadron_collider_is_getting_back_into_collision_shape-256027
