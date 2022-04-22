@@ -1,6 +1,17 @@
 Current Entries
 ---------------
 
+04/21/2022    Tips on tuning ZFS recordsize:
+
+              https://klarasystems.com/articles/tuning-recordsize-in-openzfs/
+              Suggested rules of thumb are:
+
+              1024K for general-purpose file sharing/storage
+                64K for KVM virtual machines using Qcow2 file-based
+                      storage
+                16K for MySQL InnoDB
+                 8K for PostgreSQL
+
 04/21/2022    A brief history of source code control systems:
 
               https://lemire.me/blog/2022/04/21/an-overview-of-version-control-in-programming/
