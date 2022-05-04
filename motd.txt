@@ -1,104 +1,13 @@
 Current Entries
 ---------------
 
-04/29/2022    Software doesn't work in "O" mode:
+05/04/2022    Good article on color temp:
 
-              https://www.theregister.com/2022/04/29/on_call/
-
-04/21/2022    Tips on tuning ZFS recordsize:
-
-              https://klarasystems.com/articles/tuning-recordsize-in-openzfs/
-              Suggested rules of thumb are:
-
-              1024K for general-purpose file sharing/storage
-                64K for KVM virtual machines using Qcow2 file-based
-                      storage
-                16K for MySQL InnoDB
-                 8K for PostgreSQL
-
-04/21/2022    A brief history of source code control systems:
-
-              https://lemire.me/blog/2022/04/21/an-overview-of-version-control-in-programming/
-
-04/21/2022    LHC is back online today:
-
-              https://www.science20.com/news_staff/after_3_years_of_maintenance_the_large_hadron_collider_is_getting_back_into_collision_shape-256027
-
-              Things to look forward to include "two new experiments,
-              FASER and SND@LHC, designed to look for physics beyond the
-              Standard Model; special proton-helium collisions to measure
-              how often the antimatter counterparts of protons are produced
-              in these collisions; and collisions involving oxygen ions
-              that will improve physicists' knowledge of cosmic-ray
-              physics and the quark-gluon plasma, a state of matter that
-              existed shortly after the Big Bang."
-
-04/20/2022    CMS' new measurement of the Top Quark's mass of "171.77
-              [+/-]0.38 GeV, is consistent with [] previous measurements
-              and the prediction from the Standard Model":
-
-              http://www.sci-news.com/physics/top-quark-mass-10730.html
-
-04/19/2022    Thoughts on the CDF's measurment of the W boson's mass by
-              Tommaso Doringo, who worked on the CDF:
-
-              https://www.science20.com/tommaso_dorigo/is_the_cdf_w_mass_measurement_a_nail_in_the_sm_coffin-256017
-
-              As an aside, I still need to read Doringo's book "Anomaly!
-              Collider Physics and the Quest for New Phenomena at Fermilab"
-
-04/16/2022    ST:TNG:TAS:
-
-              https://www.youtube.com/watch?v=Jyz2pVqrEkI
-
-04/08/2022    HD1 is the most distant galaxy every observed:
-
-              http://www.sci-news.com/astronomy/hd1-galaxy-10692.html
-
-04/08/2022    W boson's mass may deviate from the Standard Model's
-              prediction:
-
-              https://news.fnal.gov/2022/04/cdf-collaboration-at-fermilab-announces-most-precise-ever-measurement-of-w-boson-mass/
-              https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/
-              https://profmattstrassler.com/2022/04/07/the-w-boson-isnt-behaving/
-              https://profmattstrassler.com/2022/04/08/a-few-remarks-on-the-w-boson-mass-measurement/
-              https://non-trivial-solution.blogspot.com/2022/04/do-we-have-finally-found-new-physics.html
-
-04/08/2022    Old style alerts on Big Sur (11.x) and Monterey (12.x):
-
-              $ defaults write -g NSAlertMetricsGatheringEnabled -bool false
-
-              From: https://mjtsai.com/blog/2022/04/01/wider-big-sur-alerts/
-
-04/06/2022    KeePassXC 2.7.1 is out:
-
-              https://keepassxc.org/blog/2022-04-06-2.7.1-released/
-
-04/06/2022    Neutrinos may not be their own anti-particle:
-
-              "CUORE has spent the last three years patiently waiting to
-              see evidence of a distinctive nuclear decay process, only
-              possible if neutrinos and antineutrinos are the same
-              particle. CUORE's new data shows that this decay doesn't
-              happen for trillions of trillions of years, if it happens at
-              all."
-
-              From: https://www.interactions.org/press-release/cuore-team-places-new-limits-bizarre-behavior-neutrinos
-              
-04/06/2022    Modify font smoothing on Big Sur (11.x) and Monterey (12.x):
-
-              $ defaults -currentHost write -g AppleFontSmoothing -int [0-3]
-
-              where 0 disables smoothing, 1 enables light smoothing,
-              2 enables moderate / medium smoothing, and 3 enables
-              strong smoothing.
-
-              This requires a restart to take effect.
-
-              From: https://osxdaily.com/2022/04/06/change-remove-font-smoothing-macos/
+              https://eclecticlight.co/2022/05/03/colour-notes-3-colour-temperature-and-constancy/
 
 Earlier Entries
 ---------------
 
+04/##/2022    https://raw.githubusercontent.com/srirangav/motd/main/2022/04/motd.txt
 03/##/2022    https://raw.githubusercontent.com/srirangav/motd/main/2022/03/motd.txt
 
