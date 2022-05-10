@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+05/09/2022    ZFS tips for SMR drives:
+
+              https://vermaden.wordpress.com/2022/05/08/zfs-on-smr-drives/
+
 05/06/2022    The 5 best and worst programming languages:
 
               https://catonmat.net/5-best-programming-languages
