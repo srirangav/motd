@@ -1,6 +1,14 @@
 Current Entries
 ---------------
 
+05/11/2022    The Drive suggests AAA branded batteries are good enough
+              for most uses:
+
+              https://www.thedrive.com/guides-and-gear/buying-a-aaa-brand-car-battery-from-napa-can-actually-be-a-deal
+
+              Matches my experience.  Though I'd really like one of those
+              Li+ batteries :-)
+
 05/09/2022    ZFS tips for SMR drives:
 
               https://vermaden.wordpress.com/2022/05/08/zfs-on-smr-drives/
