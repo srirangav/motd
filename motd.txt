@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+05/17/2022    Chemical element abbreviation patterns:
+
+              https://www.johndcook.com/blog/2022/05/17/element-abbreviation-patterns/
+
 05/11/2022    The Drive suggests AAA branded batteries are good enough
               for most uses:
 
