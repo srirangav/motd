@@ -1,0 +1,49 @@
+Current Entries
+---------------
+
+05/24/2022    Desktop/Wallpaper - Bright Star (Earth) From Mars:
+
+              https://photojournal.jpl.nasa.gov/catalog/PIA17936
+
+05/17/2022    Chemical element abbreviation patterns:
+
+              https://www.johndcook.com/blog/2022/05/17/element-abbreviation-patterns/
+
+05/11/2022    The Drive suggests AAA branded batteries are good enough
+              for most uses:
+
+              https://www.thedrive.com/guides-and-gear/buying-a-aaa-brand-car-battery-from-napa-can-actually-be-a-deal
+
+              Matches my experience.  Though I'd really like one of those
+              Li+ batteries :-)
+
+05/09/2022    ZFS tips for SMR drives:
+
+              https://vermaden.wordpress.com/2022/05/08/zfs-on-smr-drives/
+
+05/06/2022    The 5 best and worst programming languages:
+
+              https://catonmat.net/5-best-programming-languages
+              https://catonmat.net/5-worst-programming-languages
+
+              Mostly correct, imho
+
+05/06/2022    Some good desktop pictures I recently came across:
+
+              Epcot Spaceship Earth: https://unsplash.com/photos/XIhqpzkxeBY
+              California Streaming:  https://basicappleguy.com/basicappleblog/california-streaming
+              Making Waves:          https://basicappleguy.com/basicappleblog/making-waves
+              Making Waves (Mini):   https://basicappleguy.com/basicappleblog/making-mini-waves
+              MacOS Ten Peaks:       https://basicappleguy.com/basicappleblog/macos-ten-peaks
+              Tantalus Fossae:       https://www.esa.int/ESA_Multimedia/Images/2022/04/Tantalus_Fossae_on_Mars
+
+05/04/2022    Good article on color temp:
+
+              https://eclecticlight.co/2022/05/03/colour-notes-3-colour-temperature-and-constancy/
+
+Earlier Entries
+---------------
+
+04/##/2022    https://raw.githubusercontent.com/srirangav/motd/main/2022/04/motd.txt
+03/##/2022    https://raw.githubusercontent.com/srirangav/motd/main/2022/03/motd.txt
+
