@@ -1,6 +1,12 @@
 Current Entries
 ---------------
 
+06/27/2022    10 vim Shortcuts:
+
+              https://catonmat.net/top-10-vim-shortcuts
+
+              >> for indenting and << for unintending are very useful.
+
 06/27/2022    Commands for getting hardware info on Linux:
 
               https://nixsanctuary.com/best-linux-hardware-system-info-commands/
