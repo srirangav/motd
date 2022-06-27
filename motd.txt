@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+06/27/2022    Commands for getting hardware info on Linux:
+
+              https://nixsanctuary.com/best-linux-hardware-system-info-commands/
+
 06/15/2022    Mining and Refining He:
 
               https://hackaday.com/2022/06/15/mining-and-refining-helium/
