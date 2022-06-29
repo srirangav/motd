@@ -1,6 +1,11 @@
 Current Entries
 ---------------
 
+06/29/2022    No neutron (n) oscillations found in an experiement at the
+              Spallation Neutron Source:
+
+              https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.212503
+
 06/29/2022    Enable query stripping in Firefox 102:
 
               https://www.ghacks.net/2022/06/29/firefox-remove-known-tracking-parameters-from-urls-in-all-modes/
