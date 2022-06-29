@@ -7,7 +7,7 @@ FOOTER = '</pre></body></html>'
 
 all: $(INDEX)
 
-index.html:
+$(INDEX): clean
 	echo $(HEADER) > $(INDEX) && \
     sed -e 's/\</\&lt\;/g' -e 's/\>/\&gt\;/g' $(MOTD) >> $(INDEX) && \
     echo $(FOOTER) >> $(INDEX)
