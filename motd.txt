@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+07/01/2022    Removing Time Machine backups:
+
+              https://derflounder.wordpress.com/2022/07/01/removing-unwanted-time-machine-backups-from-apfs-formatted-time-machine-backup-drives-on-macos-monterey/
+
 07/01/2022    Sirius probably hasn't changed colors:
 
               https://kiwihellenist.blogspot.com/2022/07/sirius.html
