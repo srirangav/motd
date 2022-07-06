@@ -1,6 +1,11 @@
 Current Entries
 ---------------
 
+07/06/2022    James Joyce, auto journalist:
+
+              https://www.thedrive.com/news/read-james-joyces-only-piece-of-car-writing-the-motor-derby-from-1903
+              https://www.thedrive.com/news/james-joyce-once-tried-automotive-journalism-it-didnt-go-well
+
 07/01/2022    Removing Time Machine backups:
 
               https://derflounder.wordpress.com/2022/07/01/removing-unwanted-time-machine-backups-from-apfs-formatted-time-machine-backup-drives-on-macos-monterey/
