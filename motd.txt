@@ -1,6 +1,11 @@
 Current Entries
 ---------------
 
+07/10/2022    BART uses broad gauge (like India) so that the lighter
+              BART carriage are more stable in high winds and roomier:
+
+              https://www.bart.gov/news/articles/2022/news20220708-2
+
 07/10/2022    Read ebooks in a terminal:
 
               https://nixsanctuary.com/reading-books-in-command-line/
