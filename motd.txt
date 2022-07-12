@@ -1,6 +1,13 @@
 Current Entries
 ---------------
 
+07/12/2022    Desktop envirnoments resource usage comparied on FreeBSD:
+
+              https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/
+
+              I'm surprised that XFCE uses more resources than MATE.
+              Perhaps I will have to switch my VMs to test this out.
+
 07/10/2022    BART uses broad gauge (like India) so that the lighter
               BART carriage are more stable in high winds and roomier:
 
