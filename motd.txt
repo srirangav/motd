@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+07/22/2022    arc4random(3) finally shows up in glibc:
+
+              https://www.phoronix.com/news/GNU-Glibc-arc4random-Functions
+
 07/22/2022    XENONnT hasn't detected an excess of ricocheting electrons:
 
               https://www.sciencenews.org/article/xenonnt-axions-dark-matter-experiment
