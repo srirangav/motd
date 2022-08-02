@@ -8,9 +8,18 @@ Current Entries
 Earlier Entries
 ---------------
 
-07/##/2022    https://raw.githubusercontent.com/srirangav/motd/main/2022/07/motd.txt
-06/##/2022    https://raw.githubusercontent.com/srirangav/motd/main/2022/06/motd.txt
-05/##/2022    https://raw.githubusercontent.com/srirangav/motd/main/2022/05/motd.txt
-04/##/2022    https://raw.githubusercontent.com/srirangav/motd/main/2022/04/motd.txt
-03/##/2022    https://raw.githubusercontent.com/srirangav/motd/main/2022/03/motd.txt
+07/##/2022    https://srirangav.github.io/motd/2022/07/motd.txt
+              https://srirangav.github.io/motd/2022/07/index.html
+
+06/##/2022    https://srirangav.github.io/motd/2022/06/motd.txt
+              https://srirangav.github.io/motd/2022/06/index.html
+
+05/##/2022    https://srirangav.github.io/motd/2022/05/motd.txt
+              https://srirangav.github.io/motd/2022/05/index.html
+
+04/##/2022    https://srirangav.github.io/motd/2022/04/motd.txt
+              https://srirangav.github.io/motd/2022/04/index.html
+
+03/##/2022    https://srirangav.github.io/motd/2022/03/motd.txt
+              https://srirangav.github.io/motd/2022/03/index.html
 
