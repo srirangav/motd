@@ -1,6 +1,18 @@
 Current Entries
 ---------------
 
+08/12/2022    The behavior of supercritical matter is described by just
+              two parameters - "[1] the heat capacity and [2] the
+              length over which waves can propagate in the system":
+
+              https://phys.org/news/2022-08-extreme-conditions-high-temperature-pressure.html
+
+              The researchers "found that there is a fixed inversion
+              point between the two where matter changes its physical
+              properties - from liquid-like to gas-like. They also
+              found that this inversion point is remarkably close in
+              all systems studied[.]"
+
 08/12/2022    Korean Supreme Court provides clarity on web scraping:
 
               https://www.lexology.com/library/detail.aspx?g=1ae8c0a9-660b-45b7-9ef6-030f387d6e29
