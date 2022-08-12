@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+08/12/2022    The Unreasonable Effectiveness of Makefiles:
+
+              https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles
+
 08/12/2022    The behavior of supercritical matter is described by just
               two parameters - "[1] the heat capacity and [2] the
               length over which waves can propagate in the system":
