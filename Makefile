@@ -4,7 +4,9 @@ MOTD = motd.txt
 INDEX = index.html
 MOTD2HTML = ./motd2html.pl
 
-all:
+all: html
+
+html:
 	$(MOTD2HTML) < $(MOTD) > $(INDEX)
 
 clean:
