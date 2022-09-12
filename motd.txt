@@ -1,60 +1,22 @@
 Current Entries
 ---------------
 
-08/24/2022    Perfluorocubane Is (As You Would Expect) Weird:
+09/12/2022    The trouble with the Big Bang:
 
-              https://www.science.org/content/blog-post/perfluorocubane-you-would-expect-weird
+              https://nautil.us/the-trouble-with-the-big-bang-26992/
 
-              "[I]t is predicted to have the ability to hold a free electron ...
-               because of the C-F bond properties - all the electron density is
-               being pulled towards the F atoms, so the center of the [C] cube
-               really has room for one to sit in there without running into a
-               lot of interference. ... If you would like to get a bit more
-               technical, there are eight sigma-star orbitals from those C-F
-               bonds all pointing into the center of the cage and overlapping,
-               and giving you effectively a stabilized vacant orbital there."
+09/07/2022    A new B5 series is coming next year:
 
-08/16/2022    Solar powered headphones:
+              https://www.inverse.com/entertainment/babylon-5-reboot-cast-release-date-2023
 
-              https://www.adidasheadphones.com/us/en/rpt-02-sol-rising.html
-
-08/12/2022    The Unreasonable Effectiveness of Makefiles:
-
-              https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles
-
-08/12/2022    The behavior of supercritical matter is described by just
-              two parameters - "[1] the heat capacity and [2] the
-              length over which waves can propagate in the system":
-
-              https://phys.org/news/2022-08-extreme-conditions-high-temperature-pressure.html
-
-              The researchers "found that there is a fixed inversion
-              point between the two where matter changes its physical
-              properties - from liquid-like to gas-like. They also
-              found that this inversion point is remarkably close in
-              all systems studied[.]"
-
-08/12/2022    Korean Supreme Court provides clarity on web scraping:
-
-              https://www.lexology.com/library/detail.aspx?g=1ae8c0a9-660b-45b7-9ef6-030f387d6e29
-              https://www.yulchon.com/en/resources/publications/legal-update-view/32426/page.do
-
-              "On May 12, 2022, the Korean Supreme Court held in Case
-               No. 2021Do1533 that scraping publicly available data from
-               a competitor’s website does not violate the asserted laws,
-               including the Copyright Act and the Act on Promotion of
-               Information and Communications Network Utilization and
-               Information Protection[.] ... This Korean decision is
-               comparable and in line with the decision of the United
-               States Court of Appeals for the Ninth Circuit in hiQ
-               Labs, Inc. v. LinkedIn Corp. on April 18, 2022[.]"
-
-08/02/2022    Why Does Caffeine Exist?
-
-              https://www.youtube.com/watch?v=PzshAqowsyI
+              I'd rather have another season of DS9, but I'll probably
+              still watch it.
 
 Earlier Entries
 ---------------
+
+08/##/2022    https://srirangav.github.io/motd/2022/08/motd.txt
+              https://srirangav.github.io/motd/2022/08/index.html
 
 07/##/2022    https://srirangav.github.io/motd/2022/07/motd.txt
               https://srirangav.github.io/motd/2022/07/index.html
