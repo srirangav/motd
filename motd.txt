@@ -1,6 +1,15 @@
 Current Entries
 ---------------
 
+09/29/2022    The appeal of small computers:
+
+              https://andregarzia.com/2022/09/The-appeal-of-small-computers.html
+
+              I also love small computers.  My current M1 MacBook Air
+              (MBA) is probably the best computer I've every had.  But
+              my Surface Go 2 (running OpenBSD) is so portable that it
+              makes my MBA feel large and bulky.
+
 09/28/2022    ST:TNG could have been a lot different:
 
               https://www.inverse.com/culture/star-trek-the-next-generation-35-anniversary
