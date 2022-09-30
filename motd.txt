@@ -1,6 +1,12 @@
 Current Entries
 ---------------
 
+09/29/2022    Command line dict server lookups:
+
+              $ curl -s dict://dict.org/d:"[WORD]" | egrep -v '^[0-9]|^\.'  | less
+              
+              Based on: https://nixsanctuary.com/how-to-have-fun-in-terminal-cool-linux-commands/
+              
 09/29/2022    The appeal of small computers:
 
               https://andregarzia.com/2022/09/The-appeal-of-small-computers.html
