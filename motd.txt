@@ -1,57 +1,16 @@
 Current Entries
 ---------------
 
-09/29/2022    Command line dict server lookups:
+10/05/2022    Domitian II - The Lost Roman Emperor:
 
-              $ curl -s dict://dict.org/d:"[WORD]" | egrep -v '^[0-9]|^\.'  | less
+              https://antigonejournal.com/2022/10/domitian-ii-lost-roman-emperor/
+
               
-              Based on: https://nixsanctuary.com/how-to-have-fun-in-terminal-cool-linux-commands/
-              
-09/29/2022    The appeal of small computers:
-
-              https://andregarzia.com/2022/09/The-appeal-of-small-computers.html
-
-              I also love small computers.  My current M1 MacBook Air
-              (MBA) is probably the best computer I've every had.  But
-              my Surface Go 2 (running OpenBSD) is so portable that it
-              makes my MBA feel large and bulky.
-
-09/28/2022    ST:TNG could have been a lot different:
-
-              https://www.inverse.com/culture/star-trek-the-next-generation-35-anniversary
-              https://www.inverse.com/article/41276-star-trek-the-next-generation-original-concept-vulcan-captain
-
-              Perhaps this is heretical, but Farpoint without Q probably
-              would have been more coherent than the Farpoint we got.
-
-              The holographic captain sounds a lot like the holographic
-              Janeway in Prodigy (or the emergency command hologram from
-              Tinker Tenor!).
-
-09/14/2022    iOS 16 Lockdown Mode Technote:
-
-              https://support.apple.com/en-us/HT212650
-
-              Can't wait to try it.  Seems like it should be the
-              default configuration.
-
-09/12/2022    Atkinson Hyperlegible Font:
-
-              https://brailleinstitute.org/freefont
-
-09/12/2022    The trouble with the Big Bang:
-
-              https://nautil.us/the-trouble-with-the-big-bang-26992/
-
-09/07/2022    A new B5 series is coming next year:
-
-              https://www.inverse.com/entertainment/babylon-5-reboot-cast-release-date-2023
-
-              I'd rather have another season of DS9, but I'll probably
-              still watch it.
-
 Earlier Entries
 ---------------
+
+09/##/2022    https://srirangav.github.io/motd/2022/09/motd.txt
+              https://srirangav.github.io/motd/2022/09/index.html
 
 08/##/2022    https://srirangav.github.io/motd/2022/08/motd.txt
               https://srirangav.github.io/motd/2022/08/index.html
