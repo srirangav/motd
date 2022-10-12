@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+10/12/2022    Rainbow Eucalyptus:
+
+              https://laughingsquid.com/vivid-colors-rainbow-eucalyptus-tree/
+
 10/10/2022    VirtualBox 7.0, now with experimental M1/M2 support:
 
               https://www.virtualbox.org/wiki/Changelog-7.0
