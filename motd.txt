@@ -1,7 +1,14 @@
 Current Entries
 ---------------
 
-10/12/2022    Jellico Returns:
+10/15/2022    Websites should work without Javascript:
+
+              https://endtimes.dev/why-your-website-should-work-without-javascript/
+
+              Makes sense to me.  I usually block javascript with
+              uBlock Origin.
+
+10/12/2022    Jellico returns:
 
               https://www.inverse.com/entertainment/star-trek-captain-jellico-prodigy-return
 
@@ -13,9 +20,9 @@ Current Entries
 
               https://www.virtualbox.org/wiki/Changelog-7.0
 
-              "macOS host: Providing a Developer Preview package 
-              for systems with an Apple silicon CPU. This is 
-              unsupported work in progress, and is known to have 
+              "macOS host: Providing a Developer Preview package
+              for systems with an Apple silicon CPU. This is
+              unsupported work in progress, and is known to have
               very modest performance."
 
               Will be interesting to compare this to qemu.
@@ -24,7 +31,7 @@ Current Entries
 
               https://antigonejournal.com/2022/10/domitian-ii-lost-roman-emperor/
 
-              
+
 Earlier Entries
 ---------------
 
