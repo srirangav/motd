@@ -1,6 +1,12 @@
 Current Entries
 ---------------
 
+10/19/2022    Proton weirdness:
+
+              https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
+              https://www.sci.news/physics/proton-electric-polarizability-11307.html
+              https://phys.org/news/2022-10-physicists-hitch-proton.html
+
 10/15/2022    Websites should work without Javascript:
 
               https://endtimes.dev/why-your-website-should-work-without-javascript/
