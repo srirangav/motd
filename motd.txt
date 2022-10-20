@@ -1,6 +1,13 @@
 Current Entries
 ---------------
 
+10/20/2022    MacPorts 2.8.0 is out:
+
+              https://lists.macports.org/pipermail/macports-users/2022-October/051517.html
+
+              'port selfupdate' and 'port upgrade outdated' worked fine 
+              for me on M1
+
 10/19/2022    Division notation:
 
               https://xkcd.com/2687/
