@@ -1,12 +1,28 @@
 Current Entries
 ---------------
 
-10/20/2022    MacPorts 2.8.0 is out:
+10/20/2022    Lots of software was released today:
 
-              https://lists.macports.org/pipermail/macports-users/2022-October/051517.html
+              MacPorts 2.8.0:
 
-              'port selfupdate' and 'port upgrade outdated' worked fine 
-              for me on M1
+                  https://lists.macports.org/pipermail/macports-users/2022-October/051517.html
+
+                  'port selfupdate' and 'port upgrade outdated' worked 
+                  fine for me on M1
+
+              OverSight (microphone and camera monitor for OSX) 2.0.2:
+
+                  https://github.com/objective-see/OverSight/releases/tag/v2.0.2
+              OpenBSD 7.2:
+
+                  https://marc.info/?l=openbsd-misc&m=166627387020774&w=2
+                  https://www.undeadly.org/cgi?action=article;sid=20221020184115
+
+              Ubuntu 22.10:
+
+                  https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu
+
+                  Installed without any problems on a Framework laptop.
 
 10/19/2022    Division notation:
 
