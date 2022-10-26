@@ -1,6 +1,14 @@
 Current Entries
 ---------------
 
+10/26/2022    Malicious apps could record conversations with Siri or
+              dictation:
+
+              https://appleinsider.com/articles/22/10/26/malicious-apps-could-have-listened-in-on-siri-conversations
+
+              It would be nice if we could get local dictation back
+              on MacOSX.
+
 10/26/2022    New type of conductive material:
 
               https://phys.org/news/2022-10-scientists-material-plastic-metal.html
@@ -28,7 +36,7 @@ Current Entries
 
                   https://lists.macports.org/pipermail/macports-users/2022-October/051517.html
 
-                  'port selfupdate' and 'port upgrade outdated' worked 
+                  'port selfupdate' and 'port upgrade outdated' worked
                   fine for me on M1
 
               OverSight (microphone and camera monitor for OSX) 2.0.2:
