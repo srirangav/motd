@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+10/31/2022    ScummVM 2.6.1 is out:
+
+              https://www.scummvm.org/news/20221031/
+
 10/29/2022    KeePassXC 2.7.4 is out:
 
               https://keepassxc.org/blog/2022-10-29-2.7.4-released/
