@@ -1,0 +1,133 @@
+Current Entries
+---------------
+
+10/31/2022    ScummVM 2.6.1 is out:
+
+              https://www.scummvm.org/news/20221031/
+
+10/29/2022    KeePassXC 2.7.4 is out:
+
+              https://keepassxc.org/blog/2022-10-29-2.7.4-released/
+
+10/26/2022    Ventura drops Postscript support:
+
+              https://support.apple.com/en-us/HT213250
+
+10/26/2022    Malicious apps could record conversations with Siri or
+              dictation:
+
+              https://appleinsider.com/articles/22/10/26/malicious-apps-could-have-listened-in-on-siri-conversations
+
+              It would be nice if we could get local dictation back
+              on MacOSX.
+
+10/26/2022    New type of conductive material:
+
+              https://phys.org/news/2022-10-scientists-material-plastic-metal.html
+
+10/25/2022    Chemical clues about the special nature of a Strad's
+              coating:
+
+              https://phys.org/news/2022-10-chemical-clues-mystery-coating-stradivari.html
+
+              And Two Set (temporarily) has a pair of Strads:
+
+              https://m.youtube.com/watch?v=D61mkEwFPmM
+
+10/24/2022    KeePassXC is out:
+
+              https://keepassxc.org/blog/2022-10-23-2.7.3-released/
+
+10/21/2022    SHA3 buffer overflow:
+
+              https://mouha.be/sha-3-buffer-overflow/
+
+10/20/2022    Lots of software was released today:
+
+              MacPorts 2.8.0:
+
+                  https://lists.macports.org/pipermail/macports-users/2022-October/051517.html
+
+                  'port selfupdate' and 'port upgrade outdated' worked
+                  fine for me on M1
+
+              OverSight (microphone and camera monitor for OSX) 2.0.2:
+
+                  https://github.com/objective-see/OverSight/releases/tag/v2.0.2
+              OpenBSD 7.2:
+
+                  https://marc.info/?l=openbsd-misc&m=166627387020774&w=2
+                  https://www.undeadly.org/cgi?action=article;sid=20221020184115
+
+              Ubuntu 22.10:
+
+                  https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu
+
+                  Installed without any problems on a Framework laptop.
+
+10/19/2022    Division notation:
+
+              https://xkcd.com/2687/
+
+              Wow, I fall into the "scientist" category!
+
+10/19/2022    Proton weirdness:
+
+              https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
+              https://www.sci.news/physics/proton-electric-polarizability-11307.html
+              https://phys.org/news/2022-10-physicists-hitch-proton.html
+
+10/15/2022    Websites should work without Javascript:
+
+              https://endtimes.dev/why-your-website-should-work-without-javascript/
+
+              Makes sense to me.  I usually block javascript with
+              uBlock Origin.
+
+10/12/2022    Jellico returns:
+
+              https://www.inverse.com/entertainment/star-trek-captain-jellico-prodigy-return
+
+10/12/2022    Rainbow Eucalyptus:
+
+              https://laughingsquid.com/vivid-colors-rainbow-eucalyptus-tree/
+
+10/10/2022    VirtualBox 7.0, now with experimental M1/M2 support:
+
+              https://www.virtualbox.org/wiki/Changelog-7.0
+
+              "macOS host: Providing a Developer Preview package
+              for systems with an Apple silicon CPU. This is
+              unsupported work in progress, and is known to have
+              very modest performance."
+
+              Will be interesting to compare this to qemu.
+
+10/05/2022    Domitian II - The Lost Roman Emperor:
+
+              https://antigonejournal.com/2022/10/domitian-ii-lost-roman-emperor/
+
+
+Earlier Entries
+---------------
+
+09/##/2022    https://srirangav.github.io/motd/2022/09/motd.txt
+              https://srirangav.github.io/motd/2022/09/index.html
+
+08/##/2022    https://srirangav.github.io/motd/2022/08/motd.txt
+              https://srirangav.github.io/motd/2022/08/index.html
+
+07/##/2022    https://srirangav.github.io/motd/2022/07/motd.txt
+              https://srirangav.github.io/motd/2022/07/index.html
+
+06/##/2022    https://srirangav.github.io/motd/2022/06/motd.txt
+              https://srirangav.github.io/motd/2022/06/index.html
+
+05/##/2022    https://srirangav.github.io/motd/2022/05/motd.txt
+              https://srirangav.github.io/motd/2022/05/index.html
+
+04/##/2022    https://srirangav.github.io/motd/2022/04/motd.txt
+              https://srirangav.github.io/motd/2022/04/index.html
+
+03/##/2022    https://srirangav.github.io/motd/2022/03/motd.txt
+              https://srirangav.github.io/motd/2022/03/index.html
