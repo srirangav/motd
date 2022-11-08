@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+11/07/2022    A brief history of FEM:
+
+              https://link.springer.com/article/10.1007/s11831-022-09740-9
+
 11/07/2022    Voting from Antarctica:
 
               https://brr.fyi/posts/voting-from-antarctica
