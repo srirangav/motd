@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+11/13/2022    calloc vs. malloc:
+
+              https://vorpus.org/blog/why-does-calloc-exist/
+
 11/07/2022    Passive pasta cooking:
 
               https://www.barilla.com/en-gb/passive-cooking
