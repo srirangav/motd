@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+11/29/2022    OverSight 2.1.0 is out:
+
+              https://github.com/objective-see/OverSight/releases/tag/v2.1.0
+
 11/19/2022    Depressing a cubic:
 
               https://www.johndcook.com/blog/2022/11/19/how-to-depress-a-cubic/
