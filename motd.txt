@@ -1,6 +1,12 @@
 Current Entries
 ---------------
 
+11/24/2022    OverSight 2.1.1 is out:
+
+              https://github.com/objective-see/OverSight/releases/tag/v2.1.1
+
+              Now requires Monterey (12.x) or newer.
+
 11/23/2022    Let the cat out of the bag:
 
               https://jalopnik.com/the-cats-in-the-bag-furry-friend-attempts-to-sneak-on-1849816030
