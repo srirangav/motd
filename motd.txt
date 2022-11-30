@@ -1,6 +1,12 @@
 Current Entries
 ---------------
 
+11/30/2022    To prevent the iPhone power button from hanging up on a call
+              on iOS 16.x, go to 'Settings' -> 'Accessibility' -> 'Physical
+              and Motor' -> 'Touch' and toggle 'Prevent Lock to End Call':
+
+              https://appleinsider.com/inside/iphone/tips/how-to-prevent-the-iphone-sleep-wake-button-from-ending-calls
+
 11/30/2022    Morley's Theorem - the trisector lines of each angle in an
               arbitrary triangle will intersect at the vertices of an
               equilateral triangle:
