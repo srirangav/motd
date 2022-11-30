@@ -1,6 +1,12 @@
 Current Entries
 ---------------
 
+11/30/2022    Morley's Theorem - the trisector lines of each angle in an
+              arbitrary triangle will intersect at the vertices of an
+              equilateral triangle:
+
+              https://www.johndcook.com/blog/2022/11/30/unexpected-symmetry/
+
 11/24/2022    Another lost Roman emperor - Sponsian?
 
               https://www.sci.news/archaeology/roman-emperor-sponsian-11422.html
