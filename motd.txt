@@ -1,114 +1,18 @@
 Current Entries
 ---------------
 
-11/30/2022    Triangle Symmetries
+12/01/2022    Walking on deformable surfaces, like dirt or sand,
+              requires more work because one needs to "take longer 
+              strides, which in turn leads to increased energy use
+              by muscles in the hips and knees":
 
-              1. Morley's trisector theorem - in any triangle, the three
-                 points of intersection of the adjacent angle trisectors
-                 form an equilateral triangle:
-
-                 https://www.johndcook.com/blog/2022/11/30/unexpected-symmetry/
-                 https://en.m.wikipedia.org/wiki/Morley's_trisector_theorem
-
-              2. Napoleon's theorem - if equilateral triangles are
-                 constructed on the sides of any triangle, either all
-                 outward or all inward, the lines connecting the centres
-                 of those equilateral triangles themselves form an
-                 equilateral triangle:
-
-                 https://www.johndcook.com/blog/2022/11/30/napoleons-theorem/
-                 https://en.m.wikipedia.org/wiki/Napoleon's_theorem
-
-11/30/2022    To prevent the iPhone power button from hanging up on a call
-              on iOS 16.x, go to 'Settings' -> 'Accessibility' ->
-              'Physical and Motor' -> 'Touch' and toggle 'Prevent Lock to
-              End Call':
-
-              https://appleinsider.com/inside/iphone/tips/how-to-prevent-the-iphone-sleep-wake-button-from-ending-calls
-
-11/24/2022    Another lost Roman emperor - Sponsian?
-
-              https://www.sci.news/archaeology/roman-emperor-sponsian-11422.html
-              https://www.ancient-origins.net/news-history-archaeology/emperor-sponsian-coins-0017568
-
-              [Update] Maybe not:
-
-              https://antigonejournal.com/2022/11/sponsian-fake-emperor/
-
-11/24/2022    Sam Fisher is coming to Radio 4:
-
-              https://www.rockpapershotgun.com/bbc-radio-4-are-producing-a-splinter-cell-series
-
-11/24/2022    OverSight 2.1.1 is out:
-
-              https://github.com/objective-see/OverSight/releases/tag/v2.1.1
-
-              Now requires Monterey (12.x) or newer.
-
-11/23/2022    Let the cat out of the bag:
-
-              https://jalopnik.com/the-cats-in-the-bag-furry-friend-attempts-to-sneak-on-1849816030
-
-11/19/2022    OverSight 2.1.0 is out:
-
-              https://github.com/objective-see/OverSight/releases/tag/v2.1.0
-
-11/19/2022    Depressing a cubic:
-
-              https://www.johndcook.com/blog/2022/11/19/how-to-depress-a-cubic/
-
-              A depressed cubic equation is one in which "the
-              the quadratic term has been removed", i.e. one
-              without a x^2:
-
-              x^3 + cx + d = 0
-
-11/13/2022    calloc vs. malloc:
-
-              https://vorpus.org/blog/why-does-calloc-exist/
-
-11/07/2022    Passive pasta cooking:
-
-              https://www.barilla.com/en-gb/passive-cooking
-
-              "Passive Cooking is a technique that has been
-              around since the mid-19th century. It is an
-              alternative method of cooking pasta that saves
-              energy and reduces CO2 emissions ... To adopt
-              it, simply turn off the stove after 2 minutes
-              of active cooking, cover the pot with a lid
-              and wait for the right cooking time."
-
-              Need to try this out soon and see how it compares
-              to regular pasta cooking.
-
-11/07/2022    A brief history of FEM:
-
-              https://link.springer.com/article/10.1007/s11831-022-09740-9
-
-11/07/2022    Voting from Antarctica:
-
-              https://brr.fyi/posts/voting-from-antarctica
-
-11/04/2022    More Strad research:
-
-              https://arstechnica.com/science/2022/11/fresh-chemical-clues-emerge-for-the-unique-sound-of-stradivari-violins/
-
-11/02/2022    Paint vs. Coatings:
-
-              https://practical.engineering/blog/2022/9/28/whats-the-difference-between-paint-and-coatings
-
-11/02/2022    9Front "The Golden Age of Balloning" is out:
-
-              https://9front.org/releases/2022/10/31/0/
-
-11/01/2022    New experimental results about the strong and weak forces:
-
-              https://phys.org/news/2022-11-fundamental-advances-universe.html
-              https://phys.org/news/2022-11-collaborate-weak-nuclear.html
+              https://phys.org/news/2022-12-deforming-surfaces-energy.html
 
 Earlier Entries
 ---------------
+
+11/##/2022    https://srirangav.github.io/motd/2022/11/motd.txt
+              https://srirangav.github.io/motd/2022/11/index.html
 
 10/##/2022    https://srirangav.github.io/motd/2022/10/motd.txt
               https://srirangav.github.io/motd/2022/10/index.html
@@ -133,3 +37,4 @@ Earlier Entries
 
 03/##/2022    https://srirangav.github.io/motd/2022/03/motd.txt
               https://srirangav.github.io/motd/2022/03/index.html
+
