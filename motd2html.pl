@@ -3,25 +3,40 @@
 
 use strict;
 
-# global
+# globals
 
-my $HEADER = "<!DOCTYPE html>\n<html>\n";
-$HEADER .= "<head><title>motd</title></head>\n<body>\n<pre>\n";
-my $FOOTER = "</pre>\n</body>\n</html>\n";
+my $gHeader = <<'EO_HEADER';
+<!DOCTYPE html>
+<html>
+<head><title>motd</title></head>
+<body>
+<pre>
+EO_HEADER
+
+my $gFooter = <<'EO_FOOTER';
+</pre>
+</body>
+</html>
+EO_FOOTER
 
 # main()
 
-print "$HEADER";
+print "$gHeader";
+
+# escape &, <, >, ", and '
+# based on: https://pagedart.com/blog/single-quote-in-html/
 
 while (<>)
 {
     s/\&/\&amp\;/g;
+    s/[\'\’]/\&\#39\;/g;
     s/\</\&lt\;/g;
     s/\>/\&gt\;/g;
+    s/\"/\&\#34\;/g;
     s/(\s*)(http[s]?\:\/\/\S+)/$1\<a href=\"$2\"\>$2\<\/a\>/;
     print $_;
 }
 
-print "$FOOTER";
+print "$gFooter";
 
 exit(0);

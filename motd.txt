@@ -1,17 +1,30 @@
 Current Entries
 ---------------
 
+11/30/2022    Triangle Symmetries
+
+              1. Morley's trisector theorem - in any triangle, the three
+                 points of intersection of the adjacent angle trisectors
+                 form an equilateral triangle:
+
+                 https://www.johndcook.com/blog/2022/11/30/unexpected-symmetry/
+                 https://en.m.wikipedia.org/wiki/Morley's_trisector_theorem
+
+              2. Napoleon's theorem - if equilateral triangles are
+                 constructed on the sides of any triangle, either all
+                 outward or all inward, the lines connecting the centres
+                 of those equilateral triangles themselves form an
+                 equilateral triangle:
+
+                 https://www.johndcook.com/blog/2022/11/30/napoleons-theorem/
+                 https://en.m.wikipedia.org/wiki/Napoleon's_theorem
+
 11/30/2022    To prevent the iPhone power button from hanging up on a call
-              on iOS 16.x, go to 'Settings' -> 'Accessibility' -> 'Physical
-              and Motor' -> 'Touch' and toggle 'Prevent Lock to End Call':
+              on iOS 16.x, go to 'Settings' -> 'Accessibility' ->
+              'Physical and Motor' -> 'Touch' and toggle 'Prevent Lock to
+              End Call':
 
               https://appleinsider.com/inside/iphone/tips/how-to-prevent-the-iphone-sleep-wake-button-from-ending-calls
-
-11/30/2022    Morley's Theorem - the trisector lines of each angle in an
-              arbitrary triangle will intersect at the vertices of an
-              equilateral triangle:
-
-              https://www.johndcook.com/blog/2022/11/30/unexpected-symmetry/
 
 11/24/2022    Another lost Roman emperor - Sponsian?
 
