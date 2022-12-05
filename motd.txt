@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+12/04/2022    OverSight 2.1.2:
+
+              https://github.com/objective-see/OverSight/releases/tag/v2.1.2
+
 12/01/2022    The Don't Die Box:
 
               https://www.youtube.com/watch?v=Aw9M7dKV0oQ
