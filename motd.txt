@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+12/07/2022    Blackstarting the power grid:
+
+              https://practical.engineering/blog/2022/12/5/what-is-a-black-start-of-the-power-grid
+
 12/07/2022    How JWST images are composited:
 
               https://www.scientificamerican.com/article/are-the-james-webb-space-telescopes-pictures-real/
