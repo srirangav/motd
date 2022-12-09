@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+12/08/2022    Long-Baseline News, November 2022 Edition:
+
+              https://www.hep.anl.gov/ndk/longbnews/2211.html
+
 12/08/2022    OverSight 2.1.3:
 
               https://github.com/objective-see/OverSight/releases/tag/v2.1.3
