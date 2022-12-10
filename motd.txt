@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+12/08/2022    Disable some iOS 16 annoyances:
+
+              https://gizmodo.com/ios-16-search-bar-notifications-mail-app-photo-changes-1849857452
+
 12/08/2022    Long-Baseline News, November 2022 Edition:
 
               https://www.hep.anl.gov/ndk/longbnews/2211.html
