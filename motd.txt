@@ -1,6 +1,21 @@
 Current Entries
 ---------------
 
+12/23/2022    On very smooth surfaces adding water can increase
+              friction:
+
+              https://physics.aps.org/articles/v15/196
+
+              "[T]he coefficient of friction (horizontal force
+              divided by normal force) had its minimum value of
+              0.3 when the surfaces were completely dry. As the
+              humidity increased, the coefficient peaked at 0.6
+              when the humidity was 20% and then slowly decreased
+              as the air became more humid. For the fully immersed
+              case, the coefficient was around 0.5, implying that
+              the completely wet surfaces were nearly twice as
+              sticky as the completely dry ones."
+
 12/15/2022    Mammals may have originated in Australia:
 
               https://phys.org/news/2022-12-mammals-island-hopped-australia-colonize-world.html
