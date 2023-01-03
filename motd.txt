@@ -1,104 +1,13 @@
 Current Entries
 ---------------
 
-12/23/2022    On very smooth surfaces adding water can increase
-              friction:
+01/03/2023    Things that make you happy as an adult:
 
-              https://physics.aps.org/articles/v15/196
-
-              "[T]he coefficient of friction (horizontal force
-              divided by normal force) had its minimum value of
-              0.3 when the surfaces were completely dry. As the
-              humidity increased, the coefficient peaked at 0.6
-              when the humidity was 20% and then slowly decreased
-              as the air became more humid. For the fully immersed
-              case, the coefficient was around 0.5, implying that
-              the completely wet surfaces were nearly twice as
-              sticky as the completely dry ones."
-
-12/15/2022    Mammals may have originated in Australia:
-
-              https://phys.org/news/2022-12-mammals-island-hopped-australia-colonize-world.html
-
-12/08/2022    Disable some iOS 16 annoyances:
-
-              https://gizmodo.com/ios-16-search-bar-notifications-mail-app-photo-changes-1849857452
-
-12/08/2022    Long-Baseline News, November 2022 Edition:
-
-              https://www.hep.anl.gov/ndk/longbnews/2211.html
-
-12/08/2022    OverSight 2.1.3:
-
-              https://github.com/objective-see/OverSight/releases/tag/v2.1.3
-
-12/08/2022    Garden sink with integrated hose reel:
-
-              https://www.core77.com/posts/117741/A-Garden-Sink-with-Integrated-Hose-Storage
-
-12/07/2022    Blackstarting the power grid:
-
-              https://practical.engineering/blog/2022/12/5/what-is-a-black-start-of-the-power-grid
-
-12/07/2022    How JWST images are composited:
-
-              https://www.scientificamerican.com/article/are-the-james-webb-space-telescopes-pictures-real/
-              https://static.scientificamerican.com/sciam/assets/Image/2022/saw1222Chri32a_d.png
-
-12/06/2022    The last 747:
-
-              https://www.thedrive.com/the-war-zone/the-last-747-ever-built-has-rolled-off-boeings-production
-              https://www.thedrive.com/news/the-last-ever-boeing-747-has-been-built
-
-12/06/2022    Cold and flu may be more common in winter because our
-              noses immune response may not be as effective when our
-              noses are cold:
-
-              https://gizmodo.com/why-we-get-sick-cold-winter-nose-immune-response-1849859708
-              https://www.jacionline.org/article/S0091-6749(22)01423-3/fulltext#%20
-
-12/04/2022    OverSight 2.1.2:
-
-              https://github.com/objective-see/OverSight/releases/tag/v2.1.2
-
-12/01/2022    The Don't Die Box:
-
-              https://www.youtube.com/watch?v=Aw9M7dKV0oQ
-
-12/01/2022    Walking on deformable surfaces, like dirt or sand,
-              requires more work because one needs to "take longer 
-              strides, which in turn leads to increased energy use
-              by muscles in the hips and knees":
-
-              https://phys.org/news/2022-12-deforming-surfaces-energy.html
+              https://www.hedgerhumor.com/happiness-3/
 
 Earlier Entries
 ---------------
 
-11/##/2022    https://srirangav.github.io/motd/2022/11/motd.txt
-              https://srirangav.github.io/motd/2022/11/index.html
-
-10/##/2022    https://srirangav.github.io/motd/2022/10/motd.txt
-              https://srirangav.github.io/motd/2022/10/index.html
-
-09/##/2022    https://srirangav.github.io/motd/2022/09/motd.txt
-              https://srirangav.github.io/motd/2022/09/index.html
-
-08/##/2022    https://srirangav.github.io/motd/2022/08/motd.txt
-              https://srirangav.github.io/motd/2022/08/index.html
-
-07/##/2022    https://srirangav.github.io/motd/2022/07/motd.txt
-              https://srirangav.github.io/motd/2022/07/index.html
-
-06/##/2022    https://srirangav.github.io/motd/2022/06/motd.txt
-              https://srirangav.github.io/motd/2022/06/index.html
-
-05/##/2022    https://srirangav.github.io/motd/2022/05/motd.txt
-              https://srirangav.github.io/motd/2022/05/index.html
-
-04/##/2022    https://srirangav.github.io/motd/2022/04/motd.txt
-              https://srirangav.github.io/motd/2022/04/index.html
-
-03/##/2022    https://srirangav.github.io/motd/2022/03/motd.txt
-              https://srirangav.github.io/motd/2022/03/index.html
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
 
