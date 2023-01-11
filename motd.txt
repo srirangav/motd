@@ -1,6 +1,11 @@
 Current Entries
 ---------------
 
+01/11/2023    It's nearly 10 years old, but still correct, just use
+              make:
+
+              https://bost.ocks.org/mike/make/
+
 01/09/2023    More granular brightness and volume settings on MacOSX:
 
               https://eshop.macsales.com/blog/83611-how-to-use-your-mac-keyboard-to-for-more-precise-brightness-volume-adjustments/
