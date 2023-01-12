@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+01/12/2023    Use make for web work:
+
+              https://rosszurowski.com/log/2022/makefiles
+
 01/12/2023    Phishing via Local Files:
 
               https://textslashplain.com/2023/01/11/attack-techniques-phishing-via-local-files/
