@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+01/12/2023    Phishing via Local Files:
+
+              https://textslashplain.com/2023/01/11/attack-techniques-phishing-via-local-files/
+
 01/12/2023    Lost Wormhole:
 
               https://www.kleinmania.com/post/23628608950/wormhole
