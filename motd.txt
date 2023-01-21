@@ -1,6 +1,13 @@
 Current Entries
 ---------------
 
+01/20/2023    Check a package signature on MacOSX Monterey (12.x) and
+              newer using pkgutil(1):
+
+              $ /usr/sbin/pkgutil -check-signature [pkg]
+
+              See: https://derflounder.wordpress.com/2023/01/20/verifying-installer-package-signing-and-notarization-using-pkgutil/
+
 01/19/2023    The amount of Cycloartenyl ferulate (CAF) found in brown
               rice contributes to its antioxidant properties according
               to new research from Japan:
