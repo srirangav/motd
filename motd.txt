@@ -1,6 +1,18 @@
 Current Entries
 ---------------
 
+01/31/2023    Disable the power button / touch id key from locking the
+              screen on MacBooks:
+
+              $ defaults write com.apple.loginwindow DisableScreenLockImmediate -bool yes
+
+              From: https://blog.plover.com/tech/mac-lock-button.html
+
+              Other settings that can be configured for the login window
+              can be found here:
+
+              https://developer.apple.com/documentation/devicemanagement/loginwindow?language=objc
+
 01/27/2023    Code lifetime:
 
               https://xkcd.com/2730/
