@@ -1,0 +1,139 @@
+Current Entries
+---------------
+
+01/31/2023    The never-ending problem of Socrates:
+
+              https://antigonejournal.com/2023/01/history-socratic-problem/
+
+01/31/2023    Disable the power button / touch id key from locking the
+              screen on MacBooks:
+
+              $ defaults write com.apple.loginwindow DisableScreenLockImmediate -bool yes
+
+              From: https://blog.plover.com/tech/mac-lock-button.html
+
+              Other settings that can be configured for the login window
+              can be found here:
+
+              https://developer.apple.com/documentation/devicemanagement/loginwindow?language=objc
+
+01/27/2023    Code lifetime:
+
+              https://xkcd.com/2730/
+
+01/20/2023    Check a package signature on MacOSX Monterey (12.x) and
+              newer using pkgutil(1):
+
+              $ /usr/sbin/pkgutil -check-signature [pkg]
+
+              See: https://derflounder.wordpress.com/2023/01/20/verifying-installer-package-signing-and-notarization-using-pkgutil/
+
+01/19/2023    The amount of Cycloartenyl ferulate (CAF) found in brown
+              rice contributes to its antioxidant properties according
+              to new research from Japan:
+
+              https://phys.org/news/2023-01-brown-rice-healthy-decoding-chemistry.html
+
+              "[A] recent study led by Professor Yoshimasa Nakamura
+              from the Graduate School of Environmental and Life
+              Science, Okayama University ... identified cycloartenyl
+              ferulate (CAF) as the main 'cytoprotective' or cell-
+              protecting compound in brown rice. ... [The study found]
+              evidence of CAF's antioxidant properties by demonstrating
+              that it can protect cells from stress caused by hydrogen
+              peroxide. Although hydrogen peroxide is a by-product of
+              a cell's metabolic processes, abnormal amounts of the
+              compound can be toxic to cells and cause irreversible
+              damage. Treatment of cells with CAF increased their
+              resistance to toxic stress induced by hydrogen peroxide."
+
+01/18/2023    Annotated Field Guide to Identifying Phish:
+
+              https://tidbits.com/2023/01/16/an-annotated-field-guide-to-identifying-phish/
+
+01/12/2023    Use make for web work:
+
+              https://rosszurowski.com/log/2022/makefiles
+
+01/12/2023    Phishing via Local Files:
+
+              https://textslashplain.com/2023/01/11/attack-techniques-phishing-via-local-files/
+
+01/12/2023    Lost Wormhole:
+
+              https://www.kleinmania.com/post/23628608950/wormhole
+
+01/12/2023    Wormhole Coffee Table:
+
+              https://laughingsquid.com/wormhole-coffee-table/
+
+              The same master carpenter's Space Time Vase is also
+              awesome:
+
+              https://www.etsy.com/listing/979012675/space-time-vase-made-to-order
+
+01/11/2023    It's nearly 10 years old, but still correct, just use
+              make:
+
+              https://bost.ocks.org/mike/make/
+
+01/09/2023    More granular brightness and volume settings on MacOSX:
+
+              https://eshop.macsales.com/blog/83611-how-to-use-your-mac-keyboard-to-for-more-precise-brightness-volume-adjustments/
+
+              "[T]o make more precise adjustments, hold down the
+               Option and Shift keys together ... [and] [p]ress
+               the volume or brightness controls."
+
+01/09/2023    More on energy efficient pasta cooking:
+
+              https://theconversation.com/italys-pasta-row-a-scientist-on-how-to-cook-spaghetti-properly-and-save-money-191973
+
+              1. "[T]urning off the hob midway and allowing the pasta
+                 to cook in the residual heat will halve the cooking
+                 cost"
+
+              2. "[H]alving the water [used] resulted in perfect pasta"
+
+              3. "[T]here is no need to bring the pan to a 'rolling boil'
+                 at 100 C ... [g]entle simmering is sufficient to cook
+                 the pasta completely"
+
+              4. "Keeping a lid on the pan is another simple thing you
+                 can do."
+
+01/09/2023    The audible periodic table:
+
+              https://physics.aps.org/articles/v16/6
+
+01/06/2023    The secret of Roman concrete - self-healing because of
+              the presence of lime clasts:
+
+              https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106
+
+01/06/2023    December 2022 Books:
+
+              Beethoven - The Universal Composer by Edmund Morris
+              https://www.harperacademic.com/book/9780060759759/beethoven/
+
+              Wonderful compact biography of Beethoven.  It ought
+              to come with a list of recommended recordings for
+              each piece.
+
+              Feynman by Jim Ottaviani (illustrated by Leland Myrick)
+              https://us.macmillan.com/books/9781596438279/feynman
+
+              Basically the graphic novel version of Surely You Are
+              Joking Mr. Feynman and What Do You Care What Other
+              People Think.  Excellent.
+
+01/03/2023    Things that make you happy as an adult:
+
+              https://www.hedgerhumor.com/happiness-3/
+
+Earlier Entries
+---------------
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
