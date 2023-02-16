@@ -1,16 +1,20 @@
 Current Entries
 ---------------
 
+02/16/2023    Alpines might be coming to the US:
+
+              https://www.thedrive.com/news/alpine-cars-could-be-sold-in-america-at-us-autonation-dealerships
+
 02/15/2023    Planetary System Types - Ordered, Anti-Ordered, Mixed, and
               Similar:
 
               https://www.sci.news/astronomy/planetary-system-architecture-11655.html
 
-              1. Ordered: planetary systems where "the mass of the 
+              1. Ordered: planetary systems where "the mass of the
                  planets tends to increase with distance from the star
                  - just as in the Solar System."
-              
-              2. Anti-Ordered: the "mass of the planets roughly decreases 
+
+              2. Anti-Ordered: the "mass of the planets roughly decreases
                  with distance from the star"
 
               3. Mixed - "the planetary masses ... vary greatly from planet
@@ -18,14 +22,14 @@ Current Entries
 
               4. Similar - "the masses of neighboring planets are similar
                  to each other"
-                 
-              Ordered and Anti-Ordered systems result from "[l]arge, massive 
+
+              Ordered and Anti-Ordered systems result from "[l]arge, massive
               [planetary] disks with many heavy elements"
-              
+
               Mixed systems result from "medium-sized disks" and "[d]ynamic
               interactions between planets"
-              
-              Similar systems result from "small, low-mass disks and stars 
+
+              Similar systems result from "small, low-mass disks and stars
               with few heavy elements"
 
 02/02/2023    The Violin Doctor:
