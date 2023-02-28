@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+02/28/2023    Clean code -> Horrible Performance:
+
+              https://www.computerenhance.com/p/clean-code-horrible-performance
+
 02/16/2023    Alpines might be coming to the US:
 
               https://www.thedrive.com/news/alpine-cars-could-be-sold-in-america-at-us-autonation-dealerships
