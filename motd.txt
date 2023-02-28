@@ -1,6 +1,31 @@
 Current Entries
 ---------------
 
+02/28/2023    The world's first carbon fiber reinforced concrete building:
+
+              https://www.dezeen.com/2023/02/21/henn-and-tu-dresden-complete-worlds-first-carbon-concrete-building/
+
+              "German architecture firm Henn and the Technical
+              University of Dresden have completed the world's first
+              building made of carbon concrete – a form of concrete
+              reinforced with carbon fibre instead of steel.
+
+              ...
+
+              According to Henn head of sustainability Giovanni Betti,
+              the slim line of the [building]'s facade was made possible by
+              the use of carbon fibre reinforcement, which is rust-proof
+              and so doesn't need to be covered in as much concrete.
+
+              'Carbon fibre is four times lighter and six times stronger
+              than steel and is not subject to corrosion,' Betti told Dezeen.
+              'This means that the reinforcement does not have to be
+              encapsulated in as much concrete to protect it from water and a
+              same-sized section will be able to carry a higher load.'
+
+              'Components and structures can be designed thinner, with
+              material savings of 50 per cent or more. ...'"
+
 02/28/2023    Clean code -> Horrible Performance:
 
               https://www.computerenhance.com/p/clean-code-horrible-performance
