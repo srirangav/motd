@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+03/10/2023    Disambiguating ARM:
+
+              https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/
+
 03/10/2023    Cmd+Shift+V will now paste plain text in Word:
 
               https://www.ghacks.net/2023/03/10/microsoft-words-long-awaited-shortcut-is-finally-here/
