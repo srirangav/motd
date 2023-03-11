@@ -1,6 +1,12 @@
 Current Entries
 ---------------
 
+03/10/2023    Things I've forgotten - make '.' the first entry in
+              CDPATH so that cd searches for matches in the current
+              directory before looking in other places:
+
+              https://marc.info/?l=openbsd-tech&m=167844952913150&w=2
+
 03/10/2023    Disambiguating ARM:
 
               https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/
