@@ -1,7 +1,11 @@
 Current Entries
 ---------------
 
-03/10/2023    Shell programming tips:
+03/13/2023    ScummVM now supports Syberia and Syberia II:
+
+              https://www.scummvm.org/news/20230312/
+
+03/13/2023    Shell programming tips:
 
               https://www.netmeister.org/blog/writing-shell-scripts.html
               https://j3s.sh/thought/write-posix-shell.html
