@@ -1,6 +1,11 @@
 Current Entries
 ---------------
 
+03/10/2023    Shell programming tips:
+
+              https://www.netmeister.org/blog/writing-shell-scripts.html
+              https://j3s.sh/thought/write-posix-shell.html
+
 03/10/2023    Exploring the In Our Time Archive:
 
               https://genmon.github.io/braggoscope/
