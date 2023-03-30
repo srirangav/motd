@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+03/30/2023    Piezoelectric Liquid:
+
+              https://www.theregister.com/2023/03/29/piezoelectric_liquid_discovery/
+
 03/20/2023    Glass Core Substrates:
 
               https://www.anandtech.com/show/18783/dnp-unveils-glass-core-substrate-chip-packing-technology
