@@ -1,115 +1,15 @@
 Current Entries
 ---------------
 
-03/30/2023    Piezoelectric Liquid:
+03/02/2023    New isotope of Uranium (U-241) discovered
 
-              https://www.theregister.com/2023/03/29/piezoelectric_liquid_discovery/
-
-03/20/2023    Glass Core Substrates:
-
-              https://www.anandtech.com/show/18783/dnp-unveils-glass-core-substrate-chip-packing-technology
-
-03/20/2023    Angled, water-draining bench:
-
-              https://www.core77.com/posts/121325/Daniel-Rybakkens-Water-Draining-Ypsilon-Bench
-
-03/20/2023    Unexpected rise in classical music interest:
-
-              https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected
-
-              Maybe it is because of 2Set?
-
-              https://www.youtube.com/user/twosetviolin
-
-03/18/2023    Previsualization versus Presets in photography:
-
-              https://www.kenrockwell.com/tech/previsualization-vs-presets.htm
-
-03/17/2023    FDIC FAQs:
-
-              https://edie.fdic.gov/fdic_info.html
-
-03/16/2023    Liquid Mirror Telescopes:
-
-              https://www.americanscientist.org/article/liquid-mirror-telescopes
-
-03/13/2023    Two more videos about the Cobalt RaQ:
-
-              https://www.youtube.com/watch?v=PJ6AvtV3Ya4
-              https://www.youtube.com/watch?v=rc293H9hFlc
-
-              I wonder why there is so much renewed interested in
-              Cobalt kit?
-
-03/13/2023    Big Starry Sur wallpaper:
-
-              https://basicappleguy.com/basicappleblog/bigstarrysur
-
-03/13/2023    ScummVM now supports Syberia and Syberia II:
-
-              https://www.scummvm.org/news/20230312/
-
-03/13/2023    Shell programming tips:
-
-              https://www.netmeister.org/blog/writing-shell-scripts.html
-              https://j3s.sh/thought/write-posix-shell.html
-
-03/10/2023    Exploring the In Our Time Archive:
-
-              https://genmon.github.io/braggoscope/
-              https://www.bbc.co.uk/programmes/b006qykl/episodes/downloads
-
-03/10/2023    Things I've forgotten - make '.' the first entry in
-              CDPATH so that cd searches for matches in the current
-              directory before looking in other places:
-
-              https://marc.info/?l=openbsd-tech&m=167844952913150&w=2
-
-03/10/2023    Disambiguating ARM:
-
-              https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/
-
-03/10/2023    Cmd+Shift+V will now paste plain text in Word:
-
-              https://www.ghacks.net/2023/03/10/microsoft-words-long-awaited-shortcut-is-finally-here/
-
-              Cmd+Option+C and Cmd+Option+V will copy and paste
-              formatting, respectively.
-
-03/08/2023    The RaQ2 is vintage computing now:
-
-              https://oldvcr.blogspot.com/2023/03/refurb-weekend-cobalt-raq-2.html
-
-              I remember the RaQ2 was still new-ish when I started
-              at Cobalt and the Qube3, XTR, etc. were still in being
-              worked on.  Good times.
-
-03/08/2023    Aromatic Nitrogen (K9-N56):
-
-              https://phys.org/news/2023-03-synthesis-compound-aromatic-nitrogen.html
-
-03/02/2023    The Trouble With Path Integrals, Parts I and II:
-
-              https://www.math.columbia.edu/~woit/wordpress/?p=13319
-              https://www.math.columbia.edu/~woit/wordpress/?p=13367
-
-              Quantum Field Theory, as Simply as Possible by Zee
-              sounds like a good read:
-
-              https://press.princeton.edu/books/hardcover/9780691174297/quantum-field-theory-as-simply-as-possible
-
-03/01/2023    Anitgone on "Kenneth Clark's Civilisation: A Personal View":
-
-              https://antigonejournal.com/2023/02/kenneth-clark-civilisation/
-
-              Mostly correct review of Civilisation, except perhaps
-              for the statement, "[t]here is no more enlightening
-              program in the history of broadcasting", because
-              James Burke's Connections and The Day the Universe
-              Changed are equally (if not more) enlightening.
+              https://physics.aps.org/articles/v16/s40
 
 Earlier Entries
 ---------------
+
+03/##/2023    https://srirangav.github.io/motd/2023/03/motd.txt
+              https://srirangav.github.io/motd/2023/03/index.html
 
 02/##/2023    https://srirangav.github.io/motd/2023/02/motd.txt
               https://srirangav.github.io/motd/2023/02/index.html
