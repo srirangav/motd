@@ -1,7 +1,12 @@
 Current Entries
 ---------------
 
-03/02/2023    New isotope of Uranium (U-241) discovered
+04/17/2023    Results of a KeePassXC audit:
+
+              https://keepassxc.org/blog/2023-04-15-audit-report/
+              https://www.ghacks.net/2023/04/16/keepassxc-security-audit-published-recommends-this-security-setting/
+
+04/02/2023    New isotope of Uranium (U-241) discovered
 
               https://physics.aps.org/articles/v16/s40
 
