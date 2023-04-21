@@ -1,6 +1,16 @@
 Current Entries
 ---------------
 
+04/20/2023    Return to oral exams?
+
+              https://theconversation.com/why-universities-should-return-to-oral-exams-in-the-ai-and-chatgpt-era-203429
+
+              My contracts professor made us stand and answer
+              questions in class.  I thought it was great.
+              And most PhD programs still have an oral thesis
+              defense.  Starting this early might make it less
+              scary.
+
 04/20/2023    Lockdown mode prevented zero-click exploits:
 
               https://www.schneier.com/blog/archives/2023/04/new-zero-click-exploits-against-ios.html
