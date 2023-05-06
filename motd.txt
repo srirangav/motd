@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+05/05/2023    MPW C compiler error messages:
+
+              https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html
+
 05/01/2023    Riker will be in Star Trek - Resurgence:
 
               https://trekmovie.com/2023/05/01/jonathan-frakes-is-returning-as-captain-riker-for-star-trek-resurgence-game/
