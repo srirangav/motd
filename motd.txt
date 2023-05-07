@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+05/07/2023    The Unix Koans of Master Foo:
+
+              https://prirai.github.io/books/unix-koans.html
+
 05/05/2023    MPW C compiler error messages:
 
               https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html
