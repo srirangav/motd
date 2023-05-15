@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+05/15/2023    KeepassXC 2.7.5 is out:
+
+              https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.5
+
 05/10/2023    Multiple habitable planets in the same orbit:
 
               https://phys.org/news/2023-05-planetary.html
