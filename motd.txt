@@ -1,6 +1,28 @@
 Current Entries
 ---------------
 
+05/17/2023    Mosasaur with screwdriver shaped teeth:
+
+              https://phys.org/news/2023-05-fossil-mosasaur-bizarre-screwdriver-teeth.html
+
+              "The new species, Stelladens mysteriosus, comes from
+              the Late Cretaceous of Morocco and was around twice
+              the size of a dolphin. It had a unique tooth arrangement
+              with blade-like ridges running down the teeth, arranged
+              in a star-shaped pattern, reminiscent of a cross-head
+              screwdriver.
+
+              ...
+
+              'It's a surprise," said Dr. Nick Longrich ...
+              who led the study. 'It's not like any mosasaur, or any
+              reptile, even any vertebrate we've seen before.'
+
+              ...
+
+              'So what's it eating? Phillips head screws? IKEA furniture?
+              Who knows.'"
+
 05/15/2023    KeepassXC 2.7.5 is out:
 
               https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.5
