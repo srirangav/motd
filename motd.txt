@@ -1,6 +1,21 @@
 Current Entries
 ---------------
 
+06/12/2023    Excited He-4 nuclei do not appear to behave in the
+              way that chiral effective theory predicts:
+
+              https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/
+
+              "To test the strong nuclear force, physicists turned to
+              the helium-4 nucleus, which has two protons and two
+              neutrons. When helium nuclei are excited, they grow like
+              an inflating balloon until one of the protons pops off.
+              Surprisingly, in a recent experiment, helium nuclei didn’t
+              swell according to plan: They ballooned more than expected
+              before they burst. A measurement describing that
+              expansion, called the form factor, is twice as large as
+              theoretical predictions."
+
 06/09/2023    Why elephants have whiskers on their trunks:
 
               https://phys.org/news/2023-06-elephants-whiskers-trunks.html
