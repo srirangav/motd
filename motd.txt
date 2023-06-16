@@ -1,6 +1,15 @@
 Current Entries
 ---------------
 
+06/15/2023    Where a program's config files should go on modern
+              systems:
+
+              https://utcc.utoronto.ca/~cks/space/blog/unix/DotfilesWhereToday?showcomments#comments
+
+              The modern preference is to store config files in
+              "$XDG_CONFIG_HOME/[pgm]", which usually ends up
+              being ~/.config/[pgm].
+
 06/12/2023    Excited He-4 nuclei do not appear to behave in the
               way that chiral effective theory predicts:
 
