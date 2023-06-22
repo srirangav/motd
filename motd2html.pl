@@ -1,14 +1,25 @@
 #!/usr/bin/perl -wT
 # motd2html - convert motd to html
+#
+# v. 0.1.0 - initial version
+# v. 0.1.1 - add RSS autodiscovery support, based on:
+#            https://www.rssboard.org/rss-autodiscovery
+#            https://www.chromium.org/user-experience/feed-subscriptions/
 
 use strict;
 
 # globals
 
-my $gHeader = <<'EO_HEADER';
+my $gTitle  = "motd";
+my $gRSSURL = "https://github.com/srirangav/motd/commits.atom";
+
+my $gHeader = <<"EO_HEADER";
 <!DOCTYPE html>
 <html>
-<head><title>motd</title></head>
+<head>
+<title>$gTitle</title>
+<link rel="alternate" type="application/atom+xml" href="$gRSSURL">
+</head>
 <body>
 <pre>
 EO_HEADER
@@ -40,3 +51,4 @@ while (<>)
 print "$gFooter";
 
 exit(0);
+
