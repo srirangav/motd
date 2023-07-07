@@ -1,82 +1,16 @@
 Current Entries
 ---------------
 
-06/21/2023    A brown dwarf hotter than the Sun:
+07/06/2023    Electrons are "really, really round":
 
-              https://phys.org/news/2023-06-discovery-brown-dwarf-hotter-sun.html
-
-06/21/2023    In defense of Kirk:
-
-              https://www.startrek.com/news/captains-week-in-defense-of-captain-kirk
-
-06/20/2023    Iron Nitride Magnets:
-
-              https://hackaday.com/2022/09/01/iron-nitrides-powerful-magnets-without-the-rare-earth-elements/
-
-              Funniest comment: "At last! Magnets are more Irony."
-
-06/20/2023    Mini WOPR:
-
-              https://miniatua.com/work/wopr/
-
-06/18/2023    Schwarzschild and the exact solution:
-
-              https://4gravitons.com/2023/06/16/solutions-and-solutions/
-
-06/15/2023    Where a program's config files should go on modern
-              systems:
-
-              https://utcc.utoronto.ca/~cks/space/blog/unix/DotfilesWhereToday?showcomments#comments
-
-              The modern preference is to store config files in
-              "$XDG_CONFIG_HOME/[pgm]", which usually ends up
-              being ~/.config/[pgm].
-
-06/12/2023    Excited He-4 nuclei do not appear to behave in the
-              way that chiral effective theory predicts:
-
-              https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/
-
-              "To test the strong nuclear force, physicists turned to
-              the helium-4 nucleus, which has two protons and two
-              neutrons. When helium nuclei are excited, they grow like
-              an inflating balloon until one of the protons pops off.
-              Surprisingly, in a recent experiment, helium nuclei didn’t
-              swell according to plan: They ballooned more than expected
-              before they burst. A measurement describing that
-              expansion, called the form factor, is twice as large as
-              theoretical predictions."
-
-06/09/2023    Why elephants have whiskers on their trunks:
-
-              https://phys.org/news/2023-06-elephants-whiskers-trunks.html
-
-              "[T]he purpose of the whiskers [on an elephant's trunk]
-              is to help the elephant gauge how much pressure to use
-              when squeezing an object"
-
-06/09/2023    World Book 2023:
-
-              https://arstechnica.com/culture/2023/06/rejoice-its-2023-and-you-can-still-buy-a-22-volume-paper-encyclopedia/
-
-              We have an older one, and like it enormously.
-
-06/09/2023    CSI Regency Ball:
-
-              https://wronghands1.com/2023/06/09/csi-regency-ball/
-
-              Related - Regency Novel or Pandemic, and Horror in
-              the time of Austen:
-
-              https://wronghands1.com/2020/05/26/regency-novel-or-pandemic-life/
-              https://wronghands1.com/2022/10/14/horror-in-the-time-of-austen/
-
-06/07/2023    An overview of motlen salt reactors:
-
-              https://hackaday.com/2023/06/07/the-integral-molten-salt-reactor-and-the-benefits-of-having-a-liquid-fission-reactor/
+              https://www.sciencenews.org/article/electron-round-new-measurement-matter-physics
+              https://phys.org/news/2023-07-roundness-electrons-clues.html
 
 Earlier Entries
 ---------------
+
+06/##/2023    https://srirangav.github.io/motd/2023/06/motd.txt
+              https://srirangav.github.io/motd/2023/06/index.html
 
 05/##/2023    https://srirangav.github.io/motd/2023/05/motd.txt
               https://srirangav.github.io/motd/2023/05/index.html
