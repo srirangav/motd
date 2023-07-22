@@ -1,6 +1,26 @@
 Current Entries
 ---------------
 
+07/22/2023    "Dark Oxygen":
+
+              https://www.quantamagazine.org/underground-cells-make-dark-oxygen-without-light-20230717/
+
+              "[A] type of methane-feeding bacteria often found in lake
+              sediments and wastewater sludges ha[ve] a strange way of
+              life. Instead of taking in oxygen from its surroundings
+              like other aerobes, the bacteria create[ their] own oxygen
+              by using enzymes to break down the soluble compounds called
+              nitrites (which contain a chemical group made of nitrogen
+              and two oxygen atoms). The bacteria use[] the self-generated
+              oxygen to split methane for energy. ... When microbes break
+              down compounds this way, it’s called dismutation. Until now,
+              it was thought to be rare in nature as a method for
+              generating oxygen. Recent laboratory experiments involving
+              artificial microbe communities, however, revealed that the
+              oxygen produced by dismutation can leak out of the cells and
+              into the surrounding medium to the benefit of other oxygen-
+              dependent organisms, in a kind of symbiotic process."
+
 07/17/2023    Underwater ears:
 
               https://computer.rip/2023-07-15-underwater-ears-everywhere.html
