@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+07/23/2023    Command hashing in shells is probably not needed anymore:
+
+              https://utcc.utoronto.ca/~cks/space/blog/unix/DropShellCommandHashing
+
 07/22/2023    Stargate Paris:
 
               https://m.youtube.com/watch?v=mTJpUsHa7Eg
