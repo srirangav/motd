@@ -1,6 +1,26 @@
 Current Entries
 ---------------
 
+07/27/2023    Why some alloys do not expand as the temperature increases:
+
+              https://phys.org/news/2023-07-alloys-dont-size.html
+
+              "There is ... a class of metal alloys called Invars ...
+              that stubbornly refuse to change in size and density over
+              a large range of temperatures. ...  At cooler
+              temperatures, ... [an] Invar's electrons share[] the same
+              spin state, causing them to move farther apart and
+              push[ing] their parent atoms farther apart as well.  As
+              the temperature of the Invar r[ises], the spin state of
+              some of [its] electrons increasingly flip[]. As a result,
+              the electrons bec[o]me more comfortable cozying up to
+              their neighboring electrons. Typically, this would cause
+              the Invar to contract as it warm[s] up. But [because] the
+              Invar's atoms [a]re also vibrating more and taking up more
+              room. The contraction due to changing spin states and the
+              atomic vibration expansion counteract[] each other, and
+              the Invar stay[s] the same size."
+
 07/27/2023    A pair of new tetraquarks:
 
               https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.041902
