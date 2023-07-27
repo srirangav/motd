@@ -1,6 +1,17 @@
 Current Entries
 ---------------
 
+07/27/2023    A pair of new tetraquarks:
+
+              https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.041902
+              https://physics.aps.org/articles/v16/s42
+
+              "In the past two decades, dozens of tetraquark candidates
+              have been observed at the LHC and elsewhere. The newly
+              discovered states stand out, as they are rare examples of
+              'open-charm' mesons, in which a charm quark is present
+              without a corresponding charm antiquark."
+
 07/27/2023    Classic sibling arguments:
 
               https://www.hedgerhumor.com/wp-content/uploads/2023/07/Siblings-Thinking-Hedger.jpg
