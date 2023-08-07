@@ -1,0 +1,171 @@
+Current Entries
+---------------
+
+07/27/2023    Why some alloys do not expand as the temperature increases:
+
+              https://phys.org/news/2023-07-alloys-dont-size.html
+
+              "There is ... a class of metal alloys called Invars ...
+              that stubbornly refuse to change in size and density over
+              a large range of temperatures. ...  At cooler
+              temperatures, ... [an] Invar's electrons share[] the same
+              spin state, causing them to move farther apart and
+              push[ing] their parent atoms farther apart as well.  As
+              the temperature of the Invar r[ises], the spin state of
+              some of [its] electrons increasingly flip[]. As a result,
+              the electrons bec[o]me more comfortable cozying up to
+              their neighboring electrons. Typically, this would cause
+              the Invar to contract as it warm[s] up. But [because] the
+              Invar's atoms [a]re also vibrating more and taking up more
+              room. The contraction due to changing spin states and the
+              atomic vibration expansion counteract[] each other, and
+              the Invar stay[s] the same size."
+
+07/27/2023    A pair of new tetraquarks:
+
+              https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.041902
+              https://physics.aps.org/articles/v16/s42
+
+              "In the past two decades, dozens of tetraquark candidates
+              have been observed at the LHC and elsewhere. The newly
+              discovered states stand out, as they are rare examples of
+              'open-charm' mesons, in which a charm quark is present
+              without a corresponding charm antiquark."
+
+07/27/2023    Classic sibling arguments:
+
+              https://www.hedgerhumor.com/wp-content/uploads/2023/07/Siblings-Thinking-Hedger.jpg
+              https://www.hedgerhumor.com/national-siblings-day-2/
+
+07/23/2023    Slice onions pole to pole to reduce eye watering:
+
+              https://laughingsquid.com/how-to-cut-onion/
+
+              "The key sulfur product in the onion is called the
+              lacrimator and this is released when we cut them.
+              It is also the chemical responsible for making our eyes
+              water ... onion cells are not symmetrical they're
+              actually longer in pole-to-pole than orbital, meaning
+              that orbital cuts rupture more onion cells releasing
+              more lacrimators, meaning more eye watering[.]"
+
+07/23/2023    Command hashing in shells is probably not needed anymore:
+
+              https://utcc.utoronto.ca/~cks/space/blog/unix/DropShellCommandHashing
+
+07/22/2023    Stargate Paris:
+
+              https://m.youtube.com/watch?v=mTJpUsHa7Eg
+
+07/22/2023    "Dark Oxygen":
+
+              https://www.quantamagazine.org/underground-cells-make-dark-oxygen-without-light-20230717/
+
+              "[A] type of methane-feeding bacteria often found in lake
+              sediments and wastewater sludges ha[ve] a strange way of
+              life. Instead of taking in oxygen from its surroundings
+              like other aerobes, the bacteria create[ their] own oxygen
+              by using enzymes to break down the soluble compounds called
+              nitrites (which contain a chemical group made of nitrogen
+              and two oxygen atoms). The bacteria use[] the self-generated
+              oxygen to split methane for energy. ... When microbes break
+              down compounds this way, it’s called dismutation. Until now,
+              it was thought to be rare in nature as a method for
+              generating oxygen. Recent laboratory experiments involving
+              artificial microbe communities, however, revealed that the
+              oxygen produced by dismutation can leak out of the cells and
+              into the surrounding medium to the benefit of other oxygen-
+              dependent organisms, in a kind of symbiotic process."
+
+07/17/2023    Underwater ears:
+
+              https://computer.rip/2023-07-15-underwater-ears-everywhere.html
+
+07/14/2023    Requiem for the Foghorn:
+
+              https://nautil.us/requiem-for-the-foghorn-353787/
+
+              The Ray Bradbury quote "It sounds like an animal,
+              don't it" matches my memory of the San Francisco
+              bay fog horn - it sounds like the worlds largest
+              goose.
+
+07/13/2023    New study confirms that mass is mass:
+
+              https://www.sciencenews.org/article/mass-moon-orbit-gravity-space
+              https://physics.aps.org/articles/v16/s97
+
+              Angela Collier has a great related video:
+
+              https://m.youtube.com/watch?v=6HlCfwEduqA
+
+07/13/2023    Caterham Project V:
+
+              https://uncrate.com/caterham-project-v-electric-sports-car/
+
+07/13/2023    The rings and bar of NGC 1398:
+
+              https://apod.nasa.gov/apod/ap230712.html
+
+              "Spiral galaxy NGC 1398 not only has a ring of pearly
+              stars, gas and dust around its center, but a bar of stars
+              and gas across its center, and spiral arms that appear
+              like ribbons farther out. ... The ring near the center is
+              likely an expanding density wave of star formation, caused
+              either by a gravitational encounter with another galaxy,
+              or by the galaxy's own gravitational asymmetries."
+
+07/13/2023    Magnet Detectives:
+
+              https://www.symmetrymagazine.org/article/the-magnet-detectives
+
+07/13/2023    Hex-Chess:
+
+              https://www.youtube.com/watch?v=bgR3yESAEVE
+
+07/13/2023    The shiniest known exoplanet:
+
+              https://www.smithsonianmag.com/smart-news/this-mirror-like-exoplanet-is-the-most-reflective-ever-discovered-180982522/
+              https://www.sci.news/astronomy/cheops-metal-clouds-atmosphere-ultrahot-neptune-12078.html
+
+              "[E]xoplanet LTT 9779b reflects 80% of the light shone on
+              it by its host star, LTT 9779, making it the shiniest
+              exoplanet ever found. The reason for its high reflectivity
+              is that it is covered by reflective clouds of metal and
+              silicate."
+
+07/08/2023    Nancy Drew 34 - Mystery of the Seven Keys:
+
+              https://m.youtube.com/watch?v=JWp_zCEZ8pQ
+
+              Looking forward to this.
+
+07/06/2023    Electrons are "really, really round":
+
+              https://www.sciencenews.org/article/electron-round-new-measurement-matter-physics
+              https://phys.org/news/2023-07-roundness-electrons-clues.html
+
+Earlier Entries
+---------------
+
+06/##/2023    https://srirangav.github.io/motd/2023/06/motd.txt
+              https://srirangav.github.io/motd/2023/06/index.html
+
+05/##/2023    https://srirangav.github.io/motd/2023/05/motd.txt
+              https://srirangav.github.io/motd/2023/05/index.html
+
+04/##/2023    https://srirangav.github.io/motd/2023/04/motd.txt
+              https://srirangav.github.io/motd/2023/04/index.html
+
+03/##/2023    https://srirangav.github.io/motd/2023/03/motd.txt
+              https://srirangav.github.io/motd/2023/03/index.html
+
+02/##/2023    https://srirangav.github.io/motd/2023/02/motd.txt
+              https://srirangav.github.io/motd/2023/02/index.html
+
+01/##/2023    https://srirangav.github.io/motd/2023/01/motd.txt
+              https://srirangav.github.io/motd/2023/01/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
