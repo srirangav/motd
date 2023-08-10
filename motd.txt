@@ -1,6 +1,13 @@
 Current Entries
 ---------------
 
+08/09/2023    When did Postgres become cool?
+
+              https://www.crunchydata.com/blog/when-did-postgres-become-cool
+
+              Having used Postgres (and many other DBs), I'd
+              say Postgres was always cool.
+
 08/09/2023    Things book lovers do:
 
               https://www.hedgerhumor.com/book-lovers-day/
