@@ -1,6 +1,11 @@
 Current Entries
 ---------------
 
+08/14/2023    Accidental iOS 4 and Flow desktops from BasicAppleGuy:
+
+              https://basicappleguy.com/basicappleblog/accidental-ios-4
+              https://basicappleguy.com/haberdashery/flow
+
 08/09/2023    When did Postgres become cool?
 
               https://www.crunchydata.com/blog/when-did-postgres-become-cool
