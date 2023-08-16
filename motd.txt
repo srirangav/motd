@@ -1,6 +1,16 @@
 Current Entries
 ---------------
 
+08/16/2023    CrossOvers 23.0 and KeePassXC 2.7.6 are out:
+
+              https://www.codeweavers.com/blog/mjohnson/2023/8/16/level-up-with-crossover-23
+              https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.6
+
+08/15/2023    Parallels currently only supports WSL 1 on Win11 on Mx
+              Macs:
+
+              https://kb.parallels.com/en/129234
+
 08/14/2023    Accidental iOS 4 and Flow desktops from BasicAppleGuy:
 
               https://basicappleguy.com/basicappleblog/accidental-ios-4
@@ -41,7 +51,7 @@ Current Entries
               surface such as an electrode. But [] UCLA investigators
               developed a technique that prevents that corrosion and
               showed that, in its absence, lithium atoms assemble into a
-              surprising shape—the rhombic dodecahedron, a 12-sided
+              surprising shape - the rhombic dodecahedron, a 12-sided
               figure similar to the dice used in role-playing games"
 
 Earlier Entries
