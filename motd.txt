@@ -1,6 +1,13 @@
 Current Entries
 ---------------
 
+08/18/2023    EagleFiler 1.9.12 is out:
+
+              https://c-command.com/blog/2023/08/18/eaglefiler-1-9-12/
+
+              I'm looking forward to EagleFiler 2.x, which should
+              be a native Mx (arm) application.
+
 08/18/2023    The plumber problem:
 
               https://hypercritical.co/2023/08/18/the-plumber-problem
