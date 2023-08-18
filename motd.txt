@@ -1,6 +1,27 @@
 Current Entries
 ---------------
 
+08/18/2023    Measuring the true darkness of the universe:
+
+              https://phys.org/news/2023-08-horizons-true-darkness-universe.html
+
+              "Recently the New Horizons team tried to capture the
+              fragile darkness of the universe. They aimed New Horizons
+              at a patch of sky far away from the Milky Way, away from
+              the sun, and away from bright stars. Then they measure[d]
+              how much light the camera captured.
+
+              When they compared that amount to the amount captured by
+              Hubble's view of dark sky, they found it was darker by an
+              expected amount, but there is still some faint glow [the]
+              astronomers c[ould]n't explain. If you calculate the
+              background light you'd expect from distant galaxies all
+              the way back to the big bang, New Horizons measured about
+              twice as much. So the team plan to observe 15 other dark
+              locations over the next month, hoping to see the naked
+              dark of the cosmos, or to verify this mysterious background
+              glow."
+
 08/18/2023    Why Koalas hug trees:
 
               https://www.youtube.com/watch?v=2STv9bsoyWE
