@@ -1,6 +1,15 @@
 Current Entries
 ---------------
 
+08/28/2023    Apparently there may be problems with SanDisk's
+              external SSDs:
+
+              https://mjtsai.com/blog/2023/08/28/self-wiping-sandisk-extreme-ssds/
+
+              I have several of these and they seem reliable, but
+              since I mainly use them for backups, it might be
+              prudent to add some Samsungs to the mix.
+
 08/28/2023    Disable animated cover art in Apple Music:
 
               https://appleinsider.com/inside/apple-music/tips/how-to-disable-animated-cover-art-in-apple-music
