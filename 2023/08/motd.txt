@@ -1,0 +1,173 @@
+Current Entries
+---------------
+
+08/31/2023    O-28 is unexpectedly unstable:
+
+              https://www.sci.news/physics/oxygen-28-12227.html
+              https://www.nature.com/articles/d41586-023-02713-3
+
+08/31/2023    The mystery of "strange" metals - it's entanglement:
+
+              https://physics.aps.org/articles/v16/148
+
+08/31/2023    Throwing away a box with instructions only to dig it out
+              of the trash / recycle bin:
+
+              https://www.hedgerhumor.com/ugh-2/
+
+              Happens to me all the time.
+
+08/28/2023    Why skin gets wrinkly after a long swim / bath:
+
+              https://theconversation.com/why-do-fingers-get-wrinkly-after-a-long-bath-or-swim-a-biomedical-engineer-explains-204726
+
+08/28/2023    Apparently there may be problems with SanDisk's
+              external SSDs:
+
+              https://mjtsai.com/blog/2023/08/28/self-wiping-sandisk-extreme-ssds/
+
+              I have several of these and they seem reliable, but
+              since I mainly use them for backups, it might be
+              prudent to add some Samsung SSDs to the mix.
+
+08/28/2023    Disable animated cover art in Apple Music:
+
+              https://appleinsider.com/inside/apple-music/tips/how-to-disable-animated-cover-art-in-apple-music
+
+              Seems like this should be off by default.
+
+08/23/2023    Best All Season Tires for the Snow:
+
+              https://www.thedrive.com/guides-and-gear/best-all-season-tires-for-snow
+
+08/23/2023    A new Broken Sword is coming (along with a remaster of the
+              first one):
+
+              https://www.polygon.com/23838090/broken-sword-6-bs1-remaster-trailer-release-date
+              https://www.polygon.com/23842925/broken-sword-6-bs1-remaster-charles-cecil
+              https://www.rockpapershotgun.com/classic-adventure-series-broken-sword-returns-with-a-sixth-instalment-and-a-beautiful-remaster
+
+08/18/2023    Measuring the true darkness of the universe:
+
+              https://phys.org/news/2023-08-horizons-true-darkness-universe.html
+
+              "Recently the New Horizons team tried to capture the
+              fragile darkness of the universe. They aimed New Horizons
+              at a patch of sky far away from the Milky Way, away from
+              the sun, and away from bright stars. Then they measure[d]
+              how much light the camera captured.
+
+              When they compared that amount to the amount captured by
+              Hubble's view of dark sky, they found it was darker by an
+              expected amount, but there is still some faint glow [the]
+              astronomers c[ould]n't explain. If you calculate the
+              background light you'd expect from distant galaxies all
+              the way back to the big bang, New Horizons measured about
+              twice as much. So the team plan to observe 15 other dark
+              locations over the next month, hoping to see the naked
+              dark of the cosmos, or to verify this mysterious background
+              glow."
+
+08/18/2023    Why Koalas hug trees:
+
+              https://www.youtube.com/watch?v=2STv9bsoyWE
+
+08/18/2023    EagleFiler 1.9.12 is out:
+
+              https://c-command.com/blog/2023/08/18/eaglefiler-1-9-12/
+
+              I'm looking forward to EagleFiler 2.x, which should
+              be a native Mx (arm) application.
+
+08/18/2023    The plumber problem:
+
+              https://hypercritical.co/2023/08/18/the-plumber-problem
+
+08/18/2023    Too many fonts may slow down Windows apps:
+
+              https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/
+
+08/17/2023    Eating cookies:
+
+              https://www.hedgerhumor.com/eating-cookies/
+
+08/16/2023    CrossOvers 23.0 and KeePassXC 2.7.6 are out:
+
+              https://www.codeweavers.com/blog/mjohnson/2023/8/16/level-up-with-crossover-23
+              https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.6
+
+08/15/2023    Parallels currently only supports WSL 1 on Win11 on Mx
+              Macs:
+
+              https://kb.parallels.com/en/129234
+
+08/14/2023    Accidental iOS 4 and Flow desktops from BasicAppleGuy:
+
+              https://basicappleguy.com/basicappleblog/accidental-ios-4
+              https://basicappleguy.com/haberdashery/flow
+
+08/09/2023    When did Postgres become cool?
+
+              https://www.crunchydata.com/blog/when-did-postgres-become-cool
+
+              Having used Postgres (and many other DBs), I'd
+              say Postgres was always cool.
+
+08/09/2023    Things book lovers do:
+
+              https://www.hedgerhumor.com/book-lovers-day/
+
+08/07/2023    Mind reading:
+
+              https://www.hedgerhumor.com/mind-reading-2/
+
+08/07/2023    MacOS easter eggs:
+
+              https://www.macrumors.com/2023/08/07/10-hidden-easter-eggs-in-macos/
+
+              I didn't know about most of these.
+
+08/07/2023    Ravenchord - a new kind of upright piano:
+
+              https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/
+
+08/07/2023    Absent corrosion, Li occurs as a rhombic dodecahedron:
+
+              https://phys.org/news/2023-08-true-lithium-revealed.html
+
+              "Metallic lithium reacts so easily with chemicals that,
+              under normal conditions, corrosion forms almost
+              immediately while the metal is being laid down on a
+              surface such as an electrode. But [] UCLA investigators
+              developed a technique that prevents that corrosion and
+              showed that, in its absence, lithium atoms assemble into a
+              surprising shape - the rhombic dodecahedron, a 12-sided
+              figure similar to the dice used in role-playing games"
+
+Earlier Entries
+---------------
+
+07/##/2023    https://srirangav.github.io/motd/2023/07/motd.txt
+              https://srirangav.github.io/motd/2023/07/index.html
+
+06/##/2023    https://srirangav.github.io/motd/2023/06/motd.txt
+              https://srirangav.github.io/motd/2023/06/index.html
+
+05/##/2023    https://srirangav.github.io/motd/2023/05/motd.txt
+              https://srirangav.github.io/motd/2023/05/index.html
+
+04/##/2023    https://srirangav.github.io/motd/2023/04/motd.txt
+              https://srirangav.github.io/motd/2023/04/index.html
+
+03/##/2023    https://srirangav.github.io/motd/2023/03/motd.txt
+              https://srirangav.github.io/motd/2023/03/index.html
+
+02/##/2023    https://srirangav.github.io/motd/2023/02/motd.txt
+              https://srirangav.github.io/motd/2023/02/index.html
+
+01/##/2023    https://srirangav.github.io/motd/2023/01/motd.txt
+              https://srirangav.github.io/motd/2023/01/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
