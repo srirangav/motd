@@ -7,3 +7,4 @@ Feed:        https://github.com/srirangav/motd/commits.atom
 
 Inspired by: https://www.curiositry.com/blog.txt
              https://sive.rs/plaintext
+             https://shinobi.bt.ht/
