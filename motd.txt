@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+09/06/2023    Carbon Copy Clonder v.6.1.7 with Sonoma support:
+
+              https://bombich.com/kb/ccc6/release-notes#6.1.7
+
 09/05/2023    G5 Upgrades:
 
               https://lowendmac.com/2023/maximizing-the-agp-power-mac-g5-into-space-and-beyond/
