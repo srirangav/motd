@@ -1,6 +1,11 @@
 Current Entries
 ---------------
 
+09/08/2023    How changing a ZFS filesystem's recordsize affects
+              existing files:
+
+              https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSRecordsizeChangeEffects
+
 09/08/2023    YA exploit blocked by lockdown mode:
 
               https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/
