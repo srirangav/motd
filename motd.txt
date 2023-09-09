@@ -1,6 +1,13 @@
 Current Entries
 ---------------
 
+09/08/2023    Samsung ViewFinty S9 Review:
+
+              https://sixcolors.com/post/2023/09/review-27-inch-samsung-viewfinity-s9-display/
+
+              Guess I'll have to stick to my LG 24" UltraFine
+              for the forseeable future.
+
 09/08/2023    How changing a ZFS filesystem's recordsize affects
               existing files:
 
