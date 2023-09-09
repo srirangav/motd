@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+09/08/2023    Quartz:
+
+              https://hackaday.com/2023/09/06/mining-and-refining-quartz-both-natural-and-synthetic/
+
 09/08/2023    Project 8 - measuring neutrino mass using tritium beta decay:
 
               https://phys.org/news/2023-09-elusive-neutrino.html
@@ -10,7 +14,7 @@ Current Entries
               https://sixcolors.com/post/2023/09/review-27-inch-samsung-viewfinity-s9-display/
 
               Guess I'll have to stick to my LG 24" UltraFine
-              for the forseeable future.
+              for the foreseeable future.
 
 09/08/2023    How changing a ZFS filesystem's recordsize affects
               existing files:
