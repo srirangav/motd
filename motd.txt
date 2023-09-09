@@ -1,6 +1,13 @@
 Current Entries
 ---------------
 
+09/09/2023    SoftGPU for Win9x VMs in Bochs, VirtualBox and Qemu:
+
+              https://github.com/JHRobotics/softgpu
+
+              Looks interesting as an alternative to Voodoo
+              emulation in Dosbox-X.
+
 09/09/2023    Disable in-app rating and reviews:
 
               $ defaults write com.apple.appstore InAppReviewEnabled -bool false
