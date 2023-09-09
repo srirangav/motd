@@ -1,6 +1,12 @@
 Current Entries
 ---------------
 
+09/09/2023    Disable in-app rating and reviews:
+
+              $ defaults write com.apple.appstore InAppReviewEnabled -bool false
+
+              From: https://derflounder.wordpress.com/2023/07/20/disabling-in-app-review-requests-for-apps-installed-from-the-macos-app-store/
+
 09/09/2023    C-shaped surge protector for desks:
 
               https://www.core77.com/posts/125678/This-U-Shaped-Power-Strip-Clings-to-Things
