@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+09/11/2023    Pixelmator Pro 3.4 with enhanced PDF editing:
+
+              https://www.pixelmator.com/blog/2023/09/11/pixelmator-pro-3-4-brings-advanced-support-for-pdf-files/
+
 09/11/2023    Lightweight (27g) emergency iPhone battery backup:
 
               https://diglloyd.com/blog/2023/20230909_1200-Battarix-SOS-charge-card.html
