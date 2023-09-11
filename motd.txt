@@ -1,6 +1,14 @@
 Current Entries
 ---------------
 
+09/11/2023    MAC address database:
+
+              https://maclookup.app
+
+              CSV:  https://maclookup.app/downloads/csv-database
+              JSON: https://maclookup.app/downloads/json-database
+              XML:  https://maclookup.app/downloads/cisco-vendor-macs-xml-database
+
 09/09/2023    SoftGPU for Win9x VMs in Bochs, VirtualBox and Qemu:
 
               https://github.com/JHRobotics/softgpu
