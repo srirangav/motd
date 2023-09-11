@@ -1,6 +1,10 @@
 Current Entries
 ---------------
 
+09/11/2023    Lightweight (27g) emergency iPhone battery backup:
+
+              https://diglloyd.com/blog/2023/20230909_1200-Battarix-SOS-charge-card.html
+
 09/11/2023    MAC address database:
 
               https://maclookup.app
