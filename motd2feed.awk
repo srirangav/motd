@@ -61,7 +61,7 @@ function printEntryEnd()
 
    # end of all the entries, stop processing lines
 
-   if (entry == 1 && $0 ~ /^Earlier/) {
+   if (entry == 1 && $0 ~ /^Older/) {
        printEntryEnd();
        exit;
    }

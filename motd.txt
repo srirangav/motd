@@ -1,5 +1,5 @@
-Current Entries
----------------
+motd - 09/##/2023
+-----------------
 
 09/12/2023    Beavers are back in the south bay:
 
@@ -138,8 +138,8 @@ Current Entries
               https://www.youtube.com/watch?v=epMDcqKoQys
               https://www.youtube.com/watch?v=MHKRQSZ_SFQ
 
-Earlier Entries
----------------
+Older
+-----
 
 08/##/2023    https://srirangav.github.io/motd/2023/08/motd.txt
               https://srirangav.github.io/motd/2023/08/index.html
@@ -167,4 +167,11 @@ Earlier Entries
 
 ##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
               https://srirangav.github.io/motd/2022/index.html
+
+URLS
+----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+HTML:         https://srirangav.github.io/motd/index.html
+RSS:          https://srirangav.github.io/motd/rss.xml
 
