@@ -168,8 +168,8 @@ Older
 ##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
               https://srirangav.github.io/motd/2022/index.html
 
-URLS
-----
+Links
+-----
 
 Text:         https://srirangav.github.io/motd/motd.txt
 HTML:         https://srirangav.github.io/motd/index.html

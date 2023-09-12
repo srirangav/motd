@@ -118,12 +118,6 @@ function printEntryEnd()
 }
 
 END {
-    # close the last entry
-
-    #print "</pre>]]>"
-    #print "</description>"
-    #print "</item>"
-
     # close the feed
 
     print "</channel>";
