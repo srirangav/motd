@@ -26,3 +26,5 @@ DerivedData
 *~
 
 motd
+motd.urls
+motd.cache

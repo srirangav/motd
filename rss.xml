@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+<title>motd</title>
+<link>https://srirangav.github.io/motd/</link>
+<description>Message of the Day</description
+<item>
+<pubDate>Tue, 12 Sep 2023 00:00:00 PST</pubDate>
+<title>Beavers are back in the south bay</title>
+<description>
+<![CDATA[
+<pre>Beavers are back in the south bay:
+
+https://phys.org/news/2023-09-baby-beaver-sighting-california-comeback.html
+
+&#34;[A beaver] kit sighting in Matadero Creek ...
+marks the first time in decades - if not more
+than a century - that a beaver colony has taken
+up residence in this region south of the San
+Francisco Bay.&#34;
+
+Welcome back!
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Mon, 11 Sep 2023 00:00:00 PST</pubDate>
+<title>AWK 2nd Edition is coming on Oct 1, 2023</title>
+<description>
+<![CDATA[
+<pre>AWK 2nd Edition is coming on Oct 1, 2023:
+
+https://awk.dev/
+
+Pre-orders (Amazon, B&amp;N):
+
+https://www.amazon.com/dp/0138269726
+https://www.barnesandnoble.com/w/awk-programming-language-alfred-v-aho/1122685951?ean=9780138269777
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Mon, 11 Sep 2023 00:00:00 PST</pubDate>
+<title>Pixelmator Pro 3.4 with enhanced PDF editing</title>
+<description>
+<![CDATA[
+<pre>Pixelmator Pro 3.4 with enhanced PDF editing:
+
+https://www.pixelmator.com/blog/2023/09/11/pixelmator-pro-3-4-brings-advanced-support-for-pdf-files/
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Mon, 11 Sep 2023 00:00:00 PST</pubDate>
+<title>Lightweight (27g) emergency iPhone battery backup</title>
+<description>
+<![CDATA[
+<pre>Lightweight (27g) emergency iPhone battery backup:
+
+https://diglloyd.com/blog/2023/20230909_1200-Battarix-SOS-charge-card.html
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Mon, 11 Sep 2023 00:00:00 PST</pubDate>
+<title>MAC address database</title>
+<description>
+<![CDATA[
+<pre>MAC address database:
+
+https://maclookup.app
+
+CSV:  https://maclookup.app/downloads/csv-database
+JSON: https://maclookup.app/downloads/json-database
+XML:  https://maclookup.app/downloads/cisco-vendor-macs-xml-database
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Sat, 09 Sep 2023 00:00:00 PST</pubDate>
+<title>SoftGPU for Win9x VMs in Bochs, VirtualBox and Qemu</title>
+<description>
+<![CDATA[
+<pre>SoftGPU for Win9x VMs in Bochs, VirtualBox and Qemu:
+
+https://github.com/JHRobotics/softgpu
+
+Looks interesting as an alternative to Voodoo
+emulation in Dosbox-X.
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Sat, 09 Sep 2023 00:00:00 PST</pubDate>
+<title>Disable in-app rating and reviews</title>
+<description>
+<![CDATA[
+<pre>Disable in-app rating and reviews:
+
+$ defaults write com.apple.appstore InAppReviewEnabled -bool false
+
+From: https://derflounder.wordpress.com/2023/07/20/disabling-in-app-review-requests-for-apps-installed-from-the-macos-app-store/
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Sat, 09 Sep 2023 00:00:00 PST</pubDate>
+<title>C-shaped surge protector for desks</title>
+<description>
+<![CDATA[
+<pre>C-shaped surge protector for desks:
+
+https://www.core77.com/posts/125678/This-U-Shaped-Power-Strip-Clings-to-Things
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Fri, 08 Sep 2023 00:00:00 PST</pubDate>
+<title>Quartz</title>
+<description>
+<![CDATA[
+<pre>Quartz:
+
+https://hackaday.com/2023/09/06/mining-and-refining-quartz-both-natural-and-synthetic/
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Fri, 08 Sep 2023 00:00:00 PST</pubDate>
+<title>Project 8 - measuring neutrino mass using tritium beta decay</title>
+<description>
+<![CDATA[
+<pre>Project 8 - measuring neutrino mass using tritium beta decay:
+
+https://phys.org/news/2023-09-elusive-neutrino.html
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Fri, 08 Sep 2023 00:00:00 PST</pubDate>
+<title>Samsung ViewFinty S9 Review</title>
+<description>
+<![CDATA[
+<pre>Samsung ViewFinty S9 Review:
+
+https://sixcolors.com/post/2023/09/review-27-inch-samsung-viewfinity-s9-display/
+
+Guess I&#39;ll have to stick to my LG 24&#34; UltraFine
+for the foreseeable future.
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Fri, 08 Sep 2023 00:00:00 PST</pubDate>
+<title>How changing a ZFS filesystem's recordsize affects</title>
+<description>
+<![CDATA[
+<pre>How changing a ZFS filesystem's recordsize affects:
+existing files:
+
+https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSRecordsizeChangeEffects
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Fri, 08 Sep 2023 00:00:00 PST</pubDate>
+<title>YA exploit blocked by lockdown mode</title>
+<description>
+<![CDATA[
+<pre>YA exploit blocked by lockdown mode:
+
+https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/
+
+Lockdown mode really ought to be enabled
+by default.
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Fri, 08 Sep 2023 00:00:00 PST</pubDate>
+<title>Long-Baseline news for August 2023</title>
+<description>
+<![CDATA[
+<pre>Long-Baseline news for August 2023:
+
+https://www.hep.anl.gov/ndk/longbnews/2308.html
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Wed, 06 Sep 2023 00:00:00 PST</pubDate>
+<title>New icons from the Iconfactory</title>
+<description>
+<![CDATA[
+<pre>New icons from the Iconfactory:
+
+https://blog.iconfactory.com/2023/09/an-iconic-anniversary/
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Wed, 06 Sep 2023 00:00:00 PST</pubDate>
+<title>Of course the Stig drives a Lancia</title>
+<description>
+<![CDATA[
+<pre>Of course the Stig drives a Lancia:
+(and a Delta Integrale at that):
+
+https://www.youtube.com/watch?v=6B0NMLoTfMs
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Wed, 06 Sep 2023 00:00:00 PST</pubDate>
+<title>Voyager returns in Lower Decks Season 4</title>
+<description>
+<![CDATA[
+<pre>Voyager returns in Lower Decks Season 4:
+
+https://trekmovie.com/2023/09/06/watch-the-uss-voyager-returns-in-star-trek-lower-decks-season-4-premiere-clip/
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Wed, 06 Sep 2023 00:00:00 PST</pubDate>
+<title>Wikimedia DNS (DNS over HTTPS (DoH) & DNS over TLS (DoT))</title>
+<description>
+<![CDATA[
+<pre>Wikimedia DNS (DNS over HTTPS (DoH) & DNS over TLS (DoT)):
+
+https://meta.m.wikimedia.org/wiki/Wikimedia_DNS
+
+DNS Server IP: 185.71.138.138
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Wed, 06 Sep 2023 00:00:00 PST</pubDate>
+<title>Carbon Copy Cloner v.6.1.7 with Sonoma support</title>
+<description>
+<![CDATA[
+<pre>Carbon Copy Cloner v.6.1.7 with Sonoma support:
+
+https://bombich.com/kb/ccc6/release-notes#6.1.7
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Tue, 05 Sep 2023 00:00:00 PST</pubDate>
+<title>G5 Upgrades</title>
+<description>
+<![CDATA[
+<pre>G5 Upgrades:
+
+https://lowendmac.com/2023/maximizing-the-agp-power-mac-g5-into-space-and-beyond/
+
+The G5 tower was a nice machine.  I liked it a
+lot.  Other Macs that I regret selling are my
+Sawtooth G4, my Quicksilver G4, and my Pismo.
+
+The one Mac that I would like to have owned is
+a Lampshade iMac.  Other Macs that might have
+been nice to own are a SE/30 and a Quadra 700.
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Fri, 01 Sep 2023 00:00:00 PST</pubDate>
+<title>Surviorship / selection bias</title>
+<description>
+<![CDATA[
+<pre>Surviorship / selection bias:
+
+https://nautil.us/this-wwii-story-made-us-better-thinkers-353414/
+
+Obligatory related xkcd:
+
+https://xkcd.com/2618/
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Fri, 01 Sep 2023 00:00:00 PST</pubDate>
+<title>Electronic signatures</title>
+<description>
+<![CDATA[
+<pre>Electronic signatures:
+
+https://www.hedgerhumor.com/ridiculous-moments/
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Fri, 01 Sep 2023 00:00:00 PST</pubDate>
+<title>Espresso drinks and iced coffee drinks explained</title>
+<description>
+<![CDATA[
+<pre>Espresso drinks and iced coffee drinks explained:
+
+https://www.youtube.com/watch?v=epMDcqKoQys
+https://www.youtube.com/watch?v=MHKRQSZ_SFQ
+
+</pre>]]>
+</description>
+</item>
+</channel>
+</rss>
