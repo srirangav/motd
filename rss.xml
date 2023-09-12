@@ -163,10 +163,10 @@ for the foreseeable future.
 </item>
 <item>
 <pubDate>Fri, 08 Sep 2023 00:00:00 PST</pubDate>
-<title>How changing a ZFS filesystem's recordsize affects</title>
+<title>How changing a ZFS filesystem&#39;s recordsize affects</title>
 <description>
 <![CDATA[
-<pre>How changing a ZFS filesystem's recordsize affects:
+<pre>How changing a ZFS filesystem&#39;s recordsize affects:
 existing files:
 
 https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSRecordsizeChangeEffects
@@ -240,10 +240,10 @@ https://trekmovie.com/2023/09/06/watch-the-uss-voyager-returns-in-star-trek-lowe
 </item>
 <item>
 <pubDate>Wed, 06 Sep 2023 00:00:00 PST</pubDate>
-<title>Wikimedia DNS (DNS over HTTPS (DoH) & DNS over TLS (DoT))</title>
+<title>Wikimedia DNS (DNS over HTTPS (DoH) &amp; DNS over TLS (DoT))</title>
 <description>
 <![CDATA[
-<pre>Wikimedia DNS (DNS over HTTPS (DoH) & DNS over TLS (DoT)):
+<pre>Wikimedia DNS (DNS over HTTPS (DoH) &amp; DNS over TLS (DoT)):
 
 https://meta.m.wikimedia.org/wiki/Wikimedia_DNS
 

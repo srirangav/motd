@@ -6,6 +6,7 @@
 #           https://www.rssboard.org/rss-specification
 #
 # v. 0.1.0 - initial version
+# v. 0.1.1 - html escape the title of each entry
 #
 # TODO: add support for processing older entries
 
@@ -17,6 +18,20 @@ BEGIN {
     print "<title>motd</title>";
     print "<link>https://srirangav.github.io/motd/</link>";
     print "<description>Message of the Day</description>";
+}
+
+# add html escape to the input string
+
+function htmlEscape(str)
+{
+    if (str == "") { return ""; }
+
+    gsub(/\&/, "\\&amp;", str);
+    gsub(/[\'\’]/, "\\&#39;", str);
+    gsub(/\</, "\\&lt;", str);
+    gsub(/\>/, "\\&gt;", str);
+    gsub(/\"/, "\\&#34;", str);
+    return str;
 }
 
 {
@@ -65,9 +80,10 @@ BEGIN {
         # print the title and repeat it as the first line
         # of the description
 
-        printf("<title>%s</title>\n", $0);
+        itemTitle = htmlEscape($0);
+        printf("<title>%s</title>\n", itemTitle);
         print "<description>"
-        printf("<![CDATA[\n<pre>%s:\n", $0);
+        printf("<![CDATA[\n<pre>%s:\n", itemTitle);
         next;
     }
 
@@ -76,12 +92,7 @@ BEGIN {
 
     if (entry == 1) {
         sub(/^\ {14}/, "");
-        gsub(/\&/, "\\&amp;");
-        gsub(/[\'\’]/, "\\&#39;");
-        gsub(/\</, "\\&lt;");
-        gsub(/\>/, "\\&gt;");
-        gsub(/\"/, "\\&#34;");
-        print;
+        print htmlEscape($0);
         next;
     }
 }
