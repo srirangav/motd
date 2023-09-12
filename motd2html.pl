@@ -11,14 +11,13 @@ use strict;
 # globals
 
 my $gTitle  = "motd";
-my $gRSSURL = "https://github.com/srirangav/motd/commits.atom";
 
 my $gHeader = <<"EO_HEADER";
 <!DOCTYPE html>
 <html>
 <head>
 <title>$gTitle</title>
-<link rel="alternate" type="application/atom+xml" href="$gRSSURL">
+<link rel="alternate" type="application/rss+xml" href="rss.xml">
 </head>
 <body>
 <pre>

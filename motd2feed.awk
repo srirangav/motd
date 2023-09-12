@@ -12,15 +12,24 @@
 
 BEGIN {
     entry = 0;
+
+    # variables for feed details
+
+    motdTitle = "motd";
+    motdURL = "https://srirangav.github.io/motd/";
+    motdDesc = "Message of the day";
+
+    # print rss feed header
+
     print "<?xml version=\"1.0\"?>";
     print "<rss version=\"2.0\">";
     print "<channel>";
-    print "<title>motd</title>";
-    print "<link>https://srirangav.github.io/motd/</link>";
-    print "<description>Message of the Day</description>";
+    printf("<title>%s</title>\n", motdTitle);
+    printf("<link>%s</link>\n", motdURL);
+    printf("<description>%s</description>\n", motdDesc);
 }
 
-# add html escape to the input string
+# htmlEscape - html escapes the provided string
 
 function htmlEscape(str)
 {
@@ -34,6 +43,17 @@ function htmlEscape(str)
     return str;
 }
 
+# printEntryEnd - close the xml for an entry
+
+function printEntryEnd()
+{
+    print "</pre>]]>";
+    print "</description>";
+    print "</item>";
+}
+
+# Main
+
 {
    # skip all lines till we get the first entry
 
@@ -41,7 +61,10 @@ function htmlEscape(str)
 
    # end of all the entries, stop processing lines
 
-   if (entry == 1 && $0 ~ /^Earlier/) { exit; }
+   if (entry == 1 && $0 ~ /^Earlier/) {
+       printEntryEnd();
+       exit;
+   }
 
    # this is the first line of an entry
 
@@ -50,11 +73,7 @@ function htmlEscape(str)
         # if we already have an entry, close it and
         # start a new one
 
-        if (entry == 1) {
-            print "</pre>]]>"
-            print "</description>"
-            print "</item>"
-        }
+        if (entry == 1) { printEntryEnd(); }
 
         # have an entry
 
@@ -66,6 +85,7 @@ function htmlEscape(str)
 
         # print the published date of this entry in RFC822 format
         # based on: https://stackoverflow.com/questions/2121896
+        # TODO - check for errors from date
 
         cmd = "date -j -f \"%m/%d/%Y\" " $1 " +\"%a, %d %b %Y\"";
         cmd | getline rssDate;
@@ -98,9 +118,14 @@ function htmlEscape(str)
 }
 
 END {
-    print "</pre>]]>"
-    print "</description>"
-    print "</item>"
+    # close the last entry
+
+    #print "</pre>]]>"
+    #print "</description>"
+    #print "</item>"
+
+    # close the feed
+
     print "</channel>";
     print "</rss>";
 }
