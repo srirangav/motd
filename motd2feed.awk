@@ -16,7 +16,7 @@ BEGIN {
     print "<channel>";
     print "<title>motd</title>";
     print "<link>https://srirangav.github.io/motd/</link>";
-    print "<description>Message of the Day</description";
+    print "<description>Message of the Day</description>";
 }
 
 {
