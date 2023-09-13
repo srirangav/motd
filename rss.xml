@@ -1944,11 +1944,11 @@ with few heavy elements&#34;
 </item>
 <item>
 <pubDate>Tue, 31 Jan 2023 00:00:00 PST</pubDate>
-<title>Disable the power button / touch id key from locking the</title>
+<title>Disable the power button / touch id key from locking the screen</title>
 <description>
 <![CDATA[
-<pre>Disable the power button / touch id key from locking the:
-screen on MacBooks:
+<pre>Disable the power button / touch id key from locking the screen:
+on MacBooks:
 
 $ defaults write com.apple.loginwindow DisableScreenLockImmediate -bool yes
 
@@ -1976,11 +1976,11 @@ can be found here:
 </item>
 <item>
 <pubDate>Fri, 20 Jan 2023 00:00:00 PST</pubDate>
-<title>Check a package signature on MacOSX Monterey (12.x) and</title>
+<title>Check a package signature on MacOSX Monterey (12.x)</title>
 <description>
 <![CDATA[
-<pre>Check a package signature on MacOSX Monterey (12.x) and:
-newer using pkgutil(1):
+<pre>Check a package signature on MacOSX Monterey (12.x):
+and newer using pkgutil(1):
 
 $ /usr/sbin/pkgutil -check-signature [pkg]
 
@@ -2083,11 +2083,10 @@ awesome:
 </item>
 <item>
 <pubDate>Wed, 11 Jan 2023 00:00:00 PST</pubDate>
-<title>It&#39;s nearly 10 years old, but still correct, just use</title>
+<title>It&#39;s nearly 10 years old, but still correct, just use make</title>
 <description>
 <![CDATA[
-<pre>It&#39;s nearly 10 years old, but still correct, just use:
-make:
+<pre>It&#39;s nearly 10 years old, but still correct, just use make:
 
 <a href="https://bost.ocks.org/mike/make/">https://bost.ocks.org/mike/make/</a>
 
@@ -2688,10 +2687,10 @@ And Two Set (temporarily) has a pair of Strads:
 </item>
 <item>
 <pubDate>Mon, 24 Oct 2022 00:00:00 PST</pubDate>
-<title>KeePassXC is out</title>
+<title>KeePassXC 2.7.3 is out</title>
 <description>
 <![CDATA[
-<pre>KeePassXC is out:
+<pre>KeePassXC 2.7.3 is out:
 
 <a href="https://keepassxc.org/blog/2022-10-23-2.7.3-released/">https://keepassxc.org/blog/2022-10-23-2.7.3-released/</a>
 
@@ -2727,6 +2726,7 @@ MacPorts 2.8.0:
 OverSight (microphone and camera monitor for OSX) 2.0.2:
 
     <a href="https://github.com/objective-see/OverSight/releases/tag/v2.0.2">https://github.com/objective-see/OverSight/releases/tag/v2.0.2</a>
+
 OpenBSD 7.2:
 
     <a href="https://marc.info/?l=openbsd-misc&amp;m=166627387020774&amp;w=2">https://marc.info/?l=openbsd-misc&amp;m=166627387020774&amp;w=2</a>
@@ -3696,10 +3696,10 @@ From: <a href="https://www.johndcook.com/blog/2019/10/29/computing-pi-with-bc/">
 </item>
 <item>
 <pubDate>Thu, 31 Mar 2022 00:00:00 PST</pubDate>
-<title>Enable /disable low power mode on Monterey (12.x) with pmset</title>
+<title>Enable / disable low power mode on Monterey (12.x) with pmset</title>
 <description>
 <![CDATA[
-<pre>Enable /disable low power mode on Monterey (12.x) with pmset:
+<pre>Enable / disable low power mode on Monterey (12.x) with pmset:
 
 $ sudo pmset -a lowpowermode 1
 $ sudo pmset -a lowpowermode 0

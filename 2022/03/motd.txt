@@ -12,7 +12,7 @@
               From: https://www.johndcook.com/blog/2019/10/29/computing-pi-with-bc/
                     https://leancrew.com/all-this/2021/02/some-bc-stuff/
 
-03/31/2022    Enable /disable low power mode on Monterey (12.x) with pmset:
+03/31/2022    Enable / disable low power mode on Monterey (12.x) with pmset:
 
               $ sudo pmset -a lowpowermode 1
               $ sudo pmset -a lowpowermode 0

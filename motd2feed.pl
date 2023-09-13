@@ -77,7 +77,7 @@ while (<>)
 
     # end of entries
 
-    if ($gEntry == 1 && $_ =~ /^(Older|Earlier)/) 
+    if ($gEntry == 1 && $_ =~ /^(Older|Earlier)/)
     {
         # close out the entry
         print $gCloseEntry;
@@ -96,8 +96,8 @@ while (<>)
         # if we already have an entry, close it and
         # start a new one
 
-        if ($gEntry == 1) 
-        { 
+        if ($gEntry == 1)
+        {
             print $gCloseEntry;
             $gEntryClosed = 0;
         }
@@ -116,12 +116,12 @@ while (<>)
             print "<item>\n";
 
             my $time = Time::Piece->strptime($rawTime, "%m/%d/%Y");
-            print "<pubDate>" . $time->strftime("%a, %d %b %Y") . 
+            print "<pubDate>" . $time->strftime("%a, %d %b %Y") .
                   " 00:00:00 PST</pubDate>\n";
 
             $rawTitle =~ s/\:$//;
             my $title = encode_entities($rawTitle);
-            
+
             print "<title>$title</title>\n";
             print "<description>\n";
             print "<![CDATA[\n<pre>$title:\n";

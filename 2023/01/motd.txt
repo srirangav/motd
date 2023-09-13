@@ -5,8 +5,8 @@ Current Entries
 
               https://antigonejournal.com/2023/01/history-socratic-problem/
 
-01/31/2023    Disable the power button / touch id key from locking the
-              screen on MacBooks:
+01/31/2023    Disable the power button / touch id key from locking the screen
+              on MacBooks:
 
               $ defaults write com.apple.loginwindow DisableScreenLockImmediate -bool yes
 
@@ -21,8 +21,8 @@ Current Entries
 
               https://xkcd.com/2730/
 
-01/20/2023    Check a package signature on MacOSX Monterey (12.x) and
-              newer using pkgutil(1):
+01/20/2023    Check a package signature on MacOSX Monterey (12.x)
+              and newer using pkgutil(1):
 
               $ /usr/sbin/pkgutil -check-signature [pkg]
 
@@ -72,8 +72,7 @@ Current Entries
 
               https://www.etsy.com/listing/979012675/space-time-vase-made-to-order
 
-01/11/2023    It's nearly 10 years old, but still correct, just use
-              make:
+01/11/2023    It's nearly 10 years old, but still correct, just use make:
 
               https://bost.ocks.org/mike/make/
 

@@ -34,7 +34,7 @@ Current Entries
 
               https://m.youtube.com/watch?v=D61mkEwFPmM
 
-10/24/2022    KeePassXC is out:
+10/24/2022    KeePassXC 2.7.3 is out:
 
               https://keepassxc.org/blog/2022-10-23-2.7.3-released/
 
@@ -54,6 +54,7 @@ Current Entries
               OverSight (microphone and camera monitor for OSX) 2.0.2:
 
                   https://github.com/objective-see/OverSight/releases/tag/v2.0.2
+
               OpenBSD 7.2:
 
                   https://marc.info/?l=openbsd-misc&m=166627387020774&w=2
