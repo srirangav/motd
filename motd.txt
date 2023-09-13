@@ -1,6 +1,18 @@
 motd - 09/##/2023
 -----------------
 
+09/12/2023    Which BSD did you start on?
+
+              https://rubenerd.com/which-bsd-did-you-start-on/
+
+              My first full BSD was SunOS 4.1.1 on a SS2. In
+              terms of BSD userland, it is a toss-up between
+              MachTen or Domain/OS.
+
+              As an aside, the SS2 is one of my favorite Sparcs.
+              The others I fondly remember are the SS10 and the
+              Ultra 1.
+
 09/12/2023    Ice water may help you cool down more efficiently:
 
               https://www.inverse.com/health/cold-water-cool-body-off-hydration-experts-explain
