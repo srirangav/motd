@@ -1,5 +1,6 @@
 #!/usr/bin/perl -wT
 # motd2html - convert motd to html
+# Copyright (c) 2023 Sriranga Veeraraghavan.  All rights reserved.
 #
 # v. 0.1.0 - initial version
 # v. 0.1.1 - add RSS autodiscovery support, based on:

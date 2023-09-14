@@ -1,13 +1,12 @@
 #!/usr/bin/perl -wT
 # motd2feed - create a rss feed for the motd
+# Copyright (c) 2023 Sriranga Veeraraghavan.  All rights reserved.
 #
 # Based on: https://shinobi.bt.ht/
 #           https://shinobi.bt.ht/feed.xml
 #           https://www.rssboard.org/rss-specification
 #
-# v. 0.1.0 - initial version
-# v. 0.1.1 - html escape the title of each entry
-# v. 0.2.0 - convert to perl
+# v. 0.1.0 - initial Perl version
 
 use strict;
 use Time::Piece;

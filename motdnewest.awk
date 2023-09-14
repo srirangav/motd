@@ -1,6 +1,18 @@
 #!/usr/bin/awk -f
+# motdnewest.awk - print the most recent motd entry
+# Copyright (c) 2023 Sriranga Veeraraghavan.  All rights reserved.
+#
+# v. 0.1.0 - initial version
+# v. 0.1.1 - if no arguments are provided, read ./motd
 
-BEGIN { entry = 0; }
+BEGIN {
+    entry = 0;
+
+    if (ARGC < 2) {
+        ARGV[1] = "./motd" ;
+        ARGC = 2 ;
+    }
+}
 
 {
 
