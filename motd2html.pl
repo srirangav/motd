@@ -18,7 +18,11 @@ my $gHeader = <<"EO_HEADER";
 <html>
 <head>
 <title>$gTitle</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport"
+      content="width=device-width, minimum-scale=1, initial-scale=1, shrink-to-fit=no">
 <link rel="alternate" type="application/rss+xml" href="rss.xml">
+<style>pre { overflow: auto; }</style>
 </head>
 <body>
 <pre>
