@@ -21,7 +21,7 @@ my $gDesc  = "Message of the day";
 # rss header
 
 my $gHeader = <<"EO_HEADER";
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
 <title>$gTitle</title>
@@ -64,6 +64,13 @@ my $gEntryClosed = 0;
 # print the rss header
 
 print "$gHeader";
+
+# add the last build date
+
+my $gBuildTime = Time::Piece->new;
+print "<lastBuildDate>";
+print $gBuildTime->strftime("%a, %d %b %Y %H:%M:%S %Z");
+print "</lastBuildDate>\n";
 
 # process STDIN or all files provided as arguments
 
