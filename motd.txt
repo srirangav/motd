@@ -1,6 +1,21 @@
 motd - 09/##/2023
 -----------------
 
+09/14/2023    Postmodern Jukebox covers:
+
+              https://www.youtube.com/@postmodernjukebox/videos
+
+              Some good ones include:
+
+              Uptown Girl:   https://www.youtube.com/watch?v=ddyCCqjcpG0
+              Power of Love: https://www.youtube.com/watch?v=roh7bM3QAXc
+              Don't Stop Believin':
+                             https://www.youtube.com/watch?v=sRa-8Do2bdA
+              Still Haven't Found What I'm Looking For:
+                             https://www.youtube.com/watch?v=8EbLlgKFk9c
+              Africa:        https://www.youtube.com/watch?v=IUlRavyDP6o
+              Ice Ice Baby:  https://www.youtube.com/watch?v=Anx5IctHVGU
+
 09/14/2023    Honda is making an electrical Motocompo:
 
               https://www.inverse.com/tech/honda-motocompacto-electric-scooter-price-release-date
@@ -215,5 +230,10 @@ Links
 
 Text:         https://srirangav.github.io/motd/motd.txt
 HTML:         https://srirangav.github.io/motd/index.html
-RSS:          https://srirangav.github.io/motd/rss.xml
+RSS (all entries):
+              https://srirangav.github.io/motd/rss.xml
+RSS (current month's entries only):
+              https://srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only):
+              https://srirangav.github.io/motd/rss-ytd.xml
 
