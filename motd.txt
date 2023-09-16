@@ -1,6 +1,10 @@
 motd - 09/##/2023
 -----------------
 
+09/15/2023    Other approaches to detect gravitational waves:
+
+              https://www.sciencenews.org/article/gravitational-waves-detection-lasers-atoms
+
 09/14/2023    Postmodern Jukebox covers:
 
               https://www.youtube.com/@postmodernjukebox/videos
