@@ -4,7 +4,19 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Fri, 15 Sep 2023 17:38:13 PDT</lastBuildDate>
+<lastBuildDate>Sun, 17 Sep 2023 12:00:55 PDT</lastBuildDate>
+<item>
+<pubDate>Sun, 17 Sep 2023 00:00:00 PST</pubDate>
+<title>Meansort (a quicksort variant)</title>
+<description>
+<![CDATA[
+<pre>Meansort (a quicksort variant):
+
+<a href="https://craftofcoding.wordpress.com/2023/09/17/what-is-meansort/">https://craftofcoding.wordpress.com/2023/09/17/what-is-meansort/</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Fri, 15 Sep 2023 00:00:00 PST</pubDate>
 <title>Other approaches to detect gravitational waves</title>
@@ -470,11 +482,10 @@ Obligatory related xkcd:
 </item>
 <item>
 <pubDate>Thu, 31 Aug 2023 00:00:00 PST</pubDate>
-<title>Throwing away a box with instructions only to dig it out</title>
+<title>Throwing away a box with instructions only to dig it back out</title>
 <description>
 <![CDATA[
-<pre>Throwing away a box with instructions only to dig it out:
-of the trash / recycle bin:
+<pre>Throwing away a box with instructions only to dig it back out:
 
 <a href="https://www.hedgerhumor.com/ugh-2/">https://www.hedgerhumor.com/ugh-2/</a>
 
@@ -497,11 +508,10 @@ Happens to me all the time.
 </item>
 <item>
 <pubDate>Mon, 28 Aug 2023 00:00:00 PST</pubDate>
-<title>Apparently there may be problems with SanDisk&#39;s</title>
+<title>Apparently there may be problems with SanDisk external SSDs</title>
 <description>
 <![CDATA[
-<pre>Apparently there may be problems with SanDisk&#39;s:
-external SSDs:
+<pre>Apparently there may be problems with SanDisk external SSDs:
 
 <a href="https://mjtsai.com/blog/2023/08/28/self-wiping-sandisk-extreme-ssds/">https://mjtsai.com/blog/2023/08/28/self-wiping-sandisk-extreme-ssds/</a>
 
@@ -540,11 +550,10 @@ Seems like this should be off by default.
 </item>
 <item>
 <pubDate>Wed, 23 Aug 2023 00:00:00 PST</pubDate>
-<title>A new Broken Sword is coming (along with a remaster of the</title>
+<title>A new Broken Sword is coming</title>
 <description>
 <![CDATA[
-<pre>A new Broken Sword is coming (along with a remaster of the:
-first one):
+<pre>A new Broken Sword is coming:
 
 <a href="https://www.polygon.com/23838090/broken-sword-6-bs1-remaster-trailer-release-date">https://www.polygon.com/23838090/broken-sword-6-bs1-remaster-trailer-release-date</a>
 <a href="https://www.polygon.com/23842925/broken-sword-6-bs1-remaster-charles-cecil">https://www.polygon.com/23842925/broken-sword-6-bs1-remaster-charles-cecil</a>
@@ -660,11 +669,10 @@ be a native Mx (arm) application.
 </item>
 <item>
 <pubDate>Tue, 15 Aug 2023 00:00:00 PST</pubDate>
-<title>Parallels currently only supports WSL 1 on Win11 on Mx</title>
+<title>Parallels currently only supports WSL 1 on Win11 on Mx Macs</title>
 <description>
 <![CDATA[
-<pre>Parallels currently only supports WSL 1 on Win11 on Mx:
-Macs:
+<pre>Parallels currently only supports WSL 1 on Win11 on Mx Macs:
 
 <a href="https://kb.parallels.com/en/129234">https://kb.parallels.com/en/129234</a>
 

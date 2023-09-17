@@ -10,8 +10,7 @@ Current Entries
 
               https://physics.aps.org/articles/v16/148
 
-08/31/2023    Throwing away a box with instructions only to dig it out
-              of the trash / recycle bin:
+08/31/2023    Throwing away a box with instructions only to dig it back out:
 
               https://www.hedgerhumor.com/ugh-2/
 
@@ -21,8 +20,7 @@ Current Entries
 
               https://theconversation.com/why-do-fingers-get-wrinkly-after-a-long-bath-or-swim-a-biomedical-engineer-explains-204726
 
-08/28/2023    Apparently there may be problems with SanDisk's
-              external SSDs:
+08/28/2023    Apparently there may be problems with SanDisk external SSDs:
 
               https://mjtsai.com/blog/2023/08/28/self-wiping-sandisk-extreme-ssds/
 
@@ -40,8 +38,7 @@ Current Entries
 
               https://www.thedrive.com/guides-and-gear/best-all-season-tires-for-snow
 
-08/23/2023    A new Broken Sword is coming (along with a remaster of the
-              first one):
+08/23/2023    A new Broken Sword is coming:
 
               https://www.polygon.com/23838090/broken-sword-6-bs1-remaster-trailer-release-date
               https://www.polygon.com/23842925/broken-sword-6-bs1-remaster-charles-cecil
@@ -96,8 +93,7 @@ Current Entries
               https://www.codeweavers.com/blog/mjohnson/2023/8/16/level-up-with-crossover-23
               https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.6
 
-08/15/2023    Parallels currently only supports WSL 1 on Win11 on Mx
-              Macs:
+08/15/2023    Parallels currently only supports WSL 1 on Win11 on Mx Macs:
 
               https://kb.parallels.com/en/129234
 

@@ -1,6 +1,10 @@
 motd - 09/##/2023
 -----------------
 
+09/17/2023    Meansort (a quicksort variant):
+
+              https://craftofcoding.wordpress.com/2023/09/17/what-is-meansort/
+
 09/15/2023    Other approaches to detect gravitational waves:
 
               https://www.sciencenews.org/article/gravitational-waves-detection-lasers-atoms
