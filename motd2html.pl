@@ -13,7 +13,7 @@ use Digest::MD5 qw(md5 md5_hex md5_base64);
 # globals
 
 my $gTitle = "motd";
-my $gLink  = "https://srirangav.github.io/motd";
+#my $gLink  = "https://srirangav.github.io/motd";
 
 my $gHeader = <<"EO_HEADER";
 <!DOCTYPE html>
@@ -61,7 +61,7 @@ while (<>)
     if (/^([01][0-9])\/[0-3][0-9]\/([0-9]{4})\s+/ && $older == 0)
     {
         my $digest = md5_hex($_);
-        print "<a name=\"$gLink/$2/$1/index.html#$digest\">";
+        print "<a name=\"$digest\">";
         s/(\/[0-9]{4})(\s+)/$1\<\/a\>$2/;
     }
 
