@@ -6,6 +6,9 @@
 # v. 0.1.1 - add RSS autodiscovery support, based on:
 #            https://www.rssboard.org/rss-autodiscovery
 #            https://www.chromium.org/user-experience/feed-subscriptions/
+# v. 0.1.2 - add <a name> tag's for each entry (the name are generated
+#            using MD5, which is good enough, because a collision is
+#            unlikely and MD5 isn't being used for a crypto purpose
 
 use strict;
 use Digest::MD5 qw(md5 md5_hex md5_base64);

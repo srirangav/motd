@@ -7,6 +7,8 @@
 #           https://www.rssboard.org/rss-specification
 #
 # v. 0.1.0 - initial Perl version
+# v. 0.1.1 - add build date for the feed
+# v. 0.1.2 - add links for each entry
 
 use strict;
 use Time::Piece;
@@ -124,9 +126,16 @@ while (<>)
 
             print "<item>\n";
 
+            # published time for the entry, pretend all
+            # entries are published at midnight PST b/c
+            # I can't be bothered to add times to entries
+
             my $time = Time::Piece->strptime($rawTime, "%m/%d/%Y");
             print "<pubDate>" . $time->strftime("%a, %d %b %Y") .
                   " 00:00:00 PST</pubDate>\n";
+
+            # add a link for this entry, if a valid year
+            # and month were present
 
             if ($entryYear =~ /^[0-9]{4}$/ &&
                 $entryMonth =~ /^[01][0-9]$/)
@@ -136,10 +145,15 @@ while (<>)
                       "index.html#$digest</link>\n";
             }
 
+            # add this entry's title
+
             $rawTitle =~ s/\:$//;
             my $title = encode_entities($rawTitle);
-
             print "<title>$title</title>\n";
+
+            # start the entry, with the first line as a repeat
+            # of the title
+
             print "<description>\n";
             print "<![CDATA[\n<pre>$title:\n";
             next;
@@ -163,10 +177,15 @@ while (<>)
     }
 }
 
+# finished processing entries, but the last entry processed
+# wasn't closed, so print out the entry's closing tags
+
 if ($gEntryClosed == 0)
 {
     print $gCloseEntry;
 }
+
+# print the feed's closing tags
 
 print "$gFooter";
 
