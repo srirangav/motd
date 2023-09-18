@@ -1,6 +1,12 @@
 motd - 09/##/2023
 -----------------
 
+09/18/2023    A brief history of vi/vim:
+
+              https://pikuma.com/blog/origins-of-vim-text-editor
+
+              I had no idea that vim started out on Amiga.
+
 09/17/2023    How to disable Windows Copilot:
 
               https://www.ghacks.net/2023/09/17/how-to-disable-windows-copilot-in-windows/
