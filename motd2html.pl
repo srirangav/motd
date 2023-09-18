@@ -8,10 +8,12 @@
 #            https://www.chromium.org/user-experience/feed-subscriptions/
 
 use strict;
+use Digest::MD5 qw(md5 md5_hex md5_base64);
 
 # globals
 
-my $gTitle  = "motd";
+my $gTitle = "motd";
+my $gLink  = "https://srirangav.github.io/motd";
 
 my $gHeader = <<"EO_HEADER";
 <!DOCTYPE html>
@@ -41,14 +43,30 @@ print "$gHeader";
 # escape &, <, >, ", and '
 # based on: https://pagedart.com/blog/single-quote-in-html/
 
+my $older = 0;
+
 while (<>)
 {
+    if (/^Older|^Earlier/)
+    {
+        $older = 1;
+    }
+
     s/\&/\&amp\;/g;
-    s/[\'\’]/\&\#39\;/g;
     s/\</\&lt\;/g;
     s/\>/\&gt\;/g;
     s/\"/\&\#34\;/g;
+    s/[\'\’]/\&\#39\;/g;
+
+    if (/^([01][0-9])\/[0-3][0-9]\/([0-9]{4})\s+/ && $older == 0)
+    {
+        my $digest = md5_hex($_);
+        print "<a name=\"$gLink/$2/$1/index.html#$digest\">";
+        s/(\/[0-9]{4})(\s+)/$1\<\/a\>$2/;
+    }
+
     s/(\s*)(http[s]?\:\/\/\S+)/$1\<a href=\"$2\"\>$2\<\/a\>/;
+
     print $_;
 }
 

@@ -11,6 +11,7 @@
 use strict;
 use Time::Piece;
 use HTML::Entities;
+use Digest::MD5 qw(md5 md5_hex md5_base64);
 
 # globals
 
@@ -116,14 +117,24 @@ while (<>)
 
         if ($_ =~ /^([01][0-9]\/[0-3][0-9]\/[0-9]{4})\s{4}(.*)$/)
         {
-            my $rawTime = $1;
             my $rawTitle = $2;
+            my $rawTime = $1;
+            my ($entryMonth, $entryDay, $entryYear) =
+                split(/\//, $rawTime);
 
             print "<item>\n";
 
             my $time = Time::Piece->strptime($rawTime, "%m/%d/%Y");
             print "<pubDate>" . $time->strftime("%a, %d %b %Y") .
                   " 00:00:00 PST</pubDate>\n";
+
+            if ($entryYear =~ /^[0-9]{4}$/ &&
+                $entryMonth =~ /^[01][0-9]$/)
+            {
+                my $digest = md5_hex($_);
+                print "<link>$gLink$entryYear/$entryMonth/" .
+                      "index.html#$digest</link>\n";
+            }
 
             $rawTitle =~ s/\:$//;
             my $title = encode_entities($rawTitle);

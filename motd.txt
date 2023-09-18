@@ -1,6 +1,10 @@
 motd - 09/##/2023
 -----------------
 
+09/17/2023    How to disable Windows Copilot:
+
+              https://www.ghacks.net/2023/09/17/how-to-disable-windows-copilot-in-windows/
+
 09/17/2023    Meansort (a quicksort variant):
 
               https://craftofcoding.wordpress.com/2023/09/17/what-is-meansort/

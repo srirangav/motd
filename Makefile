@@ -1,6 +1,7 @@
 # Makefile for motd
 
 MOTD      = motd.txt
+MOTD_CUR  = ./2023/09/
 MOTD_YTD  = ./2023/08/$(MOTD) \
             ./2023/07/$(MOTD) \
             ./2023/06/$(MOTD) \
@@ -34,7 +35,8 @@ all: html feed
 .PHONY: html feed feed_all feed_current feed_ytd
 
 html:
-	$(MOTD2HTML) < $(MOTD) > $(INDEX)
+	$(MOTD2HTML) < $(MOTD) > $(INDEX) && \
+    /bin/cp $(INDEX) $(MOTD_CUR)
 
 feed: feed_all feed_current feed_ytd
 
