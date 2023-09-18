@@ -1,6 +1,19 @@
 motd - 09/##/2023
 -----------------
 
+09/18/2023    A remake of the Murder on the Orient Express game is coming soon:
+
+              https://www.agathachristie.com/games/murder-on-the-orient-express
+
+              I'll probably give it a try, but, based on the
+              screenshots, I think they probably aren't going
+              to have David Suchet voice Poirot, so my guess
+              is that I'll end up preferring the 2006 version
+              (which, like the other two Agatha Christie games
+              by The Adventure Company - And Then There Were
+              None, and Evil Under the Sun - runs fine on MacOS
+              under CrossOvers).
+
 09/18/2023    A brief history of vi/vim:
 
               https://pikuma.com/blog/origins-of-vim-text-editor
