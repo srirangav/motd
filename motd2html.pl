@@ -9,6 +9,8 @@
 # v. 0.1.2 - add <a name> tag's for each entry (the name are generated
 #            using MD5, which is good enough, because a collision is
 #            unlikely and MD5 isn't being used for a crypto purpose
+# v. 0.1.3 - remove style from header
+#
 
 use strict;
 use Digest::MD5 qw(md5 md5_hex md5_base64);
