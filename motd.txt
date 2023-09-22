@@ -1,6 +1,10 @@
 motd - 09/##/2023
 -----------------
 
+09/22/2023    Automatic sinks are messing with us:
+
+              https://www.hedgerhumor.com/messing-with-us/
+
 09/22/2023    Tuning electro-chromatic windows:
 
               https://phys.org/news/2023-09-material-users-tune-windows-block.html
