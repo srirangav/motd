@@ -1,6 +1,15 @@
 motd - 09/##/2023
 -----------------
 
+09/21/2023    Surface Laptop Go 3:
+
+              https://www.inverse.com/tech/microsoft-surface-laptop-go-3-hands-on
+
+              Reminds me of the 12in Retina MacBook, which
+              is one of my favorite MacBooks of all time
+              (along with the PB 180, the Pismo, the TiBook,
+              and the M1 Air).
+
 09/18/2023    A remake of the Murder on the Orient Express game is coming soon:
 
               https://www.agathachristie.com/games/murder-on-the-orient-express
