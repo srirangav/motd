@@ -1,6 +1,10 @@
 motd - 09/##/2023
 -----------------
 
+09/22/2023    A history of Unix (and Plan9) shells:
+
+              https://egopontem.com/blog/shell-ancestry
+
 09/21/2023    Surface Laptop Go 3:
 
               https://www.inverse.com/tech/microsoft-surface-laptop-go-3-hands-on
