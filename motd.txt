@@ -1,6 +1,10 @@
 motd - 09/##/2023
 -----------------
 
+09/22/2023    Tuning electro-chromatic windows:
+
+              https://phys.org/news/2023-09-material-users-tune-windows-block.html
+
 09/22/2023    A history of Unix (and Plan9) shells:
 
               https://egopontem.com/blog/shell-ancestry
