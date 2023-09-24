@@ -1,6 +1,12 @@
 motd - 09/##/2023
 -----------------
 
+09/24/2023    Ditch that else:
+
+              https://preslav.me/2023/09/22/ditch-that-else/
+
+              Generally a good approach.
+
 09/23/2023    Why fields don't have mass / weight:
 
               https://profmattstrassler.com/2023/09/23/mass-weight-and-fields/
