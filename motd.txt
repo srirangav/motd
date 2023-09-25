@@ -1,6 +1,10 @@
 motd - 09/##/2023
 -----------------
 
+09/25/2023    Autumn Gradients desktops from Basic Apple Guy:
+
+              https://basicappleguy.com/basicappleblog/autumn-gradients
+
 09/24/2023    Ditch that else:
 
               https://preslav.me/2023/09/22/ditch-that-else/
