@@ -1,6 +1,10 @@
 motd - 09/##/2023
 -----------------
 
+09/28/2023    Little Snitch block lists:
+
+              https://www.obdev.at/products/littlesnitch-mini/blocklists.html
+
 09/25/2023    Autumn Gradients desktops from Basic Apple Guy:
 
               https://basicappleguy.com/basicappleblog/autumn-gradients
