@@ -1,6 +1,13 @@
 motd - 09/##/2023
 -----------------
 
+09/28/2023    Disable Favicon's in Safari 17's Favorites bar:
+
+              https://www.macrumors.com/how-to/show-hide-favicons-safari-favorites-bar/
+
+              1. Right Click on the favorites bar
+              2. Uncheck "Show Icons" in the pop up menu
+
 09/28/2023    Little Snitch block lists:
 
               https://www.obdev.at/products/littlesnitch-mini/blocklists.html
