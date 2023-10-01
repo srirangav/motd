@@ -1,6 +1,11 @@
 motd - 09/##/2023
 -----------------
 
+09/30/2023    CERN confirms antimatter falls down just like regular matter:
+
+              https://phys.org/news/2023-09-antimatter-embraces-earth-falling-downward.html
+              https://phys.org/news/2023-09-mysterious-antimatter-falling.html
+
 09/28/2023    Disable Favicon's in Safari 17's Favorites bar:
 
               https://www.macrumors.com/how-to/show-hide-favicons-safari-favorites-bar/
