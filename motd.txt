@@ -1,6 +1,10 @@
 motd - 09/##/2023
 -----------------
 
+09/30/2023    KnockKnock 2.5.0:
+
+              https://github.com/objective-see/KnockKnock/releases/tag/v2.5.0
+
 09/30/2023    Bob Picardo - I'm Not a Fan:
 
               https://www.youtube.com/watch?v=rnod05PNC2Y
