@@ -15,6 +15,7 @@ motd - 09/##/2023
 
               https://phys.org/news/2023-09-antimatter-embraces-earth-falling-downward.html
               https://phys.org/news/2023-09-mysterious-antimatter-falling.html
+              https://www.sci.news/physics/antimatter-gravity-12309.html
 
 09/28/2023    Disable Favicon's in Safari 17's Favorites bar:
 
