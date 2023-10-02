@@ -20,6 +20,10 @@ BEGIN {
 
    if (entry != 1 && $0 !~ /^[01]/) { next; }
 
+   # stop once all the entries are done
+
+   if ($0 ~ /^Older|^Earlier/) { exit ; }
+
    # this is the first line of an entry
 
    if ($0 ~ /^[01]/) {
