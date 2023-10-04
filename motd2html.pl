@@ -10,6 +10,7 @@
 #            using MD5, which is good enough, because a collision is
 #            unlikely and MD5 isn't being used for a crypto purpose
 # v. 0.1.3 - remove style from header
+# v. 0.1.4 - add dark mode support
 #
 
 use strict;
@@ -28,6 +29,7 @@ my $gHeader = <<"EO_HEADER";
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport"
       content="width=device-width, minimum-scale=1.0, initial-scale=1.0, shrink-to-fit=no">
+<meta name="color-scheme" content="light dark">
 <link rel="alternate" type="application/rss+xml" href="rss.xml">
 </head>
 <body>
