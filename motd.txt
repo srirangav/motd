@@ -1,6 +1,23 @@
 motd - 10/##/2023
 -----------------
 
+10/04/2023    FreeBSD wallpapers:
+
+              https://vermaden.wordpress.com/2023/10/04/freebsd-unix-wallpapers/
+              https://github.com/vermaden/scripts/blob/master/distfiles/wallpapers-freebsd.tar.gz
+
+              Old school computer wallpapers:
+
+              https://vermaden.wordpress.com/2018/08/15/wallpapers-from-tech-pron/
+              https://github.com/vermaden/scripts/blob/master/distfiles/wallpapers-oldschool-machines.tar.gz
+              https://github.com/vermaden/scripts/blob/master/distfiles/wallpapers-oldschool-machines-other.tar.gz
+
+              I like the two "Use BSD" wallpapers, the "Run BSD" (in the style
+              of Run DMC), the two Unix 50 wallpapers, and most of the old
+              school computer wallpapers (especially the HP 9000, which I
+              used).  I'd like to find some wallpapers like this with Sun's
+              (SS2, SS10, Ultra 1, etc.) and SGI's (Indigo 2 and O2).
+
 10/03/2023    History of the First Monday in October:
 
               https://stevevladeck.substack.com/p/47-the-first-monday-in-october
