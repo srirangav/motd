@@ -1,6 +1,10 @@
 motd - 10/##/2023
 -----------------
 
+10/03/2023    History of the First Monday in October:
+
+              https://stevevladeck.substack.com/p/47-the-first-monday-in-october
+
 10/01/2023    Open Source Game Clones:
 
               https://osgameclones.com/
