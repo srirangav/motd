@@ -27,6 +27,7 @@ I was inspired by the following:
     https://shinobi.bt.ht/
     https://sive.rs/plaintext
     https://nocss.club/
+    https://len.falken.directory/writing-for-the-internet-across-a-human-lifetime.txt
 
 Technical Details
 -----------------
