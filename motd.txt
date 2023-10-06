@@ -1,6 +1,10 @@
 motd - 10/##/2023
 -----------------
 
+10/06/2023    Requiem for DEC:
+
+              https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/
+
 10/06/2023    Solar panels would work at Proxima Centauri, but not as well:
 
               https://phys.org/news/2023-10-solar-panels-proxima-centauri.html
