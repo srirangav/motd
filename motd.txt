@@ -1,6 +1,29 @@
 motd - 10/##/2023
 -----------------
 
+10/06/2023    Solar panels would work at Proxima Centauri, but not as well:
+
+              https://phys.org/news/2023-10-solar-panels-proxima-centauri.html
+
+              "The team found that while a wider band gap works well for
+              sunlight, the light of Proxima Centauri would require a
+              narrow band gap. For example, a simulated wide band gap
+              solar cell has a theoretical efficiency of 18.9% for
+              sunlight, but only 0.9% for Proxima Centauri. In contrast,
+              a narrow band gap model has a theoretical efficiency of
+              12.6% for Proxima Centauri.
+
+              So solar panels could generate electricity from red dwarf
+              stars [e.g. Proxima Centarui]. But one major disadvantage
+              remains. Since red dwarfs produce much less light than the
+              sun, even with a good efficiency individual solar cells
+              wouldn't produce nearly the amount of energy we can gather
+              from the sun.
+
+              Interstellar solar panels would need to be significantly
+              larger, which would greatly increase their weight and
+              cost."
+
 10/06/2023    All objects in the Universe:
 
               https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions
