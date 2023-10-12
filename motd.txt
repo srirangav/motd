@@ -1,6 +1,25 @@
 motd - 10/##/2023
 -----------------
 
+10/11/2023    The Elgin Marble's original colors discovered:
+
+              www.livescience.com/archaeology/hidden-colors-and-intricate-patterns-discovered-on-the-2500-year-old-parthenon-marbles-from-ancient-greece
+
+              "To investigate the statues' past, archaeologists used
+              luminescent imaging, a technique that causes trace
+              chemical elements from hidden paint on the sculptures'
+              surfaces to glow. The team quickly discovered hidden
+              patterns emerging on the statues' surfaces, revealing
+              floral designs and smudged figurative depictions.
+
+              Four pigments were primarily found: [1] a blue that was
+              first created by the Egyptians and was the main color used
+              by ancient Greeks and Romans, [2] a purple tint made
+              according to an unknown recipe (most purple was made with
+              shellfish from the ancient Mediterranean, but this one
+              wasn't), [3] two whites likely derived from the mineral
+              gypsum and [4] bone white, a pigment made from bone ash."
+
 10/11/2023    Simpson's Paradox:
 
               https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/
@@ -27,7 +46,7 @@ motd - 10/##/2023
               12.6% for Proxima Centauri.
 
               So solar panels could generate electricity from red dwarf
-              stars [e.g. Proxima Centarui]. But one major disadvantage
+              stars [e.g. Proxima Centauri]. But one major disadvantage
               remains. Since red dwarfs produce much less light than the
               sun, even with a good efficiency individual solar cells
               wouldn't produce nearly the amount of energy we can gather
