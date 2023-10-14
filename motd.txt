@@ -1,6 +1,10 @@
 motd - 10/##/2023
 -----------------
 
+10/14/2023    How long to the next town? It depends ;-)
+
+              https://forestfolkcomic.tumblr.com/post/731156157901766656/forest-folk-372-101423
+
 10/14/2023    What are AKAuthorizationRemoteView and akd:
 
               https://osxdaily.com/2023/10/14/what-is-akauthorizationremoteview-and-akd-process-on-mac/
