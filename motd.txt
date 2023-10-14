@@ -1,6 +1,14 @@
 motd - 10/##/2023
 -----------------
 
+10/14/2023    Disabling lock screen ads on Win11:
+
+              https://www.ghacks.net/2023/10/14/how-to-disable-lock-screen-ads-on-windows-11/
+
+              1. Goto Start->Settings->Personalization->Lock Screen
+              2. Uncheck "Get fun facts, tips, tricks, and more on
+                 your lock screen"
+
 10/11/2023    The Elgin Marble's original colors discovered:
 
               www.livescience.com/archaeology/hidden-colors-and-intricate-patterns-discovered-on-the-2500-year-old-parthenon-marbles-from-ancient-greece
