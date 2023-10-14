@@ -1,6 +1,10 @@
 motd - 10/##/2023
 -----------------
 
+10/14/2023    What are AKAuthorizationRemoteView and akd:
+
+              https://osxdaily.com/2023/10/14/what-is-akauthorizationremoteview-and-akd-process-on-mac/
+
 10/14/2023    Disabling lock screen ads on Win11:
 
               https://www.ghacks.net/2023/10/14/how-to-disable-lock-screen-ads-on-windows-11/
