@@ -1,6 +1,26 @@
 motd - 10/##/2023
 -----------------
 
+10/14/2023    Materials harder than diamond:
+
+              https://www.livescience.com/planet-earth/geology/is-anything-harder-than-a-diamond
+
+              "A prime contender for a material harder than diamond is
+              lonsdaleite. Like diamond, lonsdaleite is made up of
+              carbon atoms, but they are arranged into a hexagonal
+              crystal structure instead of a cubic one.
+
+              ...
+
+              Playing with diamond's nanoscale structure can also make a
+              material that's harder than a regular diamond. A material
+              that's made up of many tiny diamond crystals will be
+              harder than a gem-quality diamond that's a single crystal,
+              because the nanoscale grains lock up instead of moving
+              past one another. "Nanotwinned" diamonds, in which the
+              grains form mirror-image patterns of each other, are
+              reportedly double the hardness of regular diamonds."
+
 10/14/2023    Cold blooded goat:
 
               https://phys.org/news/2009-11-extinct-goat-cold-blooded.html
