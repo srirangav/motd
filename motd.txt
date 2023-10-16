@@ -1,6 +1,25 @@
 motd - 10/##/2023
 -----------------
 
+10/16/2023    Disable search highlights in Windows 10/11:
+
+              Windows 10:
+
+              https://www.ghacks.net/2022/03/17/how-to-disable-search-highlights-on-windows-10/
+
+              1. Right-click on Windows 10 task bar
+              2. Select Search
+              3. Turn off "Show Search Highlights"
+
+              Windows 11:
+
+              https://www.ghacks.net/2023/10/16/how-to-remove-news-and-trending-content-from-windows-11s-search/
+
+              1. Start->Settings->Privacy & Search
+              2. Click on "Search Permissions" and scroll to "More
+                 settings"
+              3. Turn off "Show Search Highlights"
+
 10/14/2023    Materials harder than diamond:
 
               https://www.livescience.com/planet-earth/geology/is-anything-harder-than-a-diamond
