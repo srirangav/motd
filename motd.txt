@@ -1,6 +1,21 @@
 motd - 10/##/2023
 -----------------
 
+10/16/2023    Recent search for light dark matter at CERN turns up empty:
+
+              https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.161801
+
+              "Thermal dark matter models with particle X masses below
+              the electroweak scale can provide an explanation for the
+              observed relic dark matter density. This would imply the
+              existence of a new feeble interaction between the dark and
+              ordinary matter. We report on a new search for the sub-GeV
+              X production through the interaction mediated by a new
+              vector boson, called the dark photon A', in collisions of
+              100 GeV electrons with the active target of the NA64
+              experiment at the CERN SPS. ... No evidence for dark
+              matter production has been found."
+
 10/16/2023    Disable search highlights in Windows 10/11:
 
               Windows 10:
