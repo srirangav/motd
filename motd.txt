@@ -1,6 +1,17 @@
 motd - 10/##/2023
 -----------------
 
+10/16/2023    Average human body temp may be slightly lower than 98.6 F:
+
+              https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2809098
+
+              "In this cross-sectional study, machine learning was applied
+              to 618,306 adult outpatient encounters to define the usual
+              or mean "normal" temperature as 36.64 C [97.95 F].  Using
+              individual and temporal characteristics, the range of mean
+              temperatures for the coolest to the warmest individuals was
+              36.24 C  [97.23 F] to 36.89 C [98.4 F]."
+
 10/16/2023    Coin flips are slightly biased:
 
               https://arxiv.org/abs/2310.04153
