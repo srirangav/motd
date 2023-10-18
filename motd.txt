@@ -1,6 +1,22 @@
 motd - 10/##/2023
 -----------------
 
+10/18/2023    Pepper X - the new hottest pepper in the world:
+
+              https://www.npr.org/2023/10/17/1206450553/worlds-hottest-pepper-guinness-record-pepper-x
+              https://www.smithsonianmag.com/smart-news/the-world-has-a-new-hottest-pepper-180983099/
+
+              "Spiciness - or pepper heat - is measured using the Scoville scale
+              and recorded in units called Scoville heat units (SHU). The units
+              are based on levels of a chemical compound called capsaicin, the
+              main ingredient that makes chili peppers hot. Pure capsaicin has a
+              measurement of 16 million SHU while bell peppers, which contain no
+              spice, measure at 0 SHU. Pepper X measures in at an average of
+              2.69 million units[.] ... In comparison, standard pepper spray
+              averages 1 million SHU, while bear spray is advertised around 3
+              million SHU. The [prior record holder, the] Carolina Reaper
+              measures about 1.64 million SHU."
+
 10/18/2023    CrossOvers 23.6:
 
               https://www.codeweavers.com/support/forums/announce/?t=24;mhl=290508;msg=290508#msg290508
