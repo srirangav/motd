@@ -1,6 +1,10 @@
 motd - 10/##/2023
 -----------------
 
+10/18/2023    42 really might be the answer ;-):
+
+              https://bigthink.com/starts-with-a-bang/42-answer-fundamental-questions/
+
 10/18/2023    arkenfox v118:
 
               https://github.com/arkenfox/user.js/releases/tag/118.0
