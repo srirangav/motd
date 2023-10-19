@@ -1,6 +1,43 @@
 motd - 10/##/2023
 -----------------
 
+10/18/2023    arkenfox v118:
+
+              https://github.com/arkenfox/user.js/releases/tag/118.0
+
+              New settings:
+
+                  user_pref("browser.download.start_downloads_in_tmp_dir", true);
+                  user_pref("browser.shopping.experience2023.enabled", false);
+                  user_pref("browser.urlbar.addons.featureGate", false);
+                  user_pref("browser.urlbar.mdn.featureGate", false);
+                  user_pref("browser.urlbar.pocket.featureGate", false);
+                  user_pref("browser.urlbar.trending.featureGate", false);
+                  user_pref("browser.urlbar.weather.featureGate", false);
+
+              New, but inactive, settings:
+
+                  // user_pref("browser.urlbar.clipboard.featureGate", false);
+                  // user_pref("network.trr.bootstrapAddr", "10.0.0.1");
+                  // user_pref("privacy.fingerprintingProtection", true);
+
+              Removed and deprecated settings:
+
+                  // user_pref("accessibility.force_disabled", "");
+                  // user_pref("browser.fixup.alternate.enabled", "");
+                  // user_pref("browser.urlbar.dnsResolveSingleWordsAfterSearch", "");
+                  // user_pref("privacy.partition.always_partition_third_party_non_cookie_storage", "");
+                  // user_pref("privacy.partition.always_partition_third_party_non_cookie_storage.exempt_sessionstorage", "");
+                  // user_pref("privacy.partition.serviceWorkers", "");
+                  // user_pref("layout.css.font-visibility.private", 1);
+                  // user_pref("layout.css.font-visibility.standard", 1);
+                  // user_pref("layout.css.font-visibility.trackingprotection", 1);
+                  // user_pref("permissions.delegation.enabled", false);
+
+              I've updated my personal user.js accordingly:
+
+              https://github.com/srirangav/srirangav.github.io/blob/master/pgms/conf/Firefox/user.js
+
 10/18/2023    Pepper X - the new hottest pepper in the world:
 
               https://www.npr.org/2023/10/17/1206450553/worlds-hottest-pepper-guinness-record-pepper-x

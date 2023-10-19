@@ -4,7 +4,53 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Wed, 18 Oct 2023 14:06:06 PDT</lastBuildDate>
+<lastBuildDate>Wed, 18 Oct 2023 20:08:19 PDT</lastBuildDate>
+<item>
+<pubDate>Wed, 18 Oct 2023 00:00:00 PST</pubDate>
+<link>https://srirangav.github.io/motd/2023/10/index.html#d9951914c0f563db1e6d67d9959942f8</link>
+<title>arkenfox v118</title>
+<description>
+<![CDATA[
+<pre>arkenfox v118:
+
+<a href="https://github.com/arkenfox/user.js/releases/tag/118.0">https://github.com/arkenfox/user.js/releases/tag/118.0</a>
+
+New settings:
+
+    user_pref(&#34;browser.download.start_downloads_in_tmp_dir&#34;, true);
+    user_pref(&#34;browser.shopping.experience2023.enabled&#34;, false);
+    user_pref(&#34;browser.urlbar.addons.featureGate&#34;, false);
+    user_pref(&#34;browser.urlbar.mdn.featureGate&#34;, false);
+    user_pref(&#34;browser.urlbar.pocket.featureGate&#34;, false);
+    user_pref(&#34;browser.urlbar.trending.featureGate&#34;, false);
+    user_pref(&#34;browser.urlbar.weather.featureGate&#34;, false);
+
+New, but inactive, settings:
+
+    // user_pref(&#34;browser.urlbar.clipboard.featureGate&#34;, false);
+    // user_pref(&#34;network.trr.bootstrapAddr&#34;, &#34;10.0.0.1&#34;);
+    // user_pref(&#34;privacy.fingerprintingProtection&#34;, true);
+
+Removed and deprecated settings:
+
+    // user_pref(&#34;accessibility.force_disabled&#34;, &#34;&#34;);
+    // user_pref(&#34;browser.fixup.alternate.enabled&#34;, &#34;&#34;);
+    // user_pref(&#34;browser.urlbar.dnsResolveSingleWordsAfterSearch&#34;, &#34;&#34;);
+    // user_pref(&#34;privacy.partition.always_partition_third_party_non_cookie_storage&#34;, &#34;&#34;);
+    // user_pref(&#34;privacy.partition.always_partition_third_party_non_cookie_storage.exempt_sessionstorage&#34;, &#34;&#34;);
+    // user_pref(&#34;privacy.partition.serviceWorkers&#34;, &#34;&#34;);
+    // user_pref(&#34;layout.css.font-visibility.private&#34;, 1);
+    // user_pref(&#34;layout.css.font-visibility.standard&#34;, 1);
+    // user_pref(&#34;layout.css.font-visibility.trackingprotection&#34;, 1);
+    // user_pref(&#34;permissions.delegation.enabled&#34;, false);
+
+I&#39;ve updated my personal user.js accordingly:
+
+<a href="https://github.com/srirangav/srirangav.github.io/blob/master/pgms/conf/Firefox/user.js">https://github.com/srirangav/srirangav.github.io/blob/master/pgms/conf/Firefox/user.js</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Wed, 18 Oct 2023 00:00:00 PST</pubDate>
 <link>https://srirangav.github.io/motd/2023/10/index.html#6799592f3746ba168ff07f2bbfad245f</link>
