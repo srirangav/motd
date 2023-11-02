@@ -1,6 +1,10 @@
 motd - 11/##/2023
 -----------------
 
+11/02/2023    Windows 9x/ME patch for emulation issues:
+
+              https://github.com/JHRobotics/patcher9x
+
 11/02/2023    iOS 17 supports visual lookup for laundry symbols:
 
               https://osxdaily.com/2023/11/01/what-do-laundry-symbols-mean-your-iphone-will-tell-you/
