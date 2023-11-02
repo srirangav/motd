@@ -1,0 +1,341 @@
+motd - 10/##/2023
+-----------------
+
+10/21/2023    Neutrinos and Guarantees:
+
+              https://4gravitons.com/2023/10/20/neutrinos-and-guarantees/
+
+10/18/2023    42 really might be the answer ;-):
+
+              https://bigthink.com/starts-with-a-bang/42-answer-fundamental-questions/
+
+10/18/2023    arkenfox v118:
+
+              https://github.com/arkenfox/user.js/releases/tag/118.0
+
+              New settings:
+
+                  user_pref("browser.download.start_downloads_in_tmp_dir", true);
+                  user_pref("browser.shopping.experience2023.enabled", false);
+                  user_pref("browser.urlbar.addons.featureGate", false);
+                  user_pref("browser.urlbar.mdn.featureGate", false);
+                  user_pref("browser.urlbar.pocket.featureGate", false);
+                  user_pref("browser.urlbar.trending.featureGate", false);
+                  user_pref("browser.urlbar.weather.featureGate", false);
+
+              New, but inactive, settings:
+
+                  // user_pref("browser.urlbar.clipboard.featureGate", false);
+                  // user_pref("network.trr.bootstrapAddr", "10.0.0.1");
+                  // user_pref("privacy.fingerprintingProtection", true);
+
+              Removed and deprecated settings:
+
+                  // user_pref("accessibility.force_disabled", "");
+                  // user_pref("browser.fixup.alternate.enabled", "");
+                  // user_pref("browser.urlbar.dnsResolveSingleWordsAfterSearch", "");
+                  // user_pref("privacy.partition.always_partition_third_party_non_cookie_storage", "");
+                  // user_pref("privacy.partition.always_partition_third_party_non_cookie_storage.exempt_sessionstorage", "");
+                  // user_pref("privacy.partition.serviceWorkers", "");
+                  // user_pref("layout.css.font-visibility.private", 1);
+                  // user_pref("layout.css.font-visibility.standard", 1);
+                  // user_pref("layout.css.font-visibility.trackingprotection", 1);
+                  // user_pref("permissions.delegation.enabled", false);
+
+              I've updated my personal user.js accordingly:
+
+              https://github.com/srirangav/srirangav.github.io/blob/master/pgms/conf/Firefox/user.js
+
+10/18/2023    Pepper X - the new hottest pepper in the world:
+
+              https://www.npr.org/2023/10/17/1206450553/worlds-hottest-pepper-guinness-record-pepper-x
+              https://www.smithsonianmag.com/smart-news/the-world-has-a-new-hottest-pepper-180983099/
+
+              "Spiciness - or pepper heat - is measured using the Scoville scale
+              and recorded in units called Scoville heat units (SHU). The units
+              are based on levels of a chemical compound called capsaicin, the
+              main ingredient that makes chili peppers hot. Pure capsaicin has a
+              measurement of 16 million SHU while bell peppers, which contain no
+              spice, measure at 0 SHU. Pepper X measures in at an average of
+              2.69 million units[.] ... In comparison, standard pepper spray
+              averages 1 million SHU, while bear spray is advertised around 3
+              million SHU. The [prior record holder, the] Carolina Reaper
+              measures about 1.64 million SHU."
+
+10/18/2023    CrossOvers 23.6:
+
+              https://www.codeweavers.com/support/forums/announce/?t=24;mhl=290508;msg=290508#msg290508
+
+10/17/2023    New Initial D Movie:
+
+              https://www.thedrive.com/news/sung-kang-is-directing-a-live-action-initial-d-movie
+
+10/17/2023    Paris Baguette in Paris:
+
+              https://www.ncartron.org/paris-baguette-in-paris-france.html
+
+10/17/2023    Shades of Mospeada:
+
+              https://global.yamaha-motor.com/showroom/event/japan-mobilityshow-2023/motoroid2/
+
+10/16/2023    Lawsuit might reveal Banksy's true identity:
+
+              https://hyperallergic.com/849611/sports-betting-websites-wager-on-banksys-real-identity/
+
+              "Despite maintaining anonymity for over three decades now,
+              Banksy could finally have his identity exposed in light of
+              a lawsuit against the world-famous street artist and his
+              art management and authentication company Pest Control
+              Ltd."
+
+              Sometimes the mystery is part of the fun - like with the
+              Stig.
+
+10/16/2023    Average human body temp may be slightly lower than 98.6 F:
+
+              https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2809098
+
+              "In this cross-sectional study, machine learning was applied
+              to 618,306 adult outpatient encounters to define the usual
+              or mean "normal" temperature as 36.64 C [97.95 F].  Using
+              individual and temporal characteristics, the range of mean
+              temperatures for the coolest to the warmest individuals was
+              36.24 C  [97.23 F] to 36.89 C [98.4 F]."
+
+10/16/2023    Coin flips are slightly biased:
+
+              https://arxiv.org/abs/2310.04153
+
+              "[W]e collected 350,757 coin flips to test the counterintuitive
+              prediction from a physics model of human coin tossing developed
+              by Diaconis, Holmes, and Montgomery ... [which] asserts that
+              when people flip an ordinary coin, it tends to land on the same
+              side it started -- D-H-M estimated the probability of a same-side
+              outcome to be about 51%. Our data lend strong support to this
+              precise prediction[.]"
+
+10/16/2023    Recent search for light dark matter at CERN turns up empty:
+
+              https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.161801
+
+              "Thermal dark matter models with particle X masses below
+              the electroweak scale can provide an explanation for the
+              observed relic dark matter density. This would imply the
+              existence of a new feeble interaction between the dark and
+              ordinary matter. We report on a new search for the sub-GeV
+              X production through the interaction mediated by a new
+              vector boson, called the dark photon A', in collisions of
+              100 GeV electrons with the active target of the NA64
+              experiment at the CERN SPS. ... No evidence for dark
+              matter production has been found."
+
+10/16/2023    Disable search highlights in Windows 10/11:
+
+              Windows 10:
+
+              https://www.ghacks.net/2022/03/17/how-to-disable-search-highlights-on-windows-10/
+
+              1. Right-click on Windows 10 task bar
+              2. Select Search
+              3. Turn off "Show Search Highlights"
+
+              Windows 11:
+
+              https://www.ghacks.net/2023/10/16/how-to-remove-news-and-trending-content-from-windows-11s-search/
+
+              1. Start->Settings->Privacy & Search
+              2. Click on "Search Permissions" and scroll to "More
+                 settings"
+              3. Turn off "Show Search Highlights"
+
+10/14/2023    Materials harder than diamond:
+
+              https://www.livescience.com/planet-earth/geology/is-anything-harder-than-a-diamond
+
+              "A prime contender for a material harder than diamond is
+              lonsdaleite. Like diamond, lonsdaleite is made up of
+              carbon atoms, but they are arranged into a hexagonal
+              crystal structure instead of a cubic one.
+
+              ...
+
+              Playing with diamond's nanoscale structure can also make a
+              material that's harder than a regular diamond. A material
+              that's made up of many tiny diamond crystals will be
+              harder than a gem-quality diamond that's a single crystal,
+              because the nanoscale grains lock up instead of moving
+              past one another. "Nanotwinned" diamonds, in which the
+              grains form mirror-image patterns of each other, are
+              reportedly double the hardness of regular diamonds."
+
+10/14/2023    Cold blooded goat:
+
+              https://phys.org/news/2009-11-extinct-goat-cold-blooded.html
+
+              "Paleontologists studying fossilized Myotragus bones
+              compared them to bones of reptiles living in the same
+              region at the same time, and found surprising
+              similarities. The bones of warm-blooded animals show
+              uninterrupted fast growth, while the bones of cold-blooded
+              animals have parallel growth lines showing interrupted
+              growth corresponding to growth cycles[.] ...  Growth
+              and metabolism rates are adjusted to suit the amount
+              of food available, whereas warm-blooded animals require
+              food to be available continuously. The Myotragus bones
+              showed the same interrupted growth as reptiles."
+
+Myotragus are the first mammals ever known to have achieved the same flexibility, and hence survivability, as reptiles.
+
+10/14/2023    How long to the next town? It depends ;-)
+
+              https://forestfolkcomic.tumblr.com/post/731156157901766656/forest-folk-372-101423
+
+10/14/2023    What are AKAuthorizationRemoteView and akd:
+
+              https://osxdaily.com/2023/10/14/what-is-akauthorizationremoteview-and-akd-process-on-mac/
+
+10/14/2023    Disabling lock screen ads on Win11:
+
+              https://www.ghacks.net/2023/10/14/how-to-disable-lock-screen-ads-on-windows-11/
+
+              1. Goto Start->Settings->Personalization->Lock Screen
+              2. Uncheck "Get fun facts, tips, tricks, and more on
+                 your lock screen"
+
+10/11/2023    The Elgin Marble's original colors discovered:
+
+              www.livescience.com/archaeology/hidden-colors-and-intricate-patterns-discovered-on-the-2500-year-old-parthenon-marbles-from-ancient-greece
+
+              "To investigate the statues' past, archaeologists used
+              luminescent imaging, a technique that causes trace
+              chemical elements from hidden paint on the sculptures'
+              surfaces to glow. The team quickly discovered hidden
+              patterns emerging on the statues' surfaces, revealing
+              floral designs and smudged figurative depictions.
+
+              Four pigments were primarily found: [1] a blue that was
+              first created by the Egyptians and was the main color used
+              by ancient Greeks and Romans, [2] a purple tint made
+              according to an unknown recipe (most purple was made with
+              shellfish from the ancient Mediterranean, but this one
+              wasn't), [3] two whites likely derived from the mineral
+              gypsum and [4] bone white, a pigment made from bone ash."
+
+10/11/2023    Simpson's Paradox:
+
+              https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/
+              https://en.wikipedia.org/wiki/Simpson's_paradox
+
+              a1 / A1 < b1 / B1
+              a2 / A2 < b2 / B2
+              (a1 + a2) / (A1 + A2) > (b1 + b2) / (B1 + B2)
+
+10/06/2023    Requiem for DEC:
+
+              https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/
+
+10/06/2023    Solar panels would work at Proxima Centauri, but not as well:
+
+              https://phys.org/news/2023-10-solar-panels-proxima-centauri.html
+
+              "The team found that while a wider band gap works well for
+              sunlight, the light of Proxima Centauri would require a
+              narrow band gap. For example, a simulated wide band gap
+              solar cell has a theoretical efficiency of 18.9% for
+              sunlight, but only 0.9% for Proxima Centauri. In contrast,
+              a narrow band gap model has a theoretical efficiency of
+              12.6% for Proxima Centauri.
+
+              So solar panels could generate electricity from red dwarf
+              stars [e.g. Proxima Centauri]. But one major disadvantage
+              remains. Since red dwarfs produce much less light than the
+              sun, even with a good efficiency individual solar cells
+              wouldn't produce nearly the amount of energy we can gather
+              from the sun.
+
+              Interstellar solar panels would need to be significantly
+              larger, which would greatly increase their weight and
+              cost."
+
+10/06/2023    All objects in the Universe:
+
+              https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions
+
+              "In Fig. 2, we plot all the composite objects in the
+              Universe: protons, atoms, life forms, asteroids, moons,
+              planets, stars, galaxies, galaxy clusters, giant voids,
+              and the Universe itself. Humans are represented by a mass
+              of 70 kg and a radius of 50 cm (we assume sphericity),
+              while whales are represented by a mass of 105 kg and a
+              radius of 7 m."
+
+10/04/2023    FreeBSD wallpapers:
+
+              https://vermaden.wordpress.com/2023/10/04/freebsd-unix-wallpapers/
+              https://github.com/vermaden/scripts/blob/master/distfiles/wallpapers-freebsd.tar.gz
+
+              Old school computer wallpapers:
+
+              https://vermaden.wordpress.com/2018/08/15/wallpapers-from-tech-pron/
+              https://github.com/vermaden/scripts/blob/master/distfiles/wallpapers-oldschool-machines.tar.gz
+              https://github.com/vermaden/scripts/blob/master/distfiles/wallpapers-oldschool-machines-other.tar.gz
+
+              I like the two "Use BSD" wallpapers, the "Run BSD" (in the style
+              of Run DMC), the two Unix 50 wallpapers, and most of the old
+              school computer wallpapers (especially the HP 9000, which I
+              used).  I'd like to find some wallpapers like this with Sun's
+              (SS2, SS10, Ultra 1, etc.) and SGI's (Indigo 2 and O2).
+
+10/03/2023    History of the First Monday in October:
+
+              https://stevevladeck.substack.com/p/47-the-first-monday-in-october
+
+10/01/2023    Open Source Game Clones:
+
+              https://osgameclones.com/
+
+Older
+-----
+
+09/##/2023    https://srirangav.github.io/motd/2023/09/motd.txt
+              https://srirangav.github.io/motd/2023/09/index.html
+
+08/##/2023    https://srirangav.github.io/motd/2023/08/motd.txt
+              https://srirangav.github.io/motd/2023/08/index.html
+
+07/##/2023    https://srirangav.github.io/motd/2023/07/motd.txt
+              https://srirangav.github.io/motd/2023/07/index.html
+
+06/##/2023    https://srirangav.github.io/motd/2023/06/motd.txt
+              https://srirangav.github.io/motd/2023/06/index.html
+
+05/##/2023    https://srirangav.github.io/motd/2023/05/motd.txt
+              https://srirangav.github.io/motd/2023/05/index.html
+
+04/##/2023    https://srirangav.github.io/motd/2023/04/motd.txt
+              https://srirangav.github.io/motd/2023/04/index.html
+
+03/##/2023    https://srirangav.github.io/motd/2023/03/motd.txt
+              https://srirangav.github.io/motd/2023/03/index.html
+
+02/##/2023    https://srirangav.github.io/motd/2023/02/motd.txt
+              https://srirangav.github.io/motd/2023/02/index.html
+
+01/##/2023    https://srirangav.github.io/motd/2023/01/motd.txt
+              https://srirangav.github.io/motd/2023/01/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+HTML:         https://srirangav.github.io/motd/index.html
+RSS (all entries):
+              https://srirangav.github.io/motd/rss.xml
+RSS (current month's entries only):
+              https://srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only):
+              https://srirangav.github.io/motd/rss-ytd.xml
+
