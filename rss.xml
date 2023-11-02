@@ -4,7 +4,24 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Thu, 02 Nov 2023 10:58:33 PDT</lastBuildDate>
+<lastBuildDate>Thu, 02 Nov 2023 11:41:15 PDT</lastBuildDate>
+<item>
+<pubDate>Thu, 02 Nov 2023 00:00:00 PST</pubDate>
+<link>https://srirangav.github.io/motd/2023/11/index.html#fe9261841d76b4114c1ea73e038f445f</link>
+<title>comm(1)</title>
+<description>
+<![CDATA[
+<pre>comm(1):
+
+<a href="https://www.johndcook.com/blog/2019/11/24/comm-set-theory/">https://www.johndcook.com/blog/2019/11/24/comm-set-theory/</a>
+<a href="https://man.openbsd.org/comm.1">https://man.openbsd.org/comm.1</a>
+
+comm(1) showed up in Version 4 AT&amp;T UNIX. I can&#39;t believe
+I didn&#39;t know about this until recently.
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Thu, 02 Nov 2023 00:00:00 PST</pubDate>
 <link>https://srirangav.github.io/motd/2023/11/index.html#362ba7f0902a931dab9f3065ec0732aa</link>
@@ -384,8 +401,6 @@ and metabolism rates are adjusted to suit the amount
 of food available, whereas warm-blooded animals require
 food to be available continuously. The Myotragus bones
 showed the same interrupted growth as reptiles.&#34;
-
-Myotragus are the first mammals ever known to have achieved the same flexibility, and hence survivability, as reptiles.
 
 </pre>]]>
 </description>

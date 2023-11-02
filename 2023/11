@@ -13,6 +13,14 @@
 motd - 11/##/2023
 -----------------
 
+<a name="fe9261841d76b4114c1ea73e038f445f">11/02/2023</a>    comm(1):
+
+              <a href="https://www.johndcook.com/blog/2019/11/24/comm-set-theory/">https://www.johndcook.com/blog/2019/11/24/comm-set-theory/</a>
+              <a href="https://man.openbsd.org/comm.1">https://man.openbsd.org/comm.1</a>
+
+              comm(1) showed up in Version 4 AT&amp;T UNIX. I can&#39;t believe
+              I didn&#39;t know about this until recently.
+
 <a name="362ba7f0902a931dab9f3065ec0732aa">11/02/2023</a>    N-9?
 
               <a href="https://physics.aps.org/articles/v16/186">https://physics.aps.org/articles/v16/186</a>
