@@ -1,6 +1,10 @@
 motd - 11/##/2023
 -----------------
 
+11/02/2023    Nice short summary of isolated, closed, and open systems:
+
+              https://bigthink.com/starts-with-a-bang/entropy-closed-system-increase/
+
 11/02/2023    Missing 4:3 and 16:10:
 
               https://rubenerd.com/i-miss-4-by-3-and-16-by-10/
