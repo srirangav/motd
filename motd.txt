@@ -1,6 +1,10 @@
 motd - 11/##/2023
 -----------------
 
+11/02/2023    IJBOL:
+
+              https://languagelog.ldc.upenn.edu/nll/?p=61137
+
 11/02/2023    Nice short summary of isolated, closed, and open systems:
 
               https://bigthink.com/starts-with-a-bang/entropy-closed-system-increase/
