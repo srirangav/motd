@@ -1,6 +1,35 @@
 motd - 11/##/2023
 -----------------
 
+11/02/2023    N-9?
+
+              https://www.sciencenews.org/article/physicists-elusive-isotope-nitrogen-9
+
+              "With seven protons and two neutrons, the lopsided atomic
+              nucleus of nitrogen-9 pushes the limits of what can even
+              be considered a nucleus at all.
+
+              ...
+
+              Protons and neutrons, the subatomic particles that make up
+              atomic nuclei, are essentially glued together by the
+              strong nuclear force ...[, b]ut the force can't
+              hold together nuclei that have wildly skewed ratios of
+              protons to neutrons. Too many of either particle -
+              especially protons, which repel each other due to their
+              positive charge - and the nuclear bucket starts to
+              overflow.
+
+              Beyond this overflow point, which physicists call the
+              'drip line,' nuclei cannot fully bind their particles.
+
+              ...
+
+              Finding a nucleus as far beyond the drip line as
+              nitrogen-9 - five protons beyond - was surprising ...
+              [because, u]ntil now, scientists had only ever found
+              isotopes up to four protons beyond the drip line."
+
 11/02/2023    Windows 9x/ME patch for emulation issues:
 
               https://github.com/JHRobotics/patcher9x
