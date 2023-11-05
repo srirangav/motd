@@ -1,6 +1,10 @@
 motd - 11/##/2023
 -----------------
 
+11/05/2023    Othello has been solved:
+
+              https://arxiv.org/abs/2310.19387
+
 11/03/2023    Dinky has a "moon":
 
               https://www.livescience.com/space/asteroids/nasa-finds-hidden-asteroid-swirling-around-another-one
