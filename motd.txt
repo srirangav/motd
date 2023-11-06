@@ -1,6 +1,12 @@
 motd - 11/##/2023
 -----------------
 
+11/06/2023    Elgato is printing the bandwidth and USB type on its cables:
+
+              https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato
+
+              "I wish all manufacturers did this."
+
 11/05/2023    Starfish are mostly head:
 
               https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html
