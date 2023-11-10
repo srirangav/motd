@@ -1,6 +1,18 @@
 motd - 11/##/2023
 -----------------
 
+11/10/2023    Dinky's "moon" is actual a two bodies:
+
+              https://www.livescience.com/space/asteroids/newfound-moon-around-asteroid-dinkinesh-is-actually-two-tiny-moons-touching
+
+              "On its first asteroid flyby on Nov. 1, NASA's Lucy
+              mission discovered that the main belt asteroid Dinkinesh
+              has a small moon orbiting it. Now, additional images have
+              revealed another surprise: Dinkinesh's moon is not one,
+              but two small satellites. The twin moons initially
+              appeared as one because they are so close together, they
+              touch as they orbit."
+
 11/06/2023    Shortcut for extra low brightness on iOS:
 
               https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/
