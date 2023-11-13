@@ -1,6 +1,10 @@
 motd - 11/##/2023
 -----------------
 
+11/13/2023    Fiber-based, biodegradable six-pack rings:
+
+              https://www.core77.com/posts/126244/The-Eco-Six-Pack-Ring
+
 11/10/2023    Four Nancy Drew games now work on ScummVM:
 
               https://www.scummvm.org/news/20231110/
