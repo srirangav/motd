@@ -13,6 +13,12 @@
 motd - 11/##/2023
 -----------------
 
+<a name="3de8313dfcc90b60c1a185899b448c69">11/13/2023</a>    Reasons to prefer Blake3 over SHA256:
+
+              <a href="https://peergos.org/posts/blake3">https://peergos.org/posts/blake3</a>
+
+              Hash (<a href="https://github.com/srirangav/Hash)">https://github.com/srirangav/Hash)</a> supports both.
+
 <a name="912ea3424ba0c7df0b03bc8a9598cfa4">11/13/2023</a>    The myth and reality of Snow Leopard (MacOSX 10.6.x):
 
               <a href="https://lapcatsoftware.com/articles/2023/11/5.html">https://lapcatsoftware.com/articles/2023/11/5.html</a>

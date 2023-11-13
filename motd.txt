@@ -1,6 +1,12 @@
 motd - 11/##/2023
 -----------------
 
+11/13/2023    Reasons to prefer Blake3 over SHA256:
+
+              https://peergos.org/posts/blake3
+
+              Hash (https://github.com/srirangav/Hash) supports both.
+
 11/13/2023    The myth and reality of Snow Leopard (MacOSX 10.6.x):
 
               https://lapcatsoftware.com/articles/2023/11/5.html
