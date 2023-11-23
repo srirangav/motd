@@ -1,6 +1,18 @@
 motd - 11/##/2023
 -----------------
 
+11/22/2023    Bacteria may be one of the causes of itching:
+
+              https://www.statnews.com/2023/11/22/mystery-scratch-itch-staphylococcus-aureus-bacterium/
+
+              "[R]esearch showed that when [the bacteria] S. aureus
+              invades the skin, it releases 10 different enzymes, or
+              proteases. One of them, called V8, latches on to a protein
+              on nerve cells called proteinase-activated receptor 1, or
+              PAR1. The scientists said they believe this starts a chain
+              reaction from the skin neurons, to the spinal cord, and to
+              the brain, which then triggers the urge to itch."
+
 11/17/2023    Materials scientists:
 
               https://xkcd.com/2856/
