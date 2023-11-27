@@ -1,6 +1,14 @@
 motd - 11/##/2023
 -----------------
 
+11/27/2023    Disable NameDrop on iOS 17:
+
+              1. Goto Settings->Generaly->AirDrop
+
+              2. Turn off "Bringing Devices Together"
+
+              From: https://www.ghacks.net/2023/11/27/iphone-namedrop-warning-mdp/
+
 11/22/2023    Bacteria may be one of the causes of itching:
 
               https://www.statnews.com/2023/11/22/mystery-scratch-itch-staphylococcus-aureus-bacterium/
