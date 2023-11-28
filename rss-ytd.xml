@@ -4,7 +4,22 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Mon, 27 Nov 2023 17:17:52 PST</lastBuildDate>
+<lastBuildDate>Mon, 27 Nov 2023 18:40:15 PST</lastBuildDate>
+<item>
+<pubDate>Mon, 27 Nov 2023 00:00:00 PST</pubDate>
+<link>https://srirangav.github.io/motd/2023/11/index.html#edd64ed27af40efbd25b28a2fc2213f5</link>
+<title>Updated qlZipInfo to Google Toolbox for Mac v.4.0.0, and</title>
+<description>
+<![CDATA[
+<pre>Updated qlZipInfo to Google Toolbox for Mac v.4.0.0, and:
+libarchive v.3.7.2 (includes some uudecode and 7zip fixes).
+Also added support for some IPSW files:
+
+<a href="https://github.com/srirangav/qlZipInfo/releases/tag/v.1.2.6">https://github.com/srirangav/qlZipInfo/releases/tag/v.1.2.6</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Mon, 27 Nov 2023 00:00:00 PST</pubDate>
 <link>https://srirangav.github.io/motd/2023/11/index.html#a06075a6e618e483d6478aa43a783950</link>

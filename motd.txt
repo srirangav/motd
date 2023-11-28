@@ -1,6 +1,12 @@
 motd - 11/##/2023
 -----------------
 
+11/27/2023    Updated qlZipInfo to Google Toolbox for Mac v.4.0.0, and
+              libarchive v.3.7.2 (includes some uudecode and 7zip fixes).
+              Also added support for some IPSW files:
+
+              https://github.com/srirangav/qlZipInfo/releases/tag/v.1.2.6
+
 11/27/2023    Why low dose aspirin is 81 mg:
 
               https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/
