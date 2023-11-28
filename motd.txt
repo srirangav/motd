@@ -1,6 +1,10 @@
 motd - 11/##/2023
 -----------------
 
+11/28/2023    How to delete live wallpapers in MacOS Sonoma:
+
+              https://appleinsider.com/inside/macos-sonoma/tips/how-to-delete-macos-sonomas-live-wallpapers
+
 11/27/2023    Updated qlZipInfo to Google Toolbox for Mac v.4.0.0, and
               libarchive v.3.7.2 (includes some uudecode and 7zip fixes).
               Also added support for some IPSW files:
