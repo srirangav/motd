@@ -1,9 +1,13 @@
 motd - 11/##/2023
 -----------------
 
+11/27/2023    Why low dose aspirin is 81 mg:
+
+              https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/
+
 11/27/2023    Disable NameDrop on iOS 17:
 
-              1. Goto Settings->Generaly->AirDrop
+              1. Goto Settings->Generally->AirDrop
 
               2. Turn off "Bringing Devices Together"
 
