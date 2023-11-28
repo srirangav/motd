@@ -1,6 +1,14 @@
 motd - 11/##/2023
 -----------------
 
+11/28/2023    Disable SharePlay on iOS:
+
+              1. Goto Setting->FaceTime
+
+              2. Turn off "SharePlay"
+
+              From: https://osxdaily.com/2023/11/28/how-to-turn-off-shareplay-on-iphone/
+
 11/28/2023    How to delete live wallpapers in MacOS Sonoma:
 
               https://appleinsider.com/inside/macos-sonoma/tips/how-to-delete-macos-sonomas-live-wallpapers
