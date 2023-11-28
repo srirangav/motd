@@ -1,6 +1,21 @@
 motd - 11/##/2023
 -----------------
 
+11/28/2023    New model for superconductivity:
+
+              https://physics.aps.org/articles/v16/s170
+
+              "The researchers found that the order parameter in each
+              case is determined by the effective repulsion energy
+              between two electrons located at the same atomic site in
+              the crystal divided by the electron kinetic energy. This
+              suggests that materials exhibiting stronger
+              electron-electron repulsion should sustain larger
+              superconducting currents and have higher Tc's. It also
+              supports a particular mechanism for electron pairing that
+              leads to superconductivity -a counterintuitive concept
+              known as attraction by repulsion."
+
 11/28/2023    Disable SharePlay on iOS:
 
               1. Goto Setting->FaceTime
