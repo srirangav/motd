@@ -1,6 +1,19 @@
 motd - 11/##/2023
 -----------------
 
+11/28/2023    Applying Si to olive leaves promotes their growth:
+
+              https://phys.org/news/2023-11-laboratory-silicon-olive-growth.html
+
+              "The results showed that a foliar application of silicon
+              of between 10 and 20 milligrams per liter favored growth,
+              as the plants increased in size and grew more shoots, as
+              well as exhibiting leaf stomata of greater density. As
+              indicated by the research team, these beneficial effects
+              may be associated with an increase in the absorption of
+              nutrients, such as potassium, an element that the plant
+              needs to grow."
+
 11/28/2023    New model for superconductivity:
 
               https://physics.aps.org/articles/v16/s170
