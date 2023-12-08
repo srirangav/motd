@@ -4,7 +4,22 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Fri, 08 Dec 2023 09:50:04 PST</lastBuildDate>
+<lastBuildDate>Fri, 08 Dec 2023 10:05:15 PST</lastBuildDate>
+<item>
+<pubDate>Fri, 08 Dec 2023 00:00:00 PST</pubDate>
+<link>https://srirangav.github.io/motd/2023/12/index.html#c2a137778c0396eceb887e39af38b128</link>
+<title>Unauthenticated Bluetooth keystroke injection in MacOS</title>
+<description>
+<![CDATA[
+<pre>Unauthenticated Bluetooth keystroke injection in MacOS:
+
+<a href="https://appleinsider.com/articles/23/12/07/if-youre-using-a-magic-keyboard-youve-opened-up-an-attack-vector">https://appleinsider.com/articles/23/12/07/if-youre-using-a-magic-keyboard-youve-opened-up-an-attack-vector</a>
+
+YA reason to turn BT off on most Macs.
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Fri, 08 Dec 2023 00:00:00 PST</pubDate>
 <link>https://srirangav.github.io/motd/2023/12/index.html#5d5d1151da78a0987acf18d3b06f0ede</link>

@@ -1,6 +1,12 @@
 motd - 12/##/2023
 -----------------
 
+12/08/2023    Unauthenticated Bluetooth keystroke injection in MacOS:
+
+              https://appleinsider.com/articles/23/12/07/if-youre-using-a-magic-keyboard-youve-opened-up-an-attack-vector
+
+              YA reason to turn BT off on most Macs.
+
 12/08/2023    Adding a little water to coffee beans can produce more consistent flavor:
 
               https://phys.org/news/2023-12-coffee-splash-static-electricity-intense.html
