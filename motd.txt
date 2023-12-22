@@ -1,6 +1,10 @@
 motd - 12/##/2023
 -----------------
 
+12/21/2023    Viewing manpages in BBEdit:
+
+              https://leancrew.com/all-this/2023/12/again-with-man-pages-and-bbedit/
+
 12/11/2023    Ancient stars may have made extremely heavy elements:
 
               https://phys.org/news/2023-12-ancient-stars-extraordinarily-heavy-elements.html
