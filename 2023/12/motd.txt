@@ -1,0 +1,120 @@
+motd - 12/##/2023
+-----------------
+
+12/21/2023    Viewing manpages in BBEdit:
+
+              https://leancrew.com/all-this/2023/12/again-with-man-pages-and-bbedit/
+
+12/11/2023    Ancient stars may have made extremely heavy elements:
+
+              https://phys.org/news/2023-12-ancient-stars-extraordinarily-heavy-elements.html
+
+              "The team took a fresh look at the amounts of heavy
+              elements in 42 well-studied stars in the Milky Way. ...
+              By taking a broader view of the amounts of each heavy
+              element found in these stars collectively, rather than
+              individually as is more common, they identified previously
+              unrecognized patterns.
+
+              ...
+
+              Those patterns signaled that some elements listed near the
+              middle of the periodic table - such as silver and
+              rhodium - were likely the remnants of heavy element
+              fission. The team was able to determine that the r-process
+              can produce atoms with an atomic mass of at least 260
+              before they fission."
+
+12/08/2023    Unauthenticated Bluetooth keystroke injection in MacOS:
+
+              https://appleinsider.com/articles/23/12/07/if-youre-using-a-magic-keyboard-youve-opened-up-an-attack-vector
+
+              YA reason to turn BT off on most Macs.
+
+12/08/2023    Adding a little water to coffee beans can produce more consistent flavor:
+
+              https://phys.org/news/2023-12-coffee-splash-static-electricity-intense.html
+              https://www.inverse.com/science/better-espresso-shot-science-backed-secret-ingredient
+
+12/08/2023    Wasabi may improve long and short term memory:
+
+              https://www.cbsnews.com/news/wasabi-memory-boost-japanese-study-finds/
+
+              "[In a] double-blind, randomized study involved 72 healthy
+              subjects, aged 60 to 80. Half of them took 100 milligrams
+              of wasabi extract at bedtime, with the rest receiving a
+              placebo.
+
+              After three months, the treated group registered
+              'significant' boosts in two aspects of cognition, working
+              (short-term) memory, and the longer-lasting episodic
+              memory, based on standardized assessments for language
+              skills, concentration and ability to carry out simple
+              tasks.
+
+              ....
+
+              Subjects who received the wasabi treatment saw their
+              episodic memory scores jump an average of 18%, Nouchi
+              [the researcher] said, and scored on average 14% higher
+              than the placebo group overall."
+
+12/07/2023    Quasi-monopole:
+
+              https://www.inverse.com/science/physicists-find-seemingly-impossible-magnets-with-just-one-pole
+
+12/01/2023    Story of the USS Salmon's last patrol:
+
+              https://www.thedrive.com/the-war-zone/the-extraordinary-tale-of-uss-salmons-escape-from-destruction
+
+Older
+-----
+
+11/##/2023    https://srirangav.github.io/motd/2023/11/motd.txt
+              https://srirangav.github.io/motd/2023/11/index.html
+
+10/##/2023    https://srirangav.github.io/motd/2023/10/motd.txt
+              https://srirangav.github.io/motd/2023/10/index.html
+
+09/##/2023    https://srirangav.github.io/motd/2023/09/motd.txt
+              https://srirangav.github.io/motd/2023/09/index.html
+
+08/##/2023    https://srirangav.github.io/motd/2023/08/motd.txt
+              https://srirangav.github.io/motd/2023/08/index.html
+
+07/##/2023    https://srirangav.github.io/motd/2023/07/motd.txt
+              https://srirangav.github.io/motd/2023/07/index.html
+
+06/##/2023    https://srirangav.github.io/motd/2023/06/motd.txt
+              https://srirangav.github.io/motd/2023/06/index.html
+
+05/##/2023    https://srirangav.github.io/motd/2023/05/motd.txt
+              https://srirangav.github.io/motd/2023/05/index.html
+
+04/##/2023    https://srirangav.github.io/motd/2023/04/motd.txt
+              https://srirangav.github.io/motd/2023/04/index.html
+
+03/##/2023    https://srirangav.github.io/motd/2023/03/motd.txt
+              https://srirangav.github.io/motd/2023/03/index.html
+
+02/##/2023    https://srirangav.github.io/motd/2023/02/motd.txt
+              https://srirangav.github.io/motd/2023/02/index.html
+
+01/##/2023    https://srirangav.github.io/motd/2023/01/motd.txt
+              https://srirangav.github.io/motd/2023/01/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+HTML:         https://srirangav.github.io/motd/index.html
+RSS (all entries):
+              https://srirangav.github.io/motd/rss.xml
+RSS (current month's entries only):
+              https://srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only):
+              https://srirangav.github.io/motd/rss-ytd.xml
+
