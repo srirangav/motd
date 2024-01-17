@@ -1,6 +1,23 @@
 motd - 01/##/2024
 -----------------
 
+01/17/2024    A dwarf galaxy with no visible stars:
+
+              https://phys.org/news/2024-01-primordial-dark-galaxy-stars.html
+
+              "J0613+52 is an odd [galaxy] when you compare it to the more
+              familiar types such as the star-filled spirals and
+              ellipticals. For one thing, it's a dwarf galaxy with an
+              irregular shape. Without any obvious stars, it's quite
+              dim. The most unusual thing about objects like this one is
+              that dark matter appears to dominate their compositions.
+              If J0613+52 is like others, it could have up to 95% dark
+              matter constraining the neutral gaseous hydrogen that we
+              can detect. ... In addition, J0613+52 lies too far from
+              any neighboring galaxies to interact with them
+              gravitationally. That means they can't trigger star
+              formation through any possible mergers or collisions."
+
 01/17/2024    Early galaxies appear to have been mostly long and thin:
 
               https://phys.org/news/2024-01-webb-early-galaxies-thin-disk.html
