@@ -1,6 +1,13 @@
 motd - 01/##/2024
 -----------------
 
+01/22/2024    Apple TV remote case with an AirTag:
+
+              https://www.cultofmac.com/747209/siri-remote-airtag-case/
+
+              Might need several of these - we keep misplacing our
+              Apple TV remotes all the time.
+
 01/22/2024    A PRNG that you can do in your head:
 
               https://www.hillelwayne.com/post/randomness/
