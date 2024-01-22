@@ -1,6 +1,21 @@
 motd - 01/##/2024
 -----------------
 
+01/22/2024    A PRNG that you can do in your head:
+
+              https://www.hillelwayne.com/post/randomness/
+
+              1. Choose a 2-digit number, say 23, your "seed".
+
+              2. Form a new 2-digit number: the 10's digit plus 6 times
+                 the units digit.
+
+                 The example sequence is 23 -> 20 -> 02 -> 12 -> 13 ->
+                                         19 -> 55 -> 35 -> ...
+
+              3. The 'random digits' are the units digits of the 2-digit
+                 numbers, ie, 3,0,2,2,3,9,5,...
+
 01/19/2024    How the Manhattan project was funded:
 
               https://www.nytimes.com/2024/01/17/us/politics/atomic-bomb-secret-funding-congress.html?unlocked_article_code=1.OU0.PuSv.SstGkf8GD8nI

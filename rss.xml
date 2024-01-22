@@ -4,7 +4,31 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Fri, 19 Jan 2024 14:26:52 PST</lastBuildDate>
+<lastBuildDate>Mon, 22 Jan 2024 10:45:02 PST</lastBuildDate>
+<item>
+<pubDate>Mon, 22 Jan 2024 00:00:00 PST</pubDate>
+<link>https://srirangav.github.io/motd/2024/01/index.html#cc6f88a50b2f2f192898a4a183cb16fb</link>
+<title>A PRNG that you can do in your head</title>
+<description>
+<![CDATA[
+<pre>A PRNG that you can do in your head:
+
+<a href="https://www.hillelwayne.com/post/randomness/">https://www.hillelwayne.com/post/randomness/</a>
+
+1. Choose a 2-digit number, say 23, your &#34;seed&#34;.
+
+2. Form a new 2-digit number: the 10&#39;s digit plus 6 times
+   the units digit.
+
+   The example sequence is 23 -&gt; 20 -&gt; 02 -&gt; 12 -&gt; 13 -&gt;
+                           19 -&gt; 55 -&gt; 35 -&gt; ...
+
+3. The &#39;random digits&#39; are the units digits of the 2-digit
+   numbers, ie, 3,0,2,2,3,9,5,...
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Fri, 19 Jan 2024 00:00:00 PST</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#be85a90e0f8e76113f267b90b29e5468</link>
