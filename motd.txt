@@ -1,6 +1,10 @@
 motd - 01/##/2024
 -----------------
 
+01/26/2024    Model Collapse:
+
+              https://www.theregister.com/2024/01/26/what_is_model_collapse/
+
 01/25/2024    The cooling advantage of integrated GPUs:
 
               https://utcc.utoronto.ca/~cks/space/blog/tech/CPUIGPCoolingAdvantage
