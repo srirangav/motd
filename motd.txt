@@ -1,6 +1,24 @@
 motd - 01/##/2024
 -----------------
 
+01/26/2024    California's duck curve is getting deeper:
+
+              https://www.eia.gov/todayinenergy/detail.php?id=56880
+
+              "As more solar capacity has come online in California,
+              grid operators at the California Independent System
+              Operator (CAISO) have observed a drop in net load (or the
+              demand remaining after subtracting variable renewable
+              generation) in the middle of the day when solar generation
+              tends to be highest. When graphed for a typical day, the
+              pattern created by the midday dip in the net load curve,
+              followed by a steep rise in the evenings when solar
+              generation drops off, looks like the outline of a duck, so
+              this pattern is often called a duck curve. As solar
+              capacity in California continues to grow, the midday dip
+              in net load is getting lower, presenting challenges for
+              grid operators."
+
 01/26/2024    Model Collapse:
 
               https://www.theregister.com/2024/01/26/what_is_model_collapse/
