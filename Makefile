@@ -1,8 +1,8 @@
 # Makefile for motd
 
 MOTD      = motd.txt
-MOTD_CUR  = ./2024/01
-MOTD_YTD  =
+MOTD_CUR  = ./2024/02/$(MOTD)
+MOTD_YTD  = ./2024/01/$(MOTD)
 MOTD_2023 = ./2023/12/$(MOTD) ./2023/11/$(MOTD) ./2023/10/$(MOTD) \
             ./2023/09/$(MOTD) ./2023/08/$(MOTD) ./2023/07/$(MOTD) \
             ./2023/06/$(MOTD) ./2023/05/$(MOTD) ./2023/04/$(MOTD) \
@@ -24,6 +24,9 @@ all: html feed
 .PHONY: html feed feed_all feed_current feed_ytd
 
 html:
+	if [ ! -d $(MOTD_CUR) ] ; then \
+       /bin/mkdir -p $(MOTD_CUR) ; \
+    fi
 	$(MOTD2HTML) < $(MOTD) > $(INDEX) && \
     /bin/cp $(INDEX) $(MOTD_CUR)
 

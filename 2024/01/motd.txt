@@ -1,0 +1,175 @@
+motd - 01/##/2024
+-----------------
+
+01/30/2024    Aurora curls:
+
+              https://www.livescience.com/space/the-sun/photographer-snaps-extremely-rare-aurora-curls-after-magnetic-wave-rings-earths-atmosphere-like-a-bell
+              https://spaceweathergallery2.com/indiv_upload.php?upload_id=203226
+
+              "These curls are fine structures in the poleward boundary
+              of multiple arcs formed by longitudinal-arranged
+              field-aligned current pairs. It look[s] like to the Auroral
+              Undulations Triggered by Kelvin-Helmholtz Waves."
+
+01/26/2024    California's duck curve is getting deeper:
+
+              https://www.eia.gov/todayinenergy/detail.php?id=56880
+
+              "As more solar capacity has come online in California,
+              grid operators at the California Independent System
+              Operator (CAISO) have observed a drop in net load (or the
+              demand remaining after subtracting variable renewable
+              generation) in the middle of the day when solar generation
+              tends to be highest. When graphed for a typical day, the
+              pattern created by the midday dip in the net load curve,
+              followed by a steep rise in the evenings when solar
+              generation drops off, looks like the outline of a duck, so
+              this pattern is often called a duck curve. As solar
+              capacity in California continues to grow, the midday dip
+              in net load is getting lower, presenting challenges for
+              grid operators."
+
+01/26/2024    Model Collapse:
+
+              https://www.theregister.com/2024/01/26/what_is_model_collapse/
+
+01/25/2024    The cooling advantage of integrated GPUs:
+
+              https://utcc.utoronto.ca/~cks/space/blog/tech/CPUIGPCoolingAdvantage
+
+01/25/2024    Lockable bike helmet:
+
+              https://www.core77.com/posts/127567/
+
+01/22/2024    2023 Emoji law review:
+
+              https://blog.ericgoldman.org/archives/2024/01/2023-emoji-law-year-in-review.htm
+
+01/22/2024    Apple TV remote case with an AirTag:
+
+              https://www.cultofmac.com/747209/siri-remote-airtag-case/
+
+              Might need several of these - we keep misplacing our
+              Apple TV remotes all the time.
+
+01/22/2024    A PRNG that you can do in your head:
+
+              https://www.hillelwayne.com/post/randomness/
+
+              1. Choose a 2-digit number, say 23, your "seed".
+
+              2. Form a new 2-digit number: the 10's digit plus 6 times
+                 the units digit.
+
+                 The example sequence is 23 -> 20 -> 02 -> 12 -> 13 ->
+                                         19 -> 55 -> 35 -> ...
+
+              3. The 'random digits' are the units digits of the 2-digit
+                 numbers, ie, 3,0,2,2,3,9,5,...
+
+01/19/2024    How the Manhattan project was funded:
+
+              https://www.nytimes.com/2024/01/17/us/politics/atomic-bomb-secret-funding-congress.html?unlocked_article_code=1.OU0.PuSv.SstGkf8GD8nI
+
+              "Where exactly in the budget had the [FDR] administration
+              hidden the money for the bomb?
+
+              Finding a bill that passed eight decades ago is harder
+              than you might think, but after a number of creative
+              searches, I pulled up a record of a Senate hearing
+              examining the bill. Attached was a report breaking down
+              the legislation.
+
+              I paged through, stopped and smiled when I saw it. There
+              it was, the innocuous phrase that hid an $800 million
+              secret: 'expediting production.'"
+
+01/19/2024    Neptune and Uranus in their true colors:
+
+              https://www.youtube.com/watch?v=zKSWcFCMrU
+
+01/18/2024    Staircase Sunset:
+
+              https://fiftyfootshadows.net/2024/01/17/staircase-sunset/
+
+01/18/2024    What Happened to the US Machine Tool Industry?
+
+              https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool
+
+01/17/2024    A dwarf galaxy with no visible stars:
+
+              https://phys.org/news/2024-01-primordial-dark-galaxy-stars.html
+
+              "J0613+52 is an odd [galaxy] when you compare it to the more
+              familiar types such as the star-filled spirals and
+              ellipticals. For one thing, it's a dwarf galaxy with an
+              irregular shape. Without any obvious stars, it's quite
+              dim. The most unusual thing about objects like this one is
+              that dark matter appears to dominate their compositions.
+              If J0613+52 is like others, it could have up to 95% dark
+              matter constraining the neutral gaseous hydrogen that we
+              can detect. ... In addition, J0613+52 lies too far from
+              any neighboring galaxies to interact with them
+              gravitationally. That means they can't trigger star
+              formation through any possible mergers or collisions."
+
+01/17/2024    Early galaxies appear to have been mostly long and thin:
+
+              https://phys.org/news/2024-01-webb-early-galaxies-thin-disk.html
+
+01/17/2024    Cepheid variables probably not responsible for the Hubble tension:
+
+              https://phys.org/news/2024-01-astronomers-explanation-hubble-tension.html
+
+              "In this new study, the team looked at more than a
+              thousand Cepheid variables and was able to pinpoint the
+              distance relation for Cepheids with extreme precision.
+              From this, they proved that Cepheid variable error can't
+              account for the Hubble tension."
+
+01/13/2024    The 18% O2 solution:
+
+              https://bigthink.com/13-8/oxygen-bottleneck/
+
+              "Drawing on experiments carried out across disciplines as
+              varied as combustion engineering to biogeochemistry, we
+              found that an atmosphere with anything less than 18%
+              oxygen would not allow open-air combustion. Remarkably,
+              for most of our planet's 4.5-billion-year history, Earth's
+              oxygen levels have been way, way below 18%.  In fact, only
+              over the past 500 million years or so has the atmosphere
+              held enough oxygen for anything to freely burn in the open
+              air.
+
+              Why does any of this matter? Imagine a young and
+              intelligent species on an alien world with an atmosphere
+              that's just 1% oxygen. Those clever tool-using creatures
+              would never get the chance to watch a tree burn after
+              being hit by lightning and get the idea of using fire for
+              their own purposes. They would never have the chance to
+              learn how fire could be used to cook food, clear land, or,
+              most importantly, melt metals. The poverty of oxygen in
+              their air would likely box these creatures in forever,
+              limiting their development."
+
+Older
+-----
+
+##/##/2023    https://srirangav.github.io/motd/2023/motd.txt
+              https://srirangav.github.io/motd/2023/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+HTML:         https://srirangav.github.io/motd/index.html
+RSS (all entries):
+              https://srirangav.github.io/motd/rss.xml
+RSS (current month's entries only):
+              https://srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only):
+              https://srirangav.github.io/motd/rss-ytd.xml
+

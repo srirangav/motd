@@ -4,7 +4,22 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Tue, 30 Jan 2024 16:49:10 PST</lastBuildDate>
+<lastBuildDate>Tue, 13 Feb 2024 12:36:14 PST</lastBuildDate>
+<item>
+<pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
+<link>https://srirangav.github.io/motd/2024/02/index.html#b9b3df3e613dd25186d26db9558a3ab4</link>
+<title>Stop notifications about updating to Sonoma</title>
+<description>
+<![CDATA[
+<pre>Stop notifications about updating to Sonoma:
+
+<a href="https://lapcatsoftware.com/articles/2024/2/2.html">https://lapcatsoftware.com/articles/2024/2/2.html</a>
+
+$ defaults write com.apple.SoftwareUpdate MajorOSUserNotificationDate -date &#34;2025-02-07 23:22:47 +0000&#34;
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Tue, 30 Jan 2024 00:00:00 PST</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#9e05e074bf3164a33434c3cebc38bb9d</link>
