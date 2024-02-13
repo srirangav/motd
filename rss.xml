@@ -4,7 +4,20 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Tue, 13 Feb 2024 12:47:51 PST</lastBuildDate>
+<lastBuildDate>Tue, 13 Feb 2024 12:50:51 PST</lastBuildDate>
+<item>
+<pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
+<link>https://srirangav.github.io/motd/2024/02/index.html#cb6dac3c1719d0b91d9ac4c7f30b23a1</link>
+<title>Another lockable bike helmet</title>
+<description>
+<![CDATA[
+<pre>Another lockable bike helmet:
+
+<a href="https://www.core77.com/posts/128416/A-Smarter-Design-Approach-to-the-Lockable-Bike-Helmet">https://www.core77.com/posts/128416/A-Smarter-Design-Approach-to-the-Lockable-Bike-Helmet</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
 <link>https://srirangav.github.io/motd/2024/02/index.html#ddc1db8e4829d62892a21b6c4f7399e5</link>
@@ -16,11 +29,11 @@
 <a href="https://www.logikalsolutions.com/wordpress/information-technology/never/">https://www.logikalsolutions.com/wordpress/information-technology/never/</a>
 
 I particularly agree with never omitting {} around a
-single statement condition, nevering putting { on the
-same line as code, never butting more than 130 characters
-on a line (though I normally still try to keep it below
-75, except for URLs), and never putting local includes
-before global includes.
+single statement condition, never putting { on the same
+line as code, never butting more than 130 characters on a
+line (though I normally still try to keep it below 75,
+except for URLs), and never putting local includes before
+global includes.
 
 </pre>]]>
 </description>
