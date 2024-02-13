@@ -1,6 +1,17 @@
 motd - 02/##/2024
 -----------------
 
+02/13/2024    C++ Never Do's:
+
+              https://www.logikalsolutions.com/wordpress/information-technology/never/
+
+              I particularly agree with never omitting {} around a
+              single statement condition, nevering putting { on the
+              same line as code, never butting more than 130 characters
+              on a line (though I normally still try to keep it below
+              75, except for URLs), and never putting local includes
+              before global includes.
+
 02/13/2024    Stop notifications about updating to Sonoma:
 
               https://lapcatsoftware.com/articles/2024/2/2.html

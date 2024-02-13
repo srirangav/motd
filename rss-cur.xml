@@ -4,7 +4,27 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Tue, 13 Feb 2024 12:36:14 PST</lastBuildDate>
+<lastBuildDate>Tue, 13 Feb 2024 12:47:51 PST</lastBuildDate>
+<item>
+<pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
+<link>https://srirangav.github.io/motd/2024/02/index.html#ddc1db8e4829d62892a21b6c4f7399e5</link>
+<title>C++ Never Do&#39;s</title>
+<description>
+<![CDATA[
+<pre>C++ Never Do&#39;s:
+
+<a href="https://www.logikalsolutions.com/wordpress/information-technology/never/">https://www.logikalsolutions.com/wordpress/information-technology/never/</a>
+
+I particularly agree with never omitting {} around a
+single statement condition, nevering putting { on the
+same line as code, never butting more than 130 characters
+on a line (though I normally still try to keep it below
+75, except for URLs), and never putting local includes
+before global includes.
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
 <link>https://srirangav.github.io/motd/2024/02/index.html#b9b3df3e613dd25186d26db9558a3ab4</link>
