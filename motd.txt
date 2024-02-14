@@ -1,7 +1,11 @@
 motd - 02/##/2024
 -----------------
 
-02/13/2024    The appendix may not useless:
+02/13/2024    Debian 12.5 released:
+
+              https://www.debian.org/News/2024/20240210
+
+02/13/2024    The appendix may not be useless:
 
               https://www.npr.org/sections/health-shots/2024/02/02/1228474984/appendix-function-appendicitis-gut-health
 
@@ -26,7 +30,7 @@ motd - 02/##/2024
 
               https://www.core77.com/posts/128416/A-Smarter-Design-Approach-to-the-Lockable-Bike-Helmet
 
-02/13/2024    C++ Never Do's:
+02/13/2024    Things to never do in C++:
 
               https://www.logikalsolutions.com/wordpress/information-technology/never/
 
