@@ -1,6 +1,24 @@
 motd - 02/##/2024
 -----------------
 
+02/14/2024    Using lasers to build heavy elements:
+
+              https://physics.aps.org/articles/v17/s17
+
+              "Generating neutrons using lasers typically involves two
+              stages: first, a laser pulse ionizes hydrogen atoms in a
+              thin foil and accelerates them to MeV energies; then,
+              these hydrogen nuclei trigger neutron-generating nuclear
+              reactions in a high-atomic-number material. ...
+              [C]alculations indicate[] that a desirable isotope count
+              could be achieved by slowing the neutrons to very low
+              energies (to boost their capture cross sections) and by
+              pulsing the laser at a sustained 100 Hz. While the
+              necessary neutron energies can be achieved using
+              present-day techniques, the laser pulse rates required for
+              this scheme will only be possible using next-generation
+              devices."
+
 02/14/2024    Time zones:
 
               https://hackaday.com/2024/02/14/how-many-time-zones-are-there-anyway/
