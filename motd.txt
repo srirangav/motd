@@ -1,6 +1,11 @@
 motd - 02/##/2024
 -----------------
 
+02/14/2024    Time zones:
+
+              https://hackaday.com/2024/02/14/how-many-time-zones-are-there-anyway/
+              https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/
+
 02/13/2024    arkenfox v122:
 
               https://github.com/arkenfox/user.js/releases/tag/122.0

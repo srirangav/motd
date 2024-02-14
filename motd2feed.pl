@@ -14,6 +14,7 @@ use strict;
 use Time::Piece;
 use HTML::Entities;
 use Digest::MD5 qw(md5 md5_hex md5_base64);
+use POSIX;
 
 # globals
 
@@ -62,6 +63,10 @@ my $gEntry = 0;
 
 my $gEntryClosed = 0;
 
+# current timezone
+
+my $gTZ = "";
+
 # main
 
 # print the rss header
@@ -74,6 +79,12 @@ my $gBuildTime = Time::Piece->new;
 print "<lastBuildDate>";
 print $gBuildTime->strftime("%a, %d %b %Y %H:%M:%S %Z");
 print "</lastBuildDate>\n";
+
+# get the current timezone
+
+tzset();
+$gTZ = tzname();
+$gTZ = "PST" if ($gTZ eq "");
 
 # process STDIN or all files provided as arguments
 
@@ -132,7 +143,7 @@ while (<>)
 
             my $time = Time::Piece->strptime($rawTime, "%m/%d/%Y");
             print "<pubDate>" . $time->strftime("%a, %d %b %Y") .
-                  " 00:00:00 PST</pubDate>\n";
+                  " 00:00:00 $gTZ</pubDate>\n";
 
             # add a link for this entry, if a valid year
             # and month were present

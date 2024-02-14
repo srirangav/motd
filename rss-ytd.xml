@@ -4,9 +4,23 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Tue, 13 Feb 2024 19:35:11 PST</lastBuildDate>
+<lastBuildDate>Wed, 14 Feb 2024 10:29:32 PST</lastBuildDate>
 <item>
-<pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
+<pubDate>Wed, 14 Feb 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/02/index.html#5862bf519c90f229d4addabb96a4e13f</link>
+<title>Time zones</title>
+<description>
+<![CDATA[
+<pre>Time zones:
+
+<a href="https://hackaday.com/2024/02/14/how-many-time-zones-are-there-anyway/">https://hackaday.com/2024/02/14/how-many-time-zones-are-there-anyway/</a>
+<a href="https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/">https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/</a>
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Tue, 13 Feb 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/02/index.html#0ce1822d6face07e0f507d960d1f933d</link>
 <title>arkenfox v122</title>
 <description>
@@ -19,7 +33,7 @@
 </description>
 </item>
 <item>
-<pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
+<pubDate>Tue, 13 Feb 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/02/index.html#e8a91f194839636410f6af46cef31323</link>
 <title>Debian 12.5 released</title>
 <description>
@@ -32,7 +46,7 @@
 </description>
 </item>
 <item>
-<pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
+<pubDate>Tue, 13 Feb 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/02/index.html#1c57becdb47e0332a3cc11f36b568d0a</link>
 <title>The appendix may not be useless</title>
 <description>
@@ -62,7 +76,7 @@ bacteria throughout the rest of the gut.&#34;
 </description>
 </item>
 <item>
-<pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
+<pubDate>Tue, 13 Feb 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/02/index.html#cb6dac3c1719d0b91d9ac4c7f30b23a1</link>
 <title>Another lockable bike helmet</title>
 <description>
@@ -75,7 +89,7 @@ bacteria throughout the rest of the gut.&#34;
 </description>
 </item>
 <item>
-<pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
+<pubDate>Tue, 13 Feb 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/02/index.html#c2cf255e766a4b39ba2f40cc2c6b200d</link>
 <title>Things to never do in C++</title>
 <description>
@@ -95,7 +109,7 @@ global includes.
 </description>
 </item>
 <item>
-<pubDate>Tue, 13 Feb 2024 00:00:00 PST</pubDate>
+<pubDate>Tue, 13 Feb 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/02/index.html#b9b3df3e613dd25186d26db9558a3ab4</link>
 <title>Stop notifications about updating to Sonoma</title>
 <description>
@@ -110,7 +124,7 @@ $ defaults write com.apple.SoftwareUpdate MajorOSUserNotificationDate -date &#34
 </description>
 </item>
 <item>
-<pubDate>Tue, 30 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Tue, 30 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#9e05e074bf3164a33434c3cebc38bb9d</link>
 <title>Aurora curls</title>
 <description>
@@ -129,7 +143,7 @@ Undulations Triggered by Kelvin-Helmholtz Waves.&#34;
 </description>
 </item>
 <item>
-<pubDate>Fri, 26 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Fri, 26 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#54f154b02a242ac77f0b4313dd02471d</link>
 <title>California&#39;s duck curve is getting deeper</title>
 <description>
@@ -156,7 +170,7 @@ grid operators.&#34;
 </description>
 </item>
 <item>
-<pubDate>Fri, 26 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Fri, 26 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#0ba85f4e6cc208e42ea3c5178cfecc79</link>
 <title>Model Collapse</title>
 <description>
@@ -169,7 +183,7 @@ grid operators.&#34;
 </description>
 </item>
 <item>
-<pubDate>Thu, 25 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Thu, 25 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#ae1214ff018e11d523b932beedaf1871</link>
 <title>The cooling advantage of integrated GPUs</title>
 <description>
@@ -182,7 +196,7 @@ grid operators.&#34;
 </description>
 </item>
 <item>
-<pubDate>Thu, 25 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Thu, 25 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#d2a5027dfa7a96e9428ef988a1e0233a</link>
 <title>Lockable bike helmet</title>
 <description>
@@ -195,7 +209,7 @@ grid operators.&#34;
 </description>
 </item>
 <item>
-<pubDate>Mon, 22 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Mon, 22 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#021a9155487415eaeaa49f6b8fa8882d</link>
 <title>2023 Emoji law review</title>
 <description>
@@ -208,7 +222,7 @@ grid operators.&#34;
 </description>
 </item>
 <item>
-<pubDate>Mon, 22 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Mon, 22 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#d9dbb1a589b44139274d5432aeb1cd84</link>
 <title>Apple TV remote case with an AirTag</title>
 <description>
@@ -224,7 +238,7 @@ Apple TV remotes all the time.
 </description>
 </item>
 <item>
-<pubDate>Mon, 22 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Mon, 22 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#cc6f88a50b2f2f192898a4a183cb16fb</link>
 <title>A PRNG that you can do in your head</title>
 <description>
@@ -248,7 +262,7 @@ Apple TV remotes all the time.
 </description>
 </item>
 <item>
-<pubDate>Fri, 19 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Fri, 19 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#be85a90e0f8e76113f267b90b29e5468</link>
 <title>How the Manhattan project was funded</title>
 <description>
@@ -274,7 +288,7 @@ secret: &#39;expediting production.&#39;&#34;
 </description>
 </item>
 <item>
-<pubDate>Fri, 19 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Fri, 19 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#837661425092ea59061cb18a1fd21aa8</link>
 <title>Neptune and Uranus in their true colors</title>
 <description>
@@ -287,7 +301,7 @@ secret: &#39;expediting production.&#39;&#34;
 </description>
 </item>
 <item>
-<pubDate>Thu, 18 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Thu, 18 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#5d9c786d0cb81c2e7ca8a21e062c3c98</link>
 <title>Staircase Sunset</title>
 <description>
@@ -300,7 +314,7 @@ secret: &#39;expediting production.&#39;&#34;
 </description>
 </item>
 <item>
-<pubDate>Thu, 18 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Thu, 18 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#1645adca48115407cdb1d69078612b4a</link>
 <title>What Happened to the US Machine Tool Industry?</title>
 <description>
@@ -313,7 +327,7 @@ secret: &#39;expediting production.&#39;&#34;
 </description>
 </item>
 <item>
-<pubDate>Wed, 17 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Wed, 17 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#57d96a6aafb3877f7462be324599b57c</link>
 <title>A dwarf galaxy with no visible stars</title>
 <description>
@@ -339,7 +353,7 @@ formation through any possible mergers or collisions.&#34;
 </description>
 </item>
 <item>
-<pubDate>Wed, 17 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Wed, 17 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#6a68b18039aaa1f6caf672cfbaf05ced</link>
 <title>Early galaxies appear to have been mostly long and thin</title>
 <description>
@@ -352,7 +366,7 @@ formation through any possible mergers or collisions.&#34;
 </description>
 </item>
 <item>
-<pubDate>Wed, 17 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Wed, 17 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#7bc93ef627fde06a35c4bf5b6f694959</link>
 <title>Cepheid variables probably not responsible for the Hubble tension</title>
 <description>
@@ -371,7 +385,7 @@ account for the Hubble tension.&#34;
 </description>
 </item>
 <item>
-<pubDate>Sat, 13 Jan 2024 00:00:00 PST</pubDate>
+<pubDate>Sat, 13 Jan 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/01/index.html#1c4f14f2467d158fedb635e5c50f100e</link>
 <title>The 18% O2 solution</title>
 <description>
