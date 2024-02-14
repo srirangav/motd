@@ -1,6 +1,10 @@
 motd - 02/##/2024
 -----------------
 
+02/13/2024    arkenfox v122:
+
+              https://github.com/arkenfox/user.js/releases/tag/122.0
+
 02/13/2024    Debian 12.5 released:
 
               https://www.debian.org/News/2024/20240210
