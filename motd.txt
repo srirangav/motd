@@ -1,6 +1,13 @@
 motd - 02/##/2024
 -----------------
 
+02/16/2024    Better Sonoma:
+
+              https://basicappleguy.com/basicappleblog/better-sonoma
+
+              "I didn't care for Apple's abstract take on the rolling
+              hills of Sonoma, so I made my own."
+
 02/16/2024    Protons are complicated:
 
               https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
