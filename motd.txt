@@ -1,117 +1,15 @@
-motd - 02/##/2024
+motd - 03/##/2024
 -----------------
 
-02/29/2024    The longest year in history:
+03/03/2024    USB adapter for Sparcs:
 
-              https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years
-
-              "Caesar added another two never-before-seen months to the
-              year 46BC, one of 33 days and one 34, to bring the
-              calendar in line with the Sun. The additions made the year
-              the longest in history at 445 days long, with 15 months."
-
-02/16/2024    Better Sonoma:
-
-              https://basicappleguy.com/basicappleblog/better-sonoma
-
-              "I didn't care for Apple's abstract take on the rolling
-              hills of Sonoma, so I made my own."
-
-02/16/2024    Protons are complicated:
-
-              https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
-
-              "Recently, a team led by Juan Rojo of the National
-              Institute for Subatomic Physics in the Netherlands and VU
-              University Amsterdam analyzed more than 5,000 proton
-              snapshots taken over the last 50 years, using machine
-              learning to infer the motions of quarks and gluons inside
-              the proton in a way that sidesteps theoretical guesswork.
-
-              The new scrutiny picked up a background blur in the images
-              that had escaped past researchers. In relatively soft
-              collisions just barely breaking the proton open, most of
-              the momentum was locked up in the usual three quarks: two
-              ups and a down. But a small amount of momentum appeared to
-              come from a 'charm' quark and charm antiquark - colossal
-              elementary particles that each outweigh the entire proton
-              by more than one-third."
-
-02/14/2024    Using lasers to build heavy elements:
-
-              https://physics.aps.org/articles/v17/s17
-
-              "Generating neutrons using lasers typically involves two
-              stages: first, a laser pulse ionizes hydrogen atoms in a
-              thin foil and accelerates them to MeV energies; then,
-              these hydrogen nuclei trigger neutron-generating nuclear
-              reactions in a high-atomic-number material. ...
-              [C]alculations indicate[] that a desirable isotope count
-              could be achieved by slowing the neutrons to very low
-              energies (to boost their capture cross sections) and by
-              pulsing the laser at a sustained 100 Hz. While the
-              necessary neutron energies can be achieved using
-              present-day techniques, the laser pulse rates required for
-              this scheme will only be possible using next-generation
-              devices."
-
-02/14/2024    Time zones:
-
-              https://hackaday.com/2024/02/14/how-many-time-zones-are-there-anyway/
-              https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/
-
-02/13/2024    arkenfox v122:
-
-              https://github.com/arkenfox/user.js/releases/tag/122.0
-
-02/13/2024    Debian 12.5 released:
-
-              https://www.debian.org/News/2024/20240210
-
-02/13/2024    The appendix may not be useless:
-
-              https://www.npr.org/sections/health-shots/2024/02/02/1228474984/appendix-function-appendicitis-gut-health
-
-              "It turns out that the appendix appears to have two
-              related functions. The first function is supporting the
-              immune system. The appendix has a high concentration of
-              immune tissue, so it's acting to help the immune system
-              fight any bad things in the gut.
-
-              The second function that it serves is what we refer to as
-              the safe house. ... During times of gastrointestinal
-              distress - you know, a diarrhea episode where all of your
-              good gut bacteria is getting kind of flushed out of the
-              system - the appendix is kind of this blind tube with a
-              very narrow diameter and narrow lumen, so the good
-              bacteria doesn't get flushed out of the appendix. The idea
-              is it's safe during this time of gastrointestinal distress
-              and it can then exit the appendix and recolonize this good
-              bacteria throughout the rest of the gut."
-
-02/13/2024    Another lockable bike helmet:
-
-              https://www.core77.com/posts/128416/A-Smarter-Design-Approach-to-the-Lockable-Bike-Helmet
-
-02/13/2024    Things to never do in C++:
-
-              https://www.logikalsolutions.com/wordpress/information-technology/never/
-
-              I particularly agree with never omitting {} around a
-              single statement condition, never putting { on the same
-              line as code, never butting more than 130 characters on a
-              line (though I normally still try to keep it below 75,
-              except for URLs), and never putting local includes before
-              global includes.
-
-02/13/2024    Stop notifications about updating to Sonoma:
-
-              https://lapcatsoftware.com/articles/2024/2/2.html
-
-              $ defaults write com.apple.SoftwareUpdate MajorOSUserNotificationDate -date "2025-02-07 23:22:47 +0000"
+              https://hackaday.com/2024/03/01/an-open-sparcstation-usb-keyboardmouse-adapter/
 
 Older
 -----
+
+02/##/2024    https://srirangav.github.io/motd/2024/02/motd.txt
+              https://srirangav.github.io/motd/2024/02/index.html
 
 01/##/2024    https://srirangav.github.io/motd/2024/01/motd.txt
               https://srirangav.github.io/motd/2024/01/index.html
