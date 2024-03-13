@@ -1,6 +1,10 @@
 motd - 03/##/2024
 -----------------
 
+03/12/2024    Il Cannone got an x-ray last weekend:
+
+              https://phys.org/news/2024-03-paganini-violin-ray-treatment-quest.html
+
 03/03/2024    USB adapter for Sparcs:
 
               https://hackaday.com/2024/03/01/an-open-sparcstation-usb-keyboardmouse-adapter/
