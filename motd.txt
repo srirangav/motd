@@ -1,6 +1,10 @@
 motd - 03/##/2024
 -----------------
 
+03/20/2024    Ta-180m may have a half-life of 10^18 to 10^19 years!
+
+              https://www.sci.news/physics/tantalum-180m-decay-12779.html
+
 03/20/2024    It is time for a new AirPort:
 
               https://sixcolors.com/post/2024/03/its-time-for-a-new-airport/
