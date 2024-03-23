@@ -1,6 +1,10 @@
 motd - 03/##/2024
 -----------------
 
+03/23/2024    How secure is Personal Hotspot?
+
+              https://osxdaily.com/2024/03/23/how-secure-are-personal-hotspot-connections-from-iphone/
+
 03/23/2024    A return to BluRays?
 
               https://www.audioholics.com/news/a-return-to-blu-ray-as-streaming-value-evaporates
