@@ -1,6 +1,26 @@
 motd - 03/##/2024
 -----------------
 
+03/26/2024    Why blueberries are blue:
+
+              https://www.livescience.com/chemistry/why-are-blueberries-blue
+
+              "While blueberries contain strong pigments called
+              anthocyanins, these have a deep reddish-purple color,
+              completely different from the indigo shade of the fruit
+              skin. However, like most plants, blueberries are coated in
+              a thin layer of protective wax which acts as a waterproof
+              coating and barrier against infection. ...
+
+              [Researchers] suspected the blue hue must come from
+              outside of the fruit. So they removed a sample of this wax
+              and recrystallized it on a piece of cardboard. To their
+              delight, this created an ultra-thin crystalline coating
+              with blueberry's trademark indigo color. When they looked
+              closely at this layer, they found a random distribution of
+              crystal structures within the wax which scatter blue and
+              UV light to produce the fruit's signature color."
+
 03/26/2024    Classic taskmanager in Windows 11:
 
               https://www.ghacks.net/2024/03/26/how-to-launch-the-old-task-manager-in-windows-11/
