@@ -1,6 +1,16 @@
 motd - 03/##/2024
 -----------------
 
+03/26/2024    Classic taskmanager in Windows 11:
+
+              https://www.ghacks.net/2024/03/26/how-to-launch-the-old-task-manager-in-windows-11/
+
+              1. Right-click on the desktop and select New->Shortcut
+              2. Type 'taskmgr.exe -d' in the location field of the
+                 Create Shortcut window
+              3. Click Next
+              4. Provide a name for the shortcut (e.g. 'Task Manager')
+
 03/26/2024    Apple Jonathan:
 
               https://512pixels.net/2024/03/apple-jonathan-modular-concept/

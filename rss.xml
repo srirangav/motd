@@ -4,7 +4,26 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Tue, 26 Mar 2024 14:50:01 PDT</lastBuildDate>
+<lastBuildDate>Tue, 26 Mar 2024 14:53:07 PDT</lastBuildDate>
+<item>
+<pubDate>Tue, 26 Mar 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/03/index.html#269d6efefaab4068616aba560c7b5342</link>
+<title>Classic taskmanager in Windows 11</title>
+<description>
+<![CDATA[
+<pre>Classic taskmanager in Windows 11:
+
+<a href="https://www.ghacks.net/2024/03/26/how-to-launch-the-old-task-manager-in-windows-11/">https://www.ghacks.net/2024/03/26/how-to-launch-the-old-task-manager-in-windows-11/</a>
+
+1. Right-click on the desktop and select New-&gt;Shortcut
+2. Type &#39;taskmgr.exe -d&#39; in the location field of the
+   Create Shortcut window
+3. Click Next
+4. Provide a name for the shortcut (e.g. &#39;Task Manager&#39;)
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Tue, 26 Mar 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/03/index.html#501871c442fcd8ba1ff548a6a83e4b8b</link>
