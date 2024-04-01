@@ -4,7 +4,23 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Tue, 26 Mar 2024 15:43:09 PDT</lastBuildDate>
+<lastBuildDate>Sun, 31 Mar 2024 17:27:31 PDT</lastBuildDate>
+<item>
+<pubDate>Sun, 31 Mar 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/03/index.html#396bad7c34d4ff94db68009abbd3701d</link>
+<title>Modern git commands</title>
+<description>
+<![CDATA[
+<pre>Modern git commands:
+
+<a href="https://martinheinz.dev/blog/109">https://martinheinz.dev/blog/109</a>
+
+I need to learn more about &#39;git switch&#39; and &#39;git
+sparse-checkout&#39;, which look particuarly useful.
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Tue, 26 Mar 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/03/index.html#06f97667a4e7730e5999effc11403fdc</link>

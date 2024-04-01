@@ -1,6 +1,13 @@
 motd - 03/##/2024
 -----------------
 
+03/31/2024    Modern git commands:
+
+              https://martinheinz.dev/blog/109
+
+              I need to learn more about 'git switch' and 'git
+              sparse-checkout', which look particuarly useful.
+
 03/26/2024    Can gravitational waves interfere with each other?
 
               https://www.youtube.com/watch?v=zFGnOqrq8j4
