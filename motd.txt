@@ -1,6 +1,26 @@
 motd - 04/##/2024
 -----------------
 
+04/03/2024    Hexagons are the bestagons (at least for self-assembly):
+
+              https://physics.aps.org/articles/v17/s36
+
+              "Florian Gartner and Erwin Frey from Ludwig Maximilian
+              University of Munich simulated self-assembly of
+              two-dimensional structures with three types of building
+              blocks: triangles, squares, and hexagons. ... [They] found
+              that certain shapes were better than others at assembling
+              into larger structures, as they tended to form
+              intermediate structures with more bonds around each block.
+              In particular, hexagonal blocks were the most efficient
+              building material, forming 1000-piece structures at a rate
+              that was 10,000 times faster than triangular blocks.
+
+              The results are not limited to geometrically simple
+              shapes. 'Our insights hold relevance beyond these
+              simplified models, extending to a wide range of biological
+              and nanotechnological self-assembly processes,' Frey says."
+
 04/03/2024    Predicting primes?
 
               https://phys.org/news/2024-04-breakthrough-prime-theory-primes.html
