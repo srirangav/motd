@@ -1,6 +1,31 @@
 motd - 04/##/2024
 -----------------
 
+04/04/2024    New sunflower family tree:
+
+              https://phys.org/news/2024-04-sunflower-family-tree-reveals-multiple.html
+
+              "The sunflower family tree has revealed that flower
+              symmetry evolved multiple times independently, a process
+              called convergent evolution, among the members of this
+              large plant family, according to a new analysis.
+
+              ...
+
+              The sunflower head, for example, is actually a composite
+              composed of multiple much smaller flowers. While the head
+              is generally radially symmetric - it can be divided into
+              two equal halves in multiple directions like a starfish or
+              a pie - the individual flowers can have different forms of
+              symmetry. According to the new study, bilateral symmetry
+              - where there is only one line that divides the flower
+              into two equal halves - has evolved and been lost multiple
+              times independently in sunflowers over evolutionary
+              history. The researchers found that this convergent
+              evolution is likely related to changes in the number of
+              copies and the expression patterns of the floral
+              regulatory gene, CYC2."
+
 04/03/2024    Trying out OpenBSD ksh on MacOS
 
               A recent thread on OpenBSD-misc about switching default
