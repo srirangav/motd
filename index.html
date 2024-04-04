@@ -13,6 +13,38 @@
 motd - 04/##/2024
 -----------------
 
+<a name="c7943f98e53bc5fd53579a8169624e76">04/03/2024</a>    Trying out OpenBSD ksh on MacOS
+
+              A recent thread on OpenBSD-misc about switching default
+              shells from ksh to bash, finally gave me the motivation
+              to try and switch to OpenBSD&#39;s ksh on MacOS (I am a long
+              time bash user):
+
+              <a href="https://marc.info/?t=171198874500008&amp;r=1&amp;w=2">https://marc.info/?t=171198874500008&amp;r=1&amp;w=2</a>
+
+              The most recent OpenBSD ksh (7.4) is available in MacPorts
+              as &#39;oksh&#39;:
+
+              $ sudo port install oksh
+
+              On MacOS, OpenBSD&#39;s ksh is much smaller than other shells:
+
+              $ ls -l /bin/*sh /opt/local/bin/bash /opt/local/bin/oksh | \
+              sort -n -k5,5 | awk &#39;{ printf(&#34;%-20s %8d\n&#34;, $NF, $5); }&#39;
+
+              /bin/sh*               134000
+              /opt/local/bin/oksh*   244568
+              /bin/dash*             307248
+              /opt/local/bin/bash*  1050385
+              /bin/csh*             1153408
+              /bin/tcsh*            1153408
+              /bin/bash*            1326752
+              /bin/zsh*             1377520
+              /bin/ksh*             2598896
+
+              Other than perhaps tab-completion of variable names in
+              emacs mode, I don&#39;t see many differences.
+
 <a name="03595ed4811dcaf4552d7bcc1cd366fb">04/03/2024</a>    Hexagons are the bestagons (at least for self-assembly):
 
               <a href="https://physics.aps.org/articles/v17/s36">https://physics.aps.org/articles/v17/s36</a>
