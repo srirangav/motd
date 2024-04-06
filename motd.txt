@@ -1,6 +1,10 @@
 motd - 04/##/2024
 -----------------
 
+04/06/2024    Oh my ksh (extensions OpenBSD's ksh):
+
+              https://github.com/qbit/ohmyksh
+
 04/05/2024    Cover art for Nancy Drew - Mystery of the Seven Keys:
 
               https://www.herinteractive.com/2024/04/unveiling-the-new-cover-art-for-nancy-drew-mystery-of-the-seven-keys/
