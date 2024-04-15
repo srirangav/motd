@@ -1,6 +1,14 @@
 motd - 04/##/2024
 -----------------
 
+04/15/2024    National laundry day:
+
+              https://www.hedgerhumor.com/national-laundry-day/
+
+              "I could win the Nobel Peace Prize and not feel as
+              accomplished as I do when I put the laundry away the
+              same day that it gets washed."
+
 04/06/2024    A history of source control systems:
 
               https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/
