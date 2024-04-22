@@ -1,6 +1,17 @@
 motd - 04/##/2024
 -----------------
 
+04/21/2024    Largest stellar black hole in the Milky Way:
+
+              https://phys.org/news/2024-04-astronomers-largest-black-hole-milky.html
+
+              "Astronomers [have] identified the largest stellar black
+              hole yet discovered in the Milky Way, with a mass 33 times
+              that of the Sun ...  The black hole, named Gaia BH3, was
+              discovered 'by chance' from data collected by the European
+              Space Agency's Gaia mission ... [and] is located [] 2,000
+              light years away from Earth in the Aquila constellation."
+
 04/21/2024    Arabica coffee plants are over 600,000 years old:
 
               https://phys.org/news/2024-04-morning-coffee-hundreds-thousands-years.html
