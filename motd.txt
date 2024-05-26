@@ -1,6 +1,21 @@
 motd - 05/##/2024
 -----------------
 
+05/25/2024    Cu coated stainless steel may kill bacteria:
+
+              https://phys.org/news/2024-05-stainless-steel-bacteria-antibiotics-chemicals.html
+
+              "An electrochemical process developed at Georgia Tech
+              could offer new protection against bacterial infections
+              without contributing to growing antibiotic resistance.
+
+              The approach capitalizes on the natural antibacterial
+              properties of copper and creates incredibly small
+              needle-like structures on the surface of stainless steel
+              to kill harmful bacteria like E. coli and Staphylococcus.
+              It's convenient and inexpensive, and it could reduce the
+              need for chemicals and antibiotics[.]"
+
 05/19/2024    The pyramids were built along long-lost branch of the Nile:
 
               https://phys.org/news/2024-05-pyramids-built-lost-river-scientists.html
