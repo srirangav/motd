@@ -1,6 +1,28 @@
 motd - 05/##/2024
 -----------------
 
+05/20/2024    A nucleus' effective charge depends on the number of neutrons:
+
+              https://physics.aps.org/articles/v17/s65
+
+              "The nuclear shell model assigns each nucleon to a
+              single-particle state that is similar to an electron
+              orbital in an atom. Researchers have previously shown that
+              the effective charge is different for different nuclei,
+              but it hasn't been clear whether the variation was
+              attributable to differences in the orbital configuration
+              of the nuclei or to differences in isospin (or both).
+
+              ...
+
+              [R]esearchers observed cadmium-130 nuclei produced when a
+              uranium beam ... collided with a beryllium target. They
+              combined shell model calculations and the new data along
+              with previous data to determine an effective proton charge
+              of +1.35 for this neutron-rich nucleus, compared with
+              +1.17 for cadmium-98, suggesting an unexpectedly strong
+              isospin dependence of the effective charge."
+
 05/30/2024    Fractional quantum anomalous Hall effect in 2D moire materials:
 
               https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/
