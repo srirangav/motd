@@ -1,6 +1,17 @@
 motd - 05/##/2024
 -----------------
 
+05/30/2024    The most distant galaxy currently known is JADES-GS-z14-0:
+
+              https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/
+
+              "In January 2024, [JWST's] NIRSpec observed th[e] galaxy,
+              JADES-GS-z14-0, for almost ten hours, and when the
+              spectrum was first processed, there was unambiguous
+              evidence that the galaxy was indeed at a redshift of
+              14.32, shattering the previous most-distant galaxy record
+              (z = 13.2 of JADES-GS-z13-0)[.]"
+
 05/30/2024    Timekeeping on the moon:
 
               https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html
