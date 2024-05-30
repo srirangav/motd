@@ -1,6 +1,25 @@
 motd - 05/##/2024
 -----------------
 
+05/30/2024    Further research into the Ga anomaly:
+
+              https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.055501
+
+              "[T]hree separate measurements using dedicated planar Ge
+              detectors - one with Fe55 as a standard, one with Co57 as
+              a standard, and one standalone 71Ge ... yield[ed] a
+              half-life of 11.468[+/-]0.008 days [for the half-life of
+              Ge71], which is consistent with, but significantly more
+              precise than, the currently accepted value[,] ... [ruling
+              out] potential explanation of the gallium anomaly being
+              due to an unexpectedly long Ge71 half-life[.]"
+
+              See also: https://en.wikipedia.org/wiki/Soviet%E2%80%93American_Gallium_Experiment
+
+              "In June 2022, the BEST experiment released two papers
+              observing a 20-24% deficit in the production the isotope
+              germanium expected from the reaction 71Ga + ve -> e- + 71Ge"
+
 05/30/2024    The most distant galaxy currently known is JADES-GS-z14-0:
 
               https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/
