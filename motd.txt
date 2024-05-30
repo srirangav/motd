@@ -1,6 +1,10 @@
 motd - 05/##/2024
 -----------------
 
+05/30/2024    Fractional quantum anomalous Hall effect in 2D moire materials:
+
+              https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/
+
 05/25/2024    Cu coated stainless steel may kill bacteria:
 
               https://phys.org/news/2024-05-stainless-steel-bacteria-antibiotics-chemicals.html
