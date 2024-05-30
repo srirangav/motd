@@ -1,7 +1,11 @@
 motd - 05/##/2024
 -----------------
 
-05/20/2024    A nucleus' effective charge depends on the number of neutrons:
+05/30/2024    A brief history of Martin-Baker ejection seats:
+
+              https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today
+
+05/30/2024    A nucleus' effective charge depends on the number of neutrons:
 
               https://physics.aps.org/articles/v17/s65
 
