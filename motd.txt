@@ -1,0 +1,64 @@
+motd - 06/##/2024
+-----------------
+
+06/03/2024    GRB's may not be the primary source of heavy elements:
+
+              https://phys.org/news/2024-05-universe-biggest-explosions-elements-mystery.html
+
+              "Rapid neutron-capture process, or r-process, is where the
+              nuclei (or cores) of heavier elements such as iron capture
+              many neutron particles in a short time. They [] rapidly
+              grow in mass, yielding much heavier elements. For
+              r-process to work, however, you need the right conditions:
+              high density, high temperature, and a large number of
+              available free neutrons. Gamma ray bursts happen to
+              provide these necessary conditions.
+
+              ...
+
+              A recent study investigated one long gamma ray burst in
+              particular, GRB 221009. This has been dubbed the BOAT -
+              the brightest of all time. ... The JWST team [] inferred
+              the number of heavy elements produced during the BOAT
+              explosion. They found no indication of elements produced
+              by the r-process. ... These findings suggest that gamma
+              ray bursts may not be the hoped-for crucial source of the
+              universe's heavy elements. Instead, there must be a source
+              or sources still out there."
+
+Older
+-----
+
+05/##/2024    https://srirangav.github.io/motd/2024/05/motd.txt
+              https://srirangav.github.io/motd/2024/05/index.html
+
+04/##/2024    https://srirangav.github.io/motd/2024/04/motd.txt
+              https://srirangav.github.io/motd/2024/04/index.html
+
+03/##/2024    https://srirangav.github.io/motd/2024/03/motd.txt
+              https://srirangav.github.io/motd/2024/03/index.html
+
+02/##/2024    https://srirangav.github.io/motd/2024/02/motd.txt
+              https://srirangav.github.io/motd/2024/02/index.html
+
+01/##/2024    https://srirangav.github.io/motd/2024/01/motd.txt
+              https://srirangav.github.io/motd/2024/01/index.html
+
+##/##/2023    https://srirangav.github.io/motd/2023/motd.txt
+              https://srirangav.github.io/motd/2023/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+HTML:         https://srirangav.github.io/motd/index.html
+RSS (all entries):
+              https://srirangav.github.io/motd/rss.xml
+RSS (current month's entries only):
+              https://srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only):
+              https://srirangav.github.io/motd/rss-ytd.xml
+
