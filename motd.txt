@@ -1,6 +1,27 @@
 motd - 06/##/2024
 -----------------
 
+06/24/2024    Anti-viral properties of wood:
+
+              https://www.sci.news/medicine/antiviral-wood-13031.html
+
+              "[R]esults ... with an enveloped coronavirus showed that
+              pine, spruce, birch and alder need one hour to completely
+              reduce the virus' ability to infect cells, with eucalyptus
+              and oak needing two hours.
+
+              Pine had the fastest onset of antiviral activity,
+              beginning after five minutes. Spruce came in second,
+              showing a sharp drop in infectivity after 10 minutes.
+
+              For a nonenveloped enterovirus, [] researchers found that
+              incubation on oak and spruce surfaces resulted in a loss
+              of infectivity within about an hour, with oak having an
+              onset time of 7.5 minutes and spruce after 60 minutes.
+
+              Pine, birch and eucalyptus reduced the virus' infectivity
+              after four hours, and alder showed no antiviral effect."
+
 06/23/2024    How the square root of 2 became a number:
 
               https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/
