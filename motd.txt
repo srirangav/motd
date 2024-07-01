@@ -1,105 +1,15 @@
-motd - 06/##/2024
+motd - 07/##/2024
 -----------------
 
-06/28/2024    Two additional Milky Way satellite galaxy's have been found:
+07/01/2024    Our solar system may have originally been toroidal:
 
-              https://phys.org/news/2024-06-astronomers-milky-satellite-galaxy-candidates.html
-
-06/26/2024    A puzzling excess of cosmic deuterons:
-
-              https://physics.aps.org/articles/v17/s74
-
-06/24/2024    Oscan:
-
-              https://itsallgreektoanna.wordpress.com/2024/06/10/epigraphic-baking-oscan/
-
-              "[T]he Oscan language is closely related to Latin ...
-              - some letters are pretty similar, but others are totally
-              different, and the whole thing is also written
-              right-to-left. In fact, the two alphabets are also quite
-              closely related, as both were derived from the alphabet
-              used to write the Etruscan language[.]"
-
-06/25/2024    What a 6th season of SG:A might have looked like:
-
-              https://www.gateworld.net/news/2024/06/stargate-atlantis-season-six-this-was-the-plan/
-
-06/24/2024    8 reasons why CDs are better than streaming music:
-
-              https://www.headphonesty.com/2024/06/cds-still-rule-over-streaming/
-
-06/24/2024    Anti-viral properties of wood:
-
-              https://www.sci.news/medicine/antiviral-wood-13031.html
-
-              "[R]esults ... with an enveloped coronavirus showed that
-              pine, spruce, birch and alder need one hour to completely
-              reduce the virus' ability to infect cells, with eucalyptus
-              and oak needing two hours.
-
-              Pine had the fastest onset of antiviral activity,
-              beginning after five minutes. Spruce came in second,
-              showing a sharp drop in infectivity after 10 minutes.
-
-              For a nonenveloped enterovirus, [] researchers found that
-              incubation on oak and spruce surfaces resulted in a loss
-              of infectivity within about an hour, with oak having an
-              onset time of 7.5 minutes and spruce after 60 minutes.
-
-              Pine, birch and eucalyptus reduced the virus' infectivity
-              after four hours, and alder showed no antiviral effect."
-
-06/23/2024    How the square root of 2 became a number:
-
-              https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/
-
-06/23/2024    Mt. Hood Vision Pro desktop picture:
-
-              https://basicappleguy.com/basicappleblog/mthoodwallpaper
-
-06/23/2024    Why some franchises stay great:
-
-              https://www.noahpinion.blog/p/why-some-franchises-go-downhill-while
-
-06/13/2024    Gravitational-wave memory:
-
-              https://physics.aps.org/articles/v17/95
-
-06/13/2024    What could make a baby bison white:
-
-              https://phys.org/news/2024-06-baby-bison-white.html
-
-06/03/2024    Celebrating the twins of the Standard Model:
-
-              https://profmattstrassler.com/2024/05/29/celebrating-the-standard-model-the-twins-were-made-of/
-
-06/03/2024    GRB's may not be the primary source of heavy elements:
-
-              https://phys.org/news/2024-05-universe-biggest-explosions-elements-mystery.html
-
-              "Rapid neutron-capture process, or r-process, is where the
-              nuclei (or cores) of heavier elements such as iron capture
-              many neutron particles in a short time. They [] rapidly
-              grow in mass, yielding much heavier elements. For
-              r-process to work, however, you need the right conditions:
-              high density, high temperature, and a large number of
-              available free neutrons. Gamma ray bursts happen to
-              provide these necessary conditions.
-
-              ...
-
-              A recent study investigated one long gamma ray burst in
-              particular, GRB 221009. This has been dubbed the BOAT -
-              the brightest of all time. ... The JWST team [] inferred
-              the number of heavy elements produced during the BOAT
-              explosion. They found no indication of elements produced
-              by the r-process. ... These findings suggest that gamma
-              ray bursts may not be the hoped-for crucial source of the
-              universe's heavy elements. Instead, there must be a source
-              or sources still out there."
+              https://www.sciencealert.com/the-shape-of-the-solar-system-has-changed-dramatically-scientists-say
 
 Older
 -----
+
+06/##/2024    https://srirangav.github.io/motd/2024/06/motd.txt
+              https://srirangav.github.io/motd/2024/06/index.html
 
 05/##/2024    https://srirangav.github.io/motd/2024/05/motd.txt
               https://srirangav.github.io/motd/2024/05/index.html
