@@ -1,6 +1,15 @@
 motd - 07/##/2024
 -----------------
 
+07/02/2024    Exciting nucleons with lasers:
+
+              https://phys.org/news/2024-07-physicists-laser-atom-nucleus-enable.html
+
+              "By embedding a thorium atom within a highly transparent
+              crystal and bombarding it with lasers, [a research] group
+              has succeeded in getting the nucleus of the thorium atom
+              to absorb and emit photons like electrons in an atom do."
+
 07/01/2024    Our solar system may have originally been toroidal:
 
               https://www.sciencealert.com/the-shape-of-the-solar-system-has-changed-dramatically-scientists-say
