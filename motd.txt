@@ -10,6 +10,8 @@ motd - 07/##/2024
               has succeeded in getting the nucleus of the thorium atom
               to absorb and emit photons like electrons in an atom do."
 
+              See also: https://physics.aps.org/articles/v17/s75
+
 07/01/2024    Our solar system may have originally been toroidal:
 
               https://www.sciencealert.com/the-shape-of-the-solar-system-has-changed-dramatically-scientists-say
