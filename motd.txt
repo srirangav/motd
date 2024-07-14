@@ -1,6 +1,10 @@
 motd - 07/##/2024
 -----------------
 
+07/14/2024    Alternatives to OpenBSD's strlcpy(3):
+
+              https://nrk.neocities.org/articles/not-a-fan-of-strlcpy
+
 07/14/2024    WinNT For New World Macs:
 
               https://github.com/Wack0/maciNTosh

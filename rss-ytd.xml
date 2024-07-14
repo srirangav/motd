@@ -4,7 +4,20 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Sun, 14 Jul 2024 15:59:14 PDT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jul 2024 16:01:19 PDT</lastBuildDate>
+<item>
+<pubDate>Sun, 14 Jul 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/07/index.html#c3eaddecdd853717eb1649a55a8b2fc2</link>
+<title>Alternatives to OpenBSD&#39;s strlcpy(3)</title>
+<description>
+<![CDATA[
+<pre>Alternatives to OpenBSD&#39;s strlcpy(3):
+
+<a href="https://nrk.neocities.org/articles/not-a-fan-of-strlcpy">https://nrk.neocities.org/articles/not-a-fan-of-strlcpy</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Sun, 14 Jul 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/07/index.html#370fc7f4c61fb4b10d8823803a78a60e</link>
