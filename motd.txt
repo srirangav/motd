@@ -1,6 +1,35 @@
 motd - 07/##/2024
 -----------------
 
+07/15/2024    The Gallium Anomaly:
+
+              https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/
+
+              "Using a nuclear reactor at the McClellan Nuclear Research
+              Center at the University of California, Davis,
+              [researchers] irradiated 'very pure germanium material,'
+              ...  producing germanium-71. They then analyzed the
+              samples over 80 days to see how long it took the atoms to
+              decay.
+
+              They arrived at a half-life of 11.468 days, extremely
+              close to the 1985 measurement, ruling the half-life out as
+              the explanation for the gallium anomaly.
+
+              ...
+
+              Another proposed explanation was that physicists had
+              miscalculated the probability of neutrinos from the source
+              interacting with the gallium. But in September 2023,
+              [other researchers] also ruled out this possibility.
+
+              ...
+
+              Th[is] leaves physicists in an uncomfortable position.
+              Either there is still some error that no one has thought
+              of, or, as [one researcher] put it, 'something unusual is
+              going on with neutrinos.'"
+
 07/14/2024    Alternatives to OpenBSD's strlcpy(3):
 
               https://nrk.neocities.org/articles/not-a-fan-of-strlcpy
