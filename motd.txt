@@ -1,6 +1,12 @@
 motd - 07/##/2024
 -----------------
 
+07/17/2024    git commit messages are optional:
+
+              https://schpet.com/note/git-commit-messages-are-optional
+
+              $ git commit --allow-empty-message -m ""
+
 07/17/2024    The last common ancestor lived ~ 4.2B years ago:
 
               https://www.sci.news/biology/last-universal-common-ancestor-13093.html

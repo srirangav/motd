@@ -4,7 +4,22 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Wed, 17 Jul 2024 19:28:46 PDT</lastBuildDate>
+<lastBuildDate>Wed, 17 Jul 2024 19:48:17 PDT</lastBuildDate>
+<item>
+<pubDate>Wed, 17 Jul 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/07/index.html#e3b3ea27abc124e05ca11d873ddb7716</link>
+<title>git commit messages are optional</title>
+<description>
+<![CDATA[
+<pre>git commit messages are optional:
+
+<a href="https://schpet.com/note/git-commit-messages-are-optional">https://schpet.com/note/git-commit-messages-are-optional</a>
+
+$ git commit --allow-empty-message -m &#34;&#34;
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Wed, 17 Jul 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/07/index.html#1ec580006b77b3c1dd600b23b84ba32a</link>
