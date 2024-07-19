@@ -1,6 +1,10 @@
 motd - 07/##/2024
 -----------------
 
+07/19/2024    Inverse Pythagorean theorem:
+
+              https://www.futilitycloset.com/2024/07/19/inside-out-4/
+
 07/17/2024    git commit messages are optional:
 
               https://schpet.com/note/git-commit-messages-are-optional
