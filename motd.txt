@@ -1,6 +1,10 @@
 motd - 07/##/2024
 -----------------
 
+07/23/2024    New lattice QCD calculation may resolve the muon g-2 anomaly:
+
+              https://bigthink.com/starts-with-a-bang/calculation-solves-muon-g-2-puzzle/
+
 07/22/2024    Heparin may help prevent necrosis around snakebite wounds:
 
               https://www.smithsonianmag.com/smart-news/common-blood-thinners-could-combat-snakebites-preventing-tissue-damage-and-amputations-study-finds-180984747/
