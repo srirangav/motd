@@ -1,6 +1,15 @@
 motd - 07/##/2024
 -----------------
 
+07/23/2024    On the (long) road to element 120:
+
+              https://phys.org/news/2024-07-element-door-heavier-atoms.html
+
+              "[A]n international team of researchers led by Berkeley Lab's
+              Heavy Element Group announced that they have made known
+              superheavy element 116 using a titanium beam, a breakthrough
+              that is a key stepping stone towards making element 120."
+
 07/23/2024    New lattice QCD calculation may resolve the muon g-2 anomaly:
 
               https://bigthink.com/starts-with-a-bang/calculation-solves-muon-g-2-puzzle/
