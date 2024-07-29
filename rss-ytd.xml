@@ -4,7 +4,34 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Mon, 29 Jul 2024 15:00:30 PDT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jul 2024 15:15:26 PDT</lastBuildDate>
+<item>
+<pubDate>Mon, 29 Jul 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/07/index.html#871e920fb4dd286428607b3eab1ec935</link>
+<title>Tips to increase iPhone battery life</title>
+<description>
+<![CDATA[
+<pre>Tips to increase iPhone battery life:
+
+<a href="https://www.zdnet.com/article/i-improved-my-iphones-battery-life-by-changing-these-10-settings/">https://www.zdnet.com/article/i-improved-my-iphones-battery-life-by-changing-these-10-settings/</a>
+
+1. Disable the always on display, haptic feedback, Siri,
+   notifications, AirDrop, Live Activities, lock screen
+   widgets, and background refresh
+2. Reduce refresh rate (Settings-&gt;Accessibility-&gt;Motion-&gt;Limit Frame Rate)
+3. Enable optimized charging (Settings-&gt;Battery-&gt;Battery Health &amp; Charging)
+4. Use low power mode
+
+I use all of these (except #2, which my iPhone doesn&#39;t
+support).  For #4, I have a Shortcut to automatically switch
+to lower power mode when the battery falls below ~ 90%, see:
+
+<a href="https://www.macrumors.com/how-to/auto-enable-low-power-mode-iphone/">https://www.macrumors.com/how-to/auto-enable-low-power-mode-iphone/</a>
+<a href="https://mashable.com/article/how-to-enter-low-power-mode-on-iphone-automatically">https://mashable.com/article/how-to-enter-low-power-mode-on-iphone-automatically</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Mon, 29 Jul 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/07/index.html#bcf56ee3c5e833cc86e354daef1f509f</link>

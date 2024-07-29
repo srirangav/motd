@@ -1,6 +1,24 @@
 motd - 07/##/2024
 -----------------
 
+07/29/2024    Tips to increase iPhone battery life:
+
+              https://www.zdnet.com/article/i-improved-my-iphones-battery-life-by-changing-these-10-settings/
+
+              1. Disable the always on display, haptic feedback, Siri,
+                 notifications, AirDrop, Live Activities, lock screen
+                 widgets, and background refresh
+              2. Reduce refresh rate (Settings->Accessibility->Motion->Limit Frame Rate)
+              3. Enable optimized charging (Settings->Battery->Battery Health & Charging)
+              4. Use low power mode
+
+              I use all of these (except #2, which my iPhone doesn't
+              support).  For #4, I have a Shortcut to automatically switch
+              to lower power mode when the battery falls below ~ 90%, see:
+
+              https://www.macrumors.com/how-to/auto-enable-low-power-mode-iphone/
+              https://mashable.com/article/how-to-enter-low-power-mode-on-iphone-automatically
+
 07/29/2024    Ice-0:
 
               https://www.sci.news/physics/ice-0-13136.html
