@@ -1,6 +1,10 @@
 motd - 08/##/2024
 -----------------
 
+08/02/2024    Civ 7 game play premier will be on August 20:
+
+              https://www.gamingonlinux.com/2024/08/well-get-our-first-look-at-civilization-vii-on-august-20/
+
 08/02/2024    History of common Unix commands:
 
               https://allthingsopen.org/articles/where-unix-came-from
