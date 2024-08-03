@@ -1,9 +1,10 @@
 # Makefile for motd
 
 MOTD      = motd.txt
-MOTD_CUR_DIR = ./2024/07
+MOTD_CUR_DIR = ./2024/08
 MOTD_CUR  = $(MOTD_CUR_DIR)/$(MOTD)
-MOTD_YTD  = ./2024/06/$(MOTD) ./2024/05/$(MOTD) ./2024/04/$(MOTD) \
+MOTD_YTD  = ./2024/07/$(MOTD) \
+            ./2024/06/$(MOTD) ./2024/05/$(MOTD) ./2024/04/$(MOTD) \
             ./2024/03/$(MOTD) ./2024/02/$(MOTD) ./2024/01/$(MOTD)
 MOTD_2023 = ./2023/12/$(MOTD) ./2023/11/$(MOTD) ./2023/10/$(MOTD) \
             ./2023/09/$(MOTD) ./2023/08/$(MOTD) ./2023/07/$(MOTD) \
@@ -18,8 +19,8 @@ INDEX     = index.html
 FEED      = rss.xml
 FEED_CUR  = rss-cur.xml
 FEED_YTD  = rss-ytd.xml
-MOTD2HTML = ./motd2html.pl
-MOTD2RSS  = ./motd2feed.pl
+MOTD2HTML = ./bin/motd2html.pl
+MOTD2RSS  = ./bin/motd2feed.pl
 
 all: html feed
 
