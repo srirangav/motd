@@ -1,6 +1,10 @@
 motd - 08/##/2024
 -----------------
 
+08/04/2024    while vs do-while:
+
+              https://craftofcoding.wordpress.com/wp-content/uploads/2024/08/roadrunnerc.png?w=600
+
 08/04/2024    Cool aliens rock fishing hats:
 
               https://www.reddit.com/r/Stargate/comments/1eingdv/tealc_and_spock_agree_cool_aliens_rock_fishing/
