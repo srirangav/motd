@@ -1,6 +1,13 @@
 motd - 08/##/2024
 -----------------
 
+08/06/2024    Engadget's 2024 ergonomic keyboard recommendations:
+
+              https://www.engadget.com/best-ergonomic-keyboard-130047982.html
+
+              May have to try one of these when/if my Microsoft Surface
+              keyboards break.
+
 08/06/2024    MacOS Containers:
 
               https://eclecticlight.co/2024/08/05/what-are-all-those-containers/
