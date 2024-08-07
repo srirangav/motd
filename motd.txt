@@ -1,6 +1,10 @@
 motd - 08/##/2024
 -----------------
 
+08/06/2024    MacOS Containers:
+
+              https://eclecticlight.co/2024/08/05/what-are-all-those-containers/
+
 08/04/2024    while vs do-while:
 
               https://craftofcoding.wordpress.com/wp-content/uploads/2024/08/roadrunnerc.png?w=600
