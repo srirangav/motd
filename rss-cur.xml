@@ -4,7 +4,24 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Tue, 06 Aug 2024 20:09:45 PDT</lastBuildDate>
+<lastBuildDate>Sat, 10 Aug 2024 09:26:58 PDT</lastBuildDate>
+<item>
+<pubDate>Wed, 07 Aug 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/08/index.html#c4ed865e95f52c70275a2a0c13920c4d</link>
+<title>Macports 2.10.0</title>
+<description>
+<![CDATA[
+<pre>Macports 2.10.0:
+
+<a href="https://github.com/macports/macports-base/releases/tag/v2.10.0">https://github.com/macports/macports-base/releases/tag/v2.10.0</a>
+
+I encountered an sqlite error that was fixed with a &#39;sudo port selfupdate&#39;:
+
+<a href="https://lists.macports.org/pipermail/macports-users/2024-August/052830.html">https://lists.macports.org/pipermail/macports-users/2024-August/052830.html</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Tue, 06 Aug 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/08/index.html#6aab7ca0e82d0d00458e86e872f52003</link>

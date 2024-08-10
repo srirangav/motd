@@ -1,6 +1,14 @@
 motd - 08/##/2024
 -----------------
 
+08/07/2024    Macports 2.10.0:
+
+              https://github.com/macports/macports-base/releases/tag/v2.10.0
+
+              I encountered an sqlite error that was fixed with a 'sudo port selfupdate':
+
+              https://lists.macports.org/pipermail/macports-users/2024-August/052830.html
+
 08/06/2024    Engadget's 2024 ergonomic keyboard recommendations:
 
               https://www.engadget.com/best-ergonomic-keyboard-130047982.html
