@@ -1,6 +1,18 @@
 motd - 08/##/2024
 -----------------
 
+08/10/2024    Pros and cons of setting a root password on Debian:
+
+              https://www.reddit.com/r/debian/comments/1eoq6o3/should_i_set_a_root_password/
+
+              I like the suggestion to set the root password after first
+              boot:
+
+              "What I do is skip the root password in the installer and
+              then set one after first boot. ... The reason I use sudo
+              exclusively but still set a root password is because grub's
+              recovery console requires one."
+
 08/10/2024    What does it mean to initialize an int?
 
               https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/

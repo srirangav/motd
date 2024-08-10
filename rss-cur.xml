@@ -4,7 +4,28 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Sat, 10 Aug 2024 09:29:14 PDT</lastBuildDate>
+<lastBuildDate>Sat, 10 Aug 2024 09:41:51 PDT</lastBuildDate>
+<item>
+<pubDate>Sat, 10 Aug 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/08/index.html#73d5f27f18f58e716fac4bd6e6971f8f</link>
+<title>Pros and cons of setting a root password on Debian</title>
+<description>
+<![CDATA[
+<pre>Pros and cons of setting a root password on Debian:
+
+<a href="https://www.reddit.com/r/debian/comments/1eoq6o3/should_i_set_a_root_password/">https://www.reddit.com/r/debian/comments/1eoq6o3/should_i_set_a_root_password/</a>
+
+I like the suggestion to set the root password after first
+boot:
+
+&#34;What I do is skip the root password in the installer and
+then set one after first boot. ... The reason I use sudo
+exclusively but still set a root password is because grub&#39;s
+recovery console requires one.&#34;
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Sat, 10 Aug 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/08/index.html#92472922a6cecd7bb513f3a45d68460a</link>
