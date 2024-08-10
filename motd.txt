@@ -1,6 +1,10 @@
 motd - 08/##/2024
 -----------------
 
+08/10/2024    Start by doing the math:
+
+              https://forestfolkcomic.tumblr.com/post/758426008050368512/forest-folk-410-081024
+
 08/10/2024    Pros and cons of setting a root password on Debian:
 
               https://www.reddit.com/r/debian/comments/1eoq6o3/should_i_set_a_root_password/
