@@ -1,6 +1,10 @@
 motd - 08/##/2024
 -----------------
 
+08/10/2024    What does it mean to initialize an int?
+
+              https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/
+
 08/07/2024    Macports 2.10.0:
 
               https://github.com/macports/macports-base/releases/tag/v2.10.0
