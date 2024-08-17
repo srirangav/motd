@@ -4,7 +4,41 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Wed, 14 Aug 2024 23:44:52 PDT</lastBuildDate>
+<lastBuildDate>Fri, 16 Aug 2024 22:38:56 PDT</lastBuildDate>
+<item>
+<pubDate>Fri, 16 Aug 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/08/index.html#5d581821575bbf84bbb7b8b07bc68688</link>
+<title>Traceroute and modern firewalls</title>
+<description>
+<![CDATA[
+<pre>Traceroute and modern firewalls:
+
+<a href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TracerouteFirewallRealization">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TracerouteFirewallRealization</a>
+
+&#34;[The] default way that traceroute works is by sending UDP
+packets to a series of high UDP ports with increasing IP
+TTLs, and seeing where each reply comes from. If the TTL
+runs out on the way, traceroute gets one reply; if the
+packet reaches the host, traceroute gets another one
+(assuming that nothing is listening on the particular UDP
+port on the host, which usually it isn&#39;t).
+
+...
+
+Most firewalls are set to block unsolicited incoming UDP
+traffic by default; you normally specifically configure them
+to pass only some UDP traffic through to limited ports (such
+as port 53 for DNS queries to your DNS servers).
+
+...
+
+The best way around this is probably to use ICMP for
+traceroute ... Most Unix traceroute implementations support
+&#39;-I&#39; to do this.&#34;
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Wed, 14 Aug 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/08/index.html#feac69d6c9ffd9bf9c73ed422518fad5</link>

@@ -1,6 +1,31 @@
 motd - 08/##/2024
 -----------------
 
+08/16/2024    Traceroute and modern firewalls:
+
+              https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TracerouteFirewallRealization
+
+              "[The] default way that traceroute works is by sending UDP
+              packets to a series of high UDP ports with increasing IP
+              TTLs, and seeing where each reply comes from. If the TTL
+              runs out on the way, traceroute gets one reply; if the
+              packet reaches the host, traceroute gets another one
+              (assuming that nothing is listening on the particular UDP
+              port on the host, which usually it isn't).
+
+              ...
+
+              Most firewalls are set to block unsolicited incoming UDP
+              traffic by default; you normally specifically configure them
+              to pass only some UDP traffic through to limited ports (such
+              as port 53 for DNS queries to your DNS servers).
+
+              ...
+
+              The best way around this is probably to use ICMP for
+              traceroute ... Most Unix traceroute implementations support
+              '-I' to do this."
+
 08/14/2024    AMS finds a surplus of deuterons:
 
               https://www.sci.news/physics/deuteron-flux-13175.html
