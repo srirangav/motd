@@ -1,6 +1,19 @@
 motd - 08/##/2024
 -----------------
 
+08/21/2024    The color of night:
+
+              https://www.atlasobscura.com/articles/what-color-is-night
+
+              "On Earth, even in the absence of light pollution or a Moon,
+              the sky is never totally black. Instead, a rainbow of subtle
+              colors appear[.] ... Bands of green and red appear through
+              the dark, a phenomenon called airglow. Rather than the light
+              of the Sun or Moon, this is the light of chemistry: Solar
+              radiation energizes atoms and molecules of air, which emit a
+              faint glow. So sometimes the night sky is reddish green, or
+              teal, or purple."
+
 08/16/2024    Traceroute and modern firewalls:
 
               https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TracerouteFirewallRealization
