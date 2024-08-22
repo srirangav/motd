@@ -1,6 +1,10 @@
 motd - 08/##/2024
 -----------------
 
+08/21/2024    APFS versions:
+
+              https://eclecticlight.co/2024/08/22/dual-booting-your-mac-with-multiple-versions-of-apfs/
+
 08/21/2024    Antihyperhydrogen-4:
 
               https://www.sciencealert.com/record-breaking-antimatter-discovery-could-help-us-find-dark-matter
