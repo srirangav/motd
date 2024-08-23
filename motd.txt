@@ -1,6 +1,10 @@
 motd - 08/##/2024
 -----------------
 
+08/22/2024    The original 385 Sid Meier used to create Civ:
+
+              https://www.extremetech.com/computing/civilization-developer-shows-off-the-10000-386-pc-used-to-make-the-original
+
 08/22/2024    Marathon, Marathon 2, and Marathon Infinity free on Steam:
 
               https://appleinsider.com/articles/24/08/22/classic-marathon-infinity-lands-on-steam-as-a-free-mac-title
