@@ -1,15 +1,23 @@
 motd - 08/##/2024
 -----------------
 
+08/24/2024    OpenBSD of Theseus:
+
+              https://www.undeadly.org/cgi?action=article;sid=20240824114631
+
+              "With this commit, we have completed an amusing mission of
+              replacing the final parts of the original OpenBSD.  We have
+              reached OpenBSD of Theseus."
+
 08/22/2024    Oldest company in the world - Kongo Gumi:
 
               https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html
 
-08/22/2024    The original 385 Sid Meier used to create Civ:
+08/22/2024    The original 386 Sid Meier used to create Civ:
 
               https://www.extremetech.com/computing/civilization-developer-shows-off-the-10000-386-pc-used-to-make-the-original
 
-08/22/2024    Marathon, Marathon 2, and Marathon Infinity free on Steam:
+08/22/2024    Marathon, Marathon 2, and Marathon Infinity are free on Steam:
 
               https://appleinsider.com/articles/24/08/22/classic-marathon-infinity-lands-on-steam-as-a-free-mac-title
 
