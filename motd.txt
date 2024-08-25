@@ -1,6 +1,10 @@
 motd - 08/##/2024
 -----------------
 
+08/24/2024    Making coffee at home as an economic signal:
+
+              https://rubenerd.com/making-coffee-at-home-as-an-economic-signal/
+
 08/24/2024    OpenBSD of Theseus:
 
               https://www.undeadly.org/cgi?action=article;sid=20240824114631
