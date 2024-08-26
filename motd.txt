@@ -1,6 +1,10 @@
 motd - 08/##/2024
 -----------------
 
+08/26/2024    Macs compatible with MacOS Sequoia:
+
+              https://osxdaily.com/2024/08/26/macos-sequoia-compatible-macs/
+
 08/26/2024    LUX-ZEPLIN rules out WIMPs above 9 GeV/c^2:
 
               https://phys.org/news/2024-08-dark.html
