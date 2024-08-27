@@ -1,6 +1,10 @@
 motd - 08/##/2024
 -----------------
 
+08/26/2024    Don't use complex expressions in if conditions:
+
+              https://maximullaris.com/if_condition.html
+
 08/26/2024    Macs compatible with MacOS Sequoia:
 
               https://osxdaily.com/2024/08/26/macos-sequoia-compatible-macs/
