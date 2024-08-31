@@ -1,6 +1,14 @@
 motd - 08/##/2024
 -----------------
 
+08/30/2024    The harmonic series converges in base 11 or higher:
+
+              https://www.johndcook.com/blog/2024/08/29/strange-harmonic-series/
+
+              Simple python test program:
+
+              https://srirangav.github.io/motd/2024/08/harmonic.py
+
 08/26/2024    Don't use complex expressions in if conditions:
 
               https://maximullaris.com/if_condition.html

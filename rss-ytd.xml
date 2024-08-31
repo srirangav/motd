@@ -4,7 +4,24 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Mon, 26 Aug 2024 19:20:07 PDT</lastBuildDate>
+<lastBuildDate>Sat, 31 Aug 2024 00:04:22 PDT</lastBuildDate>
+<item>
+<pubDate>Fri, 30 Aug 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/08/index.html#2aedeef222704d978eb608feb3773523</link>
+<title>The harmonic series converges in base 11 or higher</title>
+<description>
+<![CDATA[
+<pre>The harmonic series converges in base 11 or higher:
+
+<a href="https://www.johndcook.com/blog/2024/08/29/strange-harmonic-series/">https://www.johndcook.com/blog/2024/08/29/strange-harmonic-series/</a>
+
+Simple python test program:
+
+<a href="https://srirangav.github.io/motd/2024/08/harmonic.py">https://srirangav.github.io/motd/2024/08/harmonic.py</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Mon, 26 Aug 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/08/index.html#2b585f6d0982ec5f835ffa6ac7dc37b5</link>
