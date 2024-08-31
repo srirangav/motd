@@ -4,7 +4,47 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Sat, 31 Aug 2024 00:04:22 PDT</lastBuildDate>
+<lastBuildDate>Sat, 31 Aug 2024 02:12:06 PDT</lastBuildDate>
+<item>
+<pubDate>Sat, 31 Aug 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/08/index.html#0de8e31e40b12decbafed18f00de96db</link>
+<title>Viviani&#39;s theorem</title>
+<description>
+<![CDATA[
+<pre>Viviani&#39;s theorem:
+
+<a href="https://www.futilitycloset.com/2024/08/27/peak-to-peak/">https://www.futilitycloset.com/2024/08/27/peak-to-peak/</a>
+<a href="https://en.wikipedia.org/wiki/Viviani&#39;s_theorem">https://en.wikipedia.org/wiki/Viviani&#39;s_theorem</a>
+
+1. In equilateral triangle ABC, with height h and side
+   length a, pick a point P within ABC
+
+2. Draw perpendicular lines from P to each of the three
+   sides AB, AC, and AB of triangle ABC. Let the lengths
+   of these lines be s, t, and u, respectively.
+
+3. Draw lines from P to each of A, B, and C, to form three
+   triangles PAB, PAC, and PBC within triangle ABC.
+
+4. Area ABC = (1/2)(a*h) = Area PAB + Area PAC + Area PBC
+
+5. Area PAB = (1/2)(s*a)
+   Area PAC = (1/2)(t*a)
+   Area PBC = (1/2)(u*a)
+
+6. Therefore, (1/2)(a*h) = (1/2)(s*a) + (1/2)(t*a) + (1/2)(u*a)
+
+7. Diving by the common factor (a/2) leaves:
+
+   h = s + t + u
+
+   Thus, the sum of the shortest distances from any interior
+   point in a equilateral triangle to its sides equals the
+   triangle&#39;s height.
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Fri, 30 Aug 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/08/index.html#2aedeef222704d978eb608feb3773523</link>
