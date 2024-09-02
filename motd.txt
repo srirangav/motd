@@ -1,6 +1,10 @@
 motd - 09/##/2024
 -----------------
 
+09/02/2024    Converting miles to km:
+
+              https://www.johndcook.com/blog/2024/09/01/miles-to-kilometers/
+
 09/02/2024    A brief history of dc:
 
               https://howdytx.technology/unix-history-the-dc-calculator/
