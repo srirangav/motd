@@ -1,0 +1,256 @@
+motd - 08/##/2024
+-----------------
+
+08/31/2024    Viviani's theorem:
+
+              https://www.futilitycloset.com/2024/08/27/peak-to-peak/
+              https://en.wikipedia.org/wiki/Viviani's_theorem
+
+              1. In equilateral triangle ABC, with height h and side
+                 length a, pick a point P within ABC
+
+              2. Draw perpendicular lines from P to each of the three
+                 sides AB, AC, and AB of triangle ABC. Let the lengths
+                 of these lines be s, t, and u, respectively.
+
+              3. Draw lines from P to each of A, B, and C, to form three
+                 triangles PAB, PAC, and PBC within triangle ABC.
+
+              4. Area ABC = (1/2)(a*h) = Area PAB + Area PAC + Area PBC
+
+              5. Area PAB = (1/2)(s*a)
+                 Area PAC = (1/2)(t*a)
+                 Area PBC = (1/2)(u*a)
+
+              6. Therefore, (1/2)(a*h) = (1/2)(s*a) + (1/2)(t*a) + (1/2)(u*a)
+
+              7. Diving by the common factor (a/2) leaves:
+
+                 h = s + t + u
+
+                 Thus, the sum of the shortest distances from any interior
+                 point in a equilateral triangle to its sides equals the
+                 triangle's height.
+
+08/30/2024    The harmonic series converges in base 11 or higher:
+
+              https://www.johndcook.com/blog/2024/08/29/strange-harmonic-series/
+
+              Simple python test program:
+
+              https://srirangav.github.io/motd/2024/08/harmonic.py
+
+08/26/2024    Don't use complex expressions in if conditions:
+
+              https://maximullaris.com/if_condition.html
+
+08/26/2024    Macs compatible with MacOS Sequoia:
+
+              https://osxdaily.com/2024/08/26/macos-sequoia-compatible-macs/
+
+08/26/2024    LUX-ZEPLIN rules out WIMPs above 9 GeV/c^2:
+
+              https://phys.org/news/2024-08-dark.html
+
+08/26/2024    A book about the Iliad foils a robbery:
+
+              https://www.bbc.com/news/articles/cvg4kpv3p4zo
+              https://lithub.com/an-italian-robbery-was-averted-thanks-to-a-good-book/
+
+08/24/2024    Making coffee at home as an economic signal:
+
+              https://rubenerd.com/making-coffee-at-home-as-an-economic-signal/
+
+08/24/2024    OpenBSD of Theseus:
+
+              https://www.undeadly.org/cgi?action=article;sid=20240824114631
+
+              "With this commit, we have completed an amusing mission of
+              replacing the final parts of the original OpenBSD.  We have
+              reached OpenBSD of Theseus."
+
+08/22/2024    Oldest company in the world - Kongo Gumi:
+
+              https://www.openculture.com/2024/08/how-the-oldest-company-in-the-world-has-survived-nearly-1500-years.html
+
+08/22/2024    The original 386 Sid Meier used to create Civ:
+
+              https://www.extremetech.com/computing/civilization-developer-shows-off-the-10000-386-pc-used-to-make-the-original
+
+08/22/2024    Marathon, Marathon 2, and Marathon Infinity are free on Steam:
+
+              https://appleinsider.com/articles/24/08/22/classic-marathon-infinity-lands-on-steam-as-a-free-mac-title
+
+08/22/2024    Civ VII is coming in Feb 2025:
+
+              https://appleinsider.com/articles/24/08/20/civilization-vii-is-coming-to-mac-in-early-2025
+              https://arstechnica.com/gaming/2024/08/civilization-vii-preview-a-new-age-dawns-for-this-decades-old-4x-series/
+
+08/21/2024    APFS versions:
+
+              https://eclecticlight.co/2024/08/22/dual-booting-your-mac-with-multiple-versions-of-apfs/
+
+08/21/2024    Antihyperhydrogen-4:
+
+              https://www.sciencealert.com/record-breaking-antimatter-discovery-could-help-us-find-dark-matter
+
+              The STAR experiment conducted at Brookhaven National Lab's
+              Relativistic Heavy Ion Collider recently detected "a
+              hypernucleus made of antimatter, or an antihypernucleus. ...
+              [I]t was the heaviest and most exotic antimatter nucleus
+              ever seen ...  [and] consist[ed] of one antiproton, two
+              antineutrons and an antihyperon, and has the name of
+              antihyperhydrogen-4."
+
+08/21/2024    The color of night:
+
+              https://www.atlasobscura.com/articles/what-color-is-night
+
+              "On Earth, even in the absence of light pollution or a Moon,
+              the sky is never totally black. Instead, a rainbow of subtle
+              colors appear[.] ... Bands of green and red appear through
+              the dark, a phenomenon called airglow. Rather than the light
+              of the Sun or Moon, this is the light of chemistry: Solar
+              radiation energizes atoms and molecules of air, which emit a
+              faint glow. So sometimes the night sky is reddish green, or
+              teal, or purple."
+
+08/16/2024    Traceroute and modern firewalls:
+
+              https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TracerouteFirewallRealization
+
+              "[The] default way that traceroute works is by sending UDP
+              packets to a series of high UDP ports with increasing IP
+              TTLs, and seeing where each reply comes from. If the TTL
+              runs out on the way, traceroute gets one reply; if the
+              packet reaches the host, traceroute gets another one
+              (assuming that nothing is listening on the particular UDP
+              port on the host, which usually it isn't).
+
+              ...
+
+              Most firewalls are set to block unsolicited incoming UDP
+              traffic by default; you normally specifically configure them
+              to pass only some UDP traffic through to limited ports (such
+              as port 53 for DNS queries to your DNS servers).
+
+              ...
+
+              The best way around this is probably to use ICMP for
+              traceroute ... Most Unix traceroute implementations support
+              '-I' to do this."
+
+08/14/2024    AMS finds a surplus of deuterons:
+
+              https://www.sci.news/physics/deuteron-flux-13175.html
+
+08/10/2024    Start by doing the math:
+
+              https://forestfolkcomic.tumblr.com/post/758426008050368512/forest-folk-410-081024
+
+08/10/2024    Pros and cons of setting a root password on Debian:
+
+              https://www.reddit.com/r/debian/comments/1eoq6o3/should_i_set_a_root_password/
+
+              I like the suggestion to set the root password after first
+              boot:
+
+              "What I do is skip the root password in the installer and
+              then set one after first boot. ... The reason I use sudo
+              exclusively but still set a root password is because grub's
+              recovery console requires one."
+
+08/10/2024    What does it mean to initialize an int?
+
+              https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/
+
+08/07/2024    Macports 2.10.0:
+
+              https://github.com/macports/macports-base/releases/tag/v2.10.0
+
+              I encountered an sqlite error that was fixed with a 'sudo port selfupdate':
+
+              https://lists.macports.org/pipermail/macports-users/2024-August/052830.html
+
+08/06/2024    Engadget's 2024 ergonomic keyboard recommendations:
+
+              https://www.engadget.com/best-ergonomic-keyboard-130047982.html
+
+              May have to try one of these when/if my Microsoft Surface
+              keyboards break.
+
+08/06/2024    MacOS Containers:
+
+              https://eclecticlight.co/2024/08/05/what-are-all-those-containers/
+
+08/04/2024    while vs do-while:
+
+              https://craftofcoding.wordpress.com/wp-content/uploads/2024/08/roadrunnerc.png?w=600
+
+08/04/2024    Cool aliens rock fishing hats:
+
+              https://www.reddit.com/r/Stargate/comments/1eingdv/tealc_and_spock_agree_cool_aliens_rock_fishing/
+
+08/02/2024    Graphene found on the moon:
+
+              https://newatlas.com/materials/natural-graphene-moon-discovered/
+
+08/02/2024    Odin could have been villain on SG-1:
+
+              https://www.gateworld.net/news/2024/08/stargate-ancient-asgard-almost-major-villain/
+
+              "But in the final balance, Stargate's writers may have made
+              the right decision by keeping the Asgard as our benevolent
+              allies - and not introducing an aggressively creepy
+              antagonist."
+
+08/02/2024    Civ 7 game play premier will be on August 20:
+
+              https://www.gamingonlinux.com/2024/08/well-get-our-first-look-at-civilization-vii-on-august-20/
+
+08/02/2024    History of common Unix commands:
+
+              https://allthingsopen.org/articles/where-unix-came-from
+
+Older
+-----
+
+07/##/2024    https://srirangav.github.io/motd/2024/07/motd.txt
+              https://srirangav.github.io/motd/2024/07/index.html
+
+06/##/2024    https://srirangav.github.io/motd/2024/06/motd.txt
+              https://srirangav.github.io/motd/2024/06/index.html
+
+05/##/2024    https://srirangav.github.io/motd/2024/05/motd.txt
+              https://srirangav.github.io/motd/2024/05/index.html
+
+04/##/2024    https://srirangav.github.io/motd/2024/04/motd.txt
+              https://srirangav.github.io/motd/2024/04/index.html
+
+03/##/2024    https://srirangav.github.io/motd/2024/03/motd.txt
+              https://srirangav.github.io/motd/2024/03/index.html
+
+02/##/2024    https://srirangav.github.io/motd/2024/02/motd.txt
+              https://srirangav.github.io/motd/2024/02/index.html
+
+01/##/2024    https://srirangav.github.io/motd/2024/01/motd.txt
+              https://srirangav.github.io/motd/2024/01/index.html
+
+##/##/2023    https://srirangav.github.io/motd/2023/motd.txt
+              https://srirangav.github.io/motd/2023/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+HTML:         https://srirangav.github.io/motd/index.html
+RSS (all entries):
+              https://srirangav.github.io/motd/rss.xml
+RSS (current month's entries only):
+              https://srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only):
+              https://srirangav.github.io/motd/rss-ytd.xml
+
