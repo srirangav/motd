@@ -1,6 +1,10 @@
 motd - 09/##/2024
 -----------------
 
+09/02/2024    A brief history of dc:
+
+              https://howdytx.technology/unix-history-the-dc-calculator/
+
 09/01/2024    Picking up a Quicksilver G4:
 
               https://rubenerd.com/picking-up-a-powermac-g4-quicksilver/
