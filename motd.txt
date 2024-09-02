@@ -1,6 +1,13 @@
 motd - 09/##/2024
 -----------------
 
+09/02/2024    Incase is bringing back the Sculpt Ergonomic keyboard:
+
+              https://www.incase.com/pages/incase-designed-by-microsoft
+
+              The Sculpt has been my favorite keyboard for years.  I've
+              used it without problems on MacOS, Debian, and OpenBSD.
+
 09/02/2024    Fragments of two lost Euripides plays have been found:
 
               https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal
