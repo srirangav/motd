@@ -1,6 +1,28 @@
 motd - 09/##/2024
 -----------------
 
+09/12/2024    Bose glass:
+
+              https://phys.org/news/2024-09-discovery-phase-2d-defies-statistical.html
+
+              "Physicists from the Cavendish Laboratory in Cambridge have
+              created the first two-dimensional version of the Bose glass,
+              a novel phase of matter that ... has some glassy properties
+              and within it all particles are localized. This means that
+              each particle in the system sticks to itself, not mixing
+              with its neighbors.
+
+              ...
+
+              To create this new phase of matter, the group overlapped
+              several laser beams to create a quasiperiodic pattern, a
+              pattern that is long-range ordered like a conventional
+              crystal, but not periodic, meaning that, like a Penrose
+              tiling, it never repeats. When filling the resulting
+              structure with ultracold atoms, cooled to nanokelvin
+              temperatures ... close to absolute zero, the atoms formed
+              the Bose glass."
+
 09/02/2024    Incase is bringing back the Sculpt Ergonomic keyboard:
 
               https://www.incase.com/pages/incase-designed-by-microsoft
