@@ -1,6 +1,26 @@
 motd - 09/##/2024
 -----------------
 
+09/15/2024    Two Supermassive black holes heading for a merger:
+
+              https://hubblesite.org/contents/news-releases/2024/news-2024-022
+
+              "The Hubble Space Telescope and the Chandra X-ray
+              Observatory looked in the heart of a pair of colliding
+              galaxies and uncovered twin supermassive black holes
+              waltzing around each other. ... They are approximately 300
+              light-years apart - the closest AGN pair seen in
+              visible-light and X-ray wavelengths.
+
+              ...
+
+              The two supermassive black holes were once at the core of
+              their respective host galaxies. A merger between the
+              galaxies brought the black holes into close proximity. They
+              will continue to spiral closer together until they
+              eventually merge - in perhaps 100 million years - rattling
+              the fabric of space and time as gravitational waves."
+
 09/15/2024    BlockBlock 2.2.4:
 
               https://github.com/objective-see/BlockBlock/releases/tag/v2.2.4
