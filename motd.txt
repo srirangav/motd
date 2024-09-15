@@ -1,6 +1,10 @@
 motd - 09/##/2024
 -----------------
 
+09/15/2024    BlockBlock 2.2.4:
+
+              https://github.com/objective-see/BlockBlock/releases/tag/v2.2.4
+
 09/15/2024    Miles Edward O'Brien might be getting a statute in Killarney:
 
               https://www.inverse.com/entertainment/star-trek-chief-obrien-statue
