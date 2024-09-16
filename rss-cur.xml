@@ -4,7 +4,43 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Sun, 15 Sep 2024 12:21:20 PDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Sep 2024 11:33:13 PDT</lastBuildDate>
+<item>
+<pubDate>Mon, 16 Sep 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/09/index.html#ba103cb654bcca8b0743535a0be37329</link>
+<title>The Ars Technica Sequoia review</title>
+<description>
+<![CDATA[
+<pre>The Ars Technica Sequoia review:
+
+<a href="https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/">https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/</a>
+
+Overall sounds like a worthwhile upgrade once 15.1 is out,
+especially Chess.app :-), FSKit, rotating random MAC
+addresses:
+
+<a href="https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/13/">https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/13/</a>
+<a href="https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/16/">https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/16/</a>
+<a href="https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/18/">https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/18/</a>
+
+But, running non-notarized software looks like it will be an
+annoying two step process instead of the existing
+right-click/control-click method:
+
+<a href="https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/17/">https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/17/</a>
+
+1. &#34;[T]ry to launch the app and dismiss the dialog box telling
+   you that it can&#39;t be opened.&#34;
+
+2. &#34;[O]pen Settings, go to the Privacy &amp; Security screen,
+   scroll all the way to the bottom to get to the Security
+   section, and click the Open Anyway button that appears
+   for the last unsigned app you tried to run.&#34;
+
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Sun, 15 Sep 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/09/index.html#2aab9b2860732f23a61dda8561b2e8cb</link>
@@ -19,8 +55,8 @@
 Observatory looked in the heart of a pair of colliding
 galaxies and uncovered twin supermassive black holes
 waltzing around each other. ... They are approximately 300
-light-years apart - the closest AGN pair seen in
-visible-light and X-ray wavelengths.
+light-years apart - the closest AGN [Active Galactic
+Nucleus] pair seen in visible-light and X-ray wavelengths.
 
 ...
 
