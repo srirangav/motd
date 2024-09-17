@@ -4,14 +4,36 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Mon, 16 Sep 2024 11:33:13 PDT</lastBuildDate>
+<lastBuildDate>Tue, 17 Sep 2024 00:17:12 PDT</lastBuildDate>
 <item>
-<pubDate>Mon, 16 Sep 2024 00:00:00 PDT</pubDate>
-<link>https://srirangav.github.io/motd/2024/09/index.html#ba103cb654bcca8b0743535a0be37329</link>
-<title>The Ars Technica Sequoia review</title>
+<pubDate>Tue, 17 Sep 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/09/index.html#c4294df955f74bc64728141181beb181</link>
+<title>Vacuum decay may occur sooner than previously expected</title>
 <description>
 <![CDATA[
-<pre>The Ars Technica Sequoia review:
+<pre>Vacuum decay may occur sooner than previously expected:
+
+<a href="https://hackaday.com/2024/09/16/the-universe-as-we-know-it-may-end-sooner-than-expected/">https://hackaday.com/2024/09/16/the-universe-as-we-know-it-may-end-sooner-than-expected/</a>
+<a href="https://www.quantamagazine.org/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon-20240722/">https://www.quantamagazine.org/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon-20240722/</a>
+
+&#34;According to [prior] estimates, a cubic gigaparsec of space
+will see vacuum decay once every 10^794 years ...[;] [o]nly
+10^10 years have passed so far since the Big Bang. ...
+Recently, a group of physicists in Slovenia claim[] to have
+found a small error in the calculation, one that quickens
+the end of the universe as we know it to 10^790 years,
+instead of 10^794 [years].&#34;
+
+</pre>]]>
+</description>
+</item>
+<item>
+<pubDate>Mon, 16 Sep 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/09/index.html#3feaa3bcb52ee84755e151095a10d7db</link>
+<title>The Ars Technica MacOS Sequoia review</title>
+<description>
+<![CDATA[
+<pre>The Ars Technica MacOS Sequoia review:
 
 <a href="https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/">https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/</a>
 
@@ -36,7 +58,6 @@ right-click/control-click method:
    scroll all the way to the bottom to get to the Security
    section, and click the Open Anyway button that appears
    for the last unsigned app you tried to run.&#34;
-
 
 </pre>]]>
 </description>
