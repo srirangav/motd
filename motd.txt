@@ -1,6 +1,31 @@
 motd - 09/##/2024
 -----------------
 
+09/17/2024    Decreased smartphone usage might make people happier:
+
+              https://phys.org/news/2024-09-smartphone-satisfaction.html
+
+              "[T]he researchers assigned the [study's] participants, who
+              all came from different professional sectors, to four groups
+              of roughly equal size. The smartphone group reduced their
+              private smartphone use by one hour a day for one week. The
+              sport group increased their daily physical activity by 30
+              minutes. The combination group did both, and the control
+              group didn't change their routine at all.
+
+              ...
+
+              In the smartphone group and the combination group, the
+              researchers found that work satisfaction and motivation,
+              work-life balance and mental health had improved
+              significantly. What's more, the feeling of work overload and
+              symptoms of problematic smartphone use were significantly
+              reduced. All interventions led to a reduction in depressive
+              symptoms and they increased the participants' sense of
+              control."
+
+              Full paper: https://www.sciencedirect.com/science/article/pii/S000169182400372X
+
 09/17/2024    Raymond Chandler and Google:
 
               https://quoteinvestigator.com/2024/09/16/hot-sf/
