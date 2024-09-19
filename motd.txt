@@ -1,6 +1,10 @@
 motd - 09/##/2024
 -----------------
 
+09/18/2024    Comic Mono:
+
+              https://dtinth.github.io/comic-mono-font/
+
 09/18/2024    Proposed experiment to confirm QED photon scattering:
 
               https://physics.aps.org/articles/v17/s109
