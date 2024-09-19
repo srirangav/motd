@@ -1,6 +1,28 @@
 motd - 09/##/2024
 -----------------
 
+09/18/2024    Proposed experiment to confirm QED photon scattering:
+
+              https://physics.aps.org/articles/v17/s109
+
+              "A long-standing prediction of quantum electrodynamics is
+              that high-energy photons can scatter off each other.
+              However, this process has yet to be observed because
+              dedicated experiments have an extremely low signal-to-noise
+              ratio. Now [researchers] ... have designed an experiment
+              that could achieve a high-enough signal-to-noise ratio to
+              measure the phenomenon[.
+
+              ...
+
+              [The researchers] propose colliding three laser beams: an
+              x-ray beam and two high-power optical beams. The two optical
+              beams provide the photons that scatter off each other, and
+              the x-ray beam imparts a momentum kick to the scattered
+              photons. This kick alters the trajectory of the photons and
+              spatially separates them from much of the experimental
+              background ... [increasing] the signal-to-noise ratio."
+
 09/17/2024    Please state the nature of the medical emergency:
 
               https://newatlas.com/health-wellbeing/west-cancer-center-proto-hologram/
