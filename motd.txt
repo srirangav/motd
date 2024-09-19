@@ -1,6 +1,32 @@
 motd - 09/##/2024
 -----------------
 
+09/18/2024    CMS confirms prior measurements of the W boson's mass:
+
+              https://home.cern/news/press-release/physics/cms-experiment-cern-weighs-w-boson-mass
+
+              1. The Standard Model predicts that the W boson's mass is
+                 "80353 million electronvolts (MeV) within an uncertainty
+                 of 6 MeV"
+
+              2. In 2022, the Collider Detector at Fermilab (CDF)
+                 measured the W boson's mass as "80433.5 MeV with an
+                 uncertainty of 9.4 MeV, [which] differed significantly
+                 from the Standard Model prediction and from [] other
+                 experimental results"
+
+              3. In 2023, CERN's ATLAS Collaboration measured the W
+                 boson's mass as "80366.5 MeV with an uncertainty of
+                 15.9 MeV, [which] lined up with all previous measurements
+                 except the CDF measurement"
+
+              4. CERN's CMS experiment has now measured the W boson's mass
+                 as "80360.2 [MeV] with an uncertainty of 9.9 MeV, [with]
+                 a precision comparable to that of the CDF measurement and
+                 [] in line with all previous measurements"
+
+              SM continues to hold.
+
 09/18/2024    Comic Mono:
 
               https://dtinth.github.io/comic-mono-font/
