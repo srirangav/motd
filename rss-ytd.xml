@@ -4,7 +4,33 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Thu, 19 Sep 2024 13:24:24 PDT</lastBuildDate>
+<lastBuildDate>Thu, 19 Sep 2024 13:34:08 PDT</lastBuildDate>
+<item>
+<pubDate>Wed, 18 Sep 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/09/index.html#6e22fa346ab86f5648d52b9657e0a1a4</link>
+<title>Disable Sequoia&#39;s monthly screen recording permission prompt</title>
+<description>
+<![CDATA[
+<pre>Disable Sequoia&#39;s monthly screen recording permission prompt:
+
+<a href="https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html">https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html</a>
+
+1. Open the app that needs screen recording permissions
+
+2. Quit the app
+
+3. Set the system date far into the future (say April 5,
+   2063)
+
+4. Open the app and trigger the prompt
+
+5. Click &#34;Allow for One Month&#34;
+
+6. Restore the correct date
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Wed, 18 Sep 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/09/index.html#3eea2132a6f9891a2c38a20bd7536b53</link>

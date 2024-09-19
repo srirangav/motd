@@ -1,6 +1,23 @@
 motd - 09/##/2024
 -----------------
 
+09/18/2024    Disable Sequoia's monthly screen recording permission prompt:
+
+              https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html
+
+              1. Open the app that needs screen recording permissions
+
+              2. Quit the app
+
+              3. Set the system date far into the future (say April 5,
+                 2063)
+
+              4. Open the app and trigger the prompt
+
+              5. Click "Allow for One Month"
+
+              6. Restore the correct date
+
 09/18/2024    CMS confirms prior measurements of the W boson's mass:
 
               https://home.cern/news/press-release/physics/cms-experiment-cern-weighs-w-boson-mass
