@@ -1,6 +1,17 @@
 motd - 09/##/2024
 -----------------
 
+09/18/2024    Fast blue optical transient:
+
+              https://en.wikipedia.org/wiki/Fast_blue_optical_transient
+
+              "[A]n explosive transient event similar to supernovae and
+              gamma-ray bursts with high optical luminosity, rapid
+              evolution, and predominantly blue emission.[] The origins
+              of such explosions are currently unclear ... [and is]
+              largely defined by the observational properties rather than
+              the underlying mechanisms/objects."
+
 09/18/2024    Disable Sequoia's monthly screen recording permission prompt:
 
               https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html
