@@ -1,6 +1,10 @@
 motd - 09/##/2024
 -----------------
 
+09/24/2024    Working with CD-ROMs:
+
+              https://www.mistys-internet.website/blog/blog/2024/09/13/the-working-archivists-guide-to-enthusiast-cd-rom-archiving-tools/
+
 09/24/2024    Enable/disable SMT on Debian:
 
               https://www.servethehome.com/a-guide-to-quickly-enable-and-disable-smt-and-hyper-threading-on-ubuntu-and-debian/
