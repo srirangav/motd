@@ -4,7 +4,32 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Mon, 23 Sep 2024 00:59:18 PDT</lastBuildDate>
+<lastBuildDate>Tue, 24 Sep 2024 00:16:28 PDT</lastBuildDate>
+<item>
+<pubDate>Tue, 24 Sep 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/09/index.html#b65b28ecf62c9f263536377e39e9e506</link>
+<title>Enable/disable SMT on Debian</title>
+<description>
+<![CDATA[
+<pre>Enable/disable SMT on Debian:
+
+<a href="https://www.servethehome.com/a-guide-to-quickly-enable-and-disable-smt-and-hyper-threading-on-ubuntu-and-debian/">https://www.servethehome.com/a-guide-to-quickly-enable-and-disable-smt-and-hyper-threading-on-ubuntu-and-debian/</a>
+
+Enable SMT:
+
+$ echo on | sudo tee /sys/devices/system/cpu/smt/control
+
+Disable SMT:
+
+$ echo off | sudo tee /sys/devices/system/cpu/smt/control
+
+Check the status of SMT:
+
+$ cat /sys/devices/system/cpu/smt/active
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Sun, 22 Sep 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/09/index.html#4f2108082c4b8ef87447383c8a4c9758</link>

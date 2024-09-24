@@ -1,6 +1,22 @@
 motd - 09/##/2024
 -----------------
 
+09/24/2024    Enable/disable SMT on Debian:
+
+              https://www.servethehome.com/a-guide-to-quickly-enable-and-disable-smt-and-hyper-threading-on-ubuntu-and-debian/
+
+              Enable SMT:
+
+              $ echo on | sudo tee /sys/devices/system/cpu/smt/control
+
+              Disable SMT:
+
+              $ echo off | sudo tee /sys/devices/system/cpu/smt/control
+
+              Check the status of SMT:
+
+              $ cat /sys/devices/system/cpu/smt/active
+
 09/22/2024    Ganz kleine Nachtmusik (K. 648):
 
               https://en.wikipedia.org/wiki/Ganz_kleine_Nachtmusik
