@@ -1,6 +1,14 @@
 motd - 09/##/2024
 -----------------
 
+09/24/2024    Ubuntu 24.10 ARM will support Thinkpad X13s:
+
+              https://www.omgubuntu.co.uk/2024/09/ubuntu-24-10-arm64-iso-now-supports-thinkpad-x13s
+
+              OpenBSD supports them too:
+
+              https://www.openbsd.org/arm64.html
+
 09/24/2024    High C Compiler language extensions:
 
               https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler
