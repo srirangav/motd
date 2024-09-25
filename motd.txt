@@ -1,6 +1,20 @@
 motd - 09/##/2024
 -----------------
 
+09/24/2024    AI finds previously unknown Nazca lines:
+
+              https://www.ancient-origins.net/news-history-archaeology/ai-discovers-new-nazca-lines-0021477
+
+              "[An] AI system was used to scrutinized imagery collected by
+              drones that ranged far and wide across the entire Nazca
+              desert region[.] ... According to [] researchers, the newly
+              discovered lines depict a wide variety of figures, including
+              abstract human-like creatures, decapitated human heads,
+              domesticated animals, non-domesticated animals like fish and
+              birds, [and] humans and animals interacting[.]"
+
+              Research paper: https://www.pnas.org/doi/full/10.1073/pnas.2407652121
+
 09/24/2024    ~/.digrc:
 
               https://www.ncartron.org/using-digrc-to-simplify-your-dns-troubleshooting.html
@@ -27,7 +41,6 @@ motd - 09/##/2024
 
 09/22/2024    Ganz kleine Nachtmusik (K. 648):
 
-              https://en.wikipedia.org/wiki/Ganz_kleine_Nachtmusik
               https://www.theguardian.com/music/2024/sep/19/previously-unknown-mozart-music-discovered-in-german-library
 
               "A previously unknown piece of music composed by Wolfgang
@@ -35,6 +48,8 @@ motd - 09/##/2024
               been uncovered at a library in Germany.  The piece dates to
               the mid to late 1760s and consists of seven miniature
               movements for a string trio lasting about 12 minutes[.]"
+
+              Wikipedia article: https://en.wikipedia.org/wiki/Ganz_kleine_Nachtmusik
 
 09/18/2024    Fast blue optical transient:
 
