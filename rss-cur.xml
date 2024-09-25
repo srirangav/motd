@@ -4,7 +4,23 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Tue, 24 Sep 2024 18:16:22 PDT</lastBuildDate>
+<lastBuildDate>Tue, 24 Sep 2024 18:24:06 PDT</lastBuildDate>
+<item>
+<pubDate>Tue, 24 Sep 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/09/index.html#a503aecb93650b70bb5d3b5fb4ed63cc</link>
+<title>High C Compiler language extensions</title>
+<description>
+<![CDATA[
+<pre>High C Compiler language extensions:
+
+<a href="https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware&#39;s-high-c-compiler">https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware&#39;s-high-c-compiler</a>
+
+Underscores in numeric literals (1_000 for 1,000) and
+ranges in case statements seem like nice extensions.
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Tue, 24 Sep 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/09/index.html#809964936c1a09c61c2ed4071c5acfd1</link>

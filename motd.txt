@@ -1,6 +1,13 @@
 motd - 09/##/2024
 -----------------
 
+09/24/2024    High C Compiler language extensions:
+
+              https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler
+
+              Underscores in numeric literals (1_000 for 1,000) and
+              ranges in case statements seem like nice extensions.
+
 09/24/2024    AI finds previously unknown Nazca lines:
 
               https://www.ancient-origins.net/news-history-archaeology/ai-discovers-new-nazca-lines-0021477
