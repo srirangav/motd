@@ -1,6 +1,10 @@
 motd - 09/##/2024
 -----------------
 
+09/24/2024    Star Trek coffee:
+
+              https://trekmovie.com/2024/09/24/star-trek-coffees-adds-janeway-and-borg-themed-blends-along-with-line-of-collectible-mugs/
+
 09/24/2024    Ubuntu 24.10 ARM will support Thinkpad X13s:
 
               https://www.omgubuntu.co.uk/2024/09/ubuntu-24-10-arm64-iso-now-supports-thinkpad-x13s
