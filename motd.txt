@@ -86,6 +86,16 @@ motd - 09/##/2024
 
               6. Restore the correct date
 
+              See also: https://lapcatsoftware.com/articles/2024/8/10.html
+
+              1. To stop the prompts set the date to far in the future
+                 for a particular app:
+
+                 $ defaults write ~/Library/Group\ Containers/group.com.apple.replayd/ScreenCaptureApprovals.plist "[Application Full Path]" -date "3024-09-21 12:40:36 +0000"
+
+              2. Logout and login again so replayd recognizes the new
+                 setting.
+
 09/18/2024    CMS confirms prior measurements of the W boson's mass:
 
               https://home.cern/news/press-release/physics/cms-experiment-cern-weighs-w-boson-mass
