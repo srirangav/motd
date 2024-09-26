@@ -1,6 +1,10 @@
 motd - 09/##/2024
 -----------------
 
+09/26/2024    Spaceships inspired by everyday objects:
+
+              https://www.core77.com/posts/133688/Product-Based-Inspiration-for-Spaceship-Designs-by-Eric-Geusz
+
 09/26/2024    C until it isn't:
 
               https://aartaka.me/c-not-c
