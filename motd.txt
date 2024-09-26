@@ -1,6 +1,27 @@
 motd - 09/##/2024
 -----------------
 
+09/26/2024    Ecofactor v. Google will be heard en-banc by the Fed Ciruit:
+
+              https://cafc.uscourts.gov/opinions-orders/23-1101.ORDER.9-25-2024_2390752.pdf
+
+              The en banc ruling looks like it will be limited to the
+              comparable license / per-unit royalty determination made
+              by Ecofactor's damages expert:
+
+              "The parties are requested to file new briefs, which shall
+              be limited to addressing the district court's adherence to
+              Federal Rule of Evidence 702 and Daubert v. Merrell Dow
+              Pharmaceuticals, Inc., 509 U.S. 579 (1993), in its allowance
+              of testimony from EcoFactor's damages expert assigning a
+              per-unit royalty rate to the three licenses in evidence in
+              this case."
+
+              Ecofactor, Inc. v. Google LLC, No. 2023-1101, Slip Op. (D.N.
+              76) at 2-3 (Sept. 25, 2024).
+
+              Panel opinion: https://cafc.uscourts.gov/opinions-orders/23-1101.OPINION.6-3-2024_2327090.pdf
+
 09/26/2024    Video of the 1st performance of Ganz kleine Nachtmusik (K. 648):
 
               https://www.openculture.com/2024/09/watch-the-performance-of-a-mozart-composition-that-had-been-lost-for-centuries.html
