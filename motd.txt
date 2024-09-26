@@ -1,6 +1,20 @@
 motd - 09/##/2024
 -----------------
 
+09/26/2024    Estimating the size of a olive oil molecule:
+
+              https://www.atomsonly.news/p/franklin-oil
+
+              "Rayleigh carefully measured a tiny volume of olive oil -
+              0.81 milligrams, to be exact - and placed it onto a known
+              area of water. The oil quickly spread out and covered an
+              area, which Rayleigh precisely measured. And then he ...
+              divided the volume of the oil by the area it covered, thus
+              estimating the thickness of the oil film. Assuming that the
+              oil formed a single layer of molecules - a monolayer - then
+              the thickness of the oil film is the same thing as the
+              length of one oil molecule."
+
 09/26/2024    OpenAI agrees to make its training data available on an AEO basis:
 
               https://www.theregister.com/2024/09/26/openai_training_data_author_copyright_case/
