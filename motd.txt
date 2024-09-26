@@ -1,6 +1,15 @@
 motd - 09/##/2024
 -----------------
 
+09/26/2024    C until it isn't:
+
+              https://aartaka.me/c-not-c
+
+              Reminds me of "Better C" and Bournegol:
+
+              https://thedailywtf.com/articles/The_Secret_to_Better_C
+              https://utcc.utoronto.ca/~cks/space/blog/programming/BourneGol
+
 09/26/2024    OverSight v.2.4.0:
 
               https://github.com/objective-see/OverSight/releases/tag/v2.4.0
