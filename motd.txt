@@ -1,6 +1,30 @@
 motd - 09/##/2024
 -----------------
 
+09/26/2024    OpenAI agrees to make its training data available on an AEO basis:
+
+              https://www.theregister.com/2024/09/26/openai_training_data_author_copyright_case/
+
+              Stipulation (local copy): https://srirangav.github.io/motd/2024/09/gov.uscourts.cand.414822.182.0.pdf
+
+              "3. Training Data shall be made available for inspection in
+              electronic format at OpenAI's offices in San Francisco CA,
+              or at a secure location determined by OpenAI within 25 miles
+              of San Francisco, CA; or at another mutually agreed
+              location.
+
+              ...
+
+              5. Training Data shall be designated 'HIGHLY CONFIDENTIAL -
+              ATTORNEYS' EYES ONLY' pursuant to the Stipulated Protective
+              Order ... and [an] Inspecting Party may disclose Training
+              Data only to those authorized to view 'HIGHLY CONFIDENTIAL
+              - ATTORNEYS['] EYES ONLY' information."
+
+              In re OpenAI ChatGPT Litigation, No. 3:23-cv-03223-AMO,
+              Training Data Inspection Protocol, D.N. 182 at 2 (Sept. 24,
+              2024).
+
 09/26/2024    eVinci nuclear microreactor:
 
               https://newatlas.com/energy/evinci-nuclear-microreactor/
