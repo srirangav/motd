@@ -1,6 +1,10 @@
 motd - 09/##/2024
 -----------------
 
+09/26/2024    HP Perfect Output:
+
+              https://arstechnica.com/gadgets/2024/09/in-rare-move-from-printing-industry-hp-actually-has-a-decent-idea/
+
 09/26/2024    RCE in CUPS:
 
               https://www.phoronix.com/news/Linux-CVSS-9.9-Rating
