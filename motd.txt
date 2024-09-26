@@ -1,6 +1,10 @@
 motd - 09/##/2024
 -----------------
 
+09/26/2024    Use vi(1):
+
+              https://vermaden.wordpress.com/2024/09/23/ghost-in-the-shell-part-8-use-vi-editor/
+
 09/26/2024    Audi's UFO brakes:
 
               https://www.thedrive.com/news/audis-ufo-brakes-were-ahead-of-their-time-but-people-hated-them
