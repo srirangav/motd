@@ -1,6 +1,14 @@
 motd - 09/##/2024
 -----------------
 
+09/26/2024    Two rights:
+
+              Q: If two wrongs don't make a right, what did two rights
+                 make?
+              A: The first airplane.
+
+              Saw this joke somewhere on the web, but I lost the URL.
+
 09/26/2024    Use vi(1):
 
               https://vermaden.wordpress.com/2024/09/23/ghost-in-the-shell-part-8-use-vi-editor/
