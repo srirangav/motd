@@ -1,6 +1,20 @@
 motd - 09/##/2024
 -----------------
 
+09/26/2024    RCE in CUPS:
+
+              https://www.phoronix.com/news/Linux-CVSS-9.9-Rating
+              https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/
+
+              Mitigation on Redhat is to disable cups-browsed:
+
+              https://www.redhat.com/en/blog/red-hat-response-openprinting-cups-vulnerabilities
+
+              $ sudo systemctl stop cups-browsed
+              $ sudo systemctl disable cups-browsed
+
+              Mitigation on Debian should be similar.
+
 09/26/2024    Picard's tea cups:
 
               https://trekmovie.com/2024/09/26/bodum-bringing-back-clasic-picard-tea-cups-from-star-trek-the-next-generation/

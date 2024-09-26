@@ -4,7 +4,30 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Thu, 26 Sep 2024 14:40:55 PDT</lastBuildDate>
+<lastBuildDate>Thu, 26 Sep 2024 14:51:51 PDT</lastBuildDate>
+<item>
+<pubDate>Thu, 26 Sep 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/09/index.html#3d164556d87d8c86774a621f1d8d7290</link>
+<title>RCE in CUPS</title>
+<description>
+<![CDATA[
+<pre>RCE in CUPS:
+
+<a href="https://www.phoronix.com/news/Linux-CVSS-9.9-Rating">https://www.phoronix.com/news/Linux-CVSS-9.9-Rating</a>
+<a href="https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/">https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/</a>
+
+Mitigation on Redhat is to disable cups-browsed:
+
+<a href="https://www.redhat.com/en/blog/red-hat-response-openprinting-cups-vulnerabilities">https://www.redhat.com/en/blog/red-hat-response-openprinting-cups-vulnerabilities</a>
+
+$ sudo systemctl stop cups-browsed
+$ sudo systemctl disable cups-browsed
+
+Mitigation on Debian should be similar.
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Thu, 26 Sep 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/09/index.html#ba0cc0532db73757190d677dd4cb5b7e</link>
