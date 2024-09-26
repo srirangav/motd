@@ -1,6 +1,10 @@
 motd - 09/##/2024
 -----------------
 
+09/26/2024    OverSight v.2.4.0:
+
+              https://github.com/objective-see/OverSight/releases/tag/v2.4.0
+
 09/26/2024    Freya Castle:
 
               https://science.nasa.gov/blog/a-striped-surprise/
