@@ -1,6 +1,46 @@
 motd - 09/##/2024
 -----------------
 
+09/27/2024    NIST's new recommendation on passwords:
+
+              https://pages.nist.gov/800-63-4/sp800-63b.html#passwordver
+
+              "1. Verifiers and CSPs SHALL require passwords to be a
+                  minimum of eight characters in length and SHOULD require
+                  passwords to be a minimum of 15 characters in length.
+
+               2. Verifiers and CSPs SHOULD permit a maximum password
+                  length of at least 64 characters.
+
+               3. Verifiers and CSPs SHOULD accept all printing ASCII
+                  [RFC20] characters and the space character in passwords.
+
+               4. Verifiers and CSPs SHOULD accept Unicode [ISO/ISC 10646]
+                  characters in passwords. Each Unicode code point SHALL
+                  be counted as a single character when evaluating
+                  password length.
+
+               5. Verifiers and CSPs SHALL NOT impose other composition
+                  rules (e.g., requiring mixtures of different character
+                  types) for passwords.
+
+               6. Verifiers and CSPs SHALL NOT require users to change
+                  passwords periodically. However, verifiers SHALL force a
+                  change if there is evidence of compromise of the
+                  authenticator.
+
+               7. Verifiers and CSPs SHALL NOT permit the subscriber to
+                  store a hint that is accessible to an unauthenticated
+                  claimant.
+
+               8. Verifiers and CSPs SHALL NOT prompt subscribers to use
+                  knowledge-based authentication (KBA) (e.g., "What was
+                  the name of your first pet?") or security questions when
+                  choosing passwords.
+
+               9. Verifiers SHALL verify the entire submitted password
+                  (i.e., not truncate it)."
+
 09/27/2024    Mobino:
 
               https://www.core77.com/posts/133749/This-Beautiful-Espresso-Cup-Made-by-Combining-Digital-Fabrication-with-Handwork
