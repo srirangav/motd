@@ -4,7 +4,27 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Thu, 26 Sep 2024 16:12:45 PDT</lastBuildDate>
+<lastBuildDate>Fri, 27 Sep 2024 12:26:53 PDT</lastBuildDate>
+<item>
+<pubDate>Fri, 27 Sep 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/09/index.html#53b6f471e4194d8331932bea42e79894</link>
+<title>Mobino</title>
+<description>
+<![CDATA[
+<pre>Mobino:
+
+<a href="https://www.core77.com/posts/133749/This-Beautiful-Espresso-Cup-Made-by-Combining-Digital-Fabrication-with-Handwork">https://www.core77.com/posts/133749/This-Beautiful-Espresso-Cup-Made-by-Combining-Digital-Fabrication-with-Handwork</a>
+
+&#34;[The] Mobino [espresso cup] takes the shape of a Mobius
+strip - a single twisted surface that symbolizes infinity.&#34;
+
+Reminds me of Cliff Stoll&#39;s Acme Klein Bottles:
+
+<a href="https://www.kleinbottle.com/">https://www.kleinbottle.com/</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Thu, 26 Sep 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/09/index.html#9601341f7e1bbf6836fe3f112f5d4e4f</link>
@@ -50,6 +70,10 @@ $ sudo systemctl stop cups-browsed
 $ sudo systemctl disable cups-browsed
 
 Mitigation on Debian should be similar.
+
+Good post about the impact of this vulnerability:
+
+<a href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/CUPSAttackVariesBySize">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/CUPSAttackVariesBySize</a>
 
 </pre>]]>
 </description>

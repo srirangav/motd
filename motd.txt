@@ -1,6 +1,17 @@
 motd - 09/##/2024
 -----------------
 
+09/27/2024    Mobino:
+
+              https://www.core77.com/posts/133749/This-Beautiful-Espresso-Cup-Made-by-Combining-Digital-Fabrication-with-Handwork
+
+              "[The] Mobino [espresso cup] takes the shape of a Mobius
+              strip - a single twisted surface that symbolizes infinity."
+
+              Reminds me of Cliff Stoll's Acme Klein Bottles:
+
+              https://www.kleinbottle.com/
+
 09/26/2024    Why the US can't build icebreakers:
 
               https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking
@@ -22,6 +33,10 @@ motd - 09/##/2024
               $ sudo systemctl disable cups-browsed
 
               Mitigation on Debian should be similar.
+
+              Good post about the impact of this vulnerability:
+
+              https://utcc.utoronto.ca/~cks/space/blog/sysadmin/CUPSAttackVariesBySize
 
 09/26/2024    Picard's tea cups:
 
