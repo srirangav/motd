@@ -1,0 +1,622 @@
+motd - 09/##/2024
+-----------------
+
+09/27/2024    NIST's new recommendation on passwords:
+
+              https://pages.nist.gov/800-63-4/sp800-63b.html#passwordver
+
+              "1. Verifiers and CSPs SHALL require passwords to be a
+                  minimum of eight characters in length and SHOULD require
+                  passwords to be a minimum of 15 characters in length.
+
+               2. Verifiers and CSPs SHOULD permit a maximum password
+                  length of at least 64 characters.
+
+               3. Verifiers and CSPs SHOULD accept all printing ASCII
+                  [RFC20] characters and the space character in passwords.
+
+               4. Verifiers and CSPs SHOULD accept Unicode [ISO/ISC 10646]
+                  characters in passwords. Each Unicode code point SHALL
+                  be counted as a single character when evaluating
+                  password length.
+
+               5. Verifiers and CSPs SHALL NOT impose other composition
+                  rules (e.g., requiring mixtures of different character
+                  types) for passwords.
+
+               6. Verifiers and CSPs SHALL NOT require users to change
+                  passwords periodically. However, verifiers SHALL force a
+                  change if there is evidence of compromise of the
+                  authenticator.
+
+               7. Verifiers and CSPs SHALL NOT permit the subscriber to
+                  store a hint that is accessible to an unauthenticated
+                  claimant.
+
+               8. Verifiers and CSPs SHALL NOT prompt subscribers to use
+                  knowledge-based authentication (KBA) (e.g., "What was
+                  the name of your first pet?") or security questions when
+                  choosing passwords.
+
+               9. Verifiers SHALL verify the entire submitted password
+                  (i.e., not truncate it)."
+
+09/27/2024    Mobino:
+
+              https://www.core77.com/posts/133749/This-Beautiful-Espresso-Cup-Made-by-Combining-Digital-Fabrication-with-Handwork
+
+              "[The] Mobino [espresso cup] takes the shape of a Mobius
+              strip - a single twisted surface that symbolizes infinity."
+
+              Reminds me of Cliff Stoll's Acme Klein Bottles:
+
+              https://www.kleinbottle.com/
+
+09/26/2024    Why the US can't build icebreakers:
+
+              https://www.construction-physics.com/p/why-the-us-cant-build-icebreaking
+
+09/26/2024    HP Perfect Output:
+
+              https://arstechnica.com/gadgets/2024/09/in-rare-move-from-printing-industry-hp-actually-has-a-decent-idea/
+
+09/26/2024    RCE in CUPS:
+
+              https://www.phoronix.com/news/Linux-CVSS-9.9-Rating
+              https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/
+
+              Mitigation on Redhat is to disable cups-browsed:
+
+              https://www.redhat.com/en/blog/red-hat-response-openprinting-cups-vulnerabilities
+
+              $ sudo systemctl stop cups-browsed
+              $ sudo systemctl disable cups-browsed
+
+              Mitigation on Debian should be similar.
+
+              Good post about the impact of this vulnerability:
+
+              https://utcc.utoronto.ca/~cks/space/blog/sysadmin/CUPSAttackVariesBySize
+
+09/26/2024    Picard's tea cups:
+
+              https://trekmovie.com/2024/09/26/bodum-bringing-back-clasic-picard-tea-cups-from-star-trek-the-next-generation/
+
+              Personally, I prefer the Voyager stainless steel mugs
+              (unbreakable - I have one).  I suppose Sisko's Raktajino mug
+              is okay, but it was probably also glass or ceramic and more
+              breakable.
+
+09/26/2024    Estimating the size of a olive oil molecule:
+
+              https://www.atomsonly.news/p/franklin-oil
+
+              "Rayleigh carefully measured a tiny volume of olive oil -
+              0.81 milligrams, to be exact - and placed it onto a known
+              area of water. The oil quickly spread out and covered an
+              area, which Rayleigh precisely measured. And then he ...
+              divided the volume of the oil by the area it covered, thus
+              estimating the thickness of the oil film. Assuming that the
+              oil formed a single layer of molecules - a monolayer - then
+              the thickness of the oil film is the same thing as the
+              length of one oil molecule."
+
+09/26/2024    OpenAI agrees to make its training data available on an AEO basis:
+
+              https://www.theregister.com/2024/09/26/openai_training_data_author_copyright_case/
+
+              Stipulation (local copy): https://srirangav.github.io/motd/2024/09/gov.uscourts.cand.414822.182.0.pdf
+
+              "3. Training Data shall be made available for inspection in
+              electronic format at OpenAI's offices in San Francisco CA,
+              or at a secure location determined by OpenAI within 25 miles
+              of San Francisco, CA; or at another mutually agreed
+              location.
+
+              ...
+
+              5. Training Data shall be designated 'HIGHLY CONFIDENTIAL -
+              ATTORNEYS' EYES ONLY' pursuant to the Stipulated Protective
+              Order ... and [an] Inspecting Party may disclose Training
+              Data only to those authorized to view 'HIGHLY CONFIDENTIAL
+              - ATTORNEYS['] EYES ONLY' information."
+
+              In re OpenAI ChatGPT Litigation, No. 3:23-cv-03223-AMO,
+              Training Data Inspection Protocol, D.N. 182 at 2 (Sept. 24,
+              2024).
+
+09/26/2024    eVinci nuclear microreactor:
+
+              https://newatlas.com/energy/evinci-nuclear-microreactor/
+
+              "[Westinghouse's] eVinci microreactor, [] is less than 10 ft
+              (3 m) in diameter and generates up to 5 megawatt electrical
+              (MWe) with a 15 megawatt thermal (MWth) core design.
+
+              ...
+
+              [I]t has no moving parts once in normal operation and
+              requires no water or other coolant circulation.  It uses
+              highly robust TRISO (TRi-structural ISOtropic) fuel, which
+              consists of uranium enriched to 19.75%, sealed into pellets
+              the size of millet seeds made of uranium, carbon, and
+              ceramic. These pellets are combined into small spheres that
+              are then packed into rods and inserted into the core. The
+              result is a fuel assembly that is extremely durable,
+              resistant to heat and corrosion, and produces a
+              self-limiting nuclear reaction that cannot go out of
+              control.
+
+              ...
+
+              Instead of circulating water, air, helium, or molten salts,
+              the reactor uses a solid-steel monolith to house the core
+              and absorb heat. From there, alkali heat pipes passively
+              conduct the heat away using phase changes in the alkali
+              metal to cool the reactor and convert the heat into
+              electricity.
+
+              The result is a compact, inherently safe design."
+
+09/26/2024    Ecofactor v. Google will be heard en-banc by the Fed Ciruit:
+
+              https://cafc.uscourts.gov/opinions-orders/23-1101.ORDER.9-25-2024_2390752.pdf
+
+              The en banc ruling looks like it will be limited to the
+              comparable license / per-unit royalty determination made
+              by Ecofactor's damages expert:
+
+              "The parties are requested to file new briefs, which shall
+              be limited to addressing the district court's adherence to
+              Federal Rule of Evidence 702 and Daubert v. Merrell Dow
+              Pharmaceuticals, Inc., 509 U.S. 579 (1993), in its allowance
+              of testimony from EcoFactor's damages expert assigning a
+              per-unit royalty rate to the three licenses in evidence in
+              this case."
+
+              Ecofactor, Inc. v. Google LLC, No. 2023-1101, Slip Op. (D.N.
+              76) at 2-3 (Sept. 25, 2024).
+
+              Panel opinion: https://cafc.uscourts.gov/opinions-orders/23-1101.OPINION.6-3-2024_2327090.pdf
+
+09/26/2024    Video of the 1st performance of Ganz kleine Nachtmusik (K. 648):
+
+              https://www.openculture.com/2024/09/watch-the-performance-of-a-mozart-composition-that-had-been-lost-for-centuries.html
+
+09/26/2024    Vertical farming:
+
+              https://www.core77.com/posts/133736/A-Space-Saving-Year-Round-Farm-Plentys-Vertical-Solution
+
+09/26/2024    Two rights:
+
+              Q: If two wrongs don't make a right, what did two rights
+                 make?
+              A: The first airplane.
+
+              Saw this joke somewhere on the web, but I lost the URL.
+
+09/26/2024    Use vi(1):
+
+              https://vermaden.wordpress.com/2024/09/23/ghost-in-the-shell-part-8-use-vi-editor/
+
+09/26/2024    Audi's UFO brakes:
+
+              https://www.thedrive.com/news/audis-ufo-brakes-were-ahead-of-their-time-but-people-hated-them
+
+09/26/2024    The ultimate guide to pen refills:
+
+              https://www.jetpens.com/blog/The-Ultimate-Guide-to-Pen-Refills/pt/231
+
+09/26/2024    Spaceships inspired by everyday objects:
+
+              https://www.core77.com/posts/133688/Product-Based-Inspiration-for-Spaceship-Designs-by-Eric-Geusz
+
+09/26/2024    C until it isn't:
+
+              https://aartaka.me/c-not-c
+
+              Reminds me of "Better C" and Bournegol:
+
+              https://thedailywtf.com/articles/The_Secret_to_Better_C
+              https://utcc.utoronto.ca/~cks/space/blog/programming/BourneGol
+
+09/26/2024    OverSight v.2.4.0:
+
+              https://github.com/objective-see/OverSight/releases/tag/v2.4.0
+
+09/26/2024    Freya Castle:
+
+              https://science.nasa.gov/blog/a-striped-surprise/
+
+              "The [Perseverance] science team thinks that this [black and
+              white striped] rock [which they have named 'Freya Castle']
+              has a texture unlike any seen in Jezero Crater before, and
+              perhaps all of Mars.  [Their] knowledge of its chemical
+              composition is limited, but early interpretations are that
+              igneous and/or metamorphic processes could have created its
+              stripes.  Since Freya Castle is a loose stone that is
+              clearly different from the underlying bedrock, it [] likely
+              arrived [] from someplace else, perhaps having rolled
+              downhill from a source higher up. This possibility has [the
+              science team] excited, and [they] hope that as [they]
+              continue to drive uphill, Perseverance will encounter an
+              outcrop of this new rock type so that more detailed
+              measurements can be acquired."
+
+              See also: https://en.wikipedia.org/wiki/Jezero_(crater)
+
+09/24/2024    Star Trek coffee:
+
+              https://trekmovie.com/2024/09/24/star-trek-coffees-adds-janeway-and-borg-themed-blends-along-with-line-of-collectible-mugs/
+
+09/24/2024    Ubuntu 24.10 ARM will support Thinkpad X13s:
+
+              https://www.omgubuntu.co.uk/2024/09/ubuntu-24-10-arm64-iso-now-supports-thinkpad-x13s
+
+              OpenBSD supports them too:
+
+              https://www.openbsd.org/arm64.html
+
+09/24/2024    High C Compiler language extensions:
+
+              https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler
+
+              Underscores in numeric literals (1_000 for 1,000) and
+              ranges in case statements seem like nice extensions.
+
+09/24/2024    AI finds previously unknown Nazca lines:
+
+              https://www.ancient-origins.net/news-history-archaeology/ai-discovers-new-nazca-lines-0021477
+
+              "[An] AI system was used to scrutinized imagery collected by
+              drones that ranged far and wide across the entire Nazca
+              desert region[.] ... According to [] researchers, the newly
+              discovered lines depict a wide variety of figures, including
+              abstract human-like creatures, decapitated human heads,
+              domesticated animals, non-domesticated animals like fish and
+              birds, [and] humans and animals interacting[.]"
+
+              Research paper: https://www.pnas.org/doi/full/10.1073/pnas.2407652121
+
+09/24/2024    ~/.digrc:
+
+              https://www.ncartron.org/using-digrc-to-simplify-your-dns-troubleshooting.html
+
+09/24/2024    Working with CD-ROMs:
+
+              https://www.mistys-internet.website/blog/blog/2024/09/13/the-working-archivists-guide-to-enthusiast-cd-rom-archiving-tools/
+
+09/24/2024    Enable/disable SMT on Debian:
+
+              https://www.servethehome.com/a-guide-to-quickly-enable-and-disable-smt-and-hyper-threading-on-ubuntu-and-debian/
+
+              Enable SMT:
+
+              $ echo on | sudo tee /sys/devices/system/cpu/smt/control
+
+              Disable SMT:
+
+              $ echo off | sudo tee /sys/devices/system/cpu/smt/control
+
+              Check the status of SMT:
+
+              $ cat /sys/devices/system/cpu/smt/active
+
+09/22/2024    Ganz kleine Nachtmusik (K. 648):
+
+              https://www.theguardian.com/music/2024/sep/19/previously-unknown-mozart-music-discovered-in-german-library
+
+              "A previously unknown piece of music composed by Wolfgang
+              Amadeus Mozart when he was probably in his early teens has
+              been uncovered at a library in Germany.  The piece dates to
+              the mid to late 1760s and consists of seven miniature
+              movements for a string trio lasting about 12 minutes[.]"
+
+              Wikipedia article: https://en.wikipedia.org/wiki/Ganz_kleine_Nachtmusik
+
+09/18/2024    Fast blue optical transient:
+
+              https://en.wikipedia.org/wiki/Fast_blue_optical_transient
+
+              "[A]n explosive transient event similar to supernovae and
+              gamma-ray bursts with high optical luminosity, rapid
+              evolution, and predominantly blue emission.[] The origins
+              of such explosions are currently unclear ... [and is]
+              largely defined by the observational properties rather than
+              the underlying mechanisms/objects."
+
+09/18/2024    Disable Sequoia's monthly screen recording permission prompt:
+
+              https://tinyapps.org/blog/202409180700_disable_sequoia_nag.html
+
+              1. Open the app that needs screen recording permissions
+
+              2. Quit the app
+
+              3. Set the system date far into the future (say April 5,
+                 2063)
+
+              4. Open the app and trigger the prompt
+
+              5. Click "Allow for One Month"
+
+              6. Restore the correct date
+
+              See also: https://lapcatsoftware.com/articles/2024/8/10.html
+
+              1. To stop the prompts set the date to far in the future
+                 for a particular app:
+
+                 $ defaults write ~/Library/Group\ Containers/group.com.apple.replayd/ScreenCaptureApprovals.plist "[Application Full Path]" -date "3024-09-21 12:40:36 +0000"
+
+              2. Logout and login again so replayd recognizes the new
+                 setting.
+
+09/18/2024    CMS confirms prior measurements of the W boson's mass:
+
+              https://home.cern/news/press-release/physics/cms-experiment-cern-weighs-w-boson-mass
+
+              1. The Standard Model predicts that the W boson's mass is
+                 "80353 million electronvolts (MeV) within an uncertainty
+                 of 6 MeV"
+
+              2. In 2022, the Collider Detector at Fermilab (CDF)
+                 measured the W boson's mass as "80433.5 MeV with an
+                 uncertainty of 9.4 MeV, [which] differed significantly
+                 from the Standard Model prediction and from [] other
+                 experimental results"
+
+              3. In 2023, CERN's ATLAS Collaboration measured the W
+                 boson's mass as "80366.5 MeV with an uncertainty of
+                 15.9 MeV, [which] lined up with all previous measurements
+                 except the CDF measurement"
+
+              4. CERN's CMS experiment has now measured the W boson's mass
+                 as "80360.2 [MeV] with an uncertainty of 9.9 MeV, [with]
+                 a precision comparable to that of the CDF measurement and
+                 [] in line with all previous measurements"
+
+              SM continues to hold.
+
+09/18/2024    Comic Mono:
+
+              https://dtinth.github.io/comic-mono-font/
+
+09/18/2024    Proposed experiment to confirm QED photon scattering:
+
+              https://physics.aps.org/articles/v17/s109
+
+              "A long-standing prediction of quantum electrodynamics is
+              that high-energy photons can scatter off each other.
+              However, this process has yet to be observed because
+              dedicated experiments have an extremely low signal-to-noise
+              ratio. Now [researchers] ... have designed an experiment
+              that could achieve a high-enough signal-to-noise ratio to
+              measure the phenomenon[.
+
+              ...
+
+              [The researchers] propose colliding three laser beams: an
+              x-ray beam and two high-power optical beams. The two optical
+              beams provide the photons that scatter off each other, and
+              the x-ray beam imparts a momentum kick to the scattered
+              photons. This kick alters the trajectory of the photons and
+              spatially separates them from much of the experimental
+              background ... [increasing] the signal-to-noise ratio."
+
+09/17/2024    Please state the nature of the medical emergency:
+
+              https://newatlas.com/health-wellbeing/west-cancer-center-proto-hologram/
+
+09/17/2024    Not so grim reaper:
+
+              https://wronghands1.com/2024/09/17/grim-reaper/
+
+09/17/2024    Basic Apple Guy's Strokes wallpapers:
+
+              https://basicappleguy.com/basicappleblog/strokes
+
+09/17/2024    Decreased smartphone usage might make people happier:
+
+              https://phys.org/news/2024-09-smartphone-satisfaction.html
+
+              "[T]he researchers assigned the [study's] participants, who
+              all came from different professional sectors, to four groups
+              of roughly equal size. The smartphone group reduced their
+              private smartphone use by one hour a day for one week. The
+              sport group increased their daily physical activity by 30
+              minutes. The combination group did both, and the control
+              group didn't change their routine at all.
+
+              ...
+
+              In the smartphone group and the combination group, the
+              researchers found that work satisfaction and motivation,
+              work-life balance and mental health had improved
+              significantly. What's more, the feeling of work overload and
+              symptoms of problematic smartphone use were significantly
+              reduced. All interventions led to a reduction in depressive
+              symptoms and they increased the participants' sense of
+              control."
+
+              Full paper: https://www.sciencedirect.com/science/article/pii/S000169182400372X
+
+09/17/2024    Raymond Chandler and Google:
+
+              https://quoteinvestigator.com/2024/09/16/hot-sf/
+
+              "In 1953 Chandler sent a letter to a friend which included a
+              jargon-filled passage parodying science fiction writing.
+              ... The final sentence of Chandler's passage included the
+              word 'Google':
+
+              ...
+
+              'I had exactly four seconds to hot up the disintegrator and
+              Google had told me it wasn't enough. He was right.'"
+
+09/17/2024    Vacuum decay may occur sooner than previously expected:
+
+              https://hackaday.com/2024/09/16/the-universe-as-we-know-it-may-end-sooner-than-expected/
+              https://www.quantamagazine.org/vacuum-of-space-to-decay-sooner-than-expected-but-still-not-soon-20240722/
+
+              "According to [prior] estimates, a cubic gigaparsec of space
+              will see vacuum decay once every 10^794 years ...[;] [o]nly
+              10^10 years have passed so far since the Big Bang. ...
+              Recently, a group of physicists in Slovenia claim[] to have
+              found a small error in the calculation, one that quickens
+              the end of the universe as we know it to 10^790 years,
+              instead of 10^794 [years]."
+
+09/16/2024    The Ars Technica MacOS Sequoia review:
+
+              https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/
+
+              Overall sounds like a worthwhile upgrade once 15.1 is out,
+              especially Chess.app :-), FSKit, rotating random MAC
+              addresses:
+
+              https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/13/
+              https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/16/
+              https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/18/
+
+              But, running non-notarized software looks like it will be an
+              annoying two step process instead of the existing
+              right-click/control-click method:
+
+              https://arstechnica.com/gadgets/2024/09/macos-15-sequoia-the-ars-technica-review/17/
+
+              1. "[T]ry to launch the app and dismiss the dialog box telling
+                 you that it can't be opened."
+
+              2. "[O]pen Settings, go to the Privacy & Security screen,
+                 scroll all the way to the bottom to get to the Security
+                 section, and click the Open Anyway button that appears
+                 for the last unsigned app you tried to run."
+
+09/15/2024    Two Supermassive black holes heading for a merger:
+
+              https://hubblesite.org/contents/news-releases/2024/news-2024-022
+
+              "The Hubble Space Telescope and the Chandra X-ray
+              Observatory looked in the heart of a pair of colliding
+              galaxies and uncovered twin supermassive black holes
+              waltzing around each other. ... They are approximately 300
+              light-years apart - the closest AGN [Active Galactic
+              Nucleus] pair seen in visible-light and X-ray wavelengths.
+
+              ...
+
+              The two supermassive black holes were once at the core of
+              their respective host galaxies. A merger between the
+              galaxies brought the black holes into close proximity. They
+              will continue to spiral closer together until they
+              eventually merge - in perhaps 100 million years - rattling
+              the fabric of space and time as gravitational waves."
+
+09/15/2024    BlockBlock 2.2.4:
+
+              https://github.com/objective-see/BlockBlock/releases/tag/v2.2.4
+
+09/15/2024    Miles Edward O'Brien might be getting a statute in Killarney:
+
+              https://www.inverse.com/entertainment/star-trek-chief-obrien-statue
+
+09/12/2024    Bose glass:
+
+              https://phys.org/news/2024-09-discovery-phase-2d-defies-statistical.html
+
+              "Physicists from the Cavendish Laboratory in Cambridge have
+              created the first two-dimensional version of the Bose glass,
+              a novel phase of matter that ... has some glassy properties
+              and within it all particles are localized. This means that
+              each particle in the system sticks to itself, not mixing
+              with its neighbors.
+
+              ...
+
+              To create this new phase of matter, the group overlapped
+              several laser beams to create a quasiperiodic pattern, a
+              pattern that is long-range ordered like a conventional
+              crystal, but not periodic, meaning that, like a Penrose
+              tiling, it never repeats. When filling the resulting
+              structure with ultracold atoms, cooled to nanokelvin
+              temperatures ... close to absolute zero, the atoms formed
+              the Bose glass."
+
+09/02/2024    Incase is bringing back the Sculpt Ergonomic keyboard:
+
+              https://www.incase.com/pages/incase-designed-by-microsoft
+
+              The Sculpt has been my favorite keyboard for years.  I've
+              used it without problems on MacOS, Debian, and OpenBSD.
+
+09/02/2024    Fragments of two lost Euripides plays have been found:
+
+              https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal
+
+09/02/2024    Converting miles to km:
+
+              https://www.johndcook.com/blog/2024/09/01/miles-to-kilometers/
+
+09/02/2024    A brief history of dc:
+
+              https://howdytx.technology/unix-history-the-dc-calculator/
+
+09/01/2024    Picking up a Quicksilver G4:
+
+              https://rubenerd.com/picking-up-a-powermac-g4-quicksilver/
+
+              I had a 400MHz Graphite, a dual 1GHz Quicksilver and a dual
+              2GHz G5.  Of these, the Quicksilver was my favorite because
+              it was reasonably fast, easy to work on, and easy to carry.
+              I've also thought about picking up one of these, but a 2005
+              2.3GHz G5 probably would be more practical since it can run
+              both OSX (10.4 and 10.5), OS9 (in Classic), and FreeBSD 13
+              (with ZFS!).
+
+Older
+-----
+
+08/##/2024    https://srirangav.github.io/motd/2024/08/motd.txt
+              https://srirangav.github.io/motd/2024/08/index.html
+
+07/##/2024    https://srirangav.github.io/motd/2024/07/motd.txt
+              https://srirangav.github.io/motd/2024/07/index.html
+
+06/##/2024    https://srirangav.github.io/motd/2024/06/motd.txt
+              https://srirangav.github.io/motd/2024/06/index.html
+
+05/##/2024    https://srirangav.github.io/motd/2024/05/motd.txt
+              https://srirangav.github.io/motd/2024/05/index.html
+
+04/##/2024    https://srirangav.github.io/motd/2024/04/motd.txt
+              https://srirangav.github.io/motd/2024/04/index.html
+
+03/##/2024    https://srirangav.github.io/motd/2024/03/motd.txt
+              https://srirangav.github.io/motd/2024/03/index.html
+
+02/##/2024    https://srirangav.github.io/motd/2024/02/motd.txt
+              https://srirangav.github.io/motd/2024/02/index.html
+
+01/##/2024    https://srirangav.github.io/motd/2024/01/motd.txt
+              https://srirangav.github.io/motd/2024/01/index.html
+
+##/##/2023    https://srirangav.github.io/motd/2023/motd.txt
+              https://srirangav.github.io/motd/2023/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+HTML:         https://srirangav.github.io/motd/index.html
+RSS (all entries):
+              https://srirangav.github.io/motd/rss.xml
+RSS (current month's entries only):
+              https://srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only):
+              https://srirangav.github.io/motd/rss-ytd.xml
+
