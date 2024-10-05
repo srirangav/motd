@@ -1,6 +1,16 @@
 motd - 10/##/2024
 -----------------
 
+10/04/2024    Is HTTPS always necessary?
+
+              https://rubenerd.com/https-as-an-accessibility-issue/
+
+              "This gets us back to the value proposition of HTTPS. ...
+              [Is it] really necessary for a blog without a web-facing
+              admin portal, software downloads, or mission-critical
+              features? Have I shut people out for benefits that don't
+              really make sense in this context? Have a lot of us?"
+
 10/04/2024    "Twiggy" Mac:
 
               https://www.macrumors.com/2024/10/03/rare-apple-macintosh-prototype-from-1983/
