@@ -1,6 +1,10 @@
 motd - 10/##/2024
 -----------------
 
+10/05/2024    Using AI to figure out paint composition:
+
+              https://phys.org/news/2024-10-ai-figure-chemical-composition-classical.html
+
 10/05/2024    Ultracold positronium:
 
               https://physics.aps.org/articles/v17/145
