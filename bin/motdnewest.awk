@@ -50,7 +50,7 @@ BEGIN {
 
     if (entry == 1) {
         sub(/^[ \t]+/, "");
-        print ;
-        next ;
+        print;
+        next;
     }
 }
