@@ -1,6 +1,17 @@
 motd - 10/##/2024
 -----------------
 
+10/09/2024    How to identify left vs. right trunked elephants:
+
+              https://royalsocietypublishing.org/doi/10.1098/rsos.240851
+
+              "Elephants use the distal third of their trunk to wrap food
+              or other objects and the whiskers are longer on the side
+              they prefer wrapping towards, designating [] 'trunkedness'
+              ... [-] [w]hisker abrasion appears on the opposite side of
+              the one wrapped towards, as it is more often in contact with
+              the ground."
+
 10/05/2024    Using AI to figure out paint composition:
 
               https://phys.org/news/2024-10-ai-figure-chemical-composition-classical.html
