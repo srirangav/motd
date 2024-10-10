@@ -1,6 +1,10 @@
 motd - 10/##/2024
 -----------------
 
+10/10/2024    Golden ellipse:
+
+              https://www.johndcook.com/blog/2024/10/10/golden-ellipse/
+
 10/10/2024    Digraphs in C:
 
               https://www.deusinmachina.net/p/coding-without-braces-an-alternate
