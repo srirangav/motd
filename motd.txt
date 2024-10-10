@@ -1,6 +1,34 @@
 motd - 10/##/2024
 -----------------
 
+10/10/2024    Gurung v. MetaQuotes - forum selection clause in EULA enforced:
+
+              https://tlblog.org/a-troubling-decision-in-the-edny/
+
+              "The district court [] held ... that the phrase ['[a]ny legal
+              action or proceeding arising under this Agreement'] conveyed
+              an intent to cover non-contractual claims for three reasons.
+              First, it explained that Second Circuit precedent favored an
+              'expansive reading of the scope of forum selection clauses,
+              in keeping with the policy favoring their use.' Second, it
+              reasoned that Gurung's claims had 'grown out of' the
+              contractual relationship and that the 'gist' of her
+              non-contract claims involved a breach of the contract.
+              Third, the court concluded that the Gurung's non-contract
+              claims involved 'the same operative facts as a parallel
+              claim for breach of contract.'
+
+              The court also rejected the plaintiff's argument that
+              enforcing the clause would be unreasonable under the
+              circumstances. Although the plaintiff claimed that she could
+              not afford to litigate in Cyprus, the court held that this
+              argument was foreclosed by Effron v. Sun Line Cruises, Inc.
+              ..., a 1995 decision by the Second Circuit, that [] enforced
+              a Greek forum selection clause against a woman who had
+              brought a slip-and-fall case against a cruise line
+              notwithstanding her claims that she could not afford to
+              litigate in Greece."
+
 10/10/2024    GHQ - Kurt Vonnegut's lost board game:
 
               https://www.openculture.com/2024/10/kurt-vonneguts-lost-board-game-is-finally-for-sale.html
