@@ -1,6 +1,16 @@
 motd - 10/##/2024
 -----------------
 
+10/10/2024    Digraphs in C:
+
+              https://www.deusinmachina.net/p/coding-without-braces-an-alternate
+
+              "C allows the use of digraphs (two letter combinations that
+              represent a single letter) like <% and %> as alternatives of
+              { and } and <: and :> as substitutes for [ and ]."
+
+              See: https://www.gnu.org/software/c-intro-and-ref/manual/html_node/Digraphs.html
+
 10/10/2024    Building dosbox-x on Debian:
 
               https://darrengoossens.wordpress.com/2024/10/10/dosbox-x-build-on-debian/

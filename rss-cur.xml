@@ -4,7 +4,26 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Thu, 10 Oct 2024 10:03:06 PDT</lastBuildDate>
+<lastBuildDate>Thu, 10 Oct 2024 10:24:23 PDT</lastBuildDate>
+<item>
+<pubDate>Thu, 10 Oct 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/10/index.html#fafd5e675f31754db670d9a92b7f8dd8</link>
+<title>Digraphs in C</title>
+<description>
+<![CDATA[
+<pre>Digraphs in C:
+
+<a href="https://www.deusinmachina.net/p/coding-without-braces-an-alternate">https://www.deusinmachina.net/p/coding-without-braces-an-alternate</a>
+
+&#34;C allows the use of digraphs (two letter combinations that
+represent a single letter) like &lt;% and %&gt; as alternatives of
+{ and } and &lt;: and :&gt; as substitutes for [ and ].&#34;
+
+See: <a href="https://www.gnu.org/software/c-intro-and-ref/manual/html_node/Digraphs.html">https://www.gnu.org/software/c-intro-and-ref/manual/html_node/Digraphs.html</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Thu, 10 Oct 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/10/index.html#0bba982a48f5d683bd3fb6b11a1c0198</link>
