@@ -1,6 +1,35 @@
 motd - 10/##/2024
 -----------------
 
+10/10/2024    Building dosbox-x on Debian:
+
+              https://darrengoossens.wordpress.com/2024/10/10/dosbox-x-build-on-debian/
+
+              1. Install build dependencies:
+
+                 $ sudo apt install automake gcc g++ make libncurses-dev \
+                 nasm libsdl-net1.2-dev libsdl2-net-dev libpcap-dev \
+                 libslirp-dev fluidsynth libfluidsynth-dev libavdevice58 \
+                 libavformat-dev libavcodec-dev libavcodec-extra \
+                 libavcodec-extra58 libswscale-dev libfreetype-dev \
+                 libxkbfile-dev libxrandr-dev
+
+              2. If networking support is desired, install:
+
+                 $ sudo apt install ncaptool libpcap-dev libpcap0.8-dev \
+                 libslirp-dev libslirp0 slirp libxext-dev
+
+              3. Download and extract the latest source release from
+                 GitHub:
+
+                 https://github.com/joncampbell123/dosbox-x/releases
+
+              4. Build dosbox-x:
+
+                 $ cd dosbox-x-dosbox-x-v2024.10.01
+                 $ ./build-debug
+                 $ sudo make install
+
 10/10/2024    Gurung v. MetaQuotes - forum selection clause in EULA enforced:
 
               https://tlblog.org/a-troubling-decision-in-the-edny/

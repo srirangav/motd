@@ -13,6 +13,35 @@
 motd - 10/##/2024
 -----------------
 
+<a name="0bba982a48f5d683bd3fb6b11a1c0198">10/10/2024</a>    Building dosbox-x on Debian:
+
+              <a href="https://darrengoossens.wordpress.com/2024/10/10/dosbox-x-build-on-debian/">https://darrengoossens.wordpress.com/2024/10/10/dosbox-x-build-on-debian/</a>
+
+              1. Install build dependencies:
+
+                 $ sudo apt install automake gcc g++ make libncurses-dev \
+                 nasm libsdl-net1.2-dev libsdl2-net-dev libpcap-dev \
+                 libslirp-dev fluidsynth libfluidsynth-dev libavdevice58 \
+                 libavformat-dev libavcodec-dev libavcodec-extra \
+                 libavcodec-extra58 libswscale-dev libfreetype-dev \
+                 libxkbfile-dev libxrandr-dev
+
+              2. If networking support is desired, install:
+
+                 $ sudo apt install ncaptool libpcap-dev libpcap0.8-dev \
+                 libslirp-dev libslirp0 slirp libxext-dev
+
+              3. Download and extract the latest source release from
+                 GitHub:
+
+                 <a href="https://github.com/joncampbell123/dosbox-x/releases">https://github.com/joncampbell123/dosbox-x/releases</a>
+
+              4. Build dosbox-x:
+
+                 $ cd dosbox-x-dosbox-x-v2024.10.01
+                 $ ./build-debug
+                 $ sudo make install
+
 <a name="e522ae38bac7b1a2d72373e438208fd2">10/10/2024</a>    Gurung v. MetaQuotes - forum selection clause in EULA enforced:
 
               <a href="https://tlblog.org/a-troubling-decision-in-the-edny/">https://tlblog.org/a-troubling-decision-in-the-edny/</a>
