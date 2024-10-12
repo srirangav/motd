@@ -1,6 +1,18 @@
 motd - 10/##/2024
 -----------------
 
+10/11/2024    Regency horror story:
+
+              https://wronghands1.com/2024/10/11/regency-horror-story/
+
+              CSI - Regency Ball:
+
+              https://wronghands1.com/2023/06/09/csi-regency-ball/
+
+              Horror in the time of Austen:
+
+              https://wronghands1.com/2022/10/14/horror-in-the-time-of-austen/
+
 10/11/2024    MacOS is still UNIX:
 
               https://www.theregister.com/2024/10/11/macos_15_is_unix/
@@ -26,16 +38,16 @@ motd - 10/##/2024
               1. Install build dependencies:
 
                  $ sudo apt install automake gcc g++ make libncurses-dev \
-                 nasm libsdl-net1.2-dev libsdl2-net-dev libpcap-dev \
-                 libslirp-dev fluidsynth libfluidsynth-dev libavdevice58 \
-                 libavformat-dev libavcodec-dev libavcodec-extra \
-                 libavcodec-extra58 libswscale-dev libfreetype-dev \
-                 libxkbfile-dev libxrandr-dev
+                   nasm libsdl-net1.2-dev libsdl2-net-dev libpcap-dev \
+                   libslirp-dev fluidsynth libfluidsynth-dev libavdevice58 \
+                   libavformat-dev libavcodec-dev libavcodec-extra \
+                   libavcodec-extra58 libswscale-dev libfreetype-dev \
+                   libxkbfile-dev libxrandr-dev
 
               2. If networking support is desired, install:
 
                  $ sudo apt install ncaptool libpcap-dev libpcap0.8-dev \
-                 libslirp-dev libslirp0 slirp libxext-dev
+                   libslirp-dev libslirp0 slirp libxext-dev
 
               3. Download and extract the latest source release from
                  GitHub:

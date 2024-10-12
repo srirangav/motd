@@ -4,7 +4,28 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Fri, 11 Oct 2024 19:18:36 PDT</lastBuildDate>
+<lastBuildDate>Fri, 11 Oct 2024 19:29:38 PDT</lastBuildDate>
+<item>
+<pubDate>Fri, 11 Oct 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/10/index.html#7feebe92fd6e0c3fc66800474665bfd3</link>
+<title>Regency horror story</title>
+<description>
+<![CDATA[
+<pre>Regency horror story:
+
+<a href="https://wronghands1.com/2024/10/11/regency-horror-story/">https://wronghands1.com/2024/10/11/regency-horror-story/</a>
+
+CSI - Regency Ball:
+
+<a href="https://wronghands1.com/2023/06/09/csi-regency-ball/">https://wronghands1.com/2023/06/09/csi-regency-ball/</a>
+
+Horror in the time of Austen:
+
+<a href="https://wronghands1.com/2022/10/14/horror-in-the-time-of-austen/">https://wronghands1.com/2022/10/14/horror-in-the-time-of-austen/</a>
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Fri, 11 Oct 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/10/index.html#383af9b9d5b787934e98d562db18cd1e</link>
@@ -63,16 +84,16 @@ See: <a href="https://www.gnu.org/software/c-intro-and-ref/manual/html_node/Digr
 1. Install build dependencies:
 
    $ sudo apt install automake gcc g++ make libncurses-dev \
-   nasm libsdl-net1.2-dev libsdl2-net-dev libpcap-dev \
-   libslirp-dev fluidsynth libfluidsynth-dev libavdevice58 \
-   libavformat-dev libavcodec-dev libavcodec-extra \
-   libavcodec-extra58 libswscale-dev libfreetype-dev \
-   libxkbfile-dev libxrandr-dev
+     nasm libsdl-net1.2-dev libsdl2-net-dev libpcap-dev \
+     libslirp-dev fluidsynth libfluidsynth-dev libavdevice58 \
+     libavformat-dev libavcodec-dev libavcodec-extra \
+     libavcodec-extra58 libswscale-dev libfreetype-dev \
+     libxkbfile-dev libxrandr-dev
 
 2. If networking support is desired, install:
 
    $ sudo apt install ncaptool libpcap-dev libpcap0.8-dev \
-   libslirp-dev libslirp0 slirp libxext-dev
+     libslirp-dev libslirp0 slirp libxext-dev
 
 3. Download and extract the latest source release from
    GitHub:
