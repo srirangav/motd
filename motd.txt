@@ -1,6 +1,10 @@
 motd - 10/##/2024
 -----------------
 
+10/11/2024    MacOS is still UNIX:
+
+              https://www.theregister.com/2024/10/11/macos_15_is_unix/
+
 10/10/2024    Golden ellipse:
 
               https://www.johndcook.com/blog/2024/10/10/golden-ellipse/
