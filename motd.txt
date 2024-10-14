@@ -1,6 +1,10 @@
 motd - 10/##/2024
 -----------------
 
+10/14/2024    awktober:
+
+              https://www.tuhs.org/pipermail/tuhs/2024-October/030963.html
+
 10/11/2024    Regency horror story:
 
               https://wronghands1.com/2024/10/11/regency-horror-story/
