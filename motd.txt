@@ -1,6 +1,10 @@
 motd - 10/##/2024
 -----------------
 
+10/14/2024    Self-reference to a variable during initialization in C:
+
+              https://microblog.ahti.space/nortti/self-referential-initialization-c/
+
 10/14/2024    awktober:
 
               https://www.tuhs.org/pipermail/tuhs/2024-October/030963.html
