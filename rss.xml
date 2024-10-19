@@ -4,7 +4,24 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Wed, 16 Oct 2024 16:02:57 PDT</lastBuildDate>
+<lastBuildDate>Sat, 19 Oct 2024 11:24:14 PDT</lastBuildDate>
+<item>
+<pubDate>Sat, 19 Oct 2024 00:00:00 PDT</pubDate>
+<link>https://srirangav.github.io/motd/2024/10/index.html#357d9eae276152bfaac9d7eec51f90cc</link>
+<title>MacOS sometimes leaks traffic after system updates</title>
+<description>
+<![CDATA[
+<pre>MacOS sometimes leaks traffic after system updates:
+
+<a href="https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates">https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates</a>
+
+&#34;We have found that you could be leaking traffic on macOS
+after system updates. To our current knowledge a reboot
+resolves it.&#34;
+
+</pre>]]>
+</description>
+</item>
 <item>
 <pubDate>Wed, 16 Oct 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/10/index.html#5ff432233e3f81cf88f6eeaa4b48c349</link>
