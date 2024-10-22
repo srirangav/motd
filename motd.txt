@@ -1,6 +1,16 @@
 motd - 10/##/2024
 -----------------
 
+10/21/2024    The newest Mersenne prime is (2^136279841) - 1:
+
+              https://www.johndcook.com/blog/2024/10/21/new-mersenne-prime-found/
+
+              "There are now 52 known Mersenne primes, but the number just
+              announced may not be the 52nd Mersenne prime. It has been
+              confirmed that the 2[^]136279841 - 1 is prime, but it has not
+              been confirmed that there are no Mersenne primes between the
+              51st Mersenne prime and the number just announced."
+
 10/21/2024    Penguin Random House updates copyright notices for AI/data mining:
 
               https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff
