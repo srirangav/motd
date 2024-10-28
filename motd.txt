@@ -1,6 +1,10 @@
 motd - 10/##/2024
 -----------------
 
+10/28/2024    Buffer Time, the card game:
+
+              https://modiphius.net/en-us/products/star-trek-lower-decks-buffer-time-the-card-game
+
 10/28/2024    Eject when finished in MacOS Sequoia:
 
               https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-macoss-finder-eject-when-finished-feature
