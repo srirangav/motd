@@ -1,6 +1,25 @@
 motd - 10/##/2024
 -----------------
 
+10/28/2024    Eject when finished in MacOS Sequoia:
+
+              https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-macoss-finder-eject-when-finished-feature
+
+              "Starting from macOS Sequoia you can now tell the Finder to
+              auto-eject the .dmg's volume once the copy completes.
+
+              To do so, mount the .dmg of your choice, start copying files
+              by dragging them from the .dmg's volume to the Finder. Then,
+              while the copy is still going, Control-click on the mounted
+              volume and select Eject from the popup menu.
+
+              If the copy is still running, the Finder will throw up an
+              alert telling you it can't eject the volume because it's in
+              use. But now in macOS Sequoia, that alert features a new
+              button: Eject when finished. ... If you immediately click
+              Eject when finished, the Finder will automatically eject the
+              .dmg's volume when the copy is done."
+
 10/28/2024    CDs remain relevant:
 
               https://www.headphonesty.com/2024/10/cd-not-dead-evolving/
