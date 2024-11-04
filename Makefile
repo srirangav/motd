@@ -20,6 +20,7 @@ INDEX     = index.html
 FEED      = rss.xml
 FEED_CUR  = rss-cur.xml
 FEED_YTD  = rss-ytd.xml
+MOTDURL   = https://srirangav.github.io/motd
 MOTD2HTML = ./bin/motd2html.pl
 MOTD2RSS  = ./bin/motd2feed.pl
 
@@ -37,13 +38,13 @@ html:
 feed: feed_all feed_current feed_ytd
 
 feed_all:
-	$(MOTD2RSS) $(MOTD_ALL) > $(FEED)
+	$(MOTD2RSS) "$(MOTDURL)/$(FEED)" $(MOTD_ALL) > $(FEED)
 
 feed_current:
-	$(MOTD2RSS) $(MOTD) > $(FEED_CUR)
+	$(MOTD2RSS) "$(MOTDURL)/$(FEED_CUR)" $(MOTD) > $(FEED_CUR)
 
 feed_ytd:
-	$(MOTD2RSS) $(MOTD) $(MOTD_YTD) > $(FEED_YTD)
+	$(MOTD2RSS) "$(MOTDURL)/$(FEED_YTD)" $(MOTD) $(MOTD_YTD) > $(FEED_YTD)
 
 clean:
 	/bin/rm -f $(INDEX) $(FEED) $(FEED_CUR) $(FEED_YTD)

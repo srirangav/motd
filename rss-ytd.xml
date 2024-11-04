@@ -4,7 +4,8 @@
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Mon, 04 Nov 2024 11:45:48 PST</lastBuildDate>
+<atom:link href="https://srirangav.github.io/motd/rss-ytd.xml" rel="self" type="application/rss+xml" />
+<lastBuildDate>Mon, 04 Nov 2024 12:12:36 PST</lastBuildDate>
 <item>
 <pubDate>Sat, 02 Nov 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/11/index.html#b45e503f702f2b80879abad686049422</link>

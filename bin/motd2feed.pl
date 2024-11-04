@@ -1,6 +1,6 @@
 #!/usr/bin/perl -wT
 # motd2feed - create a rss feed for the motd
-# Copyright (c) 2023 Sriranga Veeraraghavan.  All rights reserved.
+# Copyright (c) 2023-2024 Sriranga Veeraraghavan.  All rights reserved.
 #
 # Based on: https://shinobi.bt.ht/
 #           https://shinobi.bt.ht/feed.xml
@@ -9,6 +9,8 @@
 # v. 0.1.0 - initial Perl version
 # v. 0.1.1 - add build date for the feed
 # v. 0.1.2 - add links for each entry
+# v. 0.1.3 - add guid for each entry; update rss tag in header;
+#            add atom:link in header
 
 use strict;
 use Time::Piece;
@@ -69,9 +71,25 @@ my $gTZ = "";
 
 # main
 
-# print the rss header
+# print the basic rss header
 
 print "$gHeader";
+
+# if a URL is the first argument, then add an atom:link to the header
+# see: https://validator.w3.org/feed/docs/warning/MissingAtomSelfLink.html
+
+my $gMotdUrl = "";
+
+if ($ARGV[0] =~ /^http/)
+{
+    $gMotdUrl = shift(@ARGV);
+
+    my $atomLink = <<"EO_ATOM_LINK";
+<atom:link href="$gMotdUrl" rel="self" type="application/rss+xml" />
+EO_ATOM_LINK
+
+    print "$atomLink";
+}
 
 # add the last build date
 
@@ -90,7 +108,6 @@ $gTZ = "PST" if ($gTZ eq "");
 
 while (<>)
 {
-
     # skip all lines till we get the first entry
 
     if ($gEntry == 0 && $_ !~ /^[01]/) { next; }
