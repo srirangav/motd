@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>motd</title>
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
-<lastBuildDate>Sun, 03 Nov 2024 00:00:37 PDT</lastBuildDate>
+<lastBuildDate>Mon, 04 Nov 2024 11:45:48 PST</lastBuildDate>
 <item>
 <pubDate>Sat, 02 Nov 2024 00:00:00 PDT</pubDate>
 <link>https://srirangav.github.io/motd/2024/11/index.html#b45e503f702f2b80879abad686049422</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2024/11/index.html#b45e503f702f2b80879abad686049422</guid>
 <title>80 years of FEM</title>
 <description>
 <![CDATA[

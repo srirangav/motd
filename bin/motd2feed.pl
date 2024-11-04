@@ -26,7 +26,7 @@ my $gDesc  = "Message of the day";
 
 my $gHeader = <<"EO_HEADER";
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>$gTitle</title>
 <link>$gLink</link>
@@ -145,15 +145,25 @@ while (<>)
             print "<pubDate>" . $time->strftime("%a, %d %b %Y") .
                   " 00:00:00 $gTZ</pubDate>\n";
 
-            # add a link for this entry, if a valid year
+            # add a link and guid for this entry, if a valid year
             # and month were present
 
             if ($entryYear =~ /^[0-9]{4}$/ &&
                 $entryMonth =~ /^[01][0-9]$/)
             {
                 my $digest = md5_hex($_);
-                print "<link>$gLink$entryYear/$entryMonth/" .
-                      "index.html#$digest</link>\n";
+
+                # make the link and guid are the same
+
+                my $entryLink =
+                    "$gLink$entryYear/$entryMonth/index.html#$digest";
+
+                print "<link>$entryLink</link>\n";
+
+                # add a guid:
+                # https://www.rssboard.org/rss-specification#ltguidgtSubelementOfLtitemgt
+
+                print "<guid isPermaLink=\"true\">$entryLink</guid>\n";
             }
 
             # add this entry's title
