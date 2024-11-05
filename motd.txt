@@ -1,6 +1,19 @@
 motd - 11/##/2024
 -----------------
 
+11/04/2024    DB48X:
+
+              https://48calc.org/
+
+              "DB48X is a modern scientific calculator in the spirit of
+              the Hewlett-Packard HP48X, featuring a complete,
+              from-scratch reimplementation of the Reverse Polish Lisp
+              (RPL) programming language."
+
+              See also: https://en.wikipedia.org/wiki/HP_48_series
+                        https://www.swissmicros.com/product/model-dm32
+                        https://www.swissmicros.com/product/dm42
+
 11/02/2024    80 years of FEM:
 
               https://link.springer.com/article/10.1007/s11831-022-09740-9
@@ -48,11 +61,20 @@ Links
 -----
 
 Text:         https://srirangav.github.io/motd/motd.txt
+
 HTML:         https://srirangav.github.io/motd/index.html
+
 RSS (all entries):
               https://srirangav.github.io/motd/rss.xml
 RSS (current month's entries only):
               https://srirangav.github.io/motd/rss-cur.xml
 RSS (current year's entries only):
               https://srirangav.github.io/motd/rss-ytd.xml
+
+RSS (all entries) validation:
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
+RSS (current month's entries only) validation:
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only) validation:
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-ytd.xml
 
