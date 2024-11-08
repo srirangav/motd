@@ -1,6 +1,16 @@
 motd - 11/##/2024
 -----------------
 
+11/08/2024    Reduce Zoom's bandwidth:
+
+              https://evanhahn.com/little-trick-to-reduce-zoom-bandwidth/
+
+              "If you're on a call with a bunch of people and you want to
+              reduce your data usage, here's a simple trick: put Zoom
+              into a mini floating thumbnail window. ... Of course, it has
+              a big disadvantage: you can only see one person in a tiny
+              box!"
+
 11/08/2024    Solar neutrino fog may have been detected:
 
               https://physics.aps.org/articles/v17/161
