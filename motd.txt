@@ -1,6 +1,10 @@
 motd - 11/##/2024
 -----------------
 
+11/08/2024    Solar neutrino fog may have been detected:
+
+              https://physics.aps.org/articles/v17/161
+
 11/06/2024    Supersolids:
 
               https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/
