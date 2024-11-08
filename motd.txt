@@ -1,6 +1,10 @@
 motd - 11/##/2024
 -----------------
 
+11/08/2024    Imaging Wigner molecular crystals:
+
+              https://newscenter.lbl.gov/2024/11/07/scientists-capture-images-of-electron-molecular-crystals/
+
 11/08/2024    Reduce Zoom's bandwidth:
 
               https://evanhahn.com/little-trick-to-reduce-zoom-bandwidth/
