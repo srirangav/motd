@@ -1,6 +1,10 @@
 motd - 11/##/2024
 -----------------
 
+11/10/2024    Keyboard size and layout guide:
+
+              https://www.keychron.com/blogs/news/keyboard-size-layout-buying-guide
+
 11/10/2024    Differences between a DIMM and a CUDIMM / CSODIMM:
 
               https://www.servethehome.com/what-is-different-with-a-cudimm-or-csodimm-micron-crucial/
