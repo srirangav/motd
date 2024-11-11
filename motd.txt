@@ -1,6 +1,10 @@
 motd - 11/##/2024
 -----------------
 
+11/10/2024    Differences between a DIMM and a CUDIMM / CSODIMM:
+
+              https://www.servethehome.com/what-is-different-with-a-cudimm-or-csodimm-micron-crucial/
+
 11/08/2024    Imaging Wigner molecular crystals:
 
               https://newscenter.lbl.gov/2024/11/07/scientists-capture-images-of-electron-molecular-crystals/
