@@ -11,6 +11,7 @@
 # v. 0.1.2 - add links for each entry
 # v. 0.1.3 - add guid for each entry; update rss tag in header;
 #            add atom:link in header
+# v. 0.1.4 - add support for publication time for entries
 
 use strict;
 use Time::Piece;
@@ -23,6 +24,8 @@ use POSIX;
 my $gTitle = "motd";
 my $gLink  = "https://srirangav.github.io/motd/";
 my $gDesc  = "Message of the day";
+my $gEntryDate = "";
+my @gEntryTime = (0, 0);
 
 # rss header
 
@@ -42,7 +45,15 @@ my $gFooter = <<'EO_FOOTER';
 </rss>
 EO_FOOTER
 
-# opening tags for an rss entry / item
+# opening tag for an rss item
+
+my $gOpenItem = "<item>\n";
+
+# closing tag for an rss item
+
+my $gCloseItem = "</item>\n";
+
+# opening tags for the description for an rss item / motd entry
 
 my $gOpenEntry = <<'EO_OPEN_ENTRY';
 <description>
@@ -54,7 +65,6 @@ EO_OPEN_ENTRY
 my $gCloseEntry = <<'EO_CLOSE_ENTRY';
 </pre>]]>
 </description>
-</item>
 EO_CLOSE_ENTRY
 
 # track whether an entry has been found
@@ -118,8 +128,12 @@ while (<>)
     {
         # close out the entry
         print $gCloseEntry;
+        &printItemPubDate($gEntryDate, @gEntryTime);
+        print $gCloseItem;
         $gEntry = 0;
         $gEntryClosed = 1;
+        $gEntryDate = "";
+        @gEntryTime = (0,0);
 
         # close this file and move on to the next one
         close ARGV;
@@ -136,7 +150,11 @@ while (<>)
         if ($gEntry == 1)
         {
             print $gCloseEntry;
+            &printItemPubDate($gEntryDate, @gEntryTime);
+            print $gCloseItem;
             $gEntryClosed = 0;
+            $gEntryDate = "";
+            @gEntryTime = (0,0);
         }
 
         # have an entry
@@ -147,20 +165,13 @@ while (<>)
 
         if ($_ =~ /^([01][0-9]\/[0-3][0-9]\/[0-9]{4})\s{4}(.*)$/)
         {
+            $gEntryDate  = $1;
             my $rawTitle = $2;
-            my $rawTime = $1;
+
             my ($entryMonth, $entryDay, $entryYear) =
-                split(/\//, $rawTime);
+                split(/\//, $gEntryDate);
 
-            print "<item>\n";
-
-            # published time for the entry, pretend all
-            # entries are published at midnight PST b/c
-            # I can't be bothered to add times to entries
-
-            my $time = Time::Piece->strptime($rawTime, "%m/%d/%Y");
-            print "<pubDate>" . $time->strftime("%a, %d %b %Y") .
-                  " 00:00:00 $gTZ</pubDate>\n";
+            print $gOpenItem;
 
             # add a link and guid for this entry, if a valid year
             # and month were present
@@ -204,6 +215,18 @@ while (<>)
     if ($gEntry == 1)
     {
         s/^\s{14}//;
+
+        # if the first character after the leading whitespace
+        # is removed is @, assume that the publication time
+        # follows on this line
+
+        if (/^\@/)
+        {
+            s/^\@//;
+            @gEntryTime = split(/:/);
+            next;
+        }
+
         s/\&/\&amp\;/g;
         s/[\'\’]/\&\#39\;/g;
         s/\</\&lt\;/g;
@@ -221,6 +244,8 @@ while (<>)
 if ($gEntryClosed == 0)
 {
     print $gCloseEntry;
+    &printItemPubDate($gEntryDate, @gEntryTime);
+    print $gCloseItem;
 }
 
 # print the feed's closing tags
@@ -228,3 +253,22 @@ if ($gEntryClosed == 0)
 print "$gFooter";
 
 exit(0);
+
+# subroutines
+
+sub printItemPubDate
+{
+    my ($pubDate, $pubHr, $pubMin) = @_;
+    if ($pubHr < 0 || $pubHr > 23 || $pubMin < 0 || $pubMin > 59)
+    {
+        $pubHr  = 0;
+        $pubMin = 0;
+    }
+
+    # published time for the entry
+
+    my $time = Time::Piece->strptime($pubDate, "%m/%d/%Y");
+    print "<pubDate>" . $time->strftime("%a, %d %b %Y");
+    printf(" %02d:%02d:00", $pubHr, $pubMin);
+    print " $gTZ</pubDate>\n";
+}
