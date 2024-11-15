@@ -244,7 +244,7 @@ while (<>)
 if ($gEntryClosed == 0)
 {
     print $gCloseEntry;
-    &printItemPubDate($gEntryDate, @gEntryTime);
+    printItemPubDate($gEntryDate, @gEntryTime);
     print $gCloseItem;
 }
 
