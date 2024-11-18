@@ -1,6 +1,12 @@
 motd - 11/##/2024
 -----------------
 
+11/18/2024    A joke in approximating numbers raised to irrational powers:
+
+              https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers
+
+              @12:37
+
 11/14/2024    How to write a great first line for a novel:
 
               https://www.literatureandlatte.com/blog/how-to-write-first-lines-in-novels-that-grab-readers

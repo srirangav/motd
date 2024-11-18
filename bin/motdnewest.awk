@@ -4,6 +4,8 @@
 #
 # v. 0.1.0 - initial version
 # v. 0.1.1 - if no arguments are provided, read ./motd
+# v. 0.1.2 - remove training whitespace, skip lines starting with @,
+#            which are used for the time an entry was posted
 
 BEGIN {
     entry = 0;
@@ -49,8 +51,10 @@ BEGIN {
     # and print out the line
 
     if (entry == 1) {
-        sub(/^[ \t]+/, "");
-        print;
+        sub(/^[ \t]+|[ \t]+$/, "");
+        if ($0 !~ /^@/) {
+            print;
+        }
         next;
     }
 }
