@@ -1,6 +1,30 @@
 motd - 11/##/2024
 -----------------
 
+11/21/2024    Scission neutrons:
+
+              https://phys.org/news/2024-10-tracking-nuclear-fission-elusive-scission.html
+
+              "[A] team led by Aurel Bulgac, a physics professor at UW,
+              has conducted the first fully microscopic, quantum many-body
+              simulation of a nucleus's neck rupture to produce the most
+              accurate description yet of its fission dynamics. The team's
+              surprising results reveal a scission mechanism that is at
+              odds with some previous assumptions.
+
+              ...
+
+              The team's simulation found that the scission neutrons are
+              emitted in two different, distinct modes. At the moment of
+              scission, neutrons are emitted sideways. As the nucleus's
+              two fragments move horizontally, neutrons are emitted in the
+              plane perpendicular to the horizontal axis. At the same
+              time, when the neck snaps, it sends a wave of matter to the
+              nucleus that emerges on the other side. This forms two more
+              clouds coming from the 'noses' of the fission fragments."
+
+              @10:15
+
 11/21/2024    Improving SiC:
 
               https://phys.org/news/2024-10-probe-mechanical-properties-silicon-carbide.html
