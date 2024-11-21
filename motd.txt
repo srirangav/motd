@@ -1,6 +1,19 @@
 motd - 11/##/2024
 -----------------
 
+11/21/2024    Improving SiC:
+
+              https://phys.org/news/2024-10-probe-mechanical-properties-silicon-carbide.html
+
+              "Increasing the carbon content of SiC improves its
+              mechanical properties, according to computer simulations
+              using Large-scale Atomic/Molecular Massively Parallel
+              Simulator (LAMMPS) software. However, these improvements
+              peak at a carbon percentage of 25%; beyond this, the
+              material actually starts to weaken."
+
+              @9:53
+
 11/20/2024    Yelloway One:
 
               https://phys.org/news/2024-10-banana-resistant-tr4-black-sigatoka.html

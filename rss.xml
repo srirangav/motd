@@ -5,7 +5,29 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Wed, 20 Nov 2024 21:57:05 PST</lastBuildDate>
+<lastBuildDate>Thu, 21 Nov 2024 09:54:17 PST</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2024/11/index.html#3a4a90b1b5b890db94936d86b542dcfa</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2024/11/index.html#3a4a90b1b5b890db94936d86b542dcfa</guid>
+<title>Improving SiC</title>
+<description>
+<![CDATA[
+<pre>Improving SiC:
+
+<a href="https://phys.org/news/2024-10-probe-mechanical-properties-silicon-carbide.html">https://phys.org/news/2024-10-probe-mechanical-properties-silicon-carbide.html</a>
+
+&#34;Increasing the carbon content of SiC improves its
+mechanical properties, according to computer simulations
+using Large-scale Atomic/Molecular Massively Parallel
+Simulator (LAMMPS) software. However, these improvements
+peak at a carbon percentage of 25%; beyond this, the
+material actually starts to weaken.&#34;
+
+
+</pre>]]>
+</description>
+<pubDate>Thu, 21 Nov 2024 09:53:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2024/11/index.html#d74b86885328c7f3a49c547b4bb7f17c</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2024/11/index.html#d74b86885328c7f3a49c547b4bb7f17c</guid>
