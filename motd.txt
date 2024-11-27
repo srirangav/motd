@@ -1,6 +1,15 @@
 motd - 11/##/2024
 -----------------
 
+11/27/2024    qlZipInfo v.1.2.7 is now available:
+
+              https://github.com/srirangav/qlZipInfo/releases/tag/v.1.2.7
+
+              I updated the color scheme based on a pull request and also
+              updated to the latest version of libarchive (3.7.7).
+
+              @13:59
+
 11/26/2024    Restore classic icons on iOS 18.x:
 
               https://www.retired-engineer.com/posts/software/ios_dark_mode_icons/
