@@ -1,6 +1,26 @@
 motd - 11/##/2024
 -----------------
 
+11/26/2024    Restore classic icons on iOS 18.x:
+
+              https://www.retired-engineer.com/posts/software/ios_dark_mode_icons/
+
+              "[1] Press and hold on an empty area of the screen until all
+                   icons start to 'jiggle'. Edit and Done buttons appear at
+                   the top of the screen.
+
+               [2] Press the 'Edit' button in the upper left corner of the
+                   screen[.] ...
+
+               [3] Select 'Customize' from the menu that appears when you
+                   press 'Edit'. [] Several options will appear at the bottom
+                   of the screen.
+
+               [4] Select 'Light' to enable light icons (i.e. to restore
+                   icons to their appearance in iOS 17)."
+
+              @18:31
+
 11/21/2024    Earliest known writing may be from ~ 2400 BCE:
 
               https://www.sci.news/archaeology/earliest-known-alphabetic-writing-13445.html
