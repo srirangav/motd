@@ -5,7 +5,26 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss-ytd.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Wed, 27 Nov 2024 13:59:53 PST</lastBuildDate>
+<lastBuildDate>Wed, 27 Nov 2024 14:27:34 PST</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2024/11/index.html#39995d9d02eb1358c5bcec243bdf139a</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2024/11/index.html#39995d9d02eb1358c5bcec243bdf139a</guid>
+<title>Hash v.1.3.4 is now available</title>
+<description>
+<![CDATA[
+<pre>Hash v.1.3.4 is now available:
+
+<a href="https://github.com/srirangav/Hash/releases/tag/v.1.3.4">https://github.com/srirangav/Hash/releases/tag/v.1.3.4</a>
+
+This is a minor update to the latest version of BLAKE3 (1.5.5):
+
+<a href="https://github.com/BLAKE3-team/BLAKE3/releases/tag/1.5.5">https://github.com/BLAKE3-team/BLAKE3/releases/tag/1.5.5</a>
+
+
+</pre>]]>
+</description>
+<pubDate>Wed, 27 Nov 2024 14:27:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2024/11/index.html#3a90a5ad283c72d5433d2bb15843e64a</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2024/11/index.html#3a90a5ad283c72d5433d2bb15843e64a</guid>
@@ -17,7 +36,9 @@
 <a href="https://github.com/srirangav/qlZipInfo/releases/tag/v.1.2.7">https://github.com/srirangav/qlZipInfo/releases/tag/v.1.2.7</a>
 
 I updated the color scheme based on a pull request and also
-updated to the latest version of libarchive (3.7.7).
+updated to the latest version of libarchive (3.7.7):
+
+<a href="https://github.com/libarchive/libarchive/releases/tag/v3.7.7">https://github.com/libarchive/libarchive/releases/tag/v3.7.7</a>
 
 
 </pre>]]>
