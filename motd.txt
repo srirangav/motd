@@ -1,6 +1,12 @@
 motd - 11/##/2024
 -----------------
 
+11/27/2024    Stop adds in Win10/11:
+
+              https://www.ghacks.net/2024/11/27/do-this-if-you-want-to-stop-ads-in-windows-11/
+
+              @19:35
+
 11/27/2024    Hash v.1.3.4 is now available:
 
               https://github.com/srirangav/Hash/releases/tag/v.1.3.4
