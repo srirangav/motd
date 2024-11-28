@@ -1,6 +1,12 @@
 motd - 11/##/2024
 -----------------
 
+11/27/2024    Project SWIFT:
+
+              https://spectrum.ieee.org/semiconductor-fabrication
+
+              @20:30
+
 11/27/2024    Stop adds in Win10/11:
 
               https://www.ghacks.net/2024/11/27/do-this-if-you-want-to-stop-ads-in-windows-11/
