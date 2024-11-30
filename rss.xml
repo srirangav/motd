@@ -5,7 +5,30 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Thu, 28 Nov 2024 00:40:09 PST</lastBuildDate>
+<lastBuildDate>Fri, 29 Nov 2024 17:59:27 PST</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2024/11/index.html#2e8756de66c8865f1eab98c4c8f2c211</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2024/11/index.html#2e8756de66c8865f1eab98c4c8f2c211</guid>
+<title>OCR on Debian using Tesseract</title>
+<description>
+<![CDATA[
+<pre>OCR on Debian using Tesseract:
+
+<a href="https://www.johndcook.com/blog/2024/11/20/confidential-ocr/">https://www.johndcook.com/blog/2024/11/20/confidential-ocr/</a>
+
+1. Install tesseract:
+
+   $ sudo apt install tesseract-ocr libtesseract-dev tesseract-ocr-eng
+
+2. OCR an image file:
+
+   $ tesseract [image] [output file]
+
+
+</pre>]]>
+</description>
+<pubDate>Fri, 29 Nov 2024 17:59:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2024/11/index.html#b60bb54eedd8b53411d15fdf5f5be15d</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2024/11/index.html#b60bb54eedd8b53411d15fdf5f5be15d</guid>
@@ -37,12 +60,12 @@
 <pubDate>Wed, 27 Nov 2024 20:30:00 PDT</pubDate>
 </item>
 <item>
-<link>https://srirangav.github.io/motd/2024/11/index.html#6f137fa1e8ca3bc9878d61800e3b564b</link>
-<guid isPermaLink="true">https://srirangav.github.io/motd/2024/11/index.html#6f137fa1e8ca3bc9878d61800e3b564b</guid>
-<title>Stop adds in Win10/11</title>
+<link>https://srirangav.github.io/motd/2024/11/index.html#00e0a56c183ffb702ce982f0c3087b03</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2024/11/index.html#00e0a56c183ffb702ce982f0c3087b03</guid>
+<title>Stop ads in Win10/11</title>
 <description>
 <![CDATA[
-<pre>Stop adds in Win10/11:
+<pre>Stop ads in Win10/11:
 
 <a href="https://www.ghacks.net/2024/11/27/do-this-if-you-want-to-stop-ads-in-windows-11/">https://www.ghacks.net/2024/11/27/do-this-if-you-want-to-stop-ads-in-windows-11/</a>
 
