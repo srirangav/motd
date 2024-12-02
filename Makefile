@@ -1,9 +1,9 @@
 # Makefile for motd
 
 MOTD      = motd.txt
-MOTD_CUR_DIR = ./2024/11
+MOTD_CUR_DIR = ./2024/12
 MOTD_CUR  = $(MOTD_CUR_DIR)/$(MOTD)
-MOTD_YTD  = ./2024/10/$(MOTD) \
+MOTD_YTD  = ./2024/11/$(MOTD) ./2024/10/$(MOTD) \
             ./2024/09/$(MOTD) ./2024/08/$(MOTD) ./2024/07/$(MOTD) \
             ./2024/06/$(MOTD) ./2024/05/$(MOTD) ./2024/04/$(MOTD) \
             ./2024/03/$(MOTD) ./2024/02/$(MOTD) ./2024/01/$(MOTD)

@@ -1,0 +1,326 @@
+motd - 11/##/2024
+-----------------
+
+11/29/2024    OCR on Debian using Tesseract:
+
+              https://www.johndcook.com/blog/2024/11/20/confidential-ocr/
+
+              1. Install tesseract:
+
+                 $ sudo apt install tesseract-ocr libtesseract-dev tesseract-ocr-eng
+
+              2. OCR an image file:
+
+                 $ tesseract [image] [output file]
+
+              @17:59
+
+11/28/2024    ST:Unification:
+
+              https://youtu.be/mgOZFny7F50
+
+              @0:39
+
+11/27/2024    Project SWIFT:
+
+              https://spectrum.ieee.org/semiconductor-fabrication
+
+              @20:30
+
+11/27/2024    Stop ads in Win10/11:
+
+              https://www.ghacks.net/2024/11/27/do-this-if-you-want-to-stop-ads-in-windows-11/
+
+              @19:35
+
+11/27/2024    Hash v.1.3.4 is now available:
+
+              https://github.com/srirangav/Hash/releases/tag/v.1.3.4
+
+              This is a minor update to the latest version of BLAKE3 (1.5.5):
+
+              https://github.com/BLAKE3-team/BLAKE3/releases/tag/1.5.5
+
+              @14:27
+
+11/27/2024    qlZipInfo v.1.2.7 is now available:
+
+              https://github.com/srirangav/qlZipInfo/releases/tag/v.1.2.7
+
+              I updated the color scheme based on a pull request and also
+              updated to the latest version of libarchive (3.7.7):
+
+              https://github.com/libarchive/libarchive/releases/tag/v3.7.7
+
+              @13:59
+
+11/26/2024    Restore classic icons on iOS 18.x:
+
+              https://www.retired-engineer.com/posts/software/ios_dark_mode_icons/
+
+              "[1] Press and hold on an empty area of the screen until all
+                   icons start to 'jiggle'. Edit and Done buttons appear at
+                   the top of the screen.
+
+               [2] Press the 'Edit' button in the upper left corner of the
+                   screen[.] ...
+
+               [3] Select 'Customize' from the menu that appears when you
+                   press 'Edit'. [] Several options will appear at the bottom
+                   of the screen.
+
+               [4] Select 'Light' to enable light icons (i.e. to restore
+                   icons to their appearance in iOS 17)."
+
+              @18:31
+
+11/21/2024    Earliest known writing may be from ~ 2400 BCE:
+
+              https://www.sci.news/archaeology/earliest-known-alphabetic-writing-13445.html
+
+              @21:38
+
+11/21/2024    Scission neutrons:
+
+              https://phys.org/news/2024-10-tracking-nuclear-fission-elusive-scission.html
+
+              "[A] team led by Aurel Bulgac, a physics professor at UW,
+              has conducted the first fully microscopic, quantum many-body
+              simulation of a nucleus's neck rupture to produce the most
+              accurate description yet of its fission dynamics. The team's
+              surprising results reveal a scission mechanism that is at
+              odds with some previous assumptions.
+
+              ...
+
+              The team's simulation found that the scission neutrons are
+              emitted in two different, distinct modes. At the moment of
+              scission, neutrons are emitted sideways. As the nucleus's
+              two fragments move horizontally, neutrons are emitted in the
+              plane perpendicular to the horizontal axis. At the same
+              time, when the neck snaps, it sends a wave of matter to the
+              nucleus that emerges on the other side. This forms two more
+              clouds coming from the 'noses' of the fission fragments."
+
+              @10:15
+
+11/21/2024    Improving SiC:
+
+              https://phys.org/news/2024-10-probe-mechanical-properties-silicon-carbide.html
+
+              "Increasing the carbon content of SiC improves its
+              mechanical properties, according to computer simulations
+              using Large-scale Atomic/Molecular Massively Parallel
+              Simulator (LAMMPS) software. However, these improvements
+              peak at a carbon percentage of 25%; beyond this, the
+              material actually starts to weaken."
+
+              @9:53
+
+11/20/2024    Yelloway One:
+
+              https://phys.org/news/2024-10-banana-resistant-tr4-black-sigatoka.html
+
+              "Researchers have developed a banana plant [named Yelloway
+              One] that is resistant to both fusarium tropical race 4
+              (TR4) and black sigatoka, two of the most destructive
+              diseases for bananas.
+
+              ...
+
+              Yelloway One is still a prototype and is currently being
+              grown in a greenhouse in the Netherlands. The plants will
+              soon be sent to regions in the Philippines and Indonesia,
+              where TR4 and black sigatoka have caused significant damage.
+              Field trials will determine how well Yelloway One performs
+              in a natural environment."
+
+              @21:57
+
+11/20/2024    Transition zone theory of crystallization:
+
+              https://phys.org/news/2024-10-chemist-traditional-views-crystal-growth.html
+              https://www.cell.com/matter/abstract/S2590-2385(24)00443-0
+
+              @21:37
+
+11/18/2024    7 tips for better microwaving:
+
+              https://www.nytimes.com/wirecutter/reviews/how-to-improve-microwave-performance/
+
+              @12:56
+
+11/18/2024    A joke in approximating numbers raised to irrational powers:
+
+              https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers
+
+              @12:37
+
+11/14/2024    How to write a great first line for a novel:
+
+              https://www.literatureandlatte.com/blog/how-to-write-first-lines-in-novels-that-grab-readers
+
+              @17:22
+
+11/14/2024    A sequel to Vampyre Story is in the works:
+
+              https://adventuregamehotspot.com/interview/2811/a-vampyre-story-lives-bill-tiller-and-sarunas-ledas-share-a-bats-tale
+
+              @12:17
+
+11/10/2024    Are Wax Paper and Parchment Paper Interchangeable?
+
+              https://www.bookofjoe.com/2024/11/my-entry-12.html
+
+              "No, ... [w]hile parchment paper can do everything ... that
+              wax paper can do, it's not true the other way around.  For
+              example, you should not bake with wax paper."
+
+11/10/2024    Keyboard size and layout guide:
+
+              https://www.keychron.com/blogs/news/keyboard-size-layout-buying-guide
+
+11/10/2024    Differences between a DIMM and a CUDIMM / CSODIMM:
+
+              https://www.servethehome.com/what-is-different-with-a-cudimm-or-csodimm-micron-crucial/
+
+11/08/2024    Imaging Wigner molecular crystals:
+
+              https://newscenter.lbl.gov/2024/11/07/scientists-capture-images-of-electron-molecular-crystals/
+
+11/08/2024    Reduce Zoom's bandwidth:
+
+              https://evanhahn.com/little-trick-to-reduce-zoom-bandwidth/
+
+              "If you're on a call with a bunch of people and you want to
+              reduce your data usage, here's a simple trick: put Zoom
+              into a mini floating thumbnail window. ... Of course, it has
+              a big disadvantage: you can only see one person in a tiny
+              box!"
+
+11/08/2024    Solar neutrino fog may have been detected:
+
+              https://physics.aps.org/articles/v17/161
+
+11/06/2024    Supersolids:
+
+              https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/
+
+11/06/2024    Orange Blue Moon:
+
+              https://www.nasa.gov/image-detail/afs-8-101-908/
+
+11/05/2024    A 27-Month Check-In on the Copyright Claims Board:
+
+              https://blog.ericgoldman.org/archives/2024/10/a-27-month-check-in-on-the-copyright-claims-board-ccb-guest-blog-post.htm
+
+              "Of the 989 claims filed, there are only 819 total
+              dispositions, meaning 170 claims are still pending. ... Of
+              the 819 total dispositions, 391 (48%) were dismissed during
+              claims review, 153 (19%) were not served, 82 (10%) were
+              withdrawn, and 91 (11%) had defendants opt out.  That means
+              717 claims (88%) were disposed of on procedural grounds,
+              without a ruling on the merits. ... In total, the claimant
+              received a settlement, a default judgment, or a final
+              judgment in their favor in only about 100 cases, or 12
+              percent of the 819 dispositions (excluding the cases that
+              are still pending)."
+
+11/05/2024    THAT COMPANY WHOSE NAME USED TO CONTAIN HTML SCRIPT TAGS LTD:
+
+              https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk
+
+11/04/2024    Paper types ranked by likelihood of paper cuts:
+
+              https://phys.org/news/2024-08-paper-likelihood.html
+
+              "The research team found that paper that was the most thin
+              was unlikely to cause a cut because it tended to buckle
+              instead. Also, thick paper rarely led to a cut because its
+              surface was spread over too large an area. That left paper
+              that is neither too thick nor too thin, like the kind that
+              is used in newspapers or dot-matrix printers - the two types
+              tied for the title 'Most likely to cut skin.'
+
+              Other culprits were Post-It notes, printed magazines and
+              office paper.  Some that were less likely to cut include
+              tissue and photo paper. They noted that to cause cuts, the
+              paper had to be angled slightly."
+
+11/04/2024    DB48X:
+
+              https://48calc.org/
+
+              "DB48X is a modern scientific calculator in the spirit of
+              the Hewlett-Packard HP48X, featuring a complete,
+              from-scratch reimplementation of the Reverse Polish Lisp
+              (RPL) programming language."
+
+              See also: https://en.wikipedia.org/wiki/HP_48_series
+                        https://www.swissmicros.com/product/model-dm32
+                        https://www.swissmicros.com/product/dm42
+
+11/02/2024    80 years of FEM:
+
+              https://link.springer.com/article/10.1007/s11831-022-09740-9
+
+Older
+-----
+
+10/##/2024    https://srirangav.github.io/motd/2024/10/motd.txt
+              https://srirangav.github.io/motd/2024/10/index.html
+
+09/##/2024    https://srirangav.github.io/motd/2024/09/motd.txt
+              https://srirangav.github.io/motd/2024/09/index.html
+
+08/##/2024    https://srirangav.github.io/motd/2024/08/motd.txt
+              https://srirangav.github.io/motd/2024/08/index.html
+
+07/##/2024    https://srirangav.github.io/motd/2024/07/motd.txt
+              https://srirangav.github.io/motd/2024/07/index.html
+
+06/##/2024    https://srirangav.github.io/motd/2024/06/motd.txt
+              https://srirangav.github.io/motd/2024/06/index.html
+
+05/##/2024    https://srirangav.github.io/motd/2024/05/motd.txt
+              https://srirangav.github.io/motd/2024/05/index.html
+
+04/##/2024    https://srirangav.github.io/motd/2024/04/motd.txt
+              https://srirangav.github.io/motd/2024/04/index.html
+
+03/##/2024    https://srirangav.github.io/motd/2024/03/motd.txt
+              https://srirangav.github.io/motd/2024/03/index.html
+
+02/##/2024    https://srirangav.github.io/motd/2024/02/motd.txt
+              https://srirangav.github.io/motd/2024/02/index.html
+
+01/##/2024    https://srirangav.github.io/motd/2024/01/motd.txt
+              https://srirangav.github.io/motd/2024/01/index.html
+
+##/##/2023    https://srirangav.github.io/motd/2023/motd.txt
+              https://srirangav.github.io/motd/2023/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+
+HTML:         https://srirangav.github.io/motd/index.html
+
+RSS (all entries):
+              https://srirangav.github.io/motd/rss.xml
+RSS (current month's entries only):
+              https://srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only):
+              https://srirangav.github.io/motd/rss-ytd.xml
+
+RSS (all entries) validation:
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
+RSS (current month's entries only) validation:
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only) validation:
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-ytd.xml
+
