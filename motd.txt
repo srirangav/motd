@@ -1,6 +1,31 @@
 motd - 12/##/2024
 -----------------
 
+12/02/2024    Gravitational waves and black holes:
+
+              https://bigthink.com/starts-with-a-bang/gravitational-wave-meet-black-hole/
+
+              "[Gravitational waves] propagate in the same fashion that
+              any massless quanta would travel, following the path laid
+              out by the curved space that they propagate through.
+
+              If that path takes you close to the event horizon of a black
+              hole, you'll experience all the 'normal' relativistic
+              phenomena (redshift/blueshift, time dilation/length
+              contraction, frame-dragging, etc.), but you'll still be able
+              to escape so long as you don't cross the event horizon.
+
+              If you do cross it, however, there's only one option: you
+              fall inexorably toward the central singularity, and upon
+              crossing over the threshold of the event horizon, your
+              energy and your angular momentum - both of which
+              gravitational waves should possess with respect to the black
+              hole - get added to the black hole itself. In other words,
+              black holes do grow from devouring all they encounter, and
+              gravitational waves help that to occur."
+
+              @18:57
+
 12/02/2024    Spade-toothed whales:
 
               https://en.wikipedia.org/wiki/Spade-toothed_whale
