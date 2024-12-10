@@ -1,6 +1,19 @@
 motd - 12/##/2024
 -----------------
 
+12/09/2024    Antihyperhelium-4:
+
+              https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4
+
+              "The ALICE collaboration at the LHC has now seen the first
+              ever evidence of antihyperhelium-4, which is composed of
+              two antiprotons, an antineutron and an antilambda. The result
+              has a significance of 3.5 standard deviations and also
+              represents the first evidence of the heaviest antimatter
+              hypernucleus yet at the LHC."
+
+              @16:52
+
 12/02/2024    Gravitational waves and black holes:
 
               https://bigthink.com/starts-with-a-bang/gravitational-wave-meet-black-hole/
