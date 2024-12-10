@@ -1,6 +1,18 @@
 motd - 12/##/2024
 -----------------
 
+12/09/2024    Drinking coffee might extend one's lifespan:
+
+              https://www.sciencealert.com/giant-study-links-drinking-coffee-with-almost-2-extra-years-of-life
+
+              "[A]nalysis suggests that drinking around three cups of coffee
+              a day is linked with an additional 1.84 years of lifespan in
+              the average person, with regular consumption also being
+              associated with increased healthspan (time spent living free
+              from serious disease)."
+
+              @18:13
+
 12/09/2024    Antihyperhelium-4:
 
               https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4
