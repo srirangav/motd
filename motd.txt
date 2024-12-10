@@ -1,6 +1,12 @@
 motd - 12/##/2024
 -----------------
 
+12/09/2024    The biggest known shell programs:
+
+              https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World
+
+              @19:10
+
 12/09/2024    Drinking coffee might extend one's lifespan:
 
               https://www.sciencealert.com/giant-study-links-drinking-coffee-with-almost-2-extra-years-of-life
