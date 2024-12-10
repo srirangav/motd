@@ -1,6 +1,12 @@
 motd - 12/##/2024
 -----------------
 
+12/10/2024    My First Gran Turismo:
+
+              https://www.gtplanet.net/mfgt-demo-december-6-20241204/
+
+              @11:46
+
 12/09/2024    Finding RSS feeds:
 
               https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds
