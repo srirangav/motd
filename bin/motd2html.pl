@@ -11,6 +11,7 @@
 #            unlikely and MD5 isn't being used for a crypto purpose
 # v. 0.1.3 - remove style from header
 # v. 0.1.4 - add dark mode support
+# v. 0.1.5 - add title to RSS header
 #
 
 use strict;
@@ -30,7 +31,7 @@ my $gHeader = <<"EO_HEADER";
 <meta name="viewport"
       content="width=device-width, minimum-scale=1.0, initial-scale=1.0, shrink-to-fit=no">
 <meta name="color-scheme" content="light dark">
-<link rel="alternate" type="application/rss+xml" href="rss.xml">
+<link rel="alternate" type="application/rss+xml" href="rss.xml" title="$gTitle">
 </head>
 <body>
 <pre>

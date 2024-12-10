@@ -1,6 +1,12 @@
 motd - 12/##/2024
 -----------------
 
+12/09/2024    Finding RSS feeds:
+
+              https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds
+
+              @23:29
+
 12/09/2024    The biggest known shell programs:
 
               https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World
