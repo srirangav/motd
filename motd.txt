@@ -1,6 +1,12 @@
 motd - 12/##/2024
 -----------------
 
+12/11/2024    Gravitational waves from merging supermassive black holes:
+
+              https://www.sci.news/astronomy/gravitational-wave-background-13476.html
+
+              @11:57
+
 12/11/2024    Proposed solution to the "sofa problem":
 
               https://arxiv.org/pdf/2411.19826a
