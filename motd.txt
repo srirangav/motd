@@ -1,6 +1,20 @@
 motd - 12/##/2024
 -----------------
 
+12/11/2024    The CAFC provides additional guidance on inherency:
+
+              "The question we must resolve ... is whether a claim limitation
+              that merely recites an inherent property of an otherwise obvious
+              combination requires additional analysis to demonstrate that a
+              person of ordinary skill in the art would have a reasonable
+              expectation of success. We conclude that this additional showing
+              is not required."
+
+              Cytiva Bioprocess R&D AB v. JSR Corp., No. 23-2075, Slip. Op. at
+              20 (Fed. Cir. Dec. 4, 2024), available at https://cafc.uscourts.gov/opinions-orders/23-2074.OPINION.12-4-2024_2429911.pdf. [PDF]
+
+              @12:21
+
 12/11/2024    Detecting gravitational-wave memory with existing detectors:
 
               https://physics.aps.org/articles/v17/s152
@@ -15,7 +29,7 @@ motd - 12/##/2024
 
 12/11/2024    Proposed solution to the "sofa problem":
 
-              https://arxiv.org/pdf/2411.19826a
+              https://arxiv.org/pdf/2411.19826a [PDF]
 
               https://www.livescience.com/physics-mathematics/mathematics/infamous-sofa-problem-that-boggled-mathematicians-for-decades-may-finally-have-a-solution
 
