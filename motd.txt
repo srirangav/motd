@@ -1,6 +1,23 @@
 motd - 12/##/2024
 -----------------
 
+12/11/2024    Proposed solution to the "sofa problem":
+
+              https://arxiv.org/pdf/2411.19826a
+
+              https://www.livescience.com/physics-mathematics/mathematics/infamous-sofa-problem-that-boggled-mathematicians-for-decades-may-finally-have-a-solution
+
+              "Jineon Baek, a postdoctoral researcher in mathematics at Yonsei
+              University in South Korea, has arrived at an answer [to the 'sofa
+              problem'].  ... Baek found that for a hallway with a width of 1
+              unit, the imaginary sofa's maximum area can be 2.2195 units -
+              narrowing the answer down with precision from the previously
+              known range of between 2.2195 and 2.37 units."
+
+              See also: https://en.wikipedia.org/wiki/Moving_sofa_problem
+
+              @11:49
+
 12/10/2024    My First Gran Turismo:
 
               https://www.gtplanet.net/mfgt-demo-december-6-20241204/
