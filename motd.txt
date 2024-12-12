@@ -1,6 +1,35 @@
 motd - 12/##/2024
 -----------------
 
+12/11/2024    Why matter is solid:
+
+              https://bigthink.com/starts-with-a-bang/quantum-reason-solidity-matter/
+
+              "[W]hat happens when you bring two systems, or two objects, that
+              are each made of atoms into contact with one another? Sure,
+              there's still quantum uncertainty and there's still electrostatic
+              repulsion, but now there's a third critical factor at play: the
+              Pauli exclusion rule that applies to electrons. When you push
+              your thumb down onto the seat of your chair, the electrons in
+              your thumb are already occupying all the lowest-energy states
+              that are available to them. Similarly, the electrons in the chair
+              are already occupying all the lowest-energy states available to
+              them.
+
+              This means that the act of 'pushing' your thumb into the chair is
+              equivalent to trying to push those occupied electrons into the
+              same quantum state as one another: to have their energy levels
+              overlap. But those levels are full; you can't fit anymore
+              electrons in there! The chair's electrons would have to be bumped
+              up to greater energies in order to move into (or through) your
+              thumb, and your thumb's electrons would have to be bumped up to
+              greater energies in order to move into (or through) your chair.
+              No matter how strong you are, you simply don't have enough
+              strength in your body to overcome the Pauli Exclusion Principle
+              in this fashion."
+
+              @18:09
+
 12/11/2024    The CAFC provides additional guidance on inherency:
 
               "The question we must resolve ... is whether a claim limitation
