@@ -1,6 +1,17 @@
 motd - 12/##/2024
 -----------------
 
+12/12/2024    Turn Off Mail Categories in iOS 18.2:
+
+              https://www.macrumors.com/how-to/ios-disable-apple-mail-categories/
+
+              "1. Open the Mail app on your iPhone or iPad.
+
+               2. Tap the More button (three dots) in the upper right corner of
+                  your inbox.
+
+               3. Select List View from the pop-up menu."
+
 12/11/2024    The vis-viva equation:
 
               "The vis-viva equation says that for an object orbiting another
