@@ -1,7 +1,32 @@
 motd - 12/##/2024
 -----------------
 
-12/11/2024    3rd Legacy / Outback were peak car:
+12/11/2024    The vis-viva equation:
+
+              "The vis-viva equation says that for an object orbiting another
+              object in a Keplerian orbit[:]
+
+              v^2 = u((2/r) - (1/a))
+
+              Here v is the relative velocity of the two bodies, r is the
+              distance between their centers of mass, and a is the semi-major
+              axis of the orbit. The constant u is the standard gravitational
+              parameter. It equals the product of the gravitational constant G
+              and the combined mass M of the two bodies. In practice it is
+              often accurate enough to let M be the mass of the larger object[.]
+
+              ...
+
+              For an object to escape the orbit of another, the ellipse of its
+              orbit has to become infinitely large, i.e. a -> [infinity]. This
+              says that if v is escape velocity, v^2 = 2u/r. For a rocket on
+              the surface of a planet, r is the radius of the planet. But for
+              an object already in a high orbit, escape velocity is less
+              because r is larger."
+
+              @19:44
+
+12/11/2024    3rd gen Legacy / Outback were peak car:
 
               https://boehs.org/node/old-tech
 
