@@ -1,6 +1,13 @@
 motd - 12/##/2024
 -----------------
 
+12/17/2024    Printable blank expansion card for the 13" Framework laptop:
+
+              https://www.thingiverse.com/thing:5029009
+              https://github.com/FrameworkComputer/ExpansionCards/tree/main/Mechanical
+
+              @10:46
+
 12/17/2024    Magnetic properties of the quantum Hall effect:
 
               https://phys.org/news/2024-12-current-generated-quantum-hall-effect.html
