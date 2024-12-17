@@ -1,6 +1,19 @@
 motd - 12/##/2024
 -----------------
 
+12/17/2024    Saturn's rings might be quite old:
+
+              https://www.nature.com/articles/s41561-024-01598-9
+
+              "Previous studies estimating [Saturn's] rings' age to be
+              approximately 100-400 Myr assumed a somewhat efficient accretion
+              of impactor material ... and a constant mass flux from
+              micrometeoroid bombardment[]. However, the accretion efficiency
+              ... suggested by our study may imply that the rings' maximum age
+              could extend into billions of years."
+
+              @10:51
+
 12/17/2024    Printable blank expansion card for the 13" Framework laptop:
 
               https://www.thingiverse.com/thing:5029009
