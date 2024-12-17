@@ -1,6 +1,19 @@
 motd - 12/##/2024
 -----------------
 
+12/17/2024    Magnetic properties of the quantum Hall effect:
+
+              https://phys.org/news/2024-12-current-generated-quantum-hall-effect.html
+
+              "The quantum Hall effect, a fundamental effect in quantum
+              mechanics, not only generates an electric but also a magnetic
+              current. It arises from the motion of electrons on an orbit
+              around the nuclei of atoms. This has been demonstrated by the
+              calculations of a team from Martin Luther University
+              Halle-Wittenberg[.]"
+
+              @10:43
+
 12/17/2024    Polar Bear Alert Hotline in Churchill, Manitoba:
 
               https://www.bookofjoe.com/2024/12/my-entry-24.html
