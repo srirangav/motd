@@ -1,6 +1,12 @@
 motd - 12/##/2024
 -----------------
 
+12/18/2024    Metallic Bonding in Close-Packed Structures
+
+              https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.256401
+
+              @11:36
+
 12/17/2024    Fossil from an extinct plant family:
 
               https://phys.org/news/2024-12-mysterious-fossil-family-longer.html
