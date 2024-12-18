@@ -1,6 +1,12 @@
 motd - 12/##/2024
 -----------------
 
+12/17/2024    Fossil from an extinct plant family:
+
+              https://phys.org/news/2024-12-mysterious-fossil-family-longer.html
+
+              @16:46
+
 12/17/2024    Updated WiFi/Bluetooth for G5 Powermacs:
 
               https://lowendmac.com/2024/low-end-mac-mailbag-add-wifi-4-draft-and-bluetooth-2-1-to-your-powerpc-mac/
