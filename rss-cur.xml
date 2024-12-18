@@ -5,7 +5,36 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss-cur.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Wed, 18 Dec 2024 11:43:15 PST</lastBuildDate>
+<lastBuildDate>Wed, 18 Dec 2024 11:53:17 PST</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2024/12/index.html#3761b40bb5c9ca7892f88551ebbdfc77</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2024/12/index.html#3761b40bb5c9ca7892f88551ebbdfc77</guid>
+<title>The physics of random stacking</title>
+<description>
+<![CDATA[
+<pre>The physics of random stacking:
+
+<a href="https://phys.org/news/2024-12-physics-random-stacking-perspectives-stability.html">https://phys.org/news/2024-12-physics-random-stacking-perspectives-stability.html</a>
+
+&#34;Imagine a tower of kaplas (identical wooden planks) with each
+block slightly out of alignment. As the tower rises, the
+misalignment increases until an inevitable breaking point is
+reached[.] ... This simple phenomenon ... raises a question of
+stability: how high can the blocks be stacked before the
+structure collapses?
+
+...
+
+The maximum height of a pile before it collapses is inversely
+proportional to the square of the amplitude of the positioning
+errors. Thus, small errors allow much greater heights to be
+reached, while larger errors lead to rapid collapse.&#34;
+
+
+</pre>]]>
+</description>
+<pubDate>Wed, 18 Dec 2024 11:53:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2024/12/index.html#c62de0e87f03253c7c470e560cfda7a6</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2024/12/index.html#c62de0e87f03253c7c470e560cfda7a6</guid>
