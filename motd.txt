@@ -1,6 +1,12 @@
 motd - 12/##/2024
 -----------------
 
+12/18/2024    10-GeV laser-wakefield accelerator:
+
+              https://physics.aps.org/articles/v17/183
+
+              @18:16
+
 12/18/2024    The physics of random stacking:
 
               https://phys.org/news/2024-12-physics-random-stacking-perspectives-stability.html
