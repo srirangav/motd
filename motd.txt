@@ -1,6 +1,12 @@
 motd - 12/##/2024
 -----------------
 
+12/18/2024    Fluorinated Graphene:
+
+              https://phys.org/news/2024-12-fluorination-strategy-graphene-potential-optoelectronic.html
+
+              @18:18
+
 12/18/2024    10-GeV laser-wakefield accelerator:
 
               https://physics.aps.org/articles/v17/183
