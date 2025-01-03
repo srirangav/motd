@@ -1,0 +1,468 @@
+motd - 12/##/2024
+-----------------
+
+12/19/2024    Why dumb TVs should make a comeback:
+
+              https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/
+
+              @00:42
+
+12/18/2024    C-14 - Diamond nuclear battery:
+
+              https://www.livescience.com/technology/engineering/worlds-1st-nuclear-diamond-battery-of-its-kind-could-power-devices-for-1000s-of-years
+
+              @23:05
+
+12/18/2024    More about the world's rarest whale:
+
+              https://www.theguardian.com/world/2024/dec/03/spade-tooth-rare-whale-new-zealand-scientists-dissect
+              https://www.smithsonianmag.com/smart-news/scientists-just-dissected-the-worlds-rarest-whale-in-new-zealand-heres-what-they-found-180985678/
+
+              "One point of interest was the discovery of small vestigial teeth
+              in the whale's upper jaw. ... So too was the discovery of nine
+              stomach chambers in the spade-toothed whale[.]"
+
+              @19:17
+
+12/18/2024    Making diamond thin films with scotch tape:
+
+              https://www.sciencenews.org/article/scotch-tape-create-diamond-film
+
+              @18:22
+
+12/18/2024    Fluorinated Graphene:
+
+              https://phys.org/news/2024-12-fluorination-strategy-graphene-potential-optoelectronic.html
+
+              @18:18
+
+12/18/2024    10-GeV laser-wakefield accelerator:
+
+              https://physics.aps.org/articles/v17/183
+
+              @18:16
+
+12/18/2024    The physics of random stacking:
+
+              https://phys.org/news/2024-12-physics-random-stacking-perspectives-stability.html
+
+              "Imagine a tower of kaplas (identical wooden planks) with each
+              block slightly out of alignment. As the tower rises, the
+              misalignment increases until an inevitable breaking point is
+              reached[.] ... This simple phenomenon ... raises a question of
+              stability: how high can the blocks be stacked before the
+              structure collapses?
+
+              ...
+
+              The maximum height of a pile before it collapses is inversely
+              proportional to the square of the amplitude of the positioning
+              errors. Thus, small errors allow much greater heights to be
+              reached, while larger errors lead to rapid collapse."
+
+              @11:53
+
+12/18/2024    The Puzzle of Radiation-Resistant Alloys:
+
+              https://physics.aps.org/articles/v17/s156
+
+              "Refractory high-entropy alloys are materials made from multiple
+              high-melting-point metals in roughly equal proportions. Those
+              containing tungsten exhibit minimal changes in mechanical
+              properties when exposed to continuous radiation and could be used
+              to shield the crucial components of future nuclear reactors.
+
+              ...
+
+              [R]esearchers found that [a] tungsten alloy's average threshold
+              displacement energy is much lower than that of any of the
+              material's constituent pure metals, suggesting that [such]
+              alloy[s] [are] comparatively prone to defect creation. ...
+              [T]hese findings suggest that the material's radiation resistance
+              cannot be explained by its robustness to radiation-induced defect
+              formation. To fully solve the mystery, scientists will need to
+              investigate other processes, particularly the ways in which the
+              created defects diffuse through the alloy."
+
+              @11:43
+
+12/18/2024    Metallic Bonding in Close-Packed Structures
+
+              https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.256401
+
+              @11:36
+
+12/17/2024    Fossil from an extinct plant family:
+
+              https://phys.org/news/2024-12-mysterious-fossil-family-longer.html
+
+              @16:46
+
+12/17/2024    Updated WiFi/Bluetooth for G5 Powermacs:
+
+              https://lowendmac.com/2024/low-end-mac-mailbag-add-wifi-4-draft-and-bluetooth-2-1-to-your-powerpc-mac/
+
+              @13:46
+
+12/17/2024    Imaginary book exhibition:
+
+              https://grolierclub.omeka.net/exhibits/show/imaginary-books
+              https://www.smithsonianmag.com/smart-news/none-of-these-books-exist-an-inventive-new-exhibition-asks-what-if-they-did-180985680/
+
+              "The books on display are classified into three categories: Lost
+              books are texts that once existed but were somehow misplaced,
+              such as Hemingway's [early writings] and Shakespeare's [Love's
+              Labour's Won]. Unfinished books include volumes that were
+              abandoned or destroyed, like Plath's Double Exposure or Lord
+              Byron's memoirs[.]
+
+              ...
+
+              Then there are the books that are fictive, existing only within
+              other books[, such as] ... the driver's handbook mentioned in The
+              Phantom Tollbooth; The Hitchhiker's Guide to the Galaxy from the
+              novel of the same name; the book of the Bene Gesserit from Dune;
+              The Songs of the Jabberwock, which Alice encounters in
+              Wonderland; and a copy of Nymphs and Their Ways, which Lucy spots
+              on Mr. Tumnus' shelf in The Lion, The Witch and the Wardrobe."
+
+              @11:16
+
+12/17/2024    Saturn's rings might be quite old:
+
+              https://www.nature.com/articles/s41561-024-01598-9
+
+              "Previous studies estimating [Saturn's] rings' age to be
+              approximately 100-400 Myr assumed a somewhat efficient accretion
+              of impactor material ... and a constant mass flux from
+              micrometeoroid bombardment[]. However, the accretion efficiency
+              ... suggested by our study may imply that the rings' maximum age
+              could extend into billions of years."
+
+              @10:51
+
+12/17/2024    Printable blank expansion card for the 13" Framework laptop:
+
+              https://www.thingiverse.com/thing:5029009
+              https://github.com/FrameworkComputer/ExpansionCards/tree/main/Mechanical
+
+              @10:46
+
+12/17/2024    Magnetic properties of the quantum Hall effect:
+
+              https://phys.org/news/2024-12-current-generated-quantum-hall-effect.html
+
+              "The quantum Hall effect, a fundamental effect in quantum
+              mechanics, not only generates an electric but also a magnetic
+              current. It arises from the motion of electrons on an orbit
+              around the nuclei of atoms. This has been demonstrated by the
+              calculations of a team from Martin Luther University
+              Halle-Wittenberg[.]"
+
+              @10:43
+
+12/17/2024    Polar Bear Alert Hotline in Churchill, Manitoba:
+
+              https://www.bookofjoe.com/2024/12/my-entry-24.html
+
+              @10:30
+
+12/15/2024    High velocity clouds may only comprise 0.1% of the Milky Way's mass:
+
+              https://phys.org/news/2024-12-high-velocity-clouds-comprise-milky.html
+
+              @13:46
+
+12/13/2024    Practicing to transport antimatter:
+
+              https://www.symmetrymagazine.org/article/antimatter-on-wheels
+
+              @13:56
+
+12/13/2024    iPhone port cover:
+
+              https://www.macworld.com/article/2512679/how-to-stop-dust-dirt-and-lint-from-getting-into-your-iphone-charging-port.html
+
+              @13:52
+
+12/12/2024    What your favorite music format says about you:
+
+              https://www.headphonesty.com/2024/12/favorite-music-format-says/
+
+              @17:29
+
+12/12/2024    Turn Off Mail Categories in iOS 18.2:
+
+              https://www.macrumors.com/how-to/ios-disable-apple-mail-categories/
+
+              "1. Open the Mail app on your iPhone or iPad.
+
+               2. Tap the More button (three dots) in the upper right corner of
+                  your inbox.
+
+               3. Select List View from the pop-up menu."
+
+12/11/2024    The vis-viva equation:
+
+              "The vis-viva equation says that for an object orbiting another
+              object in a Keplerian orbit[:]
+
+              v^2 = u((2/r) - (1/a))
+
+              Here v is the relative velocity of the two bodies, r is the
+              distance between their centers of mass, and a is the semi-major
+              axis of the orbit. The constant u is the standard gravitational
+              parameter. It equals the product of the gravitational constant G
+              and the combined mass M of the two bodies. In practice it is
+              often accurate enough to let M be the mass of the larger object[.]
+
+              ...
+
+              For an object to escape the orbit of another, the ellipse of its
+              orbit has to become infinitely large, i.e. a -> [infinity]. This
+              says that if v is escape velocity, v^2 = 2u/r. For a rocket on
+              the surface of a planet, r is the radius of the planet. But for
+              an object already in a high orbit, escape velocity is less
+              because r is larger."
+
+              @19:44
+
+12/11/2024    3rd gen Legacy / Outback were peak car:
+
+              https://boehs.org/node/old-tech
+
+              "This is the 2007 Subaru Legacy 2.5i Special Edition in White. It
+              just happens to be the pinnacle of the automobile. Sure, cars
+              have gotten faster. Cars have always been faster. Cars have
+              gotten smarter. There are cars with better MPG, and there are
+              cars that are undoubtably a better bang for your buck in today's
+              market. But there's no car that is as good as this."
+
+              @18:28
+
+12/11/2024    Why matter is solid:
+
+              https://bigthink.com/starts-with-a-bang/quantum-reason-solidity-matter/
+
+              "[W]hat happens when you bring two systems, or two objects, that
+              are each made of atoms into contact with one another? Sure,
+              there's still quantum uncertainty and there's still electrostatic
+              repulsion, but now there's a third critical factor at play: the
+              Pauli exclusion rule that applies to electrons. When you push
+              your thumb down onto the seat of your chair, the electrons in
+              your thumb are already occupying all the lowest-energy states
+              that are available to them. Similarly, the electrons in the chair
+              are already occupying all the lowest-energy states available to
+              them.
+
+              This means that the act of 'pushing' your thumb into the chair is
+              equivalent to trying to push those occupied electrons into the
+              same quantum state as one another: to have their energy levels
+              overlap. But those levels are full; you can't fit anymore
+              electrons in there! The chair's electrons would have to be bumped
+              up to greater energies in order to move into (or through) your
+              thumb, and your thumb's electrons would have to be bumped up to
+              greater energies in order to move into (or through) your chair.
+              No matter how strong you are, you simply don't have enough
+              strength in your body to overcome the Pauli Exclusion Principle
+              in this fashion."
+
+              @18:09
+
+12/11/2024    The CAFC provides additional guidance on inherency:
+
+              "The question we must resolve ... is whether a claim limitation
+              that merely recites an inherent property of an otherwise obvious
+              combination requires additional analysis to demonstrate that a
+              person of ordinary skill in the art would have a reasonable
+              expectation of success. We conclude that this additional showing
+              is not required."
+
+              Cytiva Bioprocess R&D AB v. JSR Corp., No. 23-2075, Slip. Op. at
+              20 (Fed. Cir. Dec. 4, 2024), available at https://cafc.uscourts.gov/opinions-orders/23-2074.OPINION.12-4-2024_2429911.pdf. [PDF]
+
+              @12:21
+
+12/11/2024    Detecting gravitational-wave memory with existing detectors:
+
+              https://physics.aps.org/articles/v17/s152
+
+              @12:07
+
+12/11/2024    Gravitational waves from merging supermassive black holes:
+
+              https://www.sci.news/astronomy/gravitational-wave-background-13476.html
+
+              @11:57
+
+12/11/2024    Proposed solution to the "sofa problem":
+
+              https://arxiv.org/pdf/2411.19826a [PDF]
+
+              https://www.livescience.com/physics-mathematics/mathematics/infamous-sofa-problem-that-boggled-mathematicians-for-decades-may-finally-have-a-solution
+
+              "Jineon Baek, a postdoctoral researcher in mathematics at Yonsei
+              University in South Korea, has arrived at an answer [to the 'sofa
+              problem'].  ... Baek found that for a hallway with a width of 1
+              unit, the imaginary sofa's maximum area can be 2.2195 units -
+              narrowing the answer down with precision from the previously
+              known range of between 2.2195 and 2.37 units."
+
+              See also: https://en.wikipedia.org/wiki/Moving_sofa_problem
+
+              @11:49
+
+12/10/2024    My First Gran Turismo:
+
+              https://www.gtplanet.net/mfgt-demo-december-6-20241204/
+
+              @11:46
+
+12/09/2024    Finding RSS feeds:
+
+              https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds
+
+              @23:29
+
+12/09/2024    The biggest known shell programs:
+
+              https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World
+
+              @19:10
+
+12/09/2024    Drinking coffee might extend one's lifespan:
+
+              https://www.sciencealert.com/giant-study-links-drinking-coffee-with-almost-2-extra-years-of-life
+
+              "[A]nalysis suggests that drinking around three cups of coffee
+              a day is linked with an additional 1.84 years of lifespan in
+              the average person, with regular consumption also being
+              associated with increased healthspan (time spent living free
+              from serious disease)."
+
+              @18:13
+
+12/09/2024    Antihyperhelium-4:
+
+              https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4
+
+              "The ALICE collaboration at the LHC has now seen the first
+              ever evidence of antihyperhelium-4, which is composed of
+              two antiprotons, an antineutron and an antilambda. The result
+              has a significance of 3.5 standard deviations and also
+              represents the first evidence of the heaviest antimatter
+              hypernucleus yet at the LHC."
+
+              @16:52
+
+12/02/2024    Gravitational waves and black holes:
+
+              https://bigthink.com/starts-with-a-bang/gravitational-wave-meet-black-hole/
+
+              "[Gravitational waves] propagate in the same fashion that
+              any massless quanta would travel, following the path laid
+              out by the curved space that they propagate through.
+
+              If that path takes you close to the event horizon of a black
+              hole, you'll experience all the 'normal' relativistic
+              phenomena (redshift/blueshift, time dilation/length
+              contraction, frame-dragging, etc.), but you'll still be able
+              to escape so long as you don't cross the event horizon.
+
+              If you do cross it, however, there's only one option: you
+              fall inexorably toward the central singularity, and upon
+              crossing over the threshold of the event horizon, your
+              energy and your angular momentum - both of which
+              gravitational waves should possess with respect to the black
+              hole - get added to the black hole itself. In other words,
+              black holes do grow from devouring all they encounter, and
+              gravitational waves help that to occur."
+
+              @18:57
+
+12/02/2024    Spade-toothed whales:
+
+              https://en.wikipedia.org/wiki/Spade-toothed_whale
+              https://www.courthousenews.com/this-whale-species-is-so-rare-its-never-been-seen-alive-a-dissection-may-decode-its-mysteries/
+
+              "It is the world's rarest whale, with only seven of its kind
+              ever spotted. Almost nothing is known about the enigmatic
+              species.  ... None has ever been seen alive at sea. The list
+              of what scientists don't know about spade-toothed whales is
+              longer than what they do know. They don't know where in the
+              ocean the whales live, why they've never been spotted in the
+              wild, or what their brains look like. All beaked whales have
+              different stomach systems and researchers don't know how the
+              spade-toothed kind processes its food."
+
+              @17:52
+
+12/02/2024    Recycled plastic frame bike from Germany:
+
+              https://www.core77.com/posts/134529/The-Low-Maintenance-Corrosion-Proof-RCYL-Bike
+
+              @11:26
+
+Older
+-----
+
+11/##/2024    https://srirangav.github.io/motd/2024/11/motd.txt
+              https://srirangav.github.io/motd/2024/11/index.html
+
+10/##/2024    https://srirangav.github.io/motd/2024/10/motd.txt
+              https://srirangav.github.io/motd/2024/10/index.html
+
+09/##/2024    https://srirangav.github.io/motd/2024/09/motd.txt
+              https://srirangav.github.io/motd/2024/09/index.html
+
+08/##/2024    https://srirangav.github.io/motd/2024/08/motd.txt
+              https://srirangav.github.io/motd/2024/08/index.html
+
+07/##/2024    https://srirangav.github.io/motd/2024/07/motd.txt
+              https://srirangav.github.io/motd/2024/07/index.html
+
+06/##/2024    https://srirangav.github.io/motd/2024/06/motd.txt
+              https://srirangav.github.io/motd/2024/06/index.html
+
+05/##/2024    https://srirangav.github.io/motd/2024/05/motd.txt
+              https://srirangav.github.io/motd/2024/05/index.html
+
+04/##/2024    https://srirangav.github.io/motd/2024/04/motd.txt
+              https://srirangav.github.io/motd/2024/04/index.html
+
+03/##/2024    https://srirangav.github.io/motd/2024/03/motd.txt
+              https://srirangav.github.io/motd/2024/03/index.html
+
+02/##/2024    https://srirangav.github.io/motd/2024/02/motd.txt
+              https://srirangav.github.io/motd/2024/02/index.html
+
+01/##/2024    https://srirangav.github.io/motd/2024/01/motd.txt
+              https://srirangav.github.io/motd/2024/01/index.html
+
+##/##/2023    https://srirangav.github.io/motd/2023/motd.txt
+              https://srirangav.github.io/motd/2023/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+
+HTML:         https://srirangav.github.io/motd/index.html
+
+RSS (all entries):
+              https://srirangav.github.io/motd/rss.xml
+RSS (current month's entries only):
+              https://srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only):
+              https://srirangav.github.io/motd/rss-ytd.xml
+
+RSS (all entries) validation:
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
+RSS (current month's entries only) validation:
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-cur.xml
+RSS (current year's entries only) validation:
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-ytd.xml
+
