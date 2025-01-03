@@ -12,7 +12,7 @@
 # v. 0.1.3 - remove style from header
 # v. 0.1.4 - add dark mode support
 # v. 0.1.5 - add title to RSS header
-#
+# v. 0.1.6 - add lang to <html> tag; change "name" to "id" in <a> tags
 
 use strict;
 use Digest::MD5 qw(md5 md5_hex md5_base64);
