@@ -24,7 +24,7 @@ my $gTitle = "motd";
 
 my $gHeader = <<"EO_HEADER";
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>$gTitle</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -68,7 +68,7 @@ while (<>)
     if (/^([01][0-9])\/[0-3][0-9]\/([0-9]{4})\s+/ && $older == 0)
     {
         my $digest = md5_hex($_);
-        print "<a name=\"$digest\">";
+        print "<a id=\"$digest\">";
         s/(\/[0-9]{4})(\s+)/$1\<\/a\>$2/;
     }
 
@@ -80,4 +80,3 @@ while (<>)
 print "$gFooter";
 
 exit(0);
-

@@ -1,6 +1,13 @@
 motd - 01/##/2025
 -----------------
 
+01/02/2025    Box handle cutter:
+
+              https://www.bookofjoe.com/2025/01/my-entry-43.html
+              https://www.amazon.com/BoxBuddy-BOXB001-box-handle-cutter/dp/B002V0KVPG
+
+              @17:36
+
 01/02/2025    Public domain day 2025:
 
               https://web.law.duke.edu/cspd/publicdomainday/2025/
@@ -26,17 +33,29 @@ Text:         https://srirangav.github.io/motd/motd.txt
 
 HTML:         https://srirangav.github.io/motd/index.html
 
+RSS
+---
+
 RSS (all entries):
               https://srirangav.github.io/motd/rss.xml
+
 RSS (current month's entries only):
               https://srirangav.github.io/motd/rss-cur.xml
+
 RSS (current year's entries only):
               https://srirangav.github.io/motd/rss-ytd.xml
 
-RSS (all entries) validation:
-              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
-RSS (current month's entries only) validation:
-              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-cur.xml
-RSS (current year's entries only) validation:
-              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-ytd.xml
+Validation
+--------------
 
+HTML:
+              https://validator.w3.org/nu/?doc=https%3A%2F%2Fsrirangav.github.io%2Fmotd%2Findex.html
+
+RSS (all entries):
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
+
+RSS (current month's entries only):
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-cur.xml
+
+RSS (current year's entries only):
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-ytd.xml
