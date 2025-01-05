@@ -1,6 +1,12 @@
 motd - 01/##/2025
 -----------------
 
+01/04/2025    NetBSD in space:
+
+              https://machaddr.substack.com/p/why-some-satellites-use-netbsd
+
+              @16:29
+
 01/02/2025    Compact ergonomic keyboard by Incase and Microsoft:
 
               https://betanews.com/2025/01/02/microsoft-designed-incase-compact-ergonomic-keyboard-launches-with-ai-copilot-key/
