@@ -1,6 +1,15 @@
 motd - 01/##/2025
 -----------------
 
+01/06/2025    Enable / disable Enhanced Visual Search in iOS 18 / MacOS 15:
+
+              https://www.extremetech.com/internet/new-iphone-feature-sharing-photo-data-apple
+
+              For iOS:   Settings -> Apps -> Photos
+              For MacOS: Photos.app -> Settings
+
+              @17:53
+
 01/04/2025    NetBSD in space:
 
               https://machaddr.substack.com/p/why-some-satellites-use-netbsd
