@@ -1,6 +1,12 @@
 motd - 01/##/2025
 -----------------
 
+01/07/2025    Rocket launch as seen from the ISS:
+
+              https://apod.nasa.gov/apod/ap250105.html
+
+              @17:08
+
 01/06/2025    Enable / disable website link previews in Mail.app:
 
               https://derflounder.wordpress.com/2025/01/05/disabling-apple-mail-website-link-previews-compose-option-on-macos-sequoia/
