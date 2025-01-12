@@ -1,5 +1,10 @@
 motd - 01/##/2025
 -----------------
+01/12/2025    Self-documenting Makefiles:
+
+              https://blogsystem5.substack.com/p/make-help
+
+              @12:09
 
 01/12/2025    [Update] Enable / disable website link previews in Mail.app on Sequoia (MacOS 15):
 
