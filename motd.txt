@@ -1,5 +1,17 @@
 motd - 01/##/2025
 -----------------
+
+01/12/2025    New fossil discovery may change theories about the early history of dinosaurs:
+
+              https://academic.oup.com/zoolinnean/article/203/1/zlae153/7942678?login=false
+
+              "[T]hese taxa demonstrate a Carnian presence of small-bodied
+              early saurischian and probable sauropodomorph dinosaurs at low to
+              mid palaeolatitudes, rejecting a central tenet of the diachronous
+              rise hypothesis[.]"
+
+              @12:24
+
 01/12/2025    Self-documenting Makefiles:
 
               https://blogsystem5.substack.com/p/make-help
