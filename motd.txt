@@ -1,6 +1,12 @@
 motd - 01/##/2025
 -----------------
 
+01/12/2025    A brief history of supercomputers:
+
+              https://www.extremetech.com/computing/history-of-supercomputers
+
+              @12:30
+
 01/12/2025    New fossil discovery may change theories about the early history of dinosaurs:
 
               https://academic.oup.com/zoolinnean/article/203/1/zlae153/7942678?login=false
