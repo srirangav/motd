@@ -5,7 +5,30 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Thu, 09 Jan 2025 23:31:12 PST</lastBuildDate>
+<lastBuildDate>Sun, 12 Jan 2025 12:09:06 PST</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2025/01/index.html#fdb396dd8f6d1b56c2cbb0541d47fbc4</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2025/01/index.html#fdb396dd8f6d1b56c2cbb0541d47fbc4</guid>
+<title>[Update] Enable / disable website link previews in Mail.app on Sequoia (MacOS 15)</title>
+<description>
+<![CDATA[
+<pre>[Update] Enable / disable website link previews in Mail.app on Sequoia (MacOS 15):
+
+<a href="https://derflounder.wordpress.com/2025/01/05/disabling-apple-mail-website-link-previews-compose-option-on-macos-sequoia/#comment-72649">https://derflounder.wordpress.com/2025/01/05/disabling-apple-mail-website-link-previews-compose-option-on-macos-sequoia/#comment-72649</a>
+
+Enable:
+
+$ defaults write com.apple.mail AddLinkPreviews true
+
+Disable:
+
+$ defaults write com.apple.mail AddLinkPreviews false
+
+
+</pre>]]>
+</description>
+<pubDate>Sun, 12 Jan 2025 11:54:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2025/01/index.html#2afbf8a2b17d8496051a41b1259d86cc</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2025/01/index.html#2afbf8a2b17d8496051a41b1259d86cc</guid>

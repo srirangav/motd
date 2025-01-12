@@ -1,6 +1,20 @@
 motd - 01/##/2025
 -----------------
 
+01/12/2025    [Update] Enable / disable website link previews in Mail.app on Sequoia (MacOS 15):
+
+              https://derflounder.wordpress.com/2025/01/05/disabling-apple-mail-website-link-previews-compose-option-on-macos-sequoia/#comment-72649
+
+              Enable:
+
+              $ defaults write com.apple.mail AddLinkPreviews true
+
+              Disable:
+
+              $ defaults write com.apple.mail AddLinkPreviews false
+
+              @11:54
+
 01/09/2025    Trouble with Tribbles, the anime:
 
               https://laughingsquid.com/star-trek-trouble-with-tribbles-anime/
