@@ -1,6 +1,12 @@
 motd - 01/##/2025
 -----------------
 
+01/12/2025    More fun with C:
+
+              https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2
+
+              @18:24
+
 01/12/2025    More tips to maximize iPhone battery life:
 
               https://www.macrumors.com/2025/01/10/10-iphone-battery-tips/
