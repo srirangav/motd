@@ -1,6 +1,13 @@
 motd - 01/##/2025
 -----------------
 
+01/14/2025    Mountains on neutron stars might cause detectable gravitational waves:
+
+              https://phys.org/news/2025-01-neutron-star-mountains-ripples-space.html
+              https://arxiv.org/abs/2309.04855
+
+              @14:12
+
 01/13/2025    arkenfox v133:
 
               https://github.com/arkenfox/user.js/releases/tag/133.0
