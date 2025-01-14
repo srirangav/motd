@@ -5,7 +5,39 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss-ytd.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 13 Jan 2025 18:38:42 PST</lastBuildDate>
+<lastBuildDate>Mon, 13 Jan 2025 19:01:53 PST</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2025/01/index.html#d4ccefe55a276f188fec01c7baf9187c</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2025/01/index.html#d4ccefe55a276f188fec01c7baf9187c</guid>
+<title>arkenfox v133</title>
+<description>
+<![CDATA[
+<pre>arkenfox v133:
+
+<a href="https://github.com/arkenfox/user.js/releases/tag/133.0">https://github.com/arkenfox/user.js/releases/tag/133.0</a>
+
+* New:
+
+  user_pref(&#34;browser.urlbar.fakespot.featureGate&#34;, false); // [FF130+] [DEFAULT: false]
+  user_pref(&#34;widget.non-native-theme.use-theme-accent&#34;, false); // [DEFAULT: false WINDOWS]
+  // user_pref(&#34;network.cookie.cookieBehavior.optInPartitioning&#34;, true); // [ETP FF132+]
+  // user_pref(&#34;network.http.microsoft-entra-sso.enabled&#34;, false); // [DEFAULT: false]
+  // user_pref(&#34;privacy.bounceTrackingProtection.mode&#34;, 1); // [FF131+] [ETP FF133+]
+
+* Removed
+
+  // user_pref(&#34;dom.securecontext.allowlist_onions&#34;, true);
+  // user_pref(&#34;network.http.referer.hideOnionSource&#34;, true);
+
+* Deprecated
+
+  user_pref(&#34;webchannel.allowObject.urlWhitelist&#34;, &#34;&#34;);
+
+
+</pre>]]>
+</description>
+<pubDate>Mon, 13 Jan 2025 19:01:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2025/01/index.html#29df4671bd0ab1b95617f446fd9c32ed</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2025/01/index.html#29df4671bd0ab1b95617f446fd9c32ed</guid>

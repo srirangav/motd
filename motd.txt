@@ -1,6 +1,29 @@
 motd - 01/##/2025
 -----------------
 
+01/13/2025    arkenfox v133:
+
+              https://github.com/arkenfox/user.js/releases/tag/133.0
+
+              * New:
+
+                user_pref("browser.urlbar.fakespot.featureGate", false); // [FF130+] [DEFAULT: false]
+                user_pref("widget.non-native-theme.use-theme-accent", false); // [DEFAULT: false WINDOWS]
+                // user_pref("network.cookie.cookieBehavior.optInPartitioning", true); // [ETP FF132+]
+                // user_pref("network.http.microsoft-entra-sso.enabled", false); // [DEFAULT: false]
+                // user_pref("privacy.bounceTrackingProtection.mode", 1); // [FF131+] [ETP FF133+]
+
+              * Removed
+
+                // user_pref("dom.securecontext.allowlist_onions", true);
+                // user_pref("network.http.referer.hideOnionSource", true);
+
+              * Deprecated
+
+                user_pref("webchannel.allowObject.urlWhitelist", "");
+
+              @19:01
+
 01/13/2025    Shortcuts for spell checking in Vim:
 
               https://www.ncartron.org/vim-shortcuts-for-spell-check.html
