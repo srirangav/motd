@@ -1,6 +1,17 @@
 motd - 01/##/2025
 -----------------
 
+01/13/2025    Shortcuts for spell checking in Vim:
+
+              https://www.ncartron.org/vim-shortcuts-for-spell-check.html
+
+              Examples to add to .vimrc:
+
+              :nnoremap <F1> :set spelllang=fr<CR>
+              :nnoremap <F2> :set spelllang=en_gb<CR>
+
+              @18:38
+
 01/12/2025    More fun with C:
 
               https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2

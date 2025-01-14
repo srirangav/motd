@@ -5,7 +5,27 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss-ytd.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Sun, 12 Jan 2025 18:24:54 PST</lastBuildDate>
+<lastBuildDate>Mon, 13 Jan 2025 18:38:42 PST</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2025/01/index.html#29df4671bd0ab1b95617f446fd9c32ed</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2025/01/index.html#29df4671bd0ab1b95617f446fd9c32ed</guid>
+<title>Shortcuts for spell checking in Vim</title>
+<description>
+<![CDATA[
+<pre>Shortcuts for spell checking in Vim:
+
+<a href="https://www.ncartron.org/vim-shortcuts-for-spell-check.html">https://www.ncartron.org/vim-shortcuts-for-spell-check.html</a>
+
+Examples to add to .vimrc:
+
+:nnoremap &lt;F1&gt; :set spelllang=fr&lt;CR&gt;
+:nnoremap &lt;F2&gt; :set spelllang=en_gb&lt;CR&gt;
+
+
+</pre>]]>
+</description>
+<pubDate>Mon, 13 Jan 2025 18:38:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2025/01/index.html#cc47a1c2af73f0dc19ae733e5d4f1531</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2025/01/index.html#cc47a1c2af73f0dc19ae733e5d4f1531</guid>
