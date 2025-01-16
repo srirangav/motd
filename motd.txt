@@ -1,6 +1,12 @@
 motd - 01/##/2025
 -----------------
 
+01/15/2025    Upgrade a Core Solo Mac Mini to a Core Duo:
+
+              https://lowendmac.com/2025/upgrade-your-core-solo-or-duo-mini-to-a-core-2-duo-cpu/
+
+              @23:33
+
 01/15/2025    checkbashism(1):
 
               https://manpages.debian.org/unstable/devscripts/checkbashisms.1.en.html
