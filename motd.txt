@@ -1,6 +1,19 @@
 motd - 01/##/2025
 -----------------
 
+01/15/2025    checkbashism(1):
+
+              https://manpages.debian.org/unstable/devscripts/checkbashisms.1.en.html
+              https://github.com/Debian/devscripts/blob/master/scripts/checkbashisms.pl
+
+              I knew about shellcheck(1) (https://github.com/koalaman/shellcheck/), but
+              checkbashisms(1) is new to me.
+
+              See also: https://www.bowmanjd.com/bash-not-bash-posix/
+                        https://rubenerd.com/my-a-z-toolbox-cowsay/
+
+              @23:19
+
 01/14/2025    Mountains on neutron stars might cause detectable gravitational waves:
 
               https://phys.org/news/2025-01-neutron-star-mountains-ripples-space.html

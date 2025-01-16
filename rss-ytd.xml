@@ -5,7 +5,29 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss-ytd.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Tue, 14 Jan 2025 14:12:45 PST</lastBuildDate>
+<lastBuildDate>Wed, 15 Jan 2025 23:20:09 PST</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2025/01/index.html#46bcaad2a81221d0b3b3ea2915c056e9</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2025/01/index.html#46bcaad2a81221d0b3b3ea2915c056e9</guid>
+<title>checkbashism(1)</title>
+<description>
+<![CDATA[
+<pre>checkbashism(1):
+
+<a href="https://manpages.debian.org/unstable/devscripts/checkbashisms.1.en.html">https://manpages.debian.org/unstable/devscripts/checkbashisms.1.en.html</a>
+<a href="https://github.com/Debian/devscripts/blob/master/scripts/checkbashisms.pl">https://github.com/Debian/devscripts/blob/master/scripts/checkbashisms.pl</a>
+
+I knew about shellcheck(1) (<a href="https://github.com/koalaman/shellcheck/),">https://github.com/koalaman/shellcheck/),</a> but
+checkbashisms(1) is new to me.
+
+See also: <a href="https://www.bowmanjd.com/bash-not-bash-posix/">https://www.bowmanjd.com/bash-not-bash-posix/</a>
+          <a href="https://rubenerd.com/my-a-z-toolbox-cowsay/">https://rubenerd.com/my-a-z-toolbox-cowsay/</a>
+
+
+</pre>]]>
+</description>
+<pubDate>Wed, 15 Jan 2025 23:19:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2025/01/index.html#aa5f7956bb22d2cbf68f29e119b0ceb3</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2025/01/index.html#aa5f7956bb22d2cbf68f29e119b0ceb3</guid>
