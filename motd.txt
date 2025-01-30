@@ -1,6 +1,19 @@
 motd - 01/##/2025
 -----------------
 
+01/30/2025    Anti-icing properties of polar bear fur:
+
+              https://www.science.org/doi/full/10.1126/sciadv.ads7321?af=R
+
+              "[W]e show that polar bear fur exhibits low ice adhesion
+              strengths ... [as] a consequence of the fur sebum (hair grease).
+              Lipid analyses reveal the presence of cholesterol, diacylglycerols,
+              anteisomethyl-branched fatty acids, and the unexpected absence of
+              squalene. Quantum chemical calculations predict low ice
+              adsorption energies for identified lipids and high adsorption for
+              squalene, suggesting that sebum composition is responsible for
+              the observed anti-icing properties."
+
 01/23/2025    Schrodinger's Splinter:
 
               https://www.bookofjoe.com/2025/01/my-entry-33.html
