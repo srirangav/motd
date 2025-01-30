@@ -1,6 +1,19 @@
 motd - 01/##/2025
 -----------------
 
+01/30/2025    Kinesis mWave:
+
+              https://rubenerd.com/the-kinesis-mwave-keyboard/
+              https://kinesis-ergo.com/keyboards/mwave/
+
+              Looks like it might be a good alternative to my Sculpt keyboard,
+              especially because it can be connected using a USB cable:
+
+              "The mWave can be used wired or wirelessly via Bluetooth (no
+              dongle required). The mWave ships with a detachable USB-C to
+              USB-A cable. The USB-C end is connected to the keyboard and the
+              USB-A connects to a full-size port on your computer."
+
 01/30/2025    Anti-icing properties of polar bear fur:
 
               https://www.science.org/doi/full/10.1126/sciadv.ads7321?af=R
