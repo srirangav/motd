@@ -1,6 +1,17 @@
 motd - 02/##/2025
 -----------------
 
+02/12/2025    The most energetic neutrino detected thus far:
+
+              https://arstechnica.com/science/2025/02/most-energetic-neutrino-yet-seen-smashes-through-seafloor-detector/
+
+              "The neutrino that was detected had an energy of at least 60
+              Peta-electronVolts, possibly hitting 230 PeV. ... Attempts to
+              trace back the neutrino to a source make it clear that it
+              originated outside our galaxy[.]"
+
+              @10:48
+
 02/12/2025    Interesting family of Pythagorean triples:
 
               https://www.johndcook.com/blog/2025/02/11/binary-triples/
