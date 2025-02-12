@@ -1,6 +1,16 @@
 motd - 02/##/2025
 -----------------
 
+02/12/2025    Interesting family of Pythagorean triples:
+
+              https://www.johndcook.com/blog/2025/02/11/binary-triples/
+
+              a = 2^(4n) + 2^(2n+1)
+              b = 2^(4n) - 2^(4n-2) - 2^(2n) - 1
+              c = 2^(4n) + 2^(4n-2) + 2^(2n) + 1
+
+              @10:20
+
 02/12/2025    Hidden portrait underneath a Titian painting:
 
               https://www.smithsonianmag.com/smart-news/experts-say-theyve-found-a-portrait-of-a-mysterious-businessman-hidden-beneath-a-titian-masterpiece-180986022/

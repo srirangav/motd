@@ -5,7 +5,26 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss-cur.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Wed, 12 Feb 2025 10:06:26 PST</lastBuildDate>
+<lastBuildDate>Wed, 12 Feb 2025 10:20:58 PST</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2025/02/index.html#8d28c11d2531e3c0a149c19c0b21e941</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2025/02/index.html#8d28c11d2531e3c0a149c19c0b21e941</guid>
+<title>Interesting family of Pythagorean triples</title>
+<description>
+<![CDATA[
+<pre>Interesting family of Pythagorean triples:
+
+<a href="https://www.johndcook.com/blog/2025/02/11/binary-triples/">https://www.johndcook.com/blog/2025/02/11/binary-triples/</a>
+
+a = 2^(4n) + 2^(2n+1)
+b = 2^(4n) - 2^(4n-2) - 2^(2n) - 1
+c = 2^(4n) + 2^(4n-2) + 2^(2n) + 1
+
+
+</pre>]]>
+</description>
+<pubDate>Wed, 12 Feb 2025 10:20:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2025/02/index.html#b37a3716c7f140fd0278ed05565801e4</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2025/02/index.html#b37a3716c7f140fd0278ed05565801e4</guid>
