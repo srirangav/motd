@@ -1,6 +1,12 @@
 motd - 02/##/2025
 -----------------
 
+02/24/2025    QR codes in all caps seem to be smaller:
+
+              https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/
+
+              @12:29
+
 02/21/2025    What antifungals are really doing:
 
               https://www.science.org/content/blog-post/what-antifungals-are-really-doing
