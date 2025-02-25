@@ -1,6 +1,17 @@
 motd - 02/##/2025
 -----------------
 
+02/25/2025    Xcode phones home:
+
+              https://lapcatsoftware.com/articles/2025/2/5.html
+
+              Sites Xcode connects to are:
+
+              developerservices2.apple.com
+              devimages-cdn.apple.com
+              appstoreconnect.apple.com
+
+              @09:33
 02/24/2025    QR codes in all caps seem to be smaller:
 
               https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/
