@@ -1,6 +1,28 @@
 motd - 02/##/2025
 -----------------
 
+02/25/2025    Git configurations used by Git core devs:
+
+              https://blog.gitbutler.com/how-git-core-devs-configure-git/
+
+              Sorting branches into columns by most recently used:
+
+              $ git config --global column.ui auto
+              $ git config --global branch.sort -committerdate
+
+              Sorting tags in numerical order:
+
+              $ git config --global tag.sort version:refname
+
+              Better diffs:
+
+              $ git config --global diff.algorithm histogram
+              $ git config --global diff.colorMoved plain
+              $ git config --global diff.mnemonicPrefix true
+              $ git config --global diff.renames true
+
+              @13:06
+
 02/25/2025    Hydrogen nano-clusters at low temperatures show  superfluidity:
 
               https://phys.org/news/2025-02-hydrogen-superfluid-nanoscale-year.html
