@@ -1,6 +1,29 @@
 motd - 02/##/2025
 -----------------
 
+02/25/2025    Monovalent carbon compound with a single bond to a phosphorus group:
+
+              https://phys.org/news/2025-02-exotic-monovalent-carbon-compound-features.html
+
+              "Normally, a carbon atom shares all four of its valence electrons
+              to create four bonds with other atoms (tetravalent carbon). When
+              fewer bonds are formed, unusual compounds such as carbenes are
+              obtained[.] ... Rare cases exist of divalent carbon compounds
+              called carbones, where a central neutral atom in an
+              electronically excited state is stabilized by two bonds with
+              neutral electron-pair donating groups.
+
+              Now, another milestone was achieved with the synthesis of an
+              organic compound that contains a singly-bonded (monovalent)
+              carbon atom in its ground state[:] ... a chemical compound
+              featuring a single carbon atom bonded to a phosphorus group,
+              Ph3P->C. The compound was generated from a diazophosphorus ylide
+              precursor by irradiation with ultraviolet (UV) light at very low
+              temperatures, which led to elimination of N2 and formation of
+              Ph3P->C."
+
+              @09:58
+
 02/25/2025    Beaches on Mars?
 
               https://www.sciencealert.com/ancient-beaches-found-on-mars-reveal-the-red-planet-once-had-oceans
