@@ -1,6 +1,22 @@
 motd - 02/##/2025
 -----------------
 
+02/25/2025    Plastic Ice VII:
+
+              https://dailygalaxy.com/2025/02/scientists-discovered-new-form-of-ice/
+
+              "Scientists created this peculiar ice [plastic Ice VII] by
+              squeezing water to 6 gigapascals-nearly 60,000 times Earth's
+              atmospheric pressure-and heating it to 327 [deg] C (620 [deg] F).
+
+              Under these extreme conditions, water molecules arrange
+              themselves into an interwoven cubic structure, with hydrogen
+              atoms behaving unusually. Instead of staying locked in place as
+              in regular ice, the hydrogen atoms move freely, almost like in a
+              liquid."
+
+              @09:50
+
 02/25/2025    Xcode phones home:
 
               https://lapcatsoftware.com/articles/2025/2/5.html
