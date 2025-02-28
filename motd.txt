@@ -1,6 +1,14 @@
 motd - 02/##/2025
 -----------------
 
+02/28/2025    Framework 12in laptop:
+
+              https://frame.work/laptop12
+
+              Looks interesting, somewhat like a 12in MacBook.
+
+              @00:18
+
 02/25/2025    Git configurations used by Git core devs:
 
               https://blog.gitbutler.com/how-git-core-devs-configure-git/
