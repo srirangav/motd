@@ -1,253 +1,17 @@
 motd - 02/##/2025
 -----------------
 
-02/28/2025    iMac G4(K):
+03/01/2025    The orbits of Earth and Mars compared:
 
-              https://jcs.org/2025/02/26/imacg4k
+              https://www.johndcook.com/blog/2025/02/28/a-calendar-for-mars/
 
-              @00:41
-
-02/28/2025    Framework 12in laptop:
-
-              https://frame.work/laptop12
-
-              Looks interesting, somewhat like a 12in MacBook.
-
-              @00:18
-
-02/25/2025    Git configurations used by Git core devs:
-
-              https://blog.gitbutler.com/how-git-core-devs-configure-git/
-
-              Sorting branches into columns by most recently used:
-
-              $ git config --global column.ui auto
-              $ git config --global branch.sort -committerdate
-
-              Sorting tags in numerical order:
-
-              $ git config --global tag.sort version:refname
-
-              Better diffs:
-
-              $ git config --global diff.algorithm histogram
-              $ git config --global diff.colorMoved plain
-              $ git config --global diff.mnemonicPrefix true
-              $ git config --global diff.renames true
-
-              @13:06
-
-02/25/2025    Hydrogen nano-clusters at low temperatures show  superfluidity:
-
-              https://phys.org/news/2025-02-hydrogen-superfluid-nanoscale-year.html
-
-              @10:10
-
-02/25/2025    Brewing tea reduces toxic heavy metals in drinking water:
-
-              https://phys.org/news/2025-02-brewing-tea-toxic-heavy-metals.html
-
-              "In a new study, Northwestern University researchers demonstrated
-              that brewing tea naturally adsorbs heavy metals like lead and
-              cadmium, effectively filtering dangerous contaminants out of
-              drinks. Heavy metal ions stick to, or adsorb to, the surface of
-              the tea leaves, where they stay trapped until the used tea bag is
-              disposed of.
-
-              ...
-
-              After testing different types of bags without tea inside, the
-              researchers found cotton and nylon bags only adsorbed trivial
-              amounts of the contaminants. The cellulose bags, however, worked
-              incredibly well.
-
-              ...
-
-              When comparing different varieties of tea, the researchers
-              discovered tea type and grind played minor roles in adsorbing
-              contaminants. Finely ground tea leaves, particularly black tea
-              leaves, adsorbed slightly more metal ions than whole leaves.
-              Again, the researchers attributed this to surface area.
-
-              ...
-
-              Steeping time played the most significant role in tea leaves'
-              ability to adsorb metal ions. The longer the steeping time, the
-              more contaminants were adsorbed.  ...  [T]he researchers estimate
-              that tea preparation can remediate about 15% of lead from
-              drinking water, even up to lead concentrations as high as 10
-              parts per million. That estimate applies only to a 'typical' cup
-              of tea, which includes one mug of water and one bag of tea,
-              brewed for three to five minutes.
-
-              Changing the parameters remediates different levels of lead.
-              Steeping for longer than five minutes, for example, adsorbs more
-              lead compared to the average steeping time."
-
-              @10:06
-
-02/25/2025    Monovalent carbon compound with a single bond to a phosphorus group:
-
-              https://phys.org/news/2025-02-exotic-monovalent-carbon-compound-features.html
-
-              "Normally, a carbon atom shares all four of its valence electrons
-              to create four bonds with other atoms (tetravalent carbon). When
-              fewer bonds are formed, unusual compounds such as carbenes are
-              obtained[.] ... Rare cases exist of divalent carbon compounds
-              called carbones, where a central neutral atom in an
-              electronically excited state is stabilized by two bonds with
-              neutral electron-pair donating groups.
-
-              Now, another milestone was achieved with the synthesis of an
-              organic compound that contains a singly-bonded (monovalent)
-              carbon atom in its ground state[:] ... a chemical compound
-              featuring a single carbon atom bonded to a phosphorus group,
-              Ph3P->C. The compound was generated from a diazophosphorus ylide
-              precursor by irradiation with ultraviolet (UV) light at very low
-              temperatures, which led to elimination of N2 and formation of
-              Ph3P->C."
-
-              @09:58
-
-02/25/2025    Beaches on Mars?
-
-              https://www.sciencealert.com/ancient-beaches-found-on-mars-reveal-the-red-planet-once-had-oceans
-              https://phys.org/news/2025-02-ancient-beaches-testify-ocean-mars.html
-
-              @09:52
-
-02/25/2025    Plastic Ice VII:
-
-              https://dailygalaxy.com/2025/02/scientists-discovered-new-form-of-ice/
-
-              "Scientists created this peculiar ice [plastic Ice VII] by
-              squeezing water to 6 gigapascals-nearly 60,000 times Earth's
-              atmospheric pressure-and heating it to 327 [deg] C (620 [deg] F).
-
-              Under these extreme conditions, water molecules arrange
-              themselves into an interwoven cubic structure, with hydrogen
-              atoms behaving unusually. Instead of staying locked in place as
-              in regular ice, the hydrogen atoms move freely, almost like in a
-              liquid."
-
-              @09:50
-
-02/25/2025    Xcode phones home:
-
-              https://lapcatsoftware.com/articles/2025/2/5.html
-
-              Sites Xcode connects to are:
-
-              developerservices2.apple.com
-              devimages-cdn.apple.com
-              appstoreconnect.apple.com
-
-              @09:33
-02/24/2025    QR codes in all caps seem to be smaller:
-
-              https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/
-
-              @12:29
-
-02/21/2025    What antifungals are really doing:
-
-              https://www.science.org/content/blog-post/what-antifungals-are-really-doing
-
-              @16:26
-
-02/16/2025    The lost pyramid of Dahshur:
-
-              https://dailygalaxy.com/2025/02/archaeologists-in-disbelief-after-breaking-into-a-4000-year-old-sealed-egyptian-pyramid/
-
-              "Among the remnants of the burial [in the pyramid],
-              archaeologists discovered a canopic chest inscribed with faded
-              hieroglyphs. With advanced scanning technology, experts
-              deciphered the markings, revealing the name of the tomb's
-              occupant: Princess Hatshepsut.
-
-              This was not the famous Pharaoh Hatshepsut of the 18th Dynasty
-              but an entirely different royal figure. Until now, no records
-              mentioned another Hatshepsut, making this discovery even more
-              extraordinary. The presence of her own pyramid suggests she was a
-              person of great significance, yet her name had been erased from
-              history."
-
-              @13:58
-
-02/15/2025    Radioactive anomaly in the Pacific ocean:
-
-              https://www.sciencealert.com/mysterious-radioactive-anomaly-discovered-deep-under-the-pacific-ocean
-
-              @00:20
-
-02/15/2025    Hidden portrait in a Picasso:
-
-              https://www.smithsonianmag.com/smart-news/see-the-hidden-portrait-of-a-mysterious-woman-discovered-beneath-a-picasso-painting-180986037/
-
-              @00:14
-
-02/12/2025    The most energetic neutrino detected thus far:
-
-              https://arstechnica.com/science/2025/02/most-energetic-neutrino-yet-seen-smashes-through-seafloor-detector/
-
-              "The neutrino that was detected had an energy of at least 60
-              Peta-electronVolts, possibly hitting 230 PeV. ... Attempts to
-              trace back the neutrino to a source make it clear that it
-              originated outside our galaxy[.]"
-
-              @10:48
-
-02/12/2025    Interesting family of Pythagorean triples:
-
-              https://www.johndcook.com/blog/2025/02/11/binary-triples/
-
-              a = 2^(4n) + 2^(2n+1)
-              b = 2^(4n) - 2^(4n-2) - 2^(2n) - 1
-              c = 2^(4n) + 2^(4n-2) + 2^(2n) + 1
-
-              @10:20
-
-02/12/2025    Hidden portrait underneath a Titian painting:
-
-              https://www.smithsonianmag.com/smart-news/experts-say-theyve-found-a-portrait-of-a-mysterious-businessman-hidden-beneath-a-titian-masterpiece-180986022/
-
-              @10:06
-
-02/09/2025    Quipu:
-
-              https://www.livescience.com/space/astronomy/astronomers-discover-quipu-the-single-largest-structure-in-the-known-universe
-
-              "Astronomers have discovered what may be the largest-scale
-              structure in the known universe - a group of galaxy clusters and
-              clusters of galaxy clusters that spans roughly 1.3 billion
-              light-years across and contains a mind-boggling 200 quadrillion
-              solar masses.
-
-              The newfound structure is dubbed Quipu after an Incan system of
-              counting and storing numbers using knots on cords.
-
-              ... [T]he structure is complex, made up of one long filament and
-              multiple side filaments[,] ...  potentially making it the largest
-              object in the universe in terms of length, beating out previous
-              record-holders such as the Laniakea supercluster."
-
-              @00:03
-
-02/08/2025    ADB-USB Wombat:
-
-              https://eshop.macsales.com/blog/97070-when-old-meets-new-using-a-35-year-old-adb-apple-extended-keyboard-ii-with-an-apple-silicon-m4-mac-mini/
-
-              @22:37
-
-02/08/2025    Plesiosaurs had scales similar to sea turtles:
-
-              https://phys.org/news/2025-02-soft-tissue-plesiosaur-reveals-scales.html
-              https://www.sci.news/paleontology/plesiosaur-skin-scales-13648.html
-
-              @22:32
+              @23:42
 
 Older
 -----
+
+02/##/2025    https://srirangav.github.io/motd/2025/02/motd.txt
+              https://srirangav.github.io/motd/2025/02/index.html
 
 01/##/2025    https://srirangav.github.io/motd/2025/01/motd.txt
               https://srirangav.github.io/motd/2025/01/index.html
@@ -268,17 +32,7 @@ Text:         https://srirangav.github.io/motd/motd.txt
 
 HTML:         https://srirangav.github.io/motd/index.html
 
-RSS
----
-
-RSS (all entries):
-              https://srirangav.github.io/motd/rss.xml
-
-RSS (current month's entries only):
-              https://srirangav.github.io/motd/rss-cur.xml
-
-RSS (current year's entries only):
-              https://srirangav.github.io/motd/rss-ytd.xml
+RSS:          https://srirangav.github.io/motd/rss.xml
 
 Validation
 --------------
@@ -286,11 +40,6 @@ Validation
 HTML:
               https://validator.w3.org/nu/?doc=https%3A%2F%2Fsrirangav.github.io%2Fmotd%2Findex.html
 
-RSS (all entries):
+RSS:
               https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
 
-RSS (current month's entries only):
-              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-cur.xml
-
-RSS (current year's entries only):
-              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss-ytd.xml
