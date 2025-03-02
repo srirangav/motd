@@ -1,6 +1,12 @@
 motd - 02/##/2025
 -----------------
 
+03/02/2025    Leap years for Mars:
+
+              https://www.johndcook.com/blog/2025/02/28/martian-leap-years/
+
+              @01:33
+
 03/01/2025    The orbits of Earth and Mars compared:
 
               https://www.johndcook.com/blog/2025/02/28/a-calendar-for-mars/
