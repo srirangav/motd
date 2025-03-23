@@ -1,6 +1,12 @@
 motd - 02/##/2025
 -----------------
 
+03/23/2025    Towards a thorium nuclear clock:
+
+              https://phys.org/news/2025-03-dialing-temperature-precise-nuclear-timekeeping.html
+
+              @13:22
+
 03/03/2025    Artificial lonsdaleite (hexagonal diamond):
 
               https://www.sciencealert.com/physicists-create-lab-grown-diamond-even-harder-than-natural
