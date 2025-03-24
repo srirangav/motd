@@ -1,6 +1,20 @@
 motd - 02/##/2025
 -----------------
 
+03/24/2025    Prototaxites was neither plant, animal or fungus:
+
+              https://dailygalaxy.com/2025/03/scientists-just-found-a-fossil-that-doesnt-belong-to-any-known-life-form-what-is-it/
+
+              "Between 420 and 375 million years ago, during the Silurian and
+              Devonian periods, Prototaxites dominated prehistoric landscapes.
+              ... [They were] large, multicellular structures composed of
+              various types of tubes, [that] contain[ed] complex biopolymers
+              resembling lignin, and fe[d] on decaying organic matter. These
+              three characteristics are not known to occur together in any
+              modern life form."
+
+              @00:01
+
 03/23/2025    Towards a thorium nuclear clock:
 
               https://phys.org/news/2025-03-dialing-temperature-precise-nuclear-timekeeping.html
