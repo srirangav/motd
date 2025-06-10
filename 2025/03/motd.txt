@@ -1,0 +1,109 @@
+motd - 02/##/2025
+-----------------
+
+03/29/2025    Alkanes on Mars:
+
+              https://www.science.org/content/blog-post/alkanes-mars
+
+              @13:20
+
+03/24/2025    Prototaxites was neither plant, animal or fungus:
+
+              https://dailygalaxy.com/2025/03/scientists-just-found-a-fossil-that-doesnt-belong-to-any-known-life-form-what-is-it/
+
+              "Between 420 and 375 million years ago, during the Silurian and
+              Devonian periods, Prototaxites dominated prehistoric landscapes.
+              ... [They were] large, multicellular structures composed of
+              various types of tubes, [that] contain[ed] complex biopolymers
+              resembling lignin, and fe[d] on decaying organic matter. These
+              three characteristics are not known to occur together in any
+              modern life form."
+
+              @00:01
+
+03/23/2025    Towards a thorium nuclear clock:
+
+              https://phys.org/news/2025-03-dialing-temperature-precise-nuclear-timekeeping.html
+
+              @13:22
+
+03/03/2025    Artificial lonsdaleite (hexagonal diamond):
+
+              https://www.sciencealert.com/physicists-create-lab-grown-diamond-even-harder-than-natural
+
+              @23:57
+
+03/03/2025    New desktop pictures from Basic Apple Guy:
+
+              Mountains beyond Mountains:
+
+              https://basicappleguy.com/basicappleblog/mountains-beyond-mountains
+
+              Ultramarine Haze / Violet Flare:
+
+              https://basicappleguy.com/basicappleblog/ultramarine-haze
+
+              @23:53
+
+03/02/2025    Kadomaru desktop pictures:
+
+              https://lmnt.me/blog/wallpapers/kadomaru.html
+
+              Kagome, in particular, looks quite nice.
+
+              @23:07
+
+03/02/2025    Testing the longevity of vinyl records:
+
+              https://www.headphonesty.com/2025/02/many-plays-take-destroy-vinyl-record/
+
+              @01:44
+
+03/02/2025    Leap years for Mars:
+
+              https://www.johndcook.com/blog/2025/02/28/martian-leap-years/
+
+              @01:33
+
+03/01/2025    The orbits of Earth and Mars compared:
+
+              https://www.johndcook.com/blog/2025/02/28/a-calendar-for-mars/
+
+              @23:42
+
+Older
+-----
+
+02/##/2025    https://srirangav.github.io/motd/2025/02/motd.txt
+              https://srirangav.github.io/motd/2025/02/index.html
+
+01/##/2025    https://srirangav.github.io/motd/2025/01/motd.txt
+              https://srirangav.github.io/motd/2025/01/index.html
+
+##/##/2024    https://srirangav.github.io/motd/2024/motd.txt
+              https://srirangav.github.io/motd/2024/index.html
+
+##/##/2023    https://srirangav.github.io/motd/2023/motd.txt
+              https://srirangav.github.io/motd/2023/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+
+HTML:         https://srirangav.github.io/motd/index.html
+
+RSS:          https://srirangav.github.io/motd/rss.xml
+
+Validation
+--------------
+
+HTML:
+              https://validator.w3.org/nu/?doc=https%3A%2F%2Fsrirangav.github.io%2Fmotd%2Findex.html
+
+RSS:
+              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
+

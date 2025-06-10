@@ -1,32 +1,32 @@
 # Makefile for motd
 
-MOTD      = motd.txt
-MOTD_CUR_YR = 2025
-MOTD_CUR_MONTH = 03
-MOTD_CUR_DIR = ./$(MOTD_CUR_YR)/$(MOTD_CUR_MONTH)
-MOTD_CUR  = $(MOTD_CUR_DIR)/$(MOTD)
-MOTD_YTD  = ./2025/02/$(MOTD) ./2025/01/$(MOTD)
-MOTD_2024 = ./2024/12/$(MOTD) ./2024/11/$(MOTD) ./2024/10/$(MOTD) \
-            ./2024/09/$(MOTD) ./2024/08/$(MOTD) ./2024/07/$(MOTD) \
-            ./2024/06/$(MOTD) ./2024/05/$(MOTD) ./2024/04/$(MOTD) \
-            ./2024/03/$(MOTD) ./2024/02/$(MOTD) ./2024/01/$(MOTD)
-MOTD_2023 = ./2023/12/$(MOTD) ./2023/11/$(MOTD) ./2023/10/$(MOTD) \
-            ./2023/09/$(MOTD) ./2023/08/$(MOTD) ./2023/07/$(MOTD) \
-            ./2023/06/$(MOTD) ./2023/05/$(MOTD) ./2023/04/$(MOTD) \
-            ./2023/03/$(MOTD) ./2023/02/$(MOTD) ./2023/01/$(MOTD)
-MOTD_2022 = ./2022/12/$(MOTD) ./2022/11/$(MOTD) ./2022/10/$(MOTD) \
-            ./2022/09/$(MOTD) ./2022/08/$(MOTD) ./2022/07/$(MOTD) \
-            ./2022/06/$(MOTD) ./2022/05/$(MOTD) ./2022/04/$(MOTD) \
-            ./2022/03/$(MOTD)
-MOTD_ALL  = $(MOTD) $(MOTD_YTD) \
-            $(MOTD_2024) $(MOTD_2023) $(MOTD_2022)
-INDEX     = index.html
-FEED      = rss.xml
-FEED_CUR  = rss-cur.xml
-FEED_YTD  = rss-ytd.xml
-MOTDURL   = https://srirangav.github.io/motd
-MOTD2HTML = ./bin/motd2html.pl
-MOTD2RSS  = ./bin/motd2feed.pl
+MOTD           = motd.txt
+MOTD_CUR_YR    = 2025
+MOTD_CUR_MONTH = 06
+MOTD_CUR_DIR   = ./$(MOTD_CUR_YR)/$(MOTD_CUR_MONTH)
+MOTD_CUR       = $(MOTD_CUR_DIR)/$(MOTD)
+MOTD_YTD       = ./2025/03/$(MOTD) ./2025/02/$(MOTD) ./2025/01/$(MOTD)
+MOTD_2024      = ./2024/12/$(MOTD) ./2024/11/$(MOTD) ./2024/10/$(MOTD) \
+                 ./2024/09/$(MOTD) ./2024/08/$(MOTD) ./2024/07/$(MOTD) \
+                 ./2024/06/$(MOTD) ./2024/05/$(MOTD) ./2024/04/$(MOTD) \
+                 ./2024/03/$(MOTD) ./2024/02/$(MOTD) ./2024/01/$(MOTD)
+MOTD_2023      = ./2023/12/$(MOTD) ./2023/11/$(MOTD) ./2023/10/$(MOTD) \
+                 ./2023/09/$(MOTD) ./2023/08/$(MOTD) ./2023/07/$(MOTD) \
+                 ./2023/06/$(MOTD) ./2023/05/$(MOTD) ./2023/04/$(MOTD) \
+                 ./2023/03/$(MOTD) ./2023/02/$(MOTD) ./2023/01/$(MOTD)
+MOTD_2022      = ./2022/12/$(MOTD) ./2022/11/$(MOTD) ./2022/10/$(MOTD) \
+                 ./2022/09/$(MOTD) ./2022/08/$(MOTD) ./2022/07/$(MOTD) \
+                 ./2022/06/$(MOTD) ./2022/05/$(MOTD) ./2022/04/$(MOTD) \
+                 ./2022/03/$(MOTD)
+MOTD_ALL       = $(MOTD) $(MOTD_YTD) \
+                 $(MOTD_2024) $(MOTD_2023) $(MOTD_2022)
+INDEX          = index.html
+FEED           = rss.xml
+FEED_CUR       = rss-cur.xml
+FEED_YTD       = rss-ytd.xml
+MOTDURL        = https://srirangav.github.io/motd
+MOTD2HTML      = ./bin/motd2html.pl
+MOTD2RSS       = ./bin/motd2feed.pl
 
 all: html feed
 

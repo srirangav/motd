@@ -5,7 +5,78 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Sat, 29 Mar 2025 13:20:17 PDT</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 02:00:50 PDT</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2025/06/index.html#26f45303c6c30f745f5ace87b00beb23</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2025/06/index.html#26f45303c6c30f745f5ace87b00beb23</guid>
+<title>Books on Unix security</title>
+<description>
+<![CDATA[
+<pre>Books on Unix security:
+
+<a href="https://www.tuhs.org/pipermail/tuhs/2025-May/031834.html">https://www.tuhs.org/pipermail/tuhs/2025-May/031834.html</a>
+
+ 1. Practical UNIX &amp; Internet Security, 3rd edition, by Simson
+    Garfinkel, Gene Spafford, and Alan Schwartz, O&#39;Reilly &amp;
+    Associates, Sebastopol, CA, USA, 2003. ISBN-10:
+    0-596-00323-4, ISBN-13: 978-0596003234.
+
+ 2. Building Secure Software: How to Avoid Security Problems the
+    Right Way, by John Viega and Gary McGraw. Addison-Wesley,
+    Reading, Massachusetts, USA, 2001. ISBN- 10: 0-201-72152-X,
+    ISBN-13: 978-0201721522.
+
+ 3. &#34;Setuid Demystified,&#34; by Hao Chen, David Wagner, and Drew
+    Dean. Proceedings of the 11th USENIX Security Symposium,
+    August 5-9, 2002, available at:
+
+    <a href="http://www.cs.berkeley.edu/~daw/papers/setuid-usenix02.pdf">http://www.cs.berkeley.edu/~daw/papers/setuid-usenix02.pdf</a>
+
+ 4. Secure Coding in C and C++, 2nd Edition, by Robert Seacord.
+    ISBN-10: 0321822137, ISBN-13: 978-0321822130, Addison-Wesley
+    Professional, Reading, Massachusetts, USA, 2013.
+
+ 5. Secure Coding: Principles and Practices, by Mark G. Graff,
+    Kenneth R. Van Wyk, and Debby Russell. ISBN-10: 0596002424,
+    ISBN-13: 978-0596002428. O&#39;Reilly Media, Inc., USA, 2003.
+
+ 6. Writing Secure Code, 2nd Edition, by Michael Howard and David
+    LeBlanc. ISBN-10: 0735617228, ISBN-13: 978-0735617223.
+    Microsoft Press, USA, 2003.
+
+ 7. Computer Security and the Internet-Tools and Jewels from
+    Malware to Bitcoin, 2nd Edition, by Paul C. van Oorschot.
+    ISBN-13: 978-3-030-83410-4. Springer Nature Switzerland AG,
+    2021.
+
+ 8. Thinking Security: Stopping Next Year&#39;s Hackers by Steven M.
+    Bellovin. ISBN-10: 0134277546, ISBN-13: 978-0134277547.
+    Addison-Wesley Professional, Reading, Mas- sachusetts, USA,
+    2015.
+
+ 9. Security Engineering: A Guide to Building Dependable
+    Distributed Systems, 3rd Edition, by Ross Anderson. ISBN-10:
+    1119642787, ISBN-13: 978-1119642787. Wiley, USA, 2020.
+
+10. Designing Secure Software: A Guide for Developers, by Loren
+    Kohnfelder. ISBN-10: 1718501927, ISBN-13: 978-1718501928. No
+    Starch Press, USA, 2021.
+
+11. Building Secure and Reliable Systems: Best Practices for
+    Designing, Implementing, and Maintaining Systems, by Heather
+    Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana
+    Oprea, and Adam Stubblefield. ISBN-10: 1492083127, ISBN-13:
+    978-1492083122. O&#39;Reilly Media, USA, 2020.
+
+12. Secure By Design, by Daniel Deogun, Dan Bergh Johnsson, and
+    Daniel Sawano. ISBN-10: 1617294357, ISBN-13: 978-1617294358.
+    Manning, USA, 2019.
+
+
+</pre>]]>
+</description>
+<pubDate>Tue, 10 Jun 2025 01:51:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2025/03/index.html#6e12d17d9e8de9c0b7c384c6eee82017</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2025/03/index.html#6e12d17d9e8de9c0b7c384c6eee82017</guid>
