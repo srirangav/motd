@@ -1,4 +1,4 @@
-motd - 02/##/2025
+motd - 03/##/2025
 -----------------
 
 03/29/2025    Alkanes on Mars:
@@ -99,11 +99,8 @@ HTML:         https://srirangav.github.io/motd/index.html
 RSS:          https://srirangav.github.io/motd/rss.xml
 
 Validation
---------------
+----------
 
-HTML:
-              https://validator.w3.org/nu/?doc=https%3A%2F%2Fsrirangav.github.io%2Fmotd%2Findex.html
+HTML:         https://validator.w3.org/nu/?doc=https%3A%2F%2Fsrirangav.github.io%2Fmotd%2Findex.html
 
-RSS:
-              https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
-
+RSS:          https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
