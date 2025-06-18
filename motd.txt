@@ -1,6 +1,12 @@
 motd - 06/##/2025
 -----------------
 
+06/18/2025    5D model of fission:
+
+              https://phys.org/news/2025-06-5d-accurately-nuclear-fission-elements.html
+
+              @13:20
+
 06/10/2025    Books on Unix security:
 
               https://www.tuhs.org/pipermail/tuhs/2025-May/031834.html
