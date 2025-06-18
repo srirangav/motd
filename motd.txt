@@ -1,6 +1,23 @@
 motd - 06/##/2025
 -----------------
 
+06/18/2025    Stir Bars Can't Be Ignored:
+
+              https://www.science.org/content/blog-post/stir-bars-can-t-be-ignored
+              https://pubs.acs.org/doi/10.1021/jacsau.5c00412
+
+              "Significant differences were found in the reaction rates and
+              sizes of the nanoparticles obtained via parallel synthesis with
+              the same magnetic stirrer. For catalyst preparation, differences
+              were observed in the morphology of the metal nanoparticles and
+              the process rate depending on the location of the reaction vessel
+              on the magnetic stirrer. In the case of organic synthesis
+              examples, the conversions of parallel catalytic cross-coupling
+              reactions in vessels standing beside each other on the same
+              magnetic stirrer can be significantly different."
+
+              @13:26
+
 06/18/2025    Seaborgium-257:
 
               https://phys.org/news/2025-06-border-superheavy-nuclei-seaborgium-isotope.html
