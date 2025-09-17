@@ -2,10 +2,10 @@
 
 MOTD           = motd.txt
 MOTD_CUR_YR    = 2025
-MOTD_CUR_MONTH = 08
+MOTD_CUR_MONTH = 09
 MOTD_CUR_DIR   = ./$(MOTD_CUR_YR)/$(MOTD_CUR_MONTH)
 MOTD_CUR       = $(MOTD_CUR_DIR)/$(MOTD)
-MOTD_YTD       = ./2025/06/$(MOTD) \
+MOTD_YTD       = ./2025/08/$(MOTD) ./2025/06/$(MOTD) \
                  ./2025/03/$(MOTD) ./2025/02/$(MOTD) ./2025/01/$(MOTD)
 MOTD_2024      = ./2024/12/$(MOTD) ./2024/11/$(MOTD) ./2024/10/$(MOTD) \
                  ./2024/09/$(MOTD) ./2024/08/$(MOTD) ./2024/07/$(MOTD) \

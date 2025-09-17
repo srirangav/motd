@@ -1,0 +1,78 @@
+motd - 08/##/2025
+-----------------
+
+08/19/2025    Photographing small birds - focus on the head:
+
+              https://www.thephoblographer.com/2025/08/13/the-big-lie-about-bird-photography/
+
+              "[F]ocus on the bird's head. This may mean the beak, the
+              feathers, etc. The depth of field of the lenses that you're using
+              is often enough to get the whole head in focus. That will
+              obviously include the eyes too. ...  Focusing on a bigger object
+              like the head will make keeping the bird in focus a whole lot
+              easier. Focusing on the neck, depending on the type of bird,
+              could also work[.]"
+
+              @14:43
+
+08/08/2025    Delta-Plutonium explained:
+
+              https://phys.org/news/2025-08-plutonium-peculiar-behavior.html
+
+              "Researchers from [Lawrence Livermore National Laboratory]
+              demonstrate[d] a model that can reproduce and explain
+              delta-plutonium's thermal behavior and unusual properties. The
+              model calculates the material's free energy, a quantity that
+              reflects the amount of available or useful energy in a system.
+
+              ...
+
+              Plutonium's electronic structure is among the most complex of all
+              elemental metals because its electrons are easily influenced by
+              relativity, magnetism and crystal structure. The new free-energy
+              model accounts for magnetic fluctuation effects for the first
+              time.  ...  Acknowledging those magnetic states in the theory
+              causes it to match the odd experimental observations of
+              contraction at high temperatures."
+
+              @13:06
+
+Older
+-----
+
+06/##/2025    https://srirangav.github.io/motd/2025/06/motd.txt
+              https://srirangav.github.io/motd/2025/06/index.html
+
+03/##/2025    https://srirangav.github.io/motd/2025/03/motd.txt
+              https://srirangav.github.io/motd/2025/03/index.html
+
+02/##/2025    https://srirangav.github.io/motd/2025/02/motd.txt
+              https://srirangav.github.io/motd/2025/02/index.html
+
+01/##/2025    https://srirangav.github.io/motd/2025/01/motd.txt
+              https://srirangav.github.io/motd/2025/01/index.html
+
+##/##/2024    https://srirangav.github.io/motd/2024/motd.txt
+              https://srirangav.github.io/motd/2024/index.html
+
+##/##/2023    https://srirangav.github.io/motd/2023/motd.txt
+              https://srirangav.github.io/motd/2023/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+
+HTML:         https://srirangav.github.io/motd/index.html
+
+RSS:          https://srirangav.github.io/motd/rss.xml
+
+Validation
+----------
+
+HTML:         https://validator.w3.org/nu/?doc=https%3A%2F%2Fsrirangav.github.io%2Fmotd%2Findex.html
+
+RSS:          https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
