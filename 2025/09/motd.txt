@@ -1,0 +1,51 @@
+motd - 09/##/2025
+-----------------
+
+09/17/2025    CAPTCHA Art Test:
+
+              https://wronghands1.com/2025/07/29/captcha-art-test/
+
+              @16:58
+
+Older
+-----
+
+08/##/2025    https://srirangav.github.io/motd/2025/08/motd.txt
+              https://srirangav.github.io/motd/2025/08/index.html
+
+06/##/2025    https://srirangav.github.io/motd/2025/06/motd.txt
+              https://srirangav.github.io/motd/2025/06/index.html
+
+03/##/2025    https://srirangav.github.io/motd/2025/03/motd.txt
+              https://srirangav.github.io/motd/2025/03/index.html
+
+02/##/2025    https://srirangav.github.io/motd/2025/02/motd.txt
+              https://srirangav.github.io/motd/2025/02/index.html
+
+01/##/2025    https://srirangav.github.io/motd/2025/01/motd.txt
+              https://srirangav.github.io/motd/2025/01/index.html
+
+##/##/2024    https://srirangav.github.io/motd/2024/motd.txt
+              https://srirangav.github.io/motd/2024/index.html
+
+##/##/2023    https://srirangav.github.io/motd/2023/motd.txt
+              https://srirangav.github.io/motd/2023/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+
+HTML:         https://srirangav.github.io/motd/index.html
+
+RSS:          https://srirangav.github.io/motd/rss.xml
+
+Validation
+----------
+
+HTML:         https://validator.w3.org/nu/?doc=https%3A%2F%2Fsrirangav.github.io%2Fmotd%2Findex.html
+
+RSS:          https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml

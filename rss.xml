@@ -5,7 +5,34 @@
 <link>https://srirangav.github.io/motd/</link>
 <description>Message of the day</description>
 <atom:link href="https://srirangav.github.io/motd/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Wed, 17 Sep 2025 16:59:01 PDT</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 01:40:49 PST</lastBuildDate>
+<item>
+<link>https://srirangav.github.io/motd/2026/01/index.html#1628d24b40f7b338b90e593a0c486ed4</link>
+<guid isPermaLink="true">https://srirangav.github.io/motd/2026/01/index.html#1628d24b40f7b338b90e593a0c486ed4</guid>
+<title>less(1) tips</title>
+<description>
+<![CDATA[
+<pre>less(1) tips:
+
+<a href="https://blog.thechases.com/posts/assorted-less-tips/">https://blog.thechases.com/posts/assorted-less-tips/</a>
+
+Jumping to a particular line-number:          [line]G
+Jumping to a particular percentage-offset:    %[offset]
+
+Bookmarking:
+
+&#34;You can bookmark points in a file with m followed by a letter,
+then jump back to that bookmark with &#39; followed by the same
+letter. ... I use marks most when reading man-pages, dropping one
+mark at the OPTIONS section such as mo, and another at the
+EXAMPLES section, such as me, then bounce back and forth between
+them with &#39;o and &#39;e.&#34;
+
+
+</pre>]]>
+</description>
+<pubDate>Sat, 03 Jan 2026 01:39:00 PDT</pubDate>
+</item>
 <item>
 <link>https://srirangav.github.io/motd/2025/09/index.html#94bdd7ddaee827e8ba4c6ad846d5cfea</link>
 <guid isPermaLink="true">https://srirangav.github.io/motd/2025/09/index.html#94bdd7ddaee827e8ba4c6ad846d5cfea</guid>

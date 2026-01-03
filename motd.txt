@@ -1,29 +1,29 @@
-motd - 09/##/2025
+motd - 01/##/2026
 -----------------
 
-09/17/2025    CAPTCHA Art Test:
+01/03/2026    less(1) tips:
 
-              https://wronghands1.com/2025/07/29/captcha-art-test/
+              https://blog.thechases.com/posts/assorted-less-tips/
 
-              @16:58
+              Jumping to a particular line-number:          [line]G
+              Jumping to a particular percentage-offset:    %[offset]
+
+              Bookmarking:
+
+              "You can bookmark points in a file with m followed by a letter,
+              then jump back to that bookmark with ' followed by the same
+              letter. ... I use marks most when reading man-pages, dropping one
+              mark at the OPTIONS section such as mo, and another at the
+              EXAMPLES section, such as me, then bounce back and forth between
+              them with 'o and 'e."
+
+              @01:39
 
 Older
 -----
 
-08/##/2025    https://srirangav.github.io/motd/2025/08/motd.txt
-              https://srirangav.github.io/motd/2025/08/index.html
-
-06/##/2025    https://srirangav.github.io/motd/2025/06/motd.txt
-              https://srirangav.github.io/motd/2025/06/index.html
-
-03/##/2025    https://srirangav.github.io/motd/2025/03/motd.txt
-              https://srirangav.github.io/motd/2025/03/index.html
-
-02/##/2025    https://srirangav.github.io/motd/2025/02/motd.txt
-              https://srirangav.github.io/motd/2025/02/index.html
-
-01/##/2025    https://srirangav.github.io/motd/2025/01/motd.txt
-              https://srirangav.github.io/motd/2025/01/index.html
+##/##/2025    https://srirangav.github.io/motd/2025/motd.txt
+              https://srirangav.github.io/motd/2025/index.html
 
 ##/##/2024    https://srirangav.github.io/motd/2024/motd.txt
               https://srirangav.github.io/motd/2024/index.html
