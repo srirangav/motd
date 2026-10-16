@@ -1,26 +1,31 @@
-motd - 01/##/2026
+motd - 10/##/2026
 -----------------
 
-01/03/2026    less(1) tips:
+10/15/2026    Experimental cold resistant alloys:
 
-              https://blog.thechases.com/posts/assorted-less-tips/
+              https://www.nature.com/articles/s41586-026-11065-7
 
-              Jumping to a particular line-number:          [line]G
-              Jumping to a particular percentage-offset:    %[offset]
+              "Our findings demonstrate that NbTi-based alloys can retain
+              exceptional damage tolerance, with no measurable [ductile to
+              brittle transition temperature] observed down to 20K. These
+              properties are derived from a global mechanistic sequence that is
+              unusual for bcc alloys in tension[.] ... Whereas most metallic
+              alloys (particularly those with the fcc structure) generate high
+              toughness from a global sequence that begins with dislocation
+              glide and progresses to twinning and a phase transformation that
+              delocalizes dislocation-induced damage[], the global sequence
+              in the current alloys begins with twinning (mediated by screw
+              dislocation core transformation) coupled to a phase
+              transformation that nucleates dislocations to dissipate stress
+              concentrations produced by the former two mechanisms."
 
-              Bookmarking:
-
-              "You can bookmark points in a file with m followed by a letter,
-              then jump back to that bookmark with ' followed by the same
-              letter. ... I use marks most when reading man-pages, dropping one
-              mark at the OPTIONS section such as mo, and another at the
-              EXAMPLES section, such as me, then bounce back and forth between
-              them with 'o and 'e."
-
-              @01:39
+              @22:27
 
 Older
 -----
+
+01/##/2026    https://srirangav.github.io/motd/2026/01/motd.txt
+              https://srirangav.github.io/motd/2026/01/index.html
 
 ##/##/2025    https://srirangav.github.io/motd/2025/motd.txt
               https://srirangav.github.io/motd/2025/index.html

@@ -1,0 +1,51 @@
+motd - 01/##/2026
+-----------------
+
+01/03/2026    less(1) tips:
+
+              https://blog.thechases.com/posts/assorted-less-tips/
+
+              Jumping to a particular line-number:          [line]G
+              Jumping to a particular percentage-offset:    %[offset]
+
+              Bookmarking:
+
+              "You can bookmark points in a file with m followed by a letter,
+              then jump back to that bookmark with ' followed by the same
+              letter. ... I use marks most when reading man-pages, dropping one
+              mark at the OPTIONS section such as mo, and another at the
+              EXAMPLES section, such as me, then bounce back and forth between
+              them with 'o and 'e."
+
+              @01:39
+
+Older
+-----
+
+##/##/2025    https://srirangav.github.io/motd/2025/motd.txt
+              https://srirangav.github.io/motd/2025/index.html
+
+##/##/2024    https://srirangav.github.io/motd/2024/motd.txt
+              https://srirangav.github.io/motd/2024/index.html
+
+##/##/2023    https://srirangav.github.io/motd/2023/motd.txt
+              https://srirangav.github.io/motd/2023/index.html
+
+##/##/2022    https://srirangav.github.io/motd/2022/motd.txt
+              https://srirangav.github.io/motd/2022/index.html
+
+Links
+-----
+
+Text:         https://srirangav.github.io/motd/motd.txt
+
+HTML:         https://srirangav.github.io/motd/index.html
+
+RSS:          https://srirangav.github.io/motd/rss.xml
+
+Validation
+----------
+
+HTML:         https://validator.w3.org/nu/?doc=https%3A%2F%2Fsrirangav.github.io%2Fmotd%2Findex.html
+
+RSS:          https://validator.w3.org/feed/check.cgi?url=https%3A//srirangav.github.io/motd/rss.xml
