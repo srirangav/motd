@@ -1,6 +1,20 @@
 motd - 10/##/2026
 -----------------
 
+10/15/2026    Fermium-255 has non-spherical nucleus:
+
+              https://www.thebrighterside.news/post/lasers-reveal-a-rugby-ball-shaped-nucleus-inside-fermium-255/
+
+              "High-resolution laser measurements show that the heavy nucleus
+              is strongly elongated and carries magnetic properties that differ
+              sharply from older estimates.
+
+              The isotope contains 100 protons and 155 neutrons. Researchers
+              determined that its nucleus has a stable prolate shape, meaning
+              it resembles a rugby ball rather than a sphere."
+
+              @22:50
+
 10/15/2026    Experimental cold resistant alloys:
 
               https://www.nature.com/articles/s41586-026-11065-7
@@ -10,14 +24,15 @@ motd - 10/##/2026
               brittle transition temperature] observed down to 20K. These
               properties are derived from a global mechanistic sequence that is
               unusual for bcc alloys in tension[.] ... Whereas most metallic
-              alloys (particularly those with the fcc structure) generate high
-              toughness from a global sequence that begins with dislocation
-              glide and progresses to twinning and a phase transformation that
-              delocalizes dislocation-induced damage[], the global sequence
-              in the current alloys begins with twinning (mediated by screw
-              dislocation core transformation) coupled to a phase
-              transformation that nucleates dislocations to dissipate stress
-              concentrations produced by the former two mechanisms."
+              alloys (particularly those with the [face centered cubic]
+              structure) generate high toughness from a global sequence that
+              begins with dislocation glide and progresses to twinning and a
+              phase transformation that delocalizes dislocation-induced
+              damage[], the global sequence in the current alloys begins with
+              twinning (mediated by screw dislocation core transformation)
+              coupled to a phase transformation that nucleates dislocations to
+              dissipate stress concentrations produced by the former two
+              mechanisms."
 
               @22:27
 
