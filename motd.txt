@@ -1,6 +1,12 @@
 motd - 10/##/2026
 -----------------
 
+10/21/2026    My Computer for Nautilus:
+
+              https://github.com/yannmasoch/nautilus-my-computer
+
+              @21:08
+
 10/15/2026    Fermium-255 has non-spherical nucleus:
 
               https://www.thebrighterside.news/post/lasers-reveal-a-rugby-ball-shaped-nucleus-inside-fermium-255/
