@@ -1,5 +1,24 @@
 motd - 10/##/2026
 -----------------
+
+10/21/2026    White dwarfs may come in a variety of colors:
+
+              https://www.thebrighterside.news/post/a-white-dwarfs-unusual-atmosphere-gives-it-a-ghostly-green-glow/
+              https://arxiv.org/abs/2610.18966
+
+              "If metals such as carbon, calcium, or sodium are present in
+              the[] ultra-dense atmospheres [of a white dwarf], extreme
+              broadening of atomic and molecular opacities can produce optical
+              spectra that diverge significantly from blackbodies. We
+              investigated how the combination of temperature and chemical
+              composition can affect the perceived colours (chromaticity) of
+              white dwarfs. While we found that most white dwarfs are similar
+              in colour to blackbodies, we also demonstrate examples of known
+              stars that would appear yellow, green, cyan, pink, or purple if
+              viewed close enough for their stellar discs to be resolved."
+
+              @21:17
+
 10/21/2026    Classical Music Explained:
 
               https://www.youtube.com/@ClassicsExplained/videos
