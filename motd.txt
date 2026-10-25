@@ -1,6 +1,12 @@
 motd - 10/##/2026
 -----------------
 
+10/25/2026    App to remove AI from MacOS:
+
+              https://github.com/omlahore/RemoveMacAI
+
+              @12:58
+
 10/25/2026    Manual fix for compromised eMudhra intermediate CAs on MacOS:
 
               https://support.apple.com/en-us/149555
