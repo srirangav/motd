@@ -13,6 +13,43 @@
 motd - 10/##/2026
 -----------------
 
+<a id="82dff8f3d225468352c0dd41fdee8712">10/25/2026</a>    Manual fix for compromised eMudhra intermediate CAs on MacOS:
+
+              <a href="https://support.apple.com/en-us/149555">https://support.apple.com/en-us/149555</a>
+
+              To remove root CA certificates from /etc/ssl/cert.pem:
+
+              1. Back up the file. If a backup already exists, this command
+                 keeps it:
+
+                 [ -e /etc/ssl/cert.pem.orig ] || sudo cp -p /etc/ssl/cert.pem /etc/ssl/cert.pem.orig
+
+              2. Remove emSign ECC Root CA - G3. This command makes a copy of
+                 the file without emSign ECC Root CA - G3, checks that the copy
+                 isn&#39;t empty, and replaces the original. It shows nothing when
+                 it succeeds:
+
+                 t=$(mktemp) &amp;&amp; awk -v s=&#39;=== /C=IN/OU=emSign PKI/O=eMudhra Technologies Limited/CN=emSign ECC Root CA - G3&#39; &#39;/^(===|###) /{skip=0} $0==s{skip=1} !skip&#39; /etc/ssl/cert.pem &gt; &#34;$t&#34; &amp;&amp; [ -s &#34;$t&#34; ] &amp;&amp; sudo install -m 0644 -o root -g wheel &#34;$t&#34; /etc/ssl/cert.pem; rm -f &#34;$t&#34;
+
+              3. [] Remov[e] emSign ECC Root CA - G3 doesn&#39;t block the six
+                 certificates that Sectigo cross-signed, because these tools
+                 can still verify them through AAA Certificate Services. To
+                 stop these tools from accepting those six certificates through
+                 the file until you install Apple&#39;s software update, you can
+                 also remove AAA Certificate Services. This command works the
+                 same way as the one in step 2:
+
+                 t=$(mktemp) &amp;&amp; awk -v s=&#39;=== /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services&#39; &#39;/^(===|###) /{skip=0} $0==s{skip=1} !skip&#39; /etc/ssl/cert.pem &gt; &#34;$t&#34; &amp;&amp; [ -s &#34;$t&#34; ] &amp;&amp; sudo install -m 0644 -o root -g wheel &#34;$t&#34; /etc/ssl/cert.pem; rm -f &#34;$t&#34;
+
+              4. Check the result. This command lists either root CA
+                 certificate if it&#39;s still in the file. If you removed both, it
+                 shows nothing. If the command shows an error, restore the
+                 backup from step 1.
+
+                 openssl crl2pkcs7 -nocrl -certfile /etc/ssl/cert.pem | openssl pkcs7 -print_certs -noout | grep -E &#39;emSign ECC Root CA - G3|AAA Certificate Services&#39;.
+
+              @12:52
+
 <a id="57cd92057e1c27080bfba754e766a63a">10/21/2026</a>    White dwarfs may come in a variety of colors:
 
               <a href="https://www.thebrighterside.news/post/a-white-dwarfs-unusual-atmosphere-gives-it-a-ghostly-green-glow/">https://www.thebrighterside.news/post/a-white-dwarfs-unusual-atmosphere-gives-it-a-ghostly-green-glow/</a>
